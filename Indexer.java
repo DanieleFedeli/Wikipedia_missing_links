@@ -29,11 +29,8 @@ public class Indexer {
   
     /** Index all text files under a directory. */
     public static void main(String[] args) {
-        //System.out.println(System.getProperty("user.dir"));
+        
         String path = System.getProperty("user.dir");
-        /** INSERT PATH OF THE FOLDER THAT WILL CONTAIN ALL THE FILES AND JAVA CLASSES **/
-        //String title = args[0];
-        //path = path + title;
         String indexPath = path + "\\IndexOfFullRepr";
         String docsPath =  path + "\\output";
    
@@ -109,15 +106,20 @@ public class Indexer {
       
             // Add the path of the file as a field named "path".  Use a
             // field that is indexed (i.e. searchable), but don't tokenize
+            // the field into separate words and don't index term frequency
+            // or positional information:
             Field pathField = new StringField("path", file.toString(), Field.Store.YES);
             doc.add(pathField);
-      
+            
+            //Also add the title of the doc to an indexed field since we will be searching for those too
             Field titleField = new StringField("title", file.getFileName().toString(), Field.Store.YES);
             doc.add(titleField);
-     
+            
+            // Add the last modified date of the file a field named "modified".
             doc.add(new LongPoint("modified", lastModified));
       
-            //Add the content of the document as a TexField
+            // Add the contents of the file to a field named "contents".  Specify a Reader,
+            // so that the text of the file is tokenized and indexed, but not stored.
             doc.add(new TextField("contents", new String(Files.readAllBytes(file)), Field.Store.YES));
       
             if (writer.getConfig().getOpenMode() == OpenMode.CREATE) {
