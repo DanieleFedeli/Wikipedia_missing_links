@@ -1,0 +1,6 @@
+Daihatsu_Mira_e_S - Score: 1.0
+Daihatsu_Tanto - Score: 1.0
+Daihatsu_Tanto_Exe - Score: 1.0
+Daihatsu_Sirion - Score: 0.51705
+Subaru_Justy - Score: 0.39660755
+Subaru_Sambar - Score: 0.39660755

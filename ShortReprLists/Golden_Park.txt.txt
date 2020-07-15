@@ -1,0 +1,6 @@
+Golden_Park - Score: 1.0
+Fukushima_Azuma_Baseball_Stadium - Score: 0.68891
+Yokohama_Stadium - Score: 0.64526993
+CB_Viladecans - Score: 0.49464208
+Baseball_at_the_1984_Summer_Olympics - Score: 0.39331713
+Maxine_Goodman_Levin_College_of_Urban_Affairs - Score: 0.3238181

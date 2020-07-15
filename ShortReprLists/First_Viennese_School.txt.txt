@@ -1,0 +1,7 @@
+First_Viennese_School - Score: 1.0
+Mannheim_school - Score: 0.6616697
+New_German_School - Score: 0.46235856
+Common_practice_period - Score: 0.37825602
+American_Five - Score: 0.3038885
+Ballade_(classical_music) - Score: 0.30367267
+Notes_inégales - Score: 0.3029438

@@ -1,0 +1,5 @@
+Olympic-size_swimming_pool - Score: 1.0
+Laugardalslaug - Score: 0.5756986
+Forest_Park_(St._Louis) - Score: 0.4730713
+Francis_Olympic_Field - Score: 0.3490809
+Parque_Olímpico_de_la_Juventud - Score: 0.33137614

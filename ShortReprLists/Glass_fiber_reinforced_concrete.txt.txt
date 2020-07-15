@@ -1,0 +1,7 @@
+Glass_fiber_reinforced_concrete - Score: 1.0
+Insulated_glazing - Score: 0.8016232
+Liquidus - Score: 0.7736766
+Sodium_silicate - Score: 0.7080544
+Ion_implantation - Score: 0.6833699
+Rippled_glass - Score: 0.6065254
+Glass_fiber - Score: 0.5588761

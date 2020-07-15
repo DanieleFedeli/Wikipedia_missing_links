@@ -1,0 +1,7 @@
+Cladding_(construction) - Score: 1.0
+Masonry - Score: 0.51406693
+Load-bearing_wall - Score: 0.43852732
+Lime_mortar - Score: 0.42782432
+Batter_(walls) - Score: 0.4045523
+Mortar_(masonry) - Score: 0.34703693
+General_contractor - Score: 0.33654878

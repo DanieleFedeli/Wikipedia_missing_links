@@ -1,0 +1,5 @@
+Plexicushion - Score: 1.0
+Rebound_Ace - Score: 0.4333469
+Tennis - Score: 0.39025328
+2009_Australian_Open - Score: 0.334815
+2010_Australian_Open - Score: 0.334815

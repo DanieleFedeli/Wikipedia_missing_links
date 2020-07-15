@@ -1,0 +1,4 @@
+Water_feature - Score: 1.0
+Musical_fountain - Score: 0.3985597
+Trellis_(architecture) - Score: 0.38633227
+Avenue_(landscape) - Score: 0.3444946

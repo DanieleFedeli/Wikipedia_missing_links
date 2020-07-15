@@ -1,0 +1,7 @@
+Unassisted_triple_play - Score: 1.0
+Ground_rule_double - Score: 0.6629123
+Scoring_position - Score: 0.58141077
+Bench-clearing_brawl - Score: 0.47706035
+Squeeze_play_(baseball) - Score: 0.41196418
+Uniform_number_(Major_League_Baseball) - Score: 0.39601034
+Infield - Score: 0.34705326

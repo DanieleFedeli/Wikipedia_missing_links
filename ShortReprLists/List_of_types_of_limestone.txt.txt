@@ -1,0 +1,3 @@
+List_of_types_of_limestone - Score: 1.0
+List_of_types_of_marble - Score: 0.5290853
+Onondaga_Limestone - Score: 0.322503

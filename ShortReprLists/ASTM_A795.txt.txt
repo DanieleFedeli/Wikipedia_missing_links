@@ -1,0 +1,3 @@
+ASTM_A795 - Score: 1.0
+Piping_and_plumbing_fitting - Score: 0.35956487
+Screw_thread - Score: 0.33834967

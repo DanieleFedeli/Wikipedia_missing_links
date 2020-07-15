@@ -1,0 +1,3 @@
+Hero_(Weezer_song) - Score: 1.0
+Crush_Management - Score: 0.74468106
+Africa_(Toto_song) - Score: 0.48849213

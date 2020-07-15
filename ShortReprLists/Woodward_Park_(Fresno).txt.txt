@@ -1,0 +1,4 @@
+Woodward_Park_(Fresno) - Score: 1.0
+Huntington_Park,_California - Score: 0.47738558
+Mission_San_Fernando_Rey_de_España - Score: 0.34198317
+The_Spirit_of_Spanish_Music - Score: 0.3332945

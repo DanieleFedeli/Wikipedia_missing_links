@@ -1,0 +1,7 @@
+Arthur_M._Schlesinger_Sr. - Score: 1.0
+James_P._Kirkwood - Score: 0.57206684
+Daniel_C._Kurtzer - Score: 0.56838775
+Othmar_Ammann - Score: 0.4541496
+City_Club_of_New_York - Score: 0.42019668
+Charles_Phelps_Taft - Score: 0.40489146
+Harold_James_Dyos - Score: 0.30851147

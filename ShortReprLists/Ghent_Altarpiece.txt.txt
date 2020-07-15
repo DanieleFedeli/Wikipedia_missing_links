@@ -1,0 +1,7 @@
+Ghent_Altarpiece - Score: 1.0
+Saint_Barbara_(van_Eyck) - Score: 0.9301911
+Silverpoint - Score: 0.5241883
+Triptych - Score: 0.43445966
+Jabach_Altarpiece - Score: 0.43428376
+The_Last_Judgment_(Memling) - Score: 0.42896178
+Hatching - Score: 0.35839042

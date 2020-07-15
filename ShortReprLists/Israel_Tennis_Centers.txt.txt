@@ -1,0 +1,6 @@
+Israel_Tennis_Centers - Score: 1.0
+Richard_Lewis_(tennis_and_rugby_league) - Score: 0.41485137
+1968_Queen's_Club_Championships - Score: 0.3432725
+1969_Queen's_Club_Championships - Score: 0.3432725
+1970_Queen's_Club_Championships - Score: 0.3432725
+1984_Volvo_U.S._National_Indoor - Score: 0.32943657

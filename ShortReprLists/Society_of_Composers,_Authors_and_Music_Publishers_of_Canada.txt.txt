@@ -1,0 +1,3 @@
+Society_of_Composers,_Authors_and_Music_Publishers_of_Canada - Score: 1.0
+Canadian_Country_Music_Association - Score: 0.45906192
+Canadian_Songwriters_Hall_of_Fame - Score: 0.34317222

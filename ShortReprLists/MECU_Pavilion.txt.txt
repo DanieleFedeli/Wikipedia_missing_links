@@ -1,0 +1,7 @@
+MECU_Pavilion - Score: 1.0
+Arch_Social_Club - Score: 0.9369037
+Concordia_Hall_(Baltimore,_Maryland) - Score: 0.622719
+Charles_Village,_Baltimore - Score: 0.62002975
+Union_Square,_Baltimore - Score: 0.62002975
+Maryland_Theater_(Baltimore) - Score: 0.32377774
+Babe_Ruth_Birthplace_Museum - Score: 0.3194488

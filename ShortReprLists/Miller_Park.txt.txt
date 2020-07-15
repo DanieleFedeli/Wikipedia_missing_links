@@ -1,0 +1,6 @@
+Miller_Park - Score: 1.0
+Ventura_Theatre - Score: 0.4138675
+Chase_Field - Score: 0.38985226
+Petco_Park - Score: 0.30683824
+City_National_Grove_of_Anaheim - Score: 0.30502787
+Dignity_Health_Sports_Park - Score: 0.30502787

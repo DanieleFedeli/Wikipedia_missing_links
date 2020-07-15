@@ -1,0 +1,6 @@
+Stanford_Jazz_Workshop - Score: 1.0
+San_Jose_Civic - Score: 0.9027278
+Excite_Ballpark - Score: 0.70789003
+Jasper_Ridge_Biological_Preserve - Score: 0.49619776
+Taube_Tennis_Center - Score: 0.40348125
+Mission_San_Fernando_Rey_de_España - Score: 0.34640923

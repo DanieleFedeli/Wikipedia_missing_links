@@ -1,0 +1,7 @@
+League_of_Composers - Score: 1.0
+Virtuoso - Score: 0.42472044
+International_Society_for_Contemporary_Music - Score: 0.3922952
+The_Musical_Quarterly - Score: 0.37121984
+Gesellschaft_der_Musikfreunde - Score: 0.33038396
+Fanfare_(magazine) - Score: 0.32120487
+Archiv_für_Musikwissenschaft - Score: 0.31124285

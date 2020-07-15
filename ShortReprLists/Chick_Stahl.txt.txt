@@ -1,0 +1,7 @@
+Chick_Stahl - Score: 1.0
+Marty_Bergen_(baseball) - Score: 0.55791706
+Eddie_Kasko - Score: 0.5311342
+Jimmy_McAleer - Score: 0.43947408
+Dick_O'Connell - Score: 0.4335245
+Umpire_(baseball) - Score: 0.34297296
+Ferguson_Jenkins - Score: 0.31398016

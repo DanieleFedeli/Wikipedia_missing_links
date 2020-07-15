@@ -1,0 +1,7 @@
+Windbreak - Score: 1.0
+Buffer_strip - Score: 0.52275956
+Impervious_surface - Score: 0.38298565
+Mud - Score: 0.38298565
+Soil - Score: 0.38298565
+Soil_type - Score: 0.38298565
+Horticulture - Score: 0.3103129

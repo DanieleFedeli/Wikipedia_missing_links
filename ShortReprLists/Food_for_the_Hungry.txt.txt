@@ -1,0 +1,5 @@
+Food_for_the_Hungry - Score: 1.0
+Seed_saving - Score: 0.35498455
+Food_desert - Score: 0.34615728
+Food_security - Score: 0.34615728
+Permaculture - Score: 0.3351914

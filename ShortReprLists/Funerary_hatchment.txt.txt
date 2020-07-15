@@ -1,0 +1,7 @@
+Funerary_hatchment - Score: 1.0
+Chevron_(insignia) - Score: 0.6556133
+Coat_of_arms_of_Yellowknife - Score: 0.4538995
+Fleur-de-lis - Score: 0.4448927
+Gonfalon - Score: 0.42612454
+Coat_of_arms_and_flag_of_Transylvania - Score: 0.37082294
+Wreath - Score: 0.3377964

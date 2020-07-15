@@ -1,0 +1,7 @@
+1983_Wightman_Cup - Score: 1.0
+1983_Freiburg_Open - Score: 0.74880135
+1983_Virginia_Slims_World_Championship_Series - Score: 0.58531
+1985_Wightman_Cup - Score: 0.39185885
+1981_Wightman_Cup - Score: 0.38898054
+1982_Wightman_Cup - Score: 0.38898054
+1984_Virginia_Slims_World_Championship_Series - Score: 0.37817267

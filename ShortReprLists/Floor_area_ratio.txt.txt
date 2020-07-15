@@ -1,0 +1,6 @@
+Floor_area_ratio - Score: 1.0
+High-rise_building - Score: 0.3785934
+30_Hudson_Street - Score: 0.3705485
+Skyline - Score: 0.30988666
+Manhattanization - Score: 0.30718052
+Charrette - Score: 0.30204302

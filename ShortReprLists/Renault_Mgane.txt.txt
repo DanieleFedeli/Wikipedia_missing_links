@@ -1,0 +1,6 @@
+Renault_Mégane - Score: 1.0
+Renault_Laguna - Score: 0.7201583
+Renault_Twingo - Score: 0.67765
+Renault_Clio - Score: 0.62089616
+Renault_Magnum - Score: 0.38591486
+Renault_4 - Score: 0.33526385

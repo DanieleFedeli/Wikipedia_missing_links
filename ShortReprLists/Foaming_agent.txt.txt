@@ -1,0 +1,5 @@
+Foaming_agent - Score: 1.0
+Sodium_silicate - Score: 0.43670827
+Polystyrene_sulfonate - Score: 0.38498428
+Brucite - Score: 0.3056957
+Efflorescence - Score: 0.3056957

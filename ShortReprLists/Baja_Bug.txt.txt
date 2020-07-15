@@ -1,0 +1,3 @@
+Baja_Bug - Score: 1.0
+Volkswagen_Beetle - Score: 0.4811352
+Dune_buggy - Score: 0.42643595

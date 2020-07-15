@@ -1,0 +1,7 @@
+Chevrolet_Volt_(second_generation) - Score: 1.0
+Chevrolet_Bolt - Score: 0.45602867
+Chevrolet_Equinox - Score: 0.4531305
+Chevrolet_Volt - Score: 0.3680958
+Chevrolet_Traverse - Score: 0.34919742
+Chevrolet_Malibu - Score: 0.34873146
+Chevrolet_Spark - Score: 0.33377668

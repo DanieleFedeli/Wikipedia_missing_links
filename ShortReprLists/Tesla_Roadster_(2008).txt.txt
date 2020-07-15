@@ -1,0 +1,7 @@
+Tesla_Roadster_(2008) - Score: 1.0
+Lotus_Elise - Score: 0.6304337
+Lotus_Exige - Score: 0.6304337
+Lotus_Esprit - Score: 0.60919553
+DMC_DeLorean - Score: 0.54529023
+Lotus_Evora - Score: 0.471584
+Lotus_Elan - Score: 0.4125389

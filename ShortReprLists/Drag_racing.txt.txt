@@ -1,0 +1,7 @@
+Drag_racing - Score: 1.0
+Dragster_(car) - Score: 0.65519154
+Gasser_(car) - Score: 0.58304286
+Top_Gas - Score: 0.50697786
+Front_engine_dragster - Score: 0.48813495
+American_Hot_Rod_Association - Score: 0.3987061
+Truck_racing - Score: 0.30643556

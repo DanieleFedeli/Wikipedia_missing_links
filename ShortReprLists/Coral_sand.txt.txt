@@ -1,0 +1,3 @@
+Coral_sand - Score: 1.0
+Aquarium_furniture - Score: 0.32139474
+Aquascaping - Score: 0.32139474

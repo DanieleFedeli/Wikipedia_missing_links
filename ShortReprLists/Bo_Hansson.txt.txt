@@ -1,0 +1,7 @@
+Bo_Hansson - Score: 1.0
+The_Jimi_Hendrix_Experience - Score: 0.6044275
+Roger_Mayer_(engineer) - Score: 0.5186005
+Johnny_B._Goode - Score: 0.3661433
+The_Road_to_Woodstock - Score: 0.35245648
+Woodstock_'79 - Score: 0.35245648
+Woodstock_'99 - Score: 0.35245648

@@ -1,0 +1,5 @@
+2005_Monaco_GP2_Series_round - Score: 1.0
+2012_Hockenheimring_GP2_and_GP3_Series_rounds - Score: 1.0
+Safety_car - Score: 0.41677383
+Chicane - Score: 0.32041383
+Podium - Score: 0.32041383

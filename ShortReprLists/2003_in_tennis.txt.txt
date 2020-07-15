@@ -1,0 +1,5 @@
+2003_in_tennis - Score: 1.0
+Tennis_at_the_2003_Afro-Asian_Games - Score: 0.9319883
+Tennis_at_the_2003_Games_of_the_Small_States_of_Europe - Score: 0.9319883
+Tennis_at_the_2003_Pan_American_Games - Score: 0.67293835
+Aviation_Club_Tennis_Centre - Score: 0.3593917

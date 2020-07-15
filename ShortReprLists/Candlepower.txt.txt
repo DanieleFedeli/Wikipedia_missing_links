@@ -1,0 +1,3 @@
+Candlepower - Score: 1.0
+Electric_light - Score: 0.32609808
+Heritage_Lighthouse_Protection_Act - Score: 0.30096

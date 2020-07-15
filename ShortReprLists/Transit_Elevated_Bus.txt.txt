@@ -1,0 +1,6 @@
+Transit_Elevated_Bus - Score: 1.0
+Police_bus - Score: 0.6820288
+Motorhome - Score: 0.56798565
+Sleeper_bus - Score: 0.5481842
+Bus_lane - Score: 0.31848255
+Kassel_kerb - Score: 0.31848255

@@ -1,0 +1,6 @@
+U.S._national_anthem_protests_(2016–present) - Score: 1.0
+Driving_while_black - Score: 0.77030367
+2017_Congressional_baseball_shooting - Score: 0.4864548
+Carjacking - Score: 0.42083827
+Hartford_circus_fire - Score: 0.3948645
+Joyride_(crime) - Score: 0.36300424

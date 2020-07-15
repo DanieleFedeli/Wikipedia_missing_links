@@ -1,0 +1,4 @@
+Playoffs - Score: 1.0
+Free_agent - Score: 0.396774
+Save_percentage - Score: 0.38340738
+Reserve_team - Score: 0.3193987

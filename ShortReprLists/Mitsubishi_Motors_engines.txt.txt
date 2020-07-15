@@ -1,0 +1,7 @@
+Mitsubishi_Motors_engines - Score: 1.0
+Mitsubishi_Outlander - Score: 0.4931787
+Mitsubishi_Mirage - Score: 0.47780624
+Mitsubishi_Colt - Score: 0.39672524
+Mitsubishi_RVR - Score: 0.39672524
+Mitsubishi_Eclipse - Score: 0.39030853
+Mitsubishi_Lancer - Score: 0.37790546

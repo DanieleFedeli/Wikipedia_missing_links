@@ -1,0 +1,4 @@
+Propagule - Score: 1.0
+Biogeography - Score: 0.5478056
+Urban_ecology - Score: 0.34594402
+Plant_litter - Score: 0.32113138

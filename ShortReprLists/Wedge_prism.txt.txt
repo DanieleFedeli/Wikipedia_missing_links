@@ -1,0 +1,6 @@
+Wedge_prism - Score: 1.0
+Whoopie_sling - Score: 0.8212013
+Mahogany - Score: 0.54679734
+Plywood - Score: 0.54679734
+Wood - Score: 0.54679734
+Teak - Score: 0.5277346

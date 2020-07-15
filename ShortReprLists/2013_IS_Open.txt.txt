@@ -1,0 +1,6 @@
+2013_IS_Open - Score: 1.0
+2013_ATP_Challenger_Tour - Score: 0.61681736
+2014_All_Japan_Indoor_Tennis_Championships - Score: 0.528004
+2014_ATP_Challenger_Tour - Score: 0.51557904
+2015_ATP_Challenger_Tour - Score: 0.42779455
+2012_ATP_Challenger_Tour - Score: 0.30932146

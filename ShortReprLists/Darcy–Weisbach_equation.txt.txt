@@ -1,0 +1,6 @@
+Darcy–Weisbach_equation - Score: 1.0
+Manning_formula - Score: 0.9409226
+Hazen–Williams_equation - Score: 0.81990373
+Pipe_network_analysis - Score: 0.81990373
+Reynolds_number - Score: 0.5275072
+Cross_section_(geometry) - Score: 0.3435564

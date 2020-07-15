@@ -1,0 +1,7 @@
+Act_a_Fool_(Ludacris_song) - Score: 1.0
+Conteo - Score: 0.9215356
+Gang_Up - Score: 0.8776335
+Good_Life_(G-Eazy_and_Kehlani_song) - Score: 0.8515787
+Hey_Ma_(Pitbull_and_J_Balvin_song) - Score: 0.8289407
+How_Bad_Do_You_Want_It_(Oh_Yeah) - Score: 0.75925064
+See_You_Again - Score: 0.68059707

@@ -1,0 +1,7 @@
+List_of_U.S._state_instruments - Score: 1.0
+List_of_U.S._states_by_vehicles_per_capita - Score: 0.8150611
+Seat_belt_laws_in_the_United_States - Score: 0.8150611
+List_of_U.S._state_songs - Score: 0.6336417
+Restrictions_on_cell_phone_use_while_driving_in_the_United_States - Score: 0.3975886
+Seal_of_Nebraska - Score: 0.31138477
+Seal_of_South_Dakota - Score: 0.31138477

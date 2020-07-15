@@ -1,0 +1,5 @@
+Spot_height - Score: 1.0
+Triangulation_station - Score: 0.5485684
+Ordnance_datum - Score: 0.47112218
+Summit - Score: 0.3733864
+Geodetic_datum - Score: 0.35155684

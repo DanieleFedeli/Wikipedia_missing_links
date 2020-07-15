@@ -1,0 +1,5 @@
+Hidden_ball_trick - Score: 1.0
+Sidelines - Score: 0.5018756
+Baseball_(ball) - Score: 0.38731685
+Baseball_positioning - Score: 0.37562963
+Pull_hitter - Score: 0.37562963

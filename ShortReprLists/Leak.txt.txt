@@ -1,0 +1,3 @@
+Leak - Score: 1.0
+Pilot_light - Score: 0.39047045
+Piping - Score: 0.34407127

@@ -1,0 +1,7 @@
+1908_New_York_to_Paris_Race - Score: 1.0
+Peking_to_Paris - Score: 0.61082774
+Jules-Albert_de_Dion - Score: 0.33172014
+Steam_tricycle - Score: 0.33172014
+Georges_Bouton - Score: 0.3209093
+List_of_motorized_trikes - Score: 0.3209093
+De_Dion-Bouton - Score: 0.3107809

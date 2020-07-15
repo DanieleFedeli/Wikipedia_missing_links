@@ -1,0 +1,5 @@
+Derek_Allen_Prize - Score: 1.0
+Colin_Timms - Score: 0.9188726
+Association_of_Talent_Agents - Score: 0.36465862
+Rome_Prize - Score: 0.35428056
+National_Institute_of_Dramatic_Art - Score: 0.34020832

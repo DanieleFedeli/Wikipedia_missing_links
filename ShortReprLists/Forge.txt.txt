@@ -1,0 +1,4 @@
+Forge - Score: 1.0
+Fire_clay - Score: 0.41299316
+Steam_mill - Score: 0.41299316
+Cast_iron - Score: 0.38403255

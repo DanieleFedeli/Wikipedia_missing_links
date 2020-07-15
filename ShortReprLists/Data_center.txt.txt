@@ -1,0 +1,4 @@
+Data_center - Score: 1.0
+Network_operations_center - Score: 0.36355594
+Henry_Sutton_(inventor) - Score: 0.3513084
+Room_641A - Score: 0.3398592

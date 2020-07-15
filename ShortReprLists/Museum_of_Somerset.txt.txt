@@ -1,0 +1,3 @@
+Museum_of_Somerset - Score: 1.0
+Ancient_monument - Score: 0.45389664
+Hamstone - Score: 0.36701852

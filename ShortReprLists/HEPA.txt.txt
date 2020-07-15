@@ -1,0 +1,4 @@
+HEPA - Score: 1.0
+Indoor_air_quality - Score: 0.42370564
+Water_heating - Score: 0.3662911
+Technischer_Überwachungsverein - Score: 0.30514902

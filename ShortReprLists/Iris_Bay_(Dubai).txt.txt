@@ -1,0 +1,7 @@
+Iris_Bay_(Dubai) - Score: 1.0
+D1_(building) - Score: 0.8210024
+The_Wave_Tower - Score: 0.36067516
+Marina_1 - Score: 0.34898785
+Marina_Pinnacle - Score: 0.34898785
+The_One_Tower - Score: 0.34898785
+Ubora_Towers - Score: 0.34898785

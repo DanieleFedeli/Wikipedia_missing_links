@@ -1,0 +1,5 @@
+Vintage_base_ball - Score: 1.0
+Negro_league_baseball - Score: 0.4760542
+Players'_League - Score: 0.33750218
+Federal_Baseball_Club_v._National_League - Score: 0.31550366
+League_Alliance - Score: 0.3099369

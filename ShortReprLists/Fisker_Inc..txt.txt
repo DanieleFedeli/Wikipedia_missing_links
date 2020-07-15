@@ -1,0 +1,4 @@
+Fisker_Inc. - Score: 1.0
+Karma_Revero - Score: 0.8225643
+Fisker_Karma - Score: 0.37457398
+Karma_Automotive - Score: 0.3494865

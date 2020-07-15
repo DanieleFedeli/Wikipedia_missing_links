@@ -1,0 +1,5 @@
+Open_Architecture_Network - Score: 1.0
+Open_music_model - Score: 0.92580354
+Open-source_architecture - Score: 0.8326283
+Music_piracy - Score: 0.5679739
+LyricWiki - Score: 0.39945906

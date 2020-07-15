@@ -1,0 +1,6 @@
+Victor_Starffin - Score: 1.0
+Japanese_Baseball_Hall_of_Fame - Score: 0.45363495
+Eiji_Sawamura - Score: 0.4091775
+Masaichi_Kaneda - Score: 0.36507514
+Sadaharu_Oh - Score: 0.3560918
+Tatsunori_Hara - Score: 0.3560918

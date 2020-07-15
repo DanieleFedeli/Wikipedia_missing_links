@@ -1,0 +1,4 @@
+Dymaxion_car - Score: 1.0
+Dymaxion - Score: 0.661726
+Fly's_Eye_Dome - Score: 0.661726
+Geoscope - Score: 0.661726

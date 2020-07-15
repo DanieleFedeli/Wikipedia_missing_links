@@ -1,0 +1,7 @@
+2012_ATP_World_Tour_Finals - Score: 1.0
+2015_ATP_World_Tour - Score: 0.47978064
+2011_ATP_World_Tour_Finals - Score: 0.40223518
+2014_ATP_World_Tour - Score: 0.37420014
+Wheelchair_tennis_at_the_2012_Summer_Paralympics - Score: 0.3152853
+1974_Commercial_Union_Assurance_Masters - Score: 0.31051454
+2009_ATP_World_Tour_Finals - Score: 0.31051454

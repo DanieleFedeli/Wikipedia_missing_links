@@ -1,0 +1,7 @@
+Mont-Tremblant_Champ_Car_Grand_Prix - Score: 1.0
+Jack_Zink - Score: 0.5368311
+National_Midget_Auto_Racing_Hall_of_Fame - Score: 0.44778943
+Motorsports_Hall_of_Fame_of_America - Score: 0.36208338
+Gaston_Chevrolet - Score: 0.35518664
+Newman_Wachs_Racing - Score: 0.30921578
+O2_Racing_Technology - Score: 0.30921578

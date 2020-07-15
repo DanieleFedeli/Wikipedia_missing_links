@@ -1,0 +1,4 @@
+Parque_Olímpico_de_la_Juventud - Score: 1.0
+Tennis_at_the_2018_Summer_Youth_Olympics - Score: 0.4526825
+Laugardalslaug - Score: 0.38229927
+Olympic-size_swimming_pool - Score: 0.3078418

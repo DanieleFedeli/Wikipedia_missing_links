@@ -1,0 +1,7 @@
+Fan_vault - Score: 1.0
+Architecture_of_England - Score: 0.6419974
+Flushwork - Score: 0.53396595
+Elizabethan_architecture - Score: 0.45085213
+List_of_palaces - Score: 0.3595795
+Window_tax - Score: 0.3474659
+Anglo-Saxon_architecture - Score: 0.3472637

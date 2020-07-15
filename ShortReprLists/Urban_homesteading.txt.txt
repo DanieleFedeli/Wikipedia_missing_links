@@ -1,0 +1,7 @@
+Urban_homesteading - Score: 1.0
+Urban_morphology - Score: 1.0
+History_of_urban_planning - Score: 0.9063549
+Technical_aspects_of_urban_planning - Score: 0.9063549
+Core_city - Score: 0.9023409
+Shrinking_cities - Score: 0.899713
+Unitary_urbanism - Score: 0.8060679

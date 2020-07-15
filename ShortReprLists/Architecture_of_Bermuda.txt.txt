@@ -1,0 +1,3 @@
+Architecture_of_Bermuda - Score: 1.0
+Architecture_of_Quebec - Score: 0.49776918
+Architecture_of_Mexico - Score: 0.40198937

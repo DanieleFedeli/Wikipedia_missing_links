@@ -1,0 +1,4 @@
+Esperanto_music - Score: 1.0
+La_Espero - Score: 1.0
+Musical_language - Score: 0.38657224
+Solresol - Score: 0.38657224

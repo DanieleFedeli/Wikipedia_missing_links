@@ -1,0 +1,4 @@
+Harry_Ricardo - Score: 1.0
+Henry_Royce - Score: 0.50998384
+Charles_Rolls - Score: 0.44893327
+Frederick_W._Lanchester - Score: 0.37756932

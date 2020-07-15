@@ -1,0 +1,5 @@
+Sudan_Davis_Cup_team - Score: 1.0
+Ethiopia_Davis_Cup_team - Score: 0.8074911
+Djibouti_Davis_Cup_team - Score: 0.5985237
+Togo_Davis_Cup_team - Score: 0.49299508
+Zambia_Davis_Cup_team - Score: 0.36538032

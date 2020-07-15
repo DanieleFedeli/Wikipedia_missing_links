@@ -1,0 +1,7 @@
+Volkswagen_Polo_Mk5 - Score: 1.0
+Škoda_Fabia - Score: 0.49762923
+Olsbergs_MSE - Score: 0.43188256
+Volkswagen_Polo - Score: 0.4264612
+Mini_Countryman - Score: 0.34990883
+Volkswagen_Scirocco - Score: 0.3450092
+SEAT_Ibiza - Score: 0.32343397

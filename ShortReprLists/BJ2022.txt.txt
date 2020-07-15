@@ -1,0 +1,5 @@
+BAIC_BJ80 - Score: 1.0
+BJ2022 - Score: 1.0
+Beijing_BJ212 - Score: 0.85382056
+BAW - Score: 0.33105794
+Senova - Score: 0.33105794

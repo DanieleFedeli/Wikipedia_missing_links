@@ -1,0 +1,5 @@
+Lawrence_Pennell - Score: 1.0
+Lester_B._Pearson - Score: 0.48860338
+Albert_Schweitzer - Score: 0.4054836
+Dominion_Lands_Act - Score: 0.3424784
+Royal_Ontario_Museum - Score: 0.3424784

@@ -1,0 +1,5 @@
+Eastside_City_Park - Score: 1.0
+Methodist_Central_Hall,_Birmingham - Score: 0.4075808
+Village_green - Score: 0.3687467
+Urban_park - Score: 0.35251167
+Coat_of_arms_of_the_London_Borough_of_Barking_and_Dagenham - Score: 0.30288723

@@ -1,0 +1,4 @@
+Church_of_St._Michael_and_St._Anthony - Score: 1.0
+Canadian_Centre_for_Architecture - Score: 0.8690724
+Montréal_2025 - Score: 0.64094895
+Mile_End,_Montreal - Score: 0.5546852

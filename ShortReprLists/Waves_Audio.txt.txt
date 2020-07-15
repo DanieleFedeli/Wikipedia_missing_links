@@ -1,0 +1,4 @@
+Waves_Audio - Score: 1.0
+Mackie - Score: 0.3643452
+Ableton_Live - Score: 0.3633459
+Propellerhead_Software - Score: 0.3633459

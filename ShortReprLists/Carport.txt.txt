@@ -1,0 +1,4 @@
+Carport - Score: 1.0
+Overhang_(architecture) - Score: 0.55500734
+Garage_(residential) - Score: 0.37159625
+Patio - Score: 0.3298791

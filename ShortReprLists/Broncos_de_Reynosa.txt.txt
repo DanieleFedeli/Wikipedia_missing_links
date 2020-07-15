@@ -1,0 +1,5 @@
+Broncos_de_Reynosa - Score: 1.0
+Sultanes_de_Monterrey - Score: 0.7051181
+Generales_de_Durango - Score: 0.65760994
+Piratas_de_Campeche - Score: 0.61666006
+Guerreros_de_Oaxaca - Score: 0.57322264

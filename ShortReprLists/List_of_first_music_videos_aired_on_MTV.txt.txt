@@ -1,0 +1,6 @@
+List_of_first_music_videos_aired_on_MTV - Score: 1.0
+Buzz_Bin - Score: 0.68571365
+MTV_Generation - Score: 0.5145896
+List_of_MTV_series_albums - Score: 0.49074483
+Last.fm - Score: 0.3234487
+Pimp_My_Ride - Score: 0.30165592

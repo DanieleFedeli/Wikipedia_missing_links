@@ -1,0 +1,6 @@
+Chrysler_Pacifica - Score: 1.0
+Chrysler_300 - Score: 0.58720446
+Chrysler_Crossfire - Score: 0.58544195
+Chrysler_PT_Cruiser - Score: 0.48090166
+Chrysler_300M - Score: 0.38003778
+Chrysler_Sebring - Score: 0.38003778

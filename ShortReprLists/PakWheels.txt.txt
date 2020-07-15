@@ -1,0 +1,5 @@
+Pakistan_Automotive_Manufacturers_Association - Score: 1.0
+PakWheels - Score: 1.0
+List_of_auto_parts - Score: 0.90478826
+Daewoo - Score: 0.3352127
+List_of_dump_truck_manufacturers - Score: 0.32352635

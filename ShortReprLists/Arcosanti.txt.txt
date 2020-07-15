@@ -1,0 +1,3 @@
+Arcosanti - Score: 1.0
+List_of_historic_properties_in_Agua_Caliente,_Arizona - Score: 0.47402674
+List_of_historic_properties_in_Two_Guns,_Arizona - Score: 0.47402674

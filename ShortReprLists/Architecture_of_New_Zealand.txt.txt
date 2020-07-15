@@ -1,0 +1,7 @@
+Architecture_of_New_Zealand - Score: 1.0
+Victoria_Park,_Auckland - Score: 0.5055613
+Albert_Park,_Auckland - Score: 0.45218548
+Beehive_(New_Zealand) - Score: 0.44505233
+Taonga_pūoro - Score: 0.44270456
+Bach_(New_Zealand) - Score: 0.3738176
+Auckland_Domain - Score: 0.36797854

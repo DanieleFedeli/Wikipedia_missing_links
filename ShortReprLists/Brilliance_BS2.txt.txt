@@ -1,0 +1,6 @@
+Brilliance_BS2 - Score: 1.0
+Brilliance_BS4 - Score: 0.8350607
+Brilliance_BS6 - Score: 0.8350607
+Brilliance_BC3 - Score: 0.74962574
+Brilliance_Auto - Score: 0.38684306
+Jinbei_(marque) - Score: 0.38684306

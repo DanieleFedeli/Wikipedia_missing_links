@@ -1,0 +1,6 @@
+Haynes-Apperson - Score: 1.0
+Apperson - Score: 0.78234035
+Elwood_Haynes - Score: 0.70241725
+Haynes_Automobile_Company - Score: 0.70241725
+Kokomo_Municipal_Stadium - Score: 0.60061234
+Rustic_architecture - Score: 0.3066514

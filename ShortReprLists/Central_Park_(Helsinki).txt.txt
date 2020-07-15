@@ -1,0 +1,4 @@
+Central_Park_(Helsinki) - Score: 1.0
+Kaivopuisto - Score: 0.9103517
+Museum_of_Finnish_Architecture - Score: 0.7306716
+Nordic_Classicism - Score: 0.46440002

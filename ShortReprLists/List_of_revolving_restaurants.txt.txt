@@ -1,0 +1,6 @@
+List_of_revolving_restaurants - Score: 1.0
+Lists_of_record_labels - Score: 0.49587998
+List_of_dump_truck_manufacturers - Score: 0.49587998
+List_of_horn_makers - Score: 0.49587998
+Floating_restaurant - Score: 0.4746811
+List_of_automobile_manufacturers - Score: 0.40969306

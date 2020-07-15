@@ -1,0 +1,3 @@
+Gurney_flap - Score: 1.0
+Airframe - Score: 0.45504993
+Dog-tooth - Score: 0.34303328

@@ -1,0 +1,4 @@
+Woodhouse_Moor - Score: 1.0
+Roundhay_Park - Score: 0.6074397
+Burmantofts_Pottery - Score: 0.45257124
+Cliffe_Castle_Museum - Score: 0.30277798

@@ -1,0 +1,7 @@
+Honeycomb_structure - Score: 1.0
+Reinforced_carbon–carbon - Score: 0.48776594
+Carbon_fiber_reinforced_polymer - Score: 0.46458545
+Ceramic_matrix_composite - Score: 0.3944199
+Composite_material - Score: 0.3705033
+Tandem - Score: 0.32751942
+Space_frame - Score: 0.3116402

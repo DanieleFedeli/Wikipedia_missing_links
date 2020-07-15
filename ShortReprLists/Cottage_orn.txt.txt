@@ -1,0 +1,5 @@
+Cottage_orné - Score: 1.0
+Jettying - Score: 0.46352044
+Gibbs_surround - Score: 0.45120507
+Pantile - Score: 0.43229017
+Bow_window - Score: 0.36180863

@@ -1,0 +1,4 @@
+Pocket_door - Score: 1.0
+Garage_door - Score: 0.46533072
+Dutch_door - Score: 0.41823593
+Window_shutter - Score: 0.31926742

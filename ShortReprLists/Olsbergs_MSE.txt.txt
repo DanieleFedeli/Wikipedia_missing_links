@@ -1,0 +1,5 @@
+Olsbergs_MSE - Score: 1.0
+Mini_Countryman - Score: 0.63063455
+Volkswagen_Polo_Mk5 - Score: 0.4285138
+Škoda_Fabia - Score: 0.3550499
+Hyundai_i20_R5 - Score: 0.3351564

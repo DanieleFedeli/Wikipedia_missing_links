@@ -1,0 +1,7 @@
+Architecture_of_Australia - Score: 1.0
+British_colonisation_of_South_Australia - Score: 0.5961164
+Art_Gallery_of_New_South_Wales - Score: 0.4598013
+Sydney_Opera_House - Score: 0.36808932
+Powerhouse_Museum - Score: 0.3552568
+Max_Dupain - Score: 0.34783816
+University_of_Technology_Sydney - Score: 0.3469977

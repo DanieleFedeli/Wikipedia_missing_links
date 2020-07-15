@@ -1,0 +1,5 @@
+Shower - Score: 1.0
+Bathtub - Score: 0.6722691
+Sink - Score: 0.5127604
+Tap_(valve) - Score: 0.3956509
+Hot_tub - Score: 0.38407063

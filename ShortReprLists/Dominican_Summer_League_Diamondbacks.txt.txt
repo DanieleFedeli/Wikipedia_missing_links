@@ -1,0 +1,3 @@
+Dominican_Summer_League_Diamondbacks - Score: 1.0
+Dominican_Summer_League_Mets - Score: 0.39616147
+Dominican_Summer_League_Rockies - Score: 0.30231813

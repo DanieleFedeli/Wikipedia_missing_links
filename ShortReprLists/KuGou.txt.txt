@@ -1,0 +1,7 @@
+KuGou - Score: 1.0
+Baidu_Music - Score: 0.8018909
+Joox - Score: 0.8018909
+NetEase_Music - Score: 0.8018909
+KakaoMusic - Score: 0.773935
+Mziiki - Score: 0.773935
+JioSaavn - Score: 0.7478625

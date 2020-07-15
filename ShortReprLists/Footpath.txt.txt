@@ -1,0 +1,5 @@
+Footpath - Score: 1.0
+Stile - Score: 0.47537073
+Greater_Grand_Forks_Greenway - Score: 0.3850502
+Milestone - Score: 0.3255817
+Walkability - Score: 0.30457556

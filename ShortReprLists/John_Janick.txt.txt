@@ -1,0 +1,6 @@
+John_Janick - Score: 1.0
+List_of_Virgin_Records_artists - Score: 0.5023767
+Independent_record_label - Score: 0.37917945
+Rob_Stevenson - Score: 0.371631
+Shaye - Score: 0.32186693
+List_of_electronic_music_record_labels - Score: 0.31587905

@@ -1,0 +1,3 @@
+Dauvray_Cup - Score: 1.0
+1904_World_Series - Score: 0.8995085
+Taco_Hero - Score: 0.8995085

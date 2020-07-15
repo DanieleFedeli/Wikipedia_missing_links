@@ -1,0 +1,4 @@
+Cliffe_Castle_Museum - Score: 1.0
+Derby_Arboretum - Score: 0.42798454
+Conservation_area_(United_Kingdom) - Score: 0.36239198
+Woodhouse_Moor - Score: 0.30728054

@@ -1,0 +1,7 @@
+Morrie_Rath - Score: 1.0
+Black_Sox_Scandal - Score: 0.43613714
+First_baseman - Score: 0.34603935
+Mel_Almada - Score: 0.33915535
+Players'_League - Score: 0.33300564
+Jimmy_Archer - Score: 0.3273315
+Pennant_(sports) - Score: 0.30202258

@@ -1,0 +1,5 @@
+DJ_Awards - Score: 1.0
+Electronic_Music_Awards - Score: 0.7681965
+List_of_DJ_Awards_winners_and_nominees - Score: 0.59126854
+International_Dance_Music_Awards - Score: 0.45345557
+Hungarian_Music_Awards - Score: 0.35006195

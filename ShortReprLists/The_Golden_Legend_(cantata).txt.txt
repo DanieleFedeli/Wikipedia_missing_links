@@ -1,0 +1,7 @@
+The_Golden_Legend_(cantata) - Score: 1.0
+Cultural_influence_of_Gilbert_and_Sullivan - Score: 0.6643627
+Promenade_concert - Score: 0.39626658
+George_Grove - Score: 0.37341407
+Edwardian_musical_comedy - Score: 0.3733269
+J._C._Williamson - Score: 0.3733269
+Victorian_burlesque - Score: 0.3733269

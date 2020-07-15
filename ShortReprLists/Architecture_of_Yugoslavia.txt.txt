@@ -1,0 +1,5 @@
+Architecture_of_Yugoslavia - Score: 1.0
+Yugoslav_colonisation_of_Kosovo - Score: 0.4036569
+Architecture_of_Albania - Score: 0.36796126
+Architecture_of_Croatia - Score: 0.36796126
+Architecture_of_Montenegro - Score: 0.36796126

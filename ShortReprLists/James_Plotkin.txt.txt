@@ -1,0 +1,3 @@
+James_Plotkin - Score: 1.0
+Unseen_Terror - Score: 0.5015118
+Extreme_Noise_Terror - Score: 0.3723909

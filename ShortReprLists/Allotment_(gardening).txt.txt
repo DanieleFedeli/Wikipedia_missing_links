@@ -1,0 +1,4 @@
+Allotment_(gardening) - Score: 1.0
+Garden_square - Score: 0.43038347
+Kitchen_garden - Score: 0.4264898
+Gardening - Score: 0.3170896

@@ -1,0 +1,7 @@
+Mygale - Score: 1.0
+Carbir_Race_Cars - Score: 0.8306034
+Colchester_Racing_Developments - Score: 0.8306034
+Royale_Racing - Score: 0.8306034
+Swift_Engineering - Score: 0.8306034
+Tatuus - Score: 0.5101615
+Newman_Wachs_Racing - Score: 0.48608345

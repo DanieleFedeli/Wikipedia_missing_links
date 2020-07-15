@@ -1,0 +1,5 @@
+Plate_glass_university - Score: 1.0
+Lion_and_Unicorn_Staircase - Score: 0.5060628
+Royal_Conservatoire_of_Scotland - Score: 0.4689211
+National_Association_of_Schools_of_Music - Score: 0.39426172
+SOAS_University_of_London - Score: 0.3714271

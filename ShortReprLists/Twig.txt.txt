@@ -1,0 +1,5 @@
+Twig - Score: 1.0
+Oak - Score: 0.3257975
+Garter_snake - Score: 0.31181255
+Girdling - Score: 0.3084969
+Indigenous_(ecology) - Score: 0.30130816

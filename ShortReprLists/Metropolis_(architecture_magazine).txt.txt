@@ -1,0 +1,7 @@
+Metropolis_(architecture_magazine) - Score: 1.0
+I.D._(magazine) - Score: 0.6745757
+Dwell_(magazine) - Score: 0.58251286
+Interior_Design_(magazine) - Score: 0.553815
+Graham_Foundation_for_Advanced_Studies_in_the_Fine_Arts - Score: 0.46237445
+The_Architect's_Newspaper - Score: 0.40134546
+Architectural_League_of_New_York - Score: 0.37341496

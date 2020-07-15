@@ -1,0 +1,2 @@
+Metal_roof - Score: 1.0
+Asphalt_shingle - Score: 0.48956457

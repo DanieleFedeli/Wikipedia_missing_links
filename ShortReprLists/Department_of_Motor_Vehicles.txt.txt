@@ -1,0 +1,6 @@
+Department_of_Motor_Vehicles - Score: 1.0
+Parking_enforcement_officer - Score: 0.3862824
+LoJack - Score: 0.37614033
+California_Department_of_Motor_Vehicles - Score: 0.3079664
+International_vehicle_registration_code - Score: 0.300999
+Vehicle_inspection - Score: 0.300999

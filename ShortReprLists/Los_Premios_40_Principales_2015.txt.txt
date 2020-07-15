@@ -1,0 +1,5 @@
+Los_Premios_40_Principales_2015 - Score: 1.0
+Premios_40_Principales_for_Best_International_Album - Score: 1.0
+Los_Premios_40_Principales_for_Best_International_Video - Score: 0.8611807
+Los_Premios_40_Principales_for_Best_Spanish_Group - Score: 0.8611807
+Los_Premios_40_Principales_for_Best_Spanish_Solo_Act - Score: 0.8611807

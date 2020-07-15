@@ -1,0 +1,5 @@
+Normalnull - Score: 1.0
+Castle_chapel - Score: 0.39226896
+Schloss - Score: 0.39226896
+Triangulation_station - Score: 0.36882108
+Nature_park - Score: 0.30241236

@@ -1,0 +1,4 @@
+South_America_Tennis_Confederation - Score: 1.0
+Palestinian_Tennis_Association - Score: 0.40140522
+Netherlands_Antilles_Tennis_Federation - Score: 0.39404273
+Luxembourg_Tennis_Federation - Score: 0.36692604

@@ -1,0 +1,6 @@
+Isuzu_Giga - Score: 1.0
+Isuzu_Forward - Score: 0.908902
+Isuzu_Aska - Score: 0.7403651
+Isuzu_Elf - Score: 0.71368843
+Isuzu_D-Max - Score: 0.42136365
+Isuzu_MU - Score: 0.3265993

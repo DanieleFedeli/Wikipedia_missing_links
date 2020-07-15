@@ -1,0 +1,7 @@
+Cheesman_Park,_Denver - Score: 1.0
+Highland,_Denver - Score: 1.0
+Washington_Park,_Denver - Score: 1.0
+City_Park,_Denver - Score: 0.8786653
+Confluence_Park - Score: 0.8786653
+Park_Hill,_Denver - Score: 0.8786653
+Des_Moines_Coliseum - Score: 0.31809363

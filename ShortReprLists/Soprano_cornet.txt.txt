@@ -1,0 +1,4 @@
+Soprano_cornet - Score: 1.0
+Arban_method - Score: 0.70676726
+Bass_trumpet - Score: 0.64413255
+Embouchure - Score: 0.39764005

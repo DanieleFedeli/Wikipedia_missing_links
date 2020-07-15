@@ -1,0 +1,7 @@
+National_Association_of_Schools_of_Music - Score: 1.0
+Royal_Northern_College_of_Music - Score: 0.5843576
+London_School_of_Musical_Theatre - Score: 0.48368323
+Royal_Birmingham_Conservatoire - Score: 0.48368323
+Plate_glass_university - Score: 0.41517028
+European_Association_of_Conservatoires - Score: 0.39180493
+Music_school - Score: 0.38380927

@@ -1,0 +1,4 @@
+Adyton - Score: 1.0
+Peripteros - Score: 0.889695
+Cella - Score: 0.5577304
+Intercolumniation - Score: 0.31213212

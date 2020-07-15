@@ -1,0 +1,7 @@
+Dean_Reed - Score: 1.0
+Howard_Finster - Score: 0.40510255
+The_Car - Score: 0.3531475
+Jukebox_musical - Score: 0.32840952
+Billy_Name - Score: 0.3148711
+Arlo_Guthrie - Score: 0.30820706
+Peter_Max - Score: 0.3054868

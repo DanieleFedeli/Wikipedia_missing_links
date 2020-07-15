@@ -1,0 +1,6 @@
+Moorish_Castle - Score: 1.0
+Mole_(architecture) - Score: 0.6997672
+Coat_of_arms_of_Gibraltar - Score: 0.4941984
+Defensive_wall - Score: 0.3789674
+Observation_post - Score: 0.3428228
+Music_of_Gibraltar - Score: 0.30524704

@@ -1,0 +1,3 @@
+Parabolic_arch - Score: 1.0
+Catenary_arch - Score: 0.6359607
+Lattice_girder - Score: 0.37869227

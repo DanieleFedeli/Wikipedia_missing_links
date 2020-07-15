@@ -1,0 +1,4 @@
+Tommy_Tallarico - Score: 1.0
+Video_game_music - Score: 0.3512295
+Pong - Score: 0.33433768
+Game_Boy - Score: 0.32817563

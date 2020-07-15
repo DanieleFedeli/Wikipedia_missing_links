@@ -1,0 +1,5 @@
+List_of_bands_from_Canada - Score: 1.0
+List_of_bands_from_British_Columbia - Score: 0.3500247
+Bob_Weston - Score: 0.34459355
+Bass_guitar - Score: 0.34035212
+Percussion_instrument - Score: 0.34035212

@@ -1,0 +1,5 @@
+Landscape_Institute - Score: 1.0
+Australian_Institute_of_Landscape_Architects - Score: 0.36065185
+Charrette - Score: 0.35097894
+Bachelor_of_Architecture - Score: 0.3474813
+American_Society_of_Landscape_Architects - Score: 0.30648524

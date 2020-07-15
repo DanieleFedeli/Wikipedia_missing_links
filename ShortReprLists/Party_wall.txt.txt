@@ -1,0 +1,4 @@
+Party_wall - Score: 1.0
+Tenement - Score: 0.4790104
+Terraced_house - Score: 0.3818521
+McMansion - Score: 0.38114068

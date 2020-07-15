@@ -1,0 +1,4 @@
+Shivta - Score: 1.0
+Mazor_Mausoleum - Score: 0.6125497
+Shrine_of_the_Book - Score: 0.37347752
+Roof_knocking - Score: 0.34434253

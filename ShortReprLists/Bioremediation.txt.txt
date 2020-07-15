@@ -1,0 +1,6 @@
+Bioremediation - Score: 1.0
+Phytoremediation - Score: 0.9183109
+Chlorofluorocarbon - Score: 0.82716084
+Noise_pollution - Score: 0.5946734
+Urban_runoff - Score: 0.39095384
+Hyperaccumulator - Score: 0.31733793

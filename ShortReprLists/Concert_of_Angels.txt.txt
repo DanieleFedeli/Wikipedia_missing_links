@@ -1,0 +1,7 @@
+Concert_of_Angels - Score: 1.0
+Doña_María_de_Aragón_Altarpiece - Score: 0.94004124
+A_Dance_to_the_Music_of_Time_(painting) - Score: 0.4080921
+Ship_of_Fools_(painting) - Score: 0.37341797
+The_Country_Dance - Score: 0.32958466
+Pastoral_Concert - Score: 0.3202047
+Boys_playing_soldiers - Score: 0.3174376

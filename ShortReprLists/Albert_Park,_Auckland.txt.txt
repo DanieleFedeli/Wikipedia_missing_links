@@ -1,0 +1,6 @@
+Albert_Park,_Auckland - Score: 1.0
+Auckland_Domain - Score: 0.59934103
+Bach_(New_Zealand) - Score: 0.5915153
+Victoria_Park,_Auckland - Score: 0.5500018
+Architecture_of_New_Zealand - Score: 0.482193
+Beehive_(New_Zealand) - Score: 0.3418589

@@ -1,0 +1,5 @@
+Sioux_Quartzite - Score: 1.0
+Jacobsville_Sandstone - Score: 0.5272045
+Onondaga_Limestone - Score: 0.5272045
+Paskapoo_Formation - Score: 0.5272045
+National_Historic_Landmark - Score: 0.33861536

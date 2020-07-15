@@ -1,0 +1,5 @@
+Nafion - Score: 1.0
+Fluoropolymer - Score: 0.49625102
+Polyvinylidene_fluoride - Score: 0.47895044
+Photoelectrochemical_cell - Score: 0.33423665
+Adsorption - Score: 0.32386154

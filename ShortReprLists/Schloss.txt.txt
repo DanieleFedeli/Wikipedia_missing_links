@@ -1,0 +1,6 @@
+Schloss - Score: 1.0
+Castle_chapel - Score: 0.54631865
+Normalnull - Score: 0.36715582
+Schönbrunn_Palace - Score: 0.35684913
+Staircase_tower - Score: 0.35368854
+Corps_de_logis - Score: 0.3037007

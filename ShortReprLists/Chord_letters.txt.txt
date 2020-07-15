@@ -1,0 +1,6 @@
+Chord_letters - Score: 1.0
+Reduction_(music) - Score: 0.55348074
+Lead_sheet - Score: 0.45728654
+Chord_chart - Score: 0.44188142
+Fake_book - Score: 0.39822638
+Nashville_Number_System - Score: 0.34570402

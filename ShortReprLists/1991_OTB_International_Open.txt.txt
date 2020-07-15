@@ -1,0 +1,7 @@
+1991_OTB_International_Open - Score: 1.0
+1991_Copenhagen_Open - Score: 0.6095681
+1991_European_Indoor_Championships - Score: 0.6095681
+1991_WTA_Tour - Score: 0.5754352
+1991_French_Open - Score: 0.5598613
+1991_Australian_Open - Score: 0.47736537
+1991_Estoril_Open - Score: 0.40803912

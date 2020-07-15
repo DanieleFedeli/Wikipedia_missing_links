@@ -1,0 +1,4 @@
+RMIT_School_of_Global,_Urban_and_Social_Studies - Score: 1.0
+RMIT_Design_Hub - Score: 0.88245875
+RMIT_School_of_Architecture_and_Design - Score: 0.88245875
+South_Lawn_car_park - Score: 0.57357436

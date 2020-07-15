@@ -1,0 +1,4 @@
+Gustav_Lindenthal - Score: 1.0
+John_A._Roebling - Score: 0.39562652
+Arch_bridge - Score: 0.31804934
+Suspension_bridge - Score: 0.3069613

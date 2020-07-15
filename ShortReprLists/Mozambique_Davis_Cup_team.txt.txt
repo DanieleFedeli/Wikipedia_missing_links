@@ -1,0 +1,5 @@
+Mozambique_Davis_Cup_team - Score: 1.0
+Congo_Davis_Cup_team - Score: 0.46368775
+Libya_Davis_Cup_team - Score: 0.36234164
+Namibia_Davis_Cup_team - Score: 0.35832962
+Benin_Davis_Cup_team - Score: 0.35294023

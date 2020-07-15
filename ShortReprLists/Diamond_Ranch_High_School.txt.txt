@@ -1,0 +1,6 @@
+Diamond_Ranch_High_School - Score: 1.0
+Des_Moines_Coliseum - Score: 0.42215535
+The_Spirit_of_Spanish_Music - Score: 0.41760692
+Sporting_News - Score: 0.36433846
+University_of_South_Carolina - Score: 0.36433846
+Evanston,_Illinois - Score: 0.30295783

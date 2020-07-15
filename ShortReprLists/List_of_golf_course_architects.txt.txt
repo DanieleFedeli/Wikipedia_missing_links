@@ -1,0 +1,3 @@
+Greenskeeper - Score: 1.0
+List_of_golf_course_architects - Score: 1.0
+Herbert_Warren_Wind - Score: 0.5667957

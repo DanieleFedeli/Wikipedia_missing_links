@@ -1,0 +1,7 @@
+Chung_Ju-yung - Score: 1.0
+Chung_Mong-koo - Score: 0.7826273
+Korea_Automobile_Manufacturers_Association - Score: 0.30676654
+Proto_Motors - Score: 0.30676654
+Seoul_Motor_Show - Score: 0.30676654
+Sibal_(car) - Score: 0.30676654
+SsangYong_Motor - Score: 0.30676654

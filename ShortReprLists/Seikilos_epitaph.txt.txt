@@ -1,0 +1,6 @@
+Seikilos_epitaph - Score: 1.0
+Hurrian_songs - Score: 0.8215326
+Dithyramb - Score: 0.44754326
+List_of_Ancient_Greek_temples - Score: 0.36908412
+List_of_stoae - Score: 0.36908412
+Ancient_Greek_temple - Score: 0.36832577

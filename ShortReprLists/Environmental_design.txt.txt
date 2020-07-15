@@ -1,0 +1,7 @@
+Environmental_design - Score: 1.0
+Landscape_architecture - Score: 0.51903504
+Ecological_design - Score: 0.4730969
+Urban_design - Score: 0.43418843
+Eco-industrial_development - Score: 0.4111889
+A_Pattern_Language - Score: 0.3374854
+Sense_of_place - Score: 0.32940602

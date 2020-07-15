@@ -1,0 +1,6 @@
+Sahlen_Field - Score: 1.0
+McCoy_Stadium - Score: 0.83253413
+Victory_Field - Score: 0.6168197
+PNC_Field - Score: 0.5848593
+Coolray_Field - Score: 0.45360002
+Fifth_Third_Field_(Toledo,_Ohio) - Score: 0.41194642

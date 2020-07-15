@@ -1,0 +1,7 @@
+Deer_park_(England) - Score: 1.0
+Licence_to_crenellate - Score: 0.6736314
+Royal_forest - Score: 0.67181134
+Capability_Brown - Score: 0.43240228
+Orleigh_Court - Score: 0.36753902
+Prodigy_house - Score: 0.36553678
+Folly - Score: 0.32670045

@@ -1,0 +1,7 @@
+Bagel_(tennis) - Score: 1.0
+List_of_WTA_number_1_ranked_tennis_players - Score: 0.47324562
+WTA_Awards - Score: 0.39770824
+Amélie_Mauresmo - Score: 0.36051214
+Justine_Henin - Score: 0.36051214
+Kim_Clijsters - Score: 0.348763
+Maria_Sharapova - Score: 0.348763

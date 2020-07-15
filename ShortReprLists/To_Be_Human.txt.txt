@@ -1,0 +1,5 @@
+To_Be_Human - Score: 1.0
+Diamonds_(Megan_Thee_Stallion_and_Normani_song) - Score: 0.8228439
+Purple_Lamborghini - Score: 0.8228439
+Boss_Bitch_(Doja_Cat_song) - Score: 0.77398735
+Gangsta_(Kehlani_song) - Score: 0.75167197

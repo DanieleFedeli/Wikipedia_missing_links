@@ -1,0 +1,6 @@
+An_Andalusian_Gentleman - Score: 1.0
+The_Rebellious_Novice - Score: 0.8015058
+The_Dream_of_Andalusia - Score: 0.72979844
+Canción_de_Juventud - Score: 0.4652846
+Spanish_Serenade - Score: 0.3632224
+The_Last_Torch_Song - Score: 0.3431998

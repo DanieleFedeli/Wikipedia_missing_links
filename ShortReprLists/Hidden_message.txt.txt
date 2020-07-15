@@ -1,0 +1,4 @@
+Hidden_message - Score: 1.0
+Pareidolia - Score: 0.68759143
+Chronogram - Score: 0.5128074
+Perspective_(graphical) - Score: 0.3566894

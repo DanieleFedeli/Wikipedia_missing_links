@@ -1,0 +1,6 @@
+Brass_Era_car - Score: 1.0
+Success_Automobile_Manufacturing_Company - Score: 0.54741776
+Cyclecar - Score: 0.5238533
+High_wheeler - Score: 0.41619962
+Horseless_carriage - Score: 0.41446897
+Brush_Motor_Car_Company - Score: 0.34287626

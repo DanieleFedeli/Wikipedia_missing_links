@@ -1,0 +1,5 @@
+MP3_Newswire - Score: 1.0
+Audio_Home_Recording_Act - Score: 0.5957957
+Copyright_Arbitration_Royalty_Panel - Score: 0.5957957
+Copyright_Royalty_Board - Score: 0.5957957
+Music_Modernization_Act - Score: 0.5957957

@@ -1,0 +1,5 @@
+Ceramic_matrix_composite - Score: 1.0
+Carbon_fiber_reinforced_polymer - Score: 0.6074747
+Reinforced_carbon–carbon - Score: 0.53475994
+Honeycomb_structure - Score: 0.36709505
+Fibre-reinforced_plastic - Score: 0.33090708

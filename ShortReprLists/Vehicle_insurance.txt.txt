@@ -1,0 +1,3 @@
+Vehicle_insurance - Score: 1.0
+Public_auto_insurance - Score: 0.5012445
+Odometer_fraud - Score: 0.31890595

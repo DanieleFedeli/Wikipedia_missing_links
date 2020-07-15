@@ -1,0 +1,6 @@
+Scion_xB - Score: 1.0
+Scion_xA - Score: 0.90321517
+Scion_xD - Score: 0.90321517
+Scion_tC - Score: 0.6993138
+Toyota_Prius - Score: 0.3599007
+Toyota_Yaris - Score: 0.35265887

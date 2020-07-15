@@ -1,0 +1,6 @@
+Linden_Hills,_Minneapolis - Score: 1.0
+CHS_Field - Score: 0.601895
+City-Data - Score: 0.57571775
+Pence_Opera_House - Score: 0.42658648
+Prom_Ballroom - Score: 0.42658648
+Triple_Rock_Social_Club - Score: 0.34980914

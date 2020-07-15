@@ -1,0 +1,7 @@
+Cantor_(music_software) - Score: 1.0
+Chipspeech - Score: 1.0
+LaLaVoice - Score: 1.0
+NIAONiao_Virtual_Singer - Score: 1.0
+PPG_Phonem - Score: 1.0
+Sinsy - Score: 1.0
+Utau - Score: 1.0

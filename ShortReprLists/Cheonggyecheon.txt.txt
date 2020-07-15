@@ -1,0 +1,3 @@
+Cheonggyecheon - Score: 1.0
+Seoul_Forest - Score: 0.43906847
+Bukchon_Hanok_Village - Score: 0.31025362

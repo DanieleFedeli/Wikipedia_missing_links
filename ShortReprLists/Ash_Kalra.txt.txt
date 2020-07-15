@@ -1,0 +1,7 @@
+Ash_Kalra - Score: 1.0
+2006_Idaho_Proposition_2 - Score: 0.50025743
+California_Sound - Score: 0.48563975
+Huntington_Park,_California - Score: 0.38032886
+Michigan_Secretary_of_State - Score: 0.3361786
+Chicano_Park - Score: 0.31438985
+Nate_Silver - Score: 0.30670595

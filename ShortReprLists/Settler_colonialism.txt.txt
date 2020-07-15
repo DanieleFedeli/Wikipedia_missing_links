@@ -1,0 +1,7 @@
+Settler_colonialism - Score: 1.0
+Tsilhqot'in_Nation_v_British_Columbia - Score: 0.5852947
+Native_American_mascot_controversy - Score: 0.50401855
+Dawes_Act - Score: 0.37331364
+Exclusionary_zoning - Score: 0.3646918
+Residential_segregation_in_the_United_States - Score: 0.3646918
+Social_exclusion - Score: 0.3646918

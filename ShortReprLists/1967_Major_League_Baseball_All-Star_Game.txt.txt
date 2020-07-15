@@ -1,0 +1,6 @@
+1967_Major_League_Baseball_All-Star_Game - Score: 1.0
+Michael_Sergio - Score: 0.5656855
+Major_League_Baseball_All-Century_Team - Score: 0.5573513
+1971_San_Diego_Padres_season - Score: 0.4779036
+1986_San_Diego_Padres_season - Score: 0.4779036
+Tony_Kubek - Score: 0.4688025

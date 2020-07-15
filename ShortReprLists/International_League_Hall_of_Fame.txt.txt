@@ -1,0 +1,6 @@
+International_League_Hall_of_Fame - Score: 1.0
+International_League_Most_Valuable_Pitcher_Award - Score: 0.65632814
+International_League_Rookie_of_the_Year_Award - Score: 0.65632814
+Governors'_Cup - Score: 0.6405974
+Harold_Cooper_(baseball) - Score: 0.486211
+Pacific_Coast_League_Hall_of_Fame - Score: 0.3030206

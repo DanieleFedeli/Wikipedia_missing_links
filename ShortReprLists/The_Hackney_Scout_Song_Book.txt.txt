@@ -1,0 +1,4 @@
+The_Hackney_Scout_Song_Book - Score: 1.0
+Pinewood_derby - Score: 0.79439104
+Chief_Scout - Score: 0.51866347
+Blue_Lake_Fine_Arts_Camp - Score: 0.39009055

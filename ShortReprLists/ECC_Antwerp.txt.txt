@@ -1,0 +1,7 @@
+ECC_Antwerp - Score: 1.0
+Milan_Indoor - Score: 0.38027078
+Swiss_Indoors - Score: 0.36955014
+Open_13 - Score: 0.35666665
+South_African_Open_(tennis) - Score: 0.3400179
+Madrid_Tennis_Grand_Prix - Score: 0.32574812
+Wembley_Championships - Score: 0.30973494

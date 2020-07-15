@@ -1,0 +1,4 @@
+American_Samoa_national_baseball_team - Score: 1.0
+New_Caledonia_national_baseball_team - Score: 0.68013924
+Guam_national_baseball_team - Score: 0.5954502
+Baseball_in_Australia - Score: 0.3279768

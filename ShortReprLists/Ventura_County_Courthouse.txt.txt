@@ -1,0 +1,5 @@
+Ventura_County_Courthouse - Score: 1.0
+Mission_San_Fernando_Rey_de_España - Score: 0.4710503
+St._Joseph_Catholic_Church_(San_Antonio,_Texas) - Score: 0.45970815
+Adobe - Score: 0.40026447
+Portal_of_the_Folded_Wings_Shrine_to_Aviation - Score: 0.3364097

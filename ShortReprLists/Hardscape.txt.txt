@@ -1,0 +1,5 @@
+Hardscape - Score: 1.0
+Landscape_architecture - Score: 0.47859365
+Garden_designer - Score: 0.3870841
+Green_roof - Score: 0.38447195
+Australian_Institute_of_Landscape_Architects - Score: 0.36389643

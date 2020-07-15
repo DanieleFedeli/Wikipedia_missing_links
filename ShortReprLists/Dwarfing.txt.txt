@@ -1,0 +1,5 @@
+Dwarfing - Score: 1.0
+Backcrossing - Score: 0.78984314
+Garden_roses - Score: 0.48700103
+Citrus_production - Score: 0.32051307
+Sport_(botany) - Score: 0.30492884

@@ -1,0 +1,4 @@
+The_Barber_of_Seville_(1938_film) - Score: 1.0
+The_Marriage_of_Figaro_(1949_film) - Score: 0.78196704
+Operetta - Score: 0.31317264
+Robert_Letellier - Score: 0.31286597

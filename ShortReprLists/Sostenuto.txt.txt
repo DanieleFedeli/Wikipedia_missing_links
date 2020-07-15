@@ -1,0 +1,7 @@
+Sostenuto - Score: 1.0
+Aliquot_stringing - Score: 0.8790234
+Bowed_clavier - Score: 0.7926097
+Claviharp - Score: 0.7926097
+Cross-stringing - Score: 0.7926097
+Orphica - Score: 0.7926097
+Digital_piano - Score: 0.62419295

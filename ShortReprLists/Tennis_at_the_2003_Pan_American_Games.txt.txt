@@ -1,0 +1,6 @@
+Tennis_at_the_2003_Pan_American_Games - Score: 1.0
+Tennis_at_the_2003_Afro-Asian_Games - Score: 0.64446974
+Tennis_at_the_2003_Games_of_the_Small_States_of_Europe - Score: 0.64446974
+2003_in_tennis - Score: 0.62275875
+Tennis_at_the_2019_Pan_American_Games - Score: 0.46128353
+Tennis_at_the_2007_Pan_American_Games - Score: 0.3566587

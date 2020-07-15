@@ -1,0 +1,5 @@
+Gross_metropolitan_product - Score: 1.0
+City_centre - Score: 0.40310782
+Aerotropolis - Score: 0.3620649
+Eastmont_Town_Center - Score: 0.3163555
+Conurbation - Score: 0.30290928

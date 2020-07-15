@@ -1,0 +1,6 @@
+Museum_of_Greek_Folk_Musical_Instruments - Score: 1.0
+Stoa_of_Attalos - Score: 0.6761298
+Museum_of_Ancient_Greek,_Byzantine_and_Post-Byzantine_Musical_Instruments - Score: 0.45756865
+Stoa_of_Eumenes - Score: 0.41509274
+Tower_of_the_Winds - Score: 0.3277777
+Stoa - Score: 0.32447082

@@ -1,0 +1,3 @@
+Luxgen - Score: 1.0
+Geely - Score: 0.59729195
+BYD_Auto - Score: 0.38838103

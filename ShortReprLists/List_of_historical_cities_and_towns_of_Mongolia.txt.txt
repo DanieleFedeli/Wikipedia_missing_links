@@ -1,0 +1,4 @@
+List_of_historical_cities_and_towns_of_Mongolia - Score: 1.0
+Architecture_of_Mongolia - Score: 0.5552156
+Music_of_Tibet - Score: 0.3722335
+National_Emblem_of_the_People's_Republic_of_China - Score: 0.36637673

@@ -1,0 +1,6 @@
+Concrete_recycling - Score: 1.0
+Land_recycling - Score: 0.5861219
+Reclaimed_lumber - Score: 0.5861219
+Construction_aggregate - Score: 0.3409696
+Fly_ash - Score: 0.3409696
+Roller-compacted_concrete - Score: 0.3409696

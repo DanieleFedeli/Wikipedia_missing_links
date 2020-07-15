@@ -1,0 +1,5 @@
+Chobham_armour - Score: 1.0
+Composite_armour - Score: 0.6328215
+Spall - Score: 0.43560869
+Spectra_Shield - Score: 0.36447558
+Pintle - Score: 0.32591695

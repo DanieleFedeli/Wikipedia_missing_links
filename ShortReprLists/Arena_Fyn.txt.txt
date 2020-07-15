@@ -1,0 +1,4 @@
+Arena_Fyn - Score: 1.0
+Tennis_Club_Odense - Score: 0.7848285
+Forum_Horsens - Score: 0.33333823
+Danish_Architecture_Centre - Score: 0.3001423

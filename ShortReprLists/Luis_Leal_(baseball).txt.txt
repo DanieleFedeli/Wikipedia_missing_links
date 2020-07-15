@@ -1,0 +1,5 @@
+Luis_Leal_(baseball) - Score: 1.0
+Tony_Fernández - Score: 0.49329677
+Cito_Gaston - Score: 0.41910246
+Dave_Stieb - Score: 0.30340987
+Tom_Cheek - Score: 0.30340987

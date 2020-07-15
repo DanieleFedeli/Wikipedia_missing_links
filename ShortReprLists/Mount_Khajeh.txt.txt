@@ -1,0 +1,6 @@
+Mount_Khajeh - Score: 1.0
+Shahr-e_Sukhteh - Score: 0.78110063
+Shush_Castle - Score: 0.39221078
+Kohneh_Bridge - Score: 0.3788157
+Ferdows_Religious_School - Score: 0.3666463
+Khorramabad - Score: 0.32573658

@@ -1,0 +1,7 @@
+List_of_opera_houses - Score: 1.0
+Opera_house - Score: 0.4828173
+Dramma_giocoso - Score: 0.37942985
+Dramma_per_musica - Score: 0.37942985
+Farsa - Score: 0.34233278
+List_of_opera_festivals - Score: 0.32133391
+List_of_concert_halls - Score: 0.31092557

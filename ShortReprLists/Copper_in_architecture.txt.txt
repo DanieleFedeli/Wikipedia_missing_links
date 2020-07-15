@@ -1,0 +1,6 @@
+Copper_in_architecture - Score: 1.0
+Rain_gutter - Score: 0.5299918
+Flashing_(weatherproofing) - Score: 0.4362286
+Downspout - Score: 0.42624235
+Rainscreen - Score: 0.3478291
+Roof_tiles - Score: 0.3449283

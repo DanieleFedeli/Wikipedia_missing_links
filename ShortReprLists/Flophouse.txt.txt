@@ -1,0 +1,7 @@
+Flophouse - Score: 1.0
+Tenement - Score: 0.38734618
+Slumlord - Score: 0.36267847
+Skid_row - Score: 0.32453626
+Gentrification - Score: 0.31742543
+Urban_Land_Institute - Score: 0.31742543
+Rudy_Bruner_Award_for_Urban_Excellence - Score: 0.31700787

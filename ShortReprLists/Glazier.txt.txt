@@ -1,0 +1,5 @@
+Glazier - Score: 1.0
+Fleur-de-lis - Score: 0.40118766
+Architectural_glass - Score: 0.30698478
+British_and_Irish_stained_glass_(1811–1918) - Score: 0.30698478
+Float_glass - Score: 0.30698478

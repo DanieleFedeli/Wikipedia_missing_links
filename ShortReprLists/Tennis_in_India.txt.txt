@@ -1,0 +1,7 @@
+Tennis_in_India - Score: 1.0
+Baseball_in_India - Score: 0.4765197
+Baseball_Federation_of_Japan - Score: 0.37076363
+Baseball_in_Canada - Score: 0.3633013
+Baseball_in_Ireland - Score: 0.3633013
+Baseball_in_Israel - Score: 0.3633013
+Baseball_in_Australia - Score: 0.35106233

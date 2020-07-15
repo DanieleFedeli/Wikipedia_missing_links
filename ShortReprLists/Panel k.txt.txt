@@ -1,0 +1,7 @@
+Panelák - Score: 1.0
+Czech_architecture - Score: 0.7155841
+Khrushchyovka - Score: 0.3199874
+Panelház - Score: 0.3199874
+Panel_building - Score: 0.3199874
+Plattenbau - Score: 0.3199874
+Tilt_up - Score: 0.3199874

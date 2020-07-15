@@ -1,0 +1,5 @@
+Katowice_Open - Score: 1.0
+Bronx_Open - Score: 0.7518128
+Moscow_River_Cup - Score: 0.7518128
+Linz_Open - Score: 0.35477376
+Luxembourg_Open - Score: 0.33270642

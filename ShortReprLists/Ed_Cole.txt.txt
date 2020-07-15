@@ -1,0 +1,5 @@
+Ed_Cole - Score: 1.0
+Zora_Arkus-Duntov - Score: 0.44759068
+Chevrolet_Bel_Air - Score: 0.36081856
+Chevrolet_Corvair - Score: 0.36081856
+John_DeLorean - Score: 0.3575263

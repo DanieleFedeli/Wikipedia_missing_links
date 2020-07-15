@@ -1,0 +1,4 @@
+2012_in_tennis - Score: 1.0
+2012_WTA_125K_series - Score: 0.61352
+2012_ITF_Men's_Circuit - Score: 0.4100061
+Wheelchair_tennis_at_the_2012_Summer_Paralympics - Score: 0.32487807

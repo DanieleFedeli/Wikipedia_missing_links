@@ -1,0 +1,7 @@
+Quantity_surveyor - Score: 1.0
+Construction_surveying - Score: 0.46609476
+Chartered_Institution_of_Highways_and_Transportation - Score: 0.4390486
+Building_(magazine) - Score: 0.36626542
+Electrician - Score: 0.35489917
+Structural_engineer - Score: 0.3370346
+Drapery - Score: 0.32329118

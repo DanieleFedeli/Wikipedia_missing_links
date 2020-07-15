@@ -1,0 +1,7 @@
+Building_code - Score: 1.0
+Occupancy - Score: 0.5892477
+Building_inspection - Score: 0.5536183
+International_Building_Code - Score: 0.48247328
+Building_insulation - Score: 0.34430587
+Technischer_Überwachungsverein - Score: 0.34430587
+Fire_door - Score: 0.30584085

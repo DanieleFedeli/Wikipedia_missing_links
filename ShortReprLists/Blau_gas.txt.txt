@@ -1,0 +1,4 @@
+Blau_gas - Score: 1.0
+Pilot_light - Score: 0.900835
+Gas_mantle - Score: 0.6157217
+Pipeline_transport - Score: 0.37835026

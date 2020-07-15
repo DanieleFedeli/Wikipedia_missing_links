@@ -1,0 +1,4 @@
+Great_Basilica,_Plovdiv - Score: 1.0
+Small_Basilica,_Plovdiv - Score: 1.0
+Odeon_(building) - Score: 0.63191855
+Scaenae_frons - Score: 0.41529194

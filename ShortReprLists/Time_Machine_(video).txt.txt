@@ -1,0 +1,7 @@
+Time_Machine_(video) - Score: 1.0
+Hear_'n_Aid - Score: 0.5183571
+List_of_Black_Sabbath_tours - Score: 0.3896015
+Reunion_Tour_(Black_Sabbath_Tour) - Score: 0.3896015
+Tribute_(Ozzy_Osbourne_album) - Score: 0.36083055
+Trust_Me,_I'm_Dr._Ozzy - Score: 0.36083055
+G3__Rockin'_in_the_Free_World - Score: 0.3072545

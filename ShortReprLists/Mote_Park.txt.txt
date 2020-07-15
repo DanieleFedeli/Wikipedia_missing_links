@@ -1,0 +1,5 @@
+Mote_Park - Score: 1.0
+Real_tennis - Score: 0.31365362
+Eden_Project - Score: 0.304577
+Poundbury - Score: 0.304577
+Highclere_Castle - Score: 0.30025566

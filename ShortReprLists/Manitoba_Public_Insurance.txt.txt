@@ -1,0 +1,4 @@
+Manitoba_Public_Insurance - Score: 1.0
+Insurance_Corporation_of_British_Columbia - Score: 0.5855327
+Saskatchewan_Government_Insurance - Score: 0.49240935
+Public_auto_insurance - Score: 0.48053747

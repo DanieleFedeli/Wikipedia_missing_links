@@ -1,0 +1,4 @@
+Ycuá_Bolaños_supermarket_fire - Score: 1.0
+Jesuit_reduction - Score: 0.35135713
+Las_Hilanderas_(Velázquez) - Score: 0.31694248
+The_Three_Musicians_(painting) - Score: 0.31694248

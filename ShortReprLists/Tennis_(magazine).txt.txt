@@ -1,0 +1,7 @@
+Tennis_(magazine) - Score: 1.0
+Tennis_Channel - Score: 0.62189186
+Master_control - Score: 0.5195846
+Speed_(Australian_TV_network) - Score: 0.42509666
+Universal_Studios_Beijing - Score: 0.41077593
+Trinity_Music_City - Score: 0.3696159
+9Rush - Score: 0.33733672

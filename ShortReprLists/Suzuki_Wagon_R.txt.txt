@@ -1,0 +1,3 @@
+Suzuki_Wagon_R - Score: 1.0
+Suzuki_Palette - Score: 0.5806137
+Kei_truck - Score: 0.37364388

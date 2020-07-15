@@ -1,0 +1,5 @@
+Sporting_News_Manager_of_the_Year_Award - Score: 1.0
+Rubén_Amaro_Sr. - Score: 0.42401722
+Felipe_Alou - Score: 0.39500287
+World_Series_Most_Valuable_Player_Award - Score: 0.36143175
+John_Boles_(baseball) - Score: 0.31355494

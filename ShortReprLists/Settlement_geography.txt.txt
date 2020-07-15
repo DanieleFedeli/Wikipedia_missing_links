@@ -1,0 +1,3 @@
+Settlement_geography - Score: 1.0
+Land_change_modeling - Score: 0.9102323
+Urban_geography - Score: 0.5364335

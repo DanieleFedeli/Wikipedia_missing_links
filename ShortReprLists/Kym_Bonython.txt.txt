@@ -1,0 +1,5 @@
+Kym_Bonython - Score: 1.0
+British_colonisation_of_South_Australia - Score: 0.39653707
+Diamond_Sports_Stadium - Score: 0.36503974
+Sir_Bruce_Small_Park - Score: 0.3527422
+Blacktown_International_Sportspark - Score: 0.30189145

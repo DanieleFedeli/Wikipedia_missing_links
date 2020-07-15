@@ -1,0 +1,5 @@
+Cement_render - Score: 1.0
+John_Newman_(architectural_historian) - Score: 0.758611
+Monmouthshire_Houses - Score: 0.56999224
+Listed_buildings_in_Scotland - Score: 0.3061815
+Herringbone_pattern - Score: 0.30368418

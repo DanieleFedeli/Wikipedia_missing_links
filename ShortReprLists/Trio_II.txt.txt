@@ -1,0 +1,7 @@
+Trio_II - Score: 1.0
+Emmylou_Harris_appearances - Score: 0.7059967
+Emmylou_Harris_collaborations_A–F - Score: 0.7059967
+Emmylou_Harris_collaborations_G–K - Score: 0.7059967
+Emmylou_Harris_collaborations_L–Q - Score: 0.7059967
+Emmylou_Harris_collaborations_R–Z - Score: 0.7059967
+John_Kosh - Score: 0.34713337

@@ -1,0 +1,6 @@
+Bertha_Benz - Score: 1.0
+Benz_Patent-Motorwagen - Score: 0.63845855
+Karl_Benz - Score: 0.48449153
+Wilhelm_Maybach - Score: 0.43031913
+Gottlieb_Daimler - Score: 0.3698408
+Emil_Jellinek - Score: 0.34028858

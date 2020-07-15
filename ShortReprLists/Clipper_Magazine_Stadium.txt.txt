@@ -1,0 +1,4 @@
+Clipper_Magazine_Stadium - Score: 1.0
+PeoplesBank_Park - Score: 0.6249311
+FNB_Field - Score: 0.4951469
+Frontier_Field - Score: 0.36916974

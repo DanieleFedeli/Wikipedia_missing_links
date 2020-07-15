@@ -1,0 +1,5 @@
+Cycle_of_poverty - Score: 1.0
+Slum_clearance_in_India - Score: 0.45229712
+Development_aid - Score: 0.36266816
+United_Nations_Department_of_Economic_and_Social_Affairs - Score: 0.36266816
+Community_development - Score: 0.34913427

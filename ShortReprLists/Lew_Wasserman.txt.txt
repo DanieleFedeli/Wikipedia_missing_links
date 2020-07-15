@@ -1,0 +1,4 @@
+Lew_Wasserman - Score: 1.0
+Sidney_Sheinberg - Score: 0.37679026
+Broadway_theatre - Score: 0.3514438
+Norman_McLaren - Score: 0.32283676

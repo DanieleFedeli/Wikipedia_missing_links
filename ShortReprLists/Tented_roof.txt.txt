@@ -1,0 +1,4 @@
+Tented_roof - Score: 1.0
+Conical_roof - Score: 0.5135849
+Industrial_architecture - Score: 0.32192072
+Bossage - Score: 0.30356196

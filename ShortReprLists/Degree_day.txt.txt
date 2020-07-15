@@ -1,0 +1,3 @@
+Degree_day - Score: 1.0
+Airflow - Score: 0.38000086
+Condenser_(heat_transfer) - Score: 0.30210057

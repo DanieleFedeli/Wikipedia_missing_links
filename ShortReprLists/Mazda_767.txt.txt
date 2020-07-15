@@ -1,0 +1,6 @@
+Mazda_767 - Score: 1.0
+Mazda_757 - Score: 0.803965
+Mazda - Score: 0.39890808
+Tiga_Race_Cars - Score: 0.33258733
+Grand_tourer - Score: 0.3311894
+Interserie - Score: 0.3311894

@@ -1,0 +1,6 @@
+Pillars_of_Ashoka - Score: 1.0
+Topra_Kalan - Score: 0.65074366
+Stambha - Score: 0.5539464
+Tulsi_Manas_Mandir - Score: 0.3611415
+Indian_rock-cut_architecture - Score: 0.35134315
+Chaitya - Score: 0.34965172

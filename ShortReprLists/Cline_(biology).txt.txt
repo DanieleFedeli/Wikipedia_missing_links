@@ -1,0 +1,5 @@
+Cline_(biology) - Score: 1.0
+Bird_vocalization - Score: 0.4493772
+Plant_litter - Score: 0.43756953
+Habitat - Score: 0.33929294
+Threatened_species - Score: 0.31251428

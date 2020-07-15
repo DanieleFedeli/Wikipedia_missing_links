@@ -1,0 +1,4 @@
+Bobblehead - Score: 1.0
+George_Vecsey - Score: 0.38794407
+New_York_Yankees - Score: 0.3072976
+Dan_Gutman - Score: 0.30548593

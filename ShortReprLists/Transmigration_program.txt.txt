@@ -1,0 +1,6 @@
+Transmigration_program - Score: 1.0
+Architecture_of_Indonesia - Score: 0.58955413
+Merdeka_Palace - Score: 0.47467992
+Colonial_architecture_of_Indonesia - Score: 0.39504433
+Indonesian_mosques - Score: 0.39504433
+Rumah_adat - Score: 0.39504433

@@ -1,0 +1,7 @@
+Eska_Music_Awards - Score: 1.0
+Hungarian_Music_Awards - Score: 0.5184342
+BMI_Awards - Score: 0.5039367
+International_Dance_Music_Awards - Score: 0.49373153
+Emma-gaala - Score: 0.41324702
+Music_Business_Association - Score: 0.38446638
+Grammy_Award_for_Best_Pop_Collaboration_with_Vocals - Score: 0.30712217

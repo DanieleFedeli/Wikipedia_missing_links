@@ -1,0 +1,6 @@
+Emblem_of_the_Azerbaijan_Soviet_Socialist_Republic - Score: 1.0
+Architecture_of_Central_Asia - Score: 0.4700758
+State_Anthem_of_the_Soviet_Union - Score: 0.46961826
+Emblem_of_Afghanistan - Score: 0.39008135
+Emblem_of_Laos - Score: 0.39008135
+Emblem_of_Telangana - Score: 0.31104028

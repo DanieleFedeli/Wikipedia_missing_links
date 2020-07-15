@@ -1,0 +1,6 @@
+Shaye - Score: 1.0
+Artists_and_repertoire - Score: 0.40084752
+Phonograph_record - Score: 0.40084752
+John_Janick - Score: 0.32294253
+List_of_Virgin_Records_artists - Score: 0.32294253
+Album-equivalent_unit - Score: 0.30571625

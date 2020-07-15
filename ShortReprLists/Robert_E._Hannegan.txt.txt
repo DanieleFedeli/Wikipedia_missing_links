@@ -1,0 +1,5 @@
+Robert_E._Hannegan - Score: 1.0
+Architectural_Barriers_Act_of_1968 - Score: 0.61026275
+SS-100-X - Score: 0.45259893
+George_W._Romney - Score: 0.4235261
+Roy_D._Chapin - Score: 0.33190417

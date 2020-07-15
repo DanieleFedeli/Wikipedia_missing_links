@@ -1,0 +1,6 @@
+Peacock_Park - Score: 1.0
+South_Pointe_Park - Score: 1.0
+Transportation_in_South_Florida - Score: 0.9137467
+Bayfront_Park - Score: 0.70233536
+Museum_Park_(Miami) - Score: 0.70233536
+Music_of_Miami - Score: 0.70233536

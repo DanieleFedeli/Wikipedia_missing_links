@@ -1,0 +1,5 @@
+Sprouting - Score: 1.0
+Tandoor - Score: 0.42613345
+Straw - Score: 0.38851425
+Hobby_farm - Score: 0.3753993
+Sowing - Score: 0.36730164

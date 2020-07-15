@@ -1,0 +1,7 @@
+Palm_Springs_Chill - Score: 1.0
+World_TeamTennis - Score: 0.51192504
+Angel_Stadium - Score: 0.49881712
+Dignity_Health_Sports_Park - Score: 0.48558545
+Dodger_Stadium - Score: 0.3981855
+City_National_Grove_of_Anaheim - Score: 0.3921049
+Team_tennis - Score: 0.38273165

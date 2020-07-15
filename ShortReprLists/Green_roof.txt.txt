@@ -1,0 +1,5 @@
+Green_roof - Score: 1.0
+Hardscape - Score: 0.39386865
+Green_Star_(Australia) - Score: 0.35617206
+Living_Building_Challenge - Score: 0.34116974
+Green_infrastructure - Score: 0.3060129

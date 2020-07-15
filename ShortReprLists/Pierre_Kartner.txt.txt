@@ -1,0 +1,7 @@
+Pierre_Kartner - Score: 1.0
+Club_40 - Score: 0.42835793
+French_Top_100_singles_of_the_1990s - Score: 0.42835793
+French_Top_100_singles_of_the_2000s - Score: 0.42835793
+The_Lion_Sleeps_Tonight - Score: 0.34323585
+Call_Me_Maybe - Score: 0.33317116
+Fireflies_(Owl_City_song) - Score: 0.33317116

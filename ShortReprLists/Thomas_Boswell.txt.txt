@@ -1,0 +1,4 @@
+Thomas_Boswell - Score: 1.0
+Jackie_Robinson - Score: 0.41965735
+League_Championship_Series_Most_Valuable_Player_Award - Score: 0.35105845
+Baseball_Digest - Score: 0.3476709

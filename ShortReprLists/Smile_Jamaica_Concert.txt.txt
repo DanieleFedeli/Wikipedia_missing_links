@@ -1,0 +1,5 @@
+Smile_Jamaica_Concert - Score: 1.0
+Bob_Marley_Museum - Score: 0.9024919
+Peter_Tosh - Score: 0.6400143
+No_Woman,_No_Cry - Score: 0.6074759
+Bob_Marley - Score: 0.46936983

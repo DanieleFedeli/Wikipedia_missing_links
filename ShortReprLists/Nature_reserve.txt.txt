@@ -1,0 +1,5 @@
+Nature_reserve - Score: 1.0
+Nature_park - Score: 0.5657051
+Protected_area - Score: 0.4687183
+Alaska_moose - Score: 0.3304396
+Olea_capensis - Score: 0.32376888

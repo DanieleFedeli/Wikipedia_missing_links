@@ -1,0 +1,6 @@
+Cooling_center - Score: 1.0
+Mole_people - Score: 0.86849046
+Slum_clearance - Score: 0.7988614
+Social_cleansing - Score: 0.6913749
+Tent_city - Score: 0.6743641
+Slum - Score: 0.3627068

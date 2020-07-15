@@ -1,0 +1,4 @@
+Waterproofing - Score: 1.0
+Bender_tent - Score: 0.7469732
+Pole_marquee - Score: 0.7469732
+Tupiq - Score: 0.7469732

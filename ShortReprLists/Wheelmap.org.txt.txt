@@ -1,0 +1,3 @@
+Wheelmap.org - Score: 1.0
+Plan_(drawing) - Score: 0.49507794
+Cutaway_drawing - Score: 0.42170417

@@ -1,0 +1,6 @@
+Bronze_Gate_(Diocletian's_Palace) - Score: 1.0
+Golden_Gate_(Diocletian's_Palace) - Score: 1.0
+Iron_Gate_(Diocletian's_Palace) - Score: 1.0
+Silver_Gate_(Diocletian's_Palace) - Score: 1.0
+St_Martin's_Church_(Split) - Score: 1.0
+Cathedral_of_Saint_Domnius - Score: 0.95552546

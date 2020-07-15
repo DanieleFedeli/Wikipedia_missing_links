@@ -1,0 +1,7 @@
+Salomon_de_Caus - Score: 1.0
+Garden_Museum - Score: 0.34487066
+Horniman_Museum - Score: 0.34487066
+Museum_of_the_Home - Score: 0.34487066
+Royal_Museums_Greenwich - Score: 0.34487066
+Andrea_Palladio - Score: 0.34296113
+Petrie_Museum_of_Egyptian_Archaeology - Score: 0.33001888

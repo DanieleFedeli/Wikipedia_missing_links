@@ -1,0 +1,4 @@
+Ballpoint_pen_artwork - Score: 1.0
+Rastrum - Score: 0.84379756
+India_ink - Score: 0.8245181
+Doodle - Score: 0.3666525

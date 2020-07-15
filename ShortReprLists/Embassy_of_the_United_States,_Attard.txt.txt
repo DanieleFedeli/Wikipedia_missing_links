@@ -1,0 +1,5 @@
+Embassy_of_the_United_States,_Attard - Score: 1.0
+Embassy_of_the_United_States,_Havana - Score: 0.85660106
+Chancery_(diplomacy) - Score: 0.7817226
+Embassy_of_Russia_in_Havana - Score: 0.32450208
+Cuban_musical_theatre - Score: 0.3033509

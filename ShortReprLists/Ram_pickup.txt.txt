@@ -1,0 +1,5 @@
+Ram_pickup - Score: 1.0
+Dodge_Journey - Score: 0.3582386
+Dodge_Dart_(PF) - Score: 0.3393072
+Fiat_Siena - Score: 0.3393072
+Fiat_Tipo_(2015) - Score: 0.32824913

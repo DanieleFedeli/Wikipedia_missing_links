@@ -1,0 +1,7 @@
+Washington_Park_Historic_District_(Albany,_New_York) - Score: 1.0
+Structural_system - Score: 0.44688657
+Water_table_(architecture) - Score: 0.41671365
+Ornament_(architecture) - Score: 0.40054408
+Roof_pitch - Score: 0.33311945
+Vinyl_siding - Score: 0.32054374
+Setback_(land_use) - Score: 0.3099418

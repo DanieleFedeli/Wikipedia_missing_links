@@ -1,0 +1,5 @@
+Touring_and_Automobile_Club_of_Turkey - Score: 1.0
+International_Soft_Tennis_Federation - Score: 0.50266117
+Motorsport_Australia - Score: 0.42770368
+Union_Internationale_Motonautique - Score: 0.42770368
+Fédération_Internationale_du_Sport_Automobile - Score: 0.30801132

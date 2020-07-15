@@ -1,0 +1,3 @@
+Autotrader.com - Score: 1.0
+Furniture_Today - Score: 0.40857136
+Hemmings_Motor_News - Score: 0.4002427

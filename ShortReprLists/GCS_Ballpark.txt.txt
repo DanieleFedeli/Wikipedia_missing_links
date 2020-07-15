@@ -1,0 +1,3 @@
+GCS_Ballpark - Score: 1.0
+Skylands_Stadium - Score: 0.7061574
+Boomers_Stadium - Score: 0.6171446

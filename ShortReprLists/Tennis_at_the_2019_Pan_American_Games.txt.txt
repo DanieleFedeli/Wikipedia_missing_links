@@ -1,0 +1,6 @@
+Tennis_at_the_2019_Pan_American_Games - Score: 1.0
+Tennis_at_the_2003_Pan_American_Games - Score: 0.48702997
+Tennis_at_the_Pan_American_Games - Score: 0.4000197
+Tennis_at_the_1999_Pan_American_Games - Score: 0.39743558
+Tennis_at_the_2007_Pan_American_Games - Score: 0.3901677
+Tennis_at_the_2015_Pan_American_Games - Score: 0.30155548

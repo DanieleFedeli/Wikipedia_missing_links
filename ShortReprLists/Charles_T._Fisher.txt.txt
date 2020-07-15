@@ -1,0 +1,4 @@
+Charles_T._Fisher - Score: 1.0
+John_D._Hertz - Score: 0.70557785
+Furlong - Score: 0.7022872
+Samuel_McLaughlin - Score: 0.32005945

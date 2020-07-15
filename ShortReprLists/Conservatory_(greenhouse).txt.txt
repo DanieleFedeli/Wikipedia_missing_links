@@ -1,0 +1,5 @@
+Conservatory_(greenhouse) - Score: 1.0
+Porte-cochère - Score: 0.81778896
+Undercroft - Score: 0.7066061
+Great_hall - Score: 0.40067187
+Solar_(room) - Score: 0.3770215

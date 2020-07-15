@@ -1,0 +1,7 @@
+Birkenhead_Park - Score: 1.0
+Wooden_spoon_(award) - Score: 0.4054152
+Terry_Holmes - Score: 0.39261967
+World_in_Union - Score: 0.3196485
+ExCeL_London - Score: 0.31265032
+Estadio_Pedro_Marrero - Score: 0.3092311
+Royal_Athletic_Park - Score: 0.3092311

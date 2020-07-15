@@ -1,0 +1,5 @@
+2019_in_tennis - Score: 1.0
+Tennis_at_the_2019_Games_of_the_Small_States_of_Europe - Score: 0.51631004
+Tennis_at_the_2019_Island_Games - Score: 0.51631004
+2018_in_tennis - Score: 0.49290824
+2020_in_tennis - Score: 0.3024864

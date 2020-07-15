@@ -1,0 +1,5 @@
+Atari_Video_Music - Score: 1.0
+Pong - Score: 0.5034525
+Virtual_Light_Machine - Score: 0.39730456
+Baseball_Heroes - Score: 0.35520124
+Jimmy_Connors_Tennis - Score: 0.34281802

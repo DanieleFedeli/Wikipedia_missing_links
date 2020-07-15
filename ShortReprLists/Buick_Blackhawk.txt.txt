@@ -1,0 +1,5 @@
+Buick_Blackhawk - Score: 1.0
+Buick_Bengal - Score: 0.8315433
+Buick_Model_B - Score: 0.6462128
+Buick_Avista - Score: 0.5476101
+Buick_Y-Job - Score: 0.54246193

@@ -1,0 +1,5 @@
+Spartak_Tennis_Club - Score: 1.0
+Estadi_La_Feixa_Llarga - Score: 0.3911353
+Allianz_Arena - Score: 0.38005808
+Sydney_Showground_Stadium - Score: 0.3256915
+Bilino_Polje_Stadium - Score: 0.3228621

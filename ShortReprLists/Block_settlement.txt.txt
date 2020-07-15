@@ -1,0 +1,6 @@
+Block_settlement - Score: 1.0
+Saskatchewan_Government_Insurance - Score: 0.48461977
+Dominion_Land_Survey - Score: 0.45210826
+Architecture_of_Canada - Score: 0.37451997
+Dominion_Lands_Act - Score: 0.36589178
+Canadian_Automobile_Association - Score: 0.30046982

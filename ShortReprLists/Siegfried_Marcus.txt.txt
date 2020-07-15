@@ -1,0 +1,6 @@
+Siegfried_Marcus - Score: 1.0
+Rudolf_Diesel - Score: 0.6300961
+Étienne_Lenoir - Score: 0.5124922
+Gottlieb_Daimler - Score: 0.44700733
+Robert_Bosch - Score: 0.36732376
+Karl_Benz - Score: 0.33734605

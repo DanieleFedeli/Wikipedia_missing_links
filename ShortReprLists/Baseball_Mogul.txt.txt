@@ -1,0 +1,4 @@
+Baseball_Mogul - Score: 1.0
+MLB_Slugfest - Score: 0.52035856
+Out_of_the_Park_Baseball - Score: 0.4793622
+MLB_The_Show_20 - Score: 0.37503567

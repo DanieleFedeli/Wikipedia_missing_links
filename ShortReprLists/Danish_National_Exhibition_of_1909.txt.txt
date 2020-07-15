@@ -1,0 +1,7 @@
+Danish_National_Exhibition_of_1909 - Score: 1.0
+Aarhus_School_of_Architecture - Score: 0.91206414
+Coat_of_arms_of_Aarhus - Score: 0.91206414
+Dokk1 - Score: 0.91206414
+Højen_13 - Score: 0.8400575
+Danish_Agency_for_Culture_and_Palaces - Score: 0.7276099
+Samsø - Score: 0.3044669

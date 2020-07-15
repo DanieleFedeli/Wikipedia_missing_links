@@ -1,0 +1,5 @@
+Reliant_Robin - Score: 1.0
+Reliant_Scimitar - Score: 0.6512187
+Reliant_Regal - Score: 0.62851554
+Anadol - Score: 0.5642166
+Bond_Bug - Score: 0.5642166

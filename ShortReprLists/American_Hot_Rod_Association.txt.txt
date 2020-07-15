@@ -1,0 +1,5 @@
+American_Hot_Rod_Association - Score: 1.0
+Front_engine_dragster - Score: 0.85774773
+NHRA_U.S._Nationals - Score: 0.7354621
+Drag_racing - Score: 0.3722227
+Dragster_(car) - Score: 0.36146143

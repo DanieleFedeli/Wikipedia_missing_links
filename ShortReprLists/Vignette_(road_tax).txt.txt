@@ -1,0 +1,5 @@
+Vignette_(road_tax) - Score: 1.0
+Electronic_toll_collection - Score: 0.44945884
+Toll_tunnel - Score: 0.360883
+Road_pricing - Score: 0.35963786
+Stockholm_congestion_tax - Score: 0.35963786

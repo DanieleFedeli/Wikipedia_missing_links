@@ -1,0 +1,3 @@
+Registan - Score: 1.0
+Memorial_house_museum_of_Tamara_Khanum - Score: 0.9062027
+Minaret - Score: 0.35335502

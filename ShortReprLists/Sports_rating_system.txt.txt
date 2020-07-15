@@ -1,0 +1,4 @@
+Sports_rating_system - Score: 1.0
+Win_probability - Score: 0.8168567
+Log5 - Score: 0.7339935
+Pythagorean_expectation - Score: 0.7339935

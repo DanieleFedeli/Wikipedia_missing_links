@@ -1,0 +1,5 @@
+Southampton_Guildhall - Score: 1.0
+O2_Academy_Liverpool - Score: 0.37293664
+Bromley_House_Library - Score: 0.3714915
+Coade_stone - Score: 0.33257106
+Portland_stone - Score: 0.33257106

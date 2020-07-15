@@ -1,0 +1,6 @@
+Kobyz - Score: 1.0
+Oud - Score: 0.3729926
+Komuz - Score: 0.36613095
+Panduri - Score: 0.35086584
+Kinnor - Score: 0.30995876
+Lira_da_braccio - Score: 0.30995876

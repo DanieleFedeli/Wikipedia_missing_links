@@ -1,0 +1,4 @@
+Origins_of_baseball - Score: 1.0
+1845_to_1868_in_baseball - Score: 0.72326076
+1869_in_baseball - Score: 0.496788
+1870_in_baseball - Score: 0.496788

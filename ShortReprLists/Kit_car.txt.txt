@@ -1,0 +1,7 @@
+Kit_car - Score: 1.0
+Caterham_Cars - Score: 0.5030504
+Marc_Nordon_Racing - Score: 0.5030504
+Quantum_Sports_Cars - Score: 0.5030504
+Sylva_Autokits - Score: 0.5030504
+Westfield_Sportscars - Score: 0.5030504
+Chinkara_Motors - Score: 0.3112885

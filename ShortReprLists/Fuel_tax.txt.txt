@@ -1,0 +1,3 @@
+Fuel_tax - Score: 1.0
+Taxation_in_Slovakia - Score: 0.59366953
+Vehicle_Excise_Duty - Score: 0.46965212

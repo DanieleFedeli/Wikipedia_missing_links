@@ -1,0 +1,5 @@
+International_League_Most_Valuable_Pitcher_Award - Score: 1.0
+International_League_Rookie_of_the_Year_Award - Score: 0.83138156
+International_League_Hall_of_Fame - Score: 0.6337992
+Governors'_Cup - Score: 0.5857422
+Triple-A_All-Star_Game - Score: 0.34382477

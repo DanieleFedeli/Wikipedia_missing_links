@@ -1,0 +1,6 @@
+Pandero_jarocho - Score: 1.0
+Arpa_jarocha - Score: 0.6131119
+Cantaro - Score: 0.6131119
+Marímbula - Score: 0.6131119
+Tamborim - Score: 0.47639623
+Timbrel - Score: 0.45978788

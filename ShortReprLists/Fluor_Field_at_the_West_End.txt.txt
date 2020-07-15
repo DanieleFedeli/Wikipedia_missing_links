@@ -1,0 +1,7 @@
+Fluor_Field_at_the_West_End - Score: 1.0
+College_Park_(Charleston) - Score: 0.7460462
+Sandstorm_(instrumental) - Score: 0.6953668
+Joseph_P._Riley_Jr._Park - Score: 0.54591435
+Grainger_Stadium - Score: 0.47509018
+TicketReturn.com_Field - Score: 0.37323898
+Appalachian_Power_Park - Score: 0.35148743

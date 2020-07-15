@@ -1,0 +1,7 @@
+People's_Park_(Davao_City) - Score: 1.0
+Jesuit_Communications_Foundation - Score: 0.44264358
+Sari-sari_store - Score: 0.41379184
+Architecture_of_the_Philippines - Score: 0.40797386
+Cebu_Taoist_Temple - Score: 0.32257524
+List_of_oldest_buildings_and_structures_in_Metro_Manila - Score: 0.32257524
+Manila_sound - Score: 0.32257524

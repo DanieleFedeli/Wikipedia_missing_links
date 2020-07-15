@@ -1,0 +1,5 @@
+Baseball_at_the_2010_Central_American_and_Caribbean_Games - Score: 1.0
+Baseball_at_the_2006_Central_American_and_Caribbean_Games - Score: 0.9138296
+Baseball_at_the_2014_Central_American_and_Caribbean_Games - Score: 0.9138296
+Baseball_at_the_2018_Central_American_and_Caribbean_Games - Score: 0.9138296
+Tennis_at_the_2018_Central_American_and_Caribbean_Games - Score: 0.3860344

@@ -1,0 +1,7 @@
+List_of_baseball_parks_by_capacity - Score: 1.0
+List_of_baseball_parks_used_in_film_and_television - Score: 1.0
+List_of_Triple-A_baseball_stadiums - Score: 1.0
+List_of_baseball_parks_in_Montreal - Score: 0.925683
+List_of_Double-A_baseball_stadiums - Score: 0.925683
+List_of_baseball_parks_in_Toronto - Score: 0.89771324
+Lists_of_baseball_parks - Score: 0.82827276

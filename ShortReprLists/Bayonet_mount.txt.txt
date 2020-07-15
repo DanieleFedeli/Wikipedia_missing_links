@@ -1,0 +1,5 @@
+Bayonet_mount - Score: 1.0
+Heinrich_Wild - Score: 0.42846957
+Wild_Heerbrugg - Score: 0.42846957
+Light_meter - Score: 0.379018
+Gender_of_connectors_and_fasteners - Score: 0.33082137

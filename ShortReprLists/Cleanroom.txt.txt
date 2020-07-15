@@ -1,0 +1,4 @@
+Cleanroom - Score: 1.0
+Center_for_Nanophase_Materials_Sciences - Score: 0.37848616
+Argonne_National_Laboratory - Score: 0.36003172
+Materials_physics - Score: 0.3572239

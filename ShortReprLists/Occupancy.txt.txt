@@ -1,0 +1,7 @@
+Occupancy - Score: 1.0
+Building_code - Score: 0.5443784
+Building_inspection - Score: 0.44774318
+Fire_door - Score: 0.40109906
+International_Building_Code - Score: 0.3815517
+Fire_test - Score: 0.30951357
+Passive_fire_protection - Score: 0.30951357

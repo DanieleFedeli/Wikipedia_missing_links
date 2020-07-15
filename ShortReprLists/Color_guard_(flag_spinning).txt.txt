@@ -1,0 +1,7 @@
+Color_guard_(flag_spinning) - Score: 1.0
+Majorette_(dancer) - Score: 0.69708884
+Marching_band - Score: 0.6281095
+Winter_guard - Score: 0.5638849
+Drum_major_(marching_band) - Score: 0.5497537
+Ohio_Music_Education_Association - Score: 0.35197514
+Front_ensemble - Score: 0.3462919

@@ -1,0 +1,4 @@
+Pintle - Score: 1.0
+List_of_U.S._military_vehicles_by_model_number - Score: 0.43315393
+Gudgeon - Score: 0.33402827
+Chobham_armour - Score: 0.32682124

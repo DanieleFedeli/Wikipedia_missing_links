@@ -1,0 +1,6 @@
+Park - Score: 1.0
+Playground - Score: 0.5168248
+Urban_forest - Score: 0.38342813
+The_Trust_for_Public_Land - Score: 0.3546173
+Kiwanis_Park,_New_Brunswick - Score: 0.3195399
+Pocket_park - Score: 0.31807768

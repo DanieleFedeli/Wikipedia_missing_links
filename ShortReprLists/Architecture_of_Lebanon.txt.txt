@@ -1,0 +1,5 @@
+Architecture_of_Lebanon - Score: 1.0
+Architecture_of_Israel - Score: 0.3276129
+Architecture_of_Mongolia - Score: 0.3159547
+Beiteddine_Palace - Score: 0.30525276
+Solidere - Score: 0.30525276

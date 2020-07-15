@@ -1,0 +1,7 @@
+Used_Cars - Score: 1.0
+The_Christian_Licorice_Store - Score: 0.5466308
+Where'd_You_Go,_Bernadette_(film) - Score: 0.40721312
+Wimbledon_(film) - Score: 0.35926017
+Chitty_Chitty_Bang_Bang - Score: 0.3517268
+The_Car - Score: 0.33510047
+Breaking_and_Entering_(film) - Score: 0.32772756

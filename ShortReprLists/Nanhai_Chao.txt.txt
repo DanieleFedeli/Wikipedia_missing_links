@@ -1,0 +1,6 @@
+Nanhai_Chao - Score: 1.0
+Lingnan_architecture - Score: 0.83692664
+Tong_lau - Score: 0.7449937
+Music_of_Guangdong - Score: 0.6619556
+Diaolou - Score: 0.6540484
+Gaohu - Score: 0.4579669

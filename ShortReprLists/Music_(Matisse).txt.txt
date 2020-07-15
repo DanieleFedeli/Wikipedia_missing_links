@@ -1,0 +1,6 @@
+Music_(Matisse) - Score: 1.0
+Piano_Lesson_(Matisse) - Score: 1.0
+The_Music_Lesson_(Matisse) - Score: 1.0
+The_Painter's_Studio - Score: 0.5296642
+Rondocubism - Score: 0.35904458
+Proto-Cubism - Score: 0.30311993

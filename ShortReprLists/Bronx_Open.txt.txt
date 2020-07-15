@@ -1,0 +1,5 @@
+Bronx_Open - Score: 1.0
+Moscow_River_Cup - Score: 0.92301303
+Katowice_Open - Score: 0.7565641
+Gastein_Ladies - Score: 0.46785256
+Luxembourg_Open - Score: 0.37376747

@@ -1,0 +1,3 @@
+Brisbane_Skytower - Score: 1.0
+480_Queen_Street - Score: 0.7368126
+Brisbane_Quarter - Score: 0.7368126

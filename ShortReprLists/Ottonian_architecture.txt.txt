@@ -1,0 +1,4 @@
+Ottonian_architecture - Score: 1.0
+Abbey_of_Echternach - Score: 0.5302981
+Mosan_art - Score: 0.4474493
+Westwork - Score: 0.35981545

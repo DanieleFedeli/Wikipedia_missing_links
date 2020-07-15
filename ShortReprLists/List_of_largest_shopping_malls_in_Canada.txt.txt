@@ -1,0 +1,5 @@
+List_of_largest_shopping_malls_in_Canada - Score: 1.0
+List_of_largest_shopping_malls_in_Thailand - Score: 0.5985142
+Dead_mall - Score: 0.42921212
+Shopping_mall - Score: 0.35625783
+Galleria_at_Erieview - Score: 0.32355773

@@ -1,0 +1,5 @@
+Sustainable_development_reserve_(Brazil) - Score: 1.0
+Environmental_restoration - Score: 0.48991004
+Conservation_biology - Score: 0.40298882
+Land_use - Score: 0.38296863
+Green_infrastructure - Score: 0.3681847

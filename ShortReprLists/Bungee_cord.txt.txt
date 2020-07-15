@@ -1,0 +1,7 @@
+Bungee_cord - Score: 1.0
+Tandem - Score: 0.89856744
+Cantilever - Score: 0.6262228
+Spartan_Aircraft_Company - Score: 0.41866246
+Airframe - Score: 0.40037626
+Fiberglass - Score: 0.39382342
+Anzani - Score: 0.33202258

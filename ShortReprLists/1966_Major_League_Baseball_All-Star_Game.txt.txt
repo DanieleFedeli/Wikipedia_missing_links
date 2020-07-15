@@ -1,0 +1,7 @@
+1966_Major_League_Baseball_All-Star_Game - Score: 1.0
+1887_in_baseball - Score: 0.5155176
+1886_in_baseball - Score: 0.43659526
+Roger_Dean_Stadium - Score: 0.40252528
+1885_in_baseball - Score: 0.36781
+1888_in_baseball - Score: 0.36781
+Brock_for_Broglio - Score: 0.3543214

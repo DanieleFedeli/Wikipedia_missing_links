@@ -1,0 +1,6 @@
+Horsham_Stone - Score: 1.0
+Bargate_stone - Score: 0.5662467
+Dunorlan_Park - Score: 0.47789282
+Ford,_West_Sussex - Score: 0.42120516
+Tin_tabernacle - Score: 0.39327052
+Clunch - Score: 0.38627732

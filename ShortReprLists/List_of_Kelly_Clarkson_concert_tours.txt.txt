@@ -1,0 +1,4 @@
+List_of_Kelly_Clarkson_concert_tours - Score: 1.0
+List_of_Kelly_Clarkson_promotional_tours - Score: 0.881858
+Miracle_on_Broadway - Score: 0.85111415
+Foolish_Games - Score: 0.30295965

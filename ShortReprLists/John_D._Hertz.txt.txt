@@ -1,0 +1,5 @@
+John_D._Hertz - Score: 1.0
+Furlong - Score: 0.75187534
+Charles_T._Fisher - Score: 0.68647134
+Gil_Stratton - Score: 0.31102136
+Phyllis_George - Score: 0.31102136

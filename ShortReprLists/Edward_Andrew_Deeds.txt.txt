@@ -1,0 +1,7 @@
+Edward_Andrew_Deeds - Score: 1.0
+Conrad_L._Wirth - Score: 0.3678203
+Hiram_Percy_Maxim - Score: 0.31770775
+Edward_G._Budd - Score: 0.3147891
+Alfred_P._Sloan - Score: 0.30453005
+Charles_F._Kettering - Score: 0.30453005
+Willis_Carrier - Score: 0.30453005

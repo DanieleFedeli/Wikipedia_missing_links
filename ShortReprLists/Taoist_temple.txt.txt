@@ -1,0 +1,5 @@
+Taoist_temple - Score: 1.0
+Feng_shui - Score: 0.49310204
+Temple - Score: 0.40900347
+Buddhist_monastery - Score: 0.3113918
+Classic_of_Music - Score: 0.30015004

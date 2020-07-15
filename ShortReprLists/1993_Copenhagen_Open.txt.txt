@@ -1,0 +1,7 @@
+1993_Copenhagen_Open - Score: 1.0
+1993_Ansett_Australian_Indoor_Championships - Score: 0.8920966
+1993_ATP_German_Open - Score: 0.8920966
+1993_Estoril_Open - Score: 0.8920966
+1993_Qatar_Open - Score: 0.803781
+1993_Paris_Open - Score: 0.65271276
+1993_Torneo_Godó - Score: 0.591855

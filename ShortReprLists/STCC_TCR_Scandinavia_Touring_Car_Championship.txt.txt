@@ -1,0 +1,4 @@
+STCC_TCR_Scandinavia_Touring_Car_Championship - Score: 1.0
+Campeonato_Nacional_de_Velocidade - Score: 0.30890894
+List_of_TCR_Series_champions - Score: 0.30890894
+Super_Taikyu_Series - Score: 0.30890894

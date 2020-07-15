@@ -1,0 +1,6 @@
+Pointe_du_Hoc - Score: 1.0
+Observation_post - Score: 0.5605435
+Room_40 - Score: 0.48012713
+Atlantic_Wall - Score: 0.393941
+World_War_I_in_popular_culture - Score: 0.39365175
+Concert_Yutel_for_Peace - Score: 0.37829238

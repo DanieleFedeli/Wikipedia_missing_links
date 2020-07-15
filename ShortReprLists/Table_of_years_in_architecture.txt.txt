@@ -1,0 +1,4 @@
+Table_of_years_in_architecture - Score: 1.0
+1705_in_architecture - Score: 0.3013062
+1709_in_architecture - Score: 0.3013062
+1710_in_architecture - Score: 0.3013062

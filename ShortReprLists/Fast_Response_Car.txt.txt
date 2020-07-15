@@ -1,0 +1,4 @@
+Fast_Response_Car - Score: 1.0
+Police_van - Score: 0.422165
+Public_housing_in_Singapore - Score: 0.30275935
+Smart_Nation - Score: 0.30275935

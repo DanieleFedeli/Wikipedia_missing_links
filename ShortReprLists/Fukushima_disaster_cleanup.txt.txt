@@ -1,0 +1,3 @@
+Fukushima_disaster_cleanup - Score: 1.0
+Containment_building - Score: 0.3611952
+List_of_nuclear_reactors - Score: 0.3611952

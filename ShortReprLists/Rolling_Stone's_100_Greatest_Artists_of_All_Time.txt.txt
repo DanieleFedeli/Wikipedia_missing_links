@@ -1,0 +1,7 @@
+Rolling_Stone's_100_Greatest_Artists_of_All_Time - Score: 1.0
+UK_Music_Hall_of_Fame - Score: 0.54045725
+List_of_Rock_and_Roll_Hall_of_Fame_inductees - Score: 0.50772375
+Rock_and_Roll_Hall_of_Fame - Score: 0.43176335
+Vocal_Group_Hall_of_Fame - Score: 0.34447184
+Songwriters_Hall_of_Fame - Score: 0.34010673
+Frank_Slay - Score: 0.31910348

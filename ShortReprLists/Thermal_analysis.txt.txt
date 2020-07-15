@@ -1,0 +1,4 @@
+Thermal_analysis - Score: 1.0
+Dynamic_mechanical_analysis - Score: 0.614248
+Analytical_chemistry - Score: 0.36111212
+Forensic_materials_engineering - Score: 0.359271

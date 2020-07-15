@@ -1,0 +1,3 @@
+Sporting_News_Comeback_Player_of_the_Year_Award - Score: 1.0
+John_Hiller - Score: 0.42386577
+Luis_Sojo - Score: 0.3517613

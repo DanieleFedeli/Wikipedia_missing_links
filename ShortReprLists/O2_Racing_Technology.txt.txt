@@ -1,0 +1,5 @@
+O2_Racing_Technology - Score: 1.0
+Newman_Wachs_Racing - Score: 0.513594
+Tasman_Motorsports - Score: 0.36270523
+Firestone_Firehawk_600 - Score: 0.34371865
+Mont-Tremblant_Champ_Car_Grand_Prix - Score: 0.32845637

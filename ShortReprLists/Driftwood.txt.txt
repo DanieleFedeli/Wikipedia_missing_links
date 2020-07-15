@@ -1,0 +1,6 @@
+Driftwood - Score: 1.0
+Aquarium_furniture - Score: 0.8467611
+Bog-wood - Score: 0.582602
+Aquascaping - Score: 0.4321418
+Anthropogenic_biome - Score: 0.32784903
+Indigenous_(ecology) - Score: 0.31680435

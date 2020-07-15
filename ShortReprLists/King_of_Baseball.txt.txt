@@ -1,0 +1,6 @@
+King_of_Baseball - Score: 1.0
+Bill_Weiss - Score: 0.83264023
+Pat_Gillick - Score: 0.3620734
+John_McHale_(baseball) - Score: 0.3171991
+Jimmy_McAleer - Score: 0.30684155
+Frank_Shaughnessy - Score: 0.3065672

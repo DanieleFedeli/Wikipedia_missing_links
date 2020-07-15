@@ -1,0 +1,4 @@
+Collegiate_a_cappella - Score: 1.0
+Cornell_University_College_of_Architecture,_Art,_and_Planning - Score: 0.499146
+List_of_Cornell_University_songs - Score: 0.499146
+Rockland_Community_College - Score: 0.32105434

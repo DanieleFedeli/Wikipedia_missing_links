@@ -1,0 +1,6 @@
+Gothic_cathedrals_and_churches - Score: 1.0
+Rouen_Cathedral - Score: 0.4401229
+French_Gothic_architecture - Score: 0.43994644
+Flamboyant - Score: 0.34792218
+Brick_Gothic - Score: 0.33579278
+Lierne_(vault) - Score: 0.33156604

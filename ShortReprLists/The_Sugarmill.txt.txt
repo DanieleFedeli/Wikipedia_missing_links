@@ -1,0 +1,4 @@
+The_Sugarmill - Score: 1.0
+The_Underground_(Stoke_concert_venue) - Score: 1.0
+Wedgwood_Institute - Score: 0.91111094
+Burslem_School_of_Art - Score: 0.89928395

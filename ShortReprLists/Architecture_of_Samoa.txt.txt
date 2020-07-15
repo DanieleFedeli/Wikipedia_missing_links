@@ -1,0 +1,7 @@
+Architecture_of_Samoa - Score: 1.0
+Taonga_pūoro - Score: 0.55852133
+Music_of_the_Austral_Islands - Score: 0.5565896
+Music_of_French_Polynesia - Score: 0.5203108
+Music_of_Nauru - Score: 0.44473305
+Music_of_the_Federated_States_of_Micronesia - Score: 0.44473305
+Music_of_Melanesia - Score: 0.353226

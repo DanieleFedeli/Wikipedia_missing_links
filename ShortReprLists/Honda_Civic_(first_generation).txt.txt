@@ -1,0 +1,5 @@
+Honda_Civic_(first_generation) - Score: 1.0
+1978_Australian_Rally_Championship - Score: 0.32653347
+1979_Australian_Rally_Championship - Score: 0.32653347
+1975_British_Saloon_Car_Championship - Score: 0.31337216
+List_of_BTCC_champions - Score: 0.31337216

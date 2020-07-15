@@ -1,0 +1,7 @@
+Bulletin_of_the_Council_for_Research_in_Music_Education - Score: 1.0
+University_of_Illinois_at_Chicago_College_of_Urban_Planning_and_Public_Affairs - Score: 0.6291994
+Sousa_Archives_and_Center_for_American_Music - Score: 0.50664884
+Illinois_Solar_Decathlon - Score: 0.48958075
+List_of_University_of_Illinois_songs - Score: 0.48958075
+Sibley_Music_Library - Score: 0.46471605
+Illinois_Field - Score: 0.40087613

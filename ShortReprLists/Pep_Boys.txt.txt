@@ -1,0 +1,7 @@
+Pep_Boys - Score: 1.0
+2019_IndyCar_Classic - Score: 0.7969428
+2010_Honda_Indy_Edmonton - Score: 0.47235966
+SAFER_barrier - Score: 0.46024376
+2002_Indianapolis_500 - Score: 0.37060514
+Firestone_Firehawk_600 - Score: 0.35804653
+Roger_Penske - Score: 0.35721666

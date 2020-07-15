@@ -1,0 +1,3 @@
+Stairlift - Score: 1.0
+Accessibility - Score: 0.46468765
+Grade_(slope) - Score: 0.33668208

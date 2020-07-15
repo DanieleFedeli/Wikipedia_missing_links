@@ -1,0 +1,3 @@
+Ralph_Bunche_Park - Score: 1.0
+United_Nations_Department_of_Economic_and_Social_Affairs - Score: 0.4156773
+United_Nations_Security_Council_mural - Score: 0.4156773

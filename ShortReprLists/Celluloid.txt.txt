@@ -1,0 +1,6 @@
+Celluloid - Score: 1.0
+Bakelite - Score: 0.6012113
+Plastic - Score: 0.36165193
+Curtain - Score: 0.35816136
+Elastomer - Score: 0.35816136
+Saran_(plastic) - Score: 0.34567493

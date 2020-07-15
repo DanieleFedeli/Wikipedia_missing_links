@@ -1,0 +1,5 @@
+Molina_and_Johnson - Score: 1.0
+Unsigned_artist - Score: 0.35270947
+New_Multitudes - Score: 0.34737688
+Acoustic_music - Score: 0.34664446
+Gary_Burr - Score: 0.304271

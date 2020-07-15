@@ -1,0 +1,7 @@
+Pandiatonicism - Score: 1.0
+Process_music - Score: 0.90547377
+Absolute_music - Score: 0.8912623
+Polyrhythm - Score: 0.5550337
+Serialism - Score: 0.37911382
+Music_theatre - Score: 0.3682528
+Microtonal_music - Score: 0.34096906

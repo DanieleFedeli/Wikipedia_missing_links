@@ -1,0 +1,4 @@
+Korean_architecture - Score: 1.0
+Korean_fortress - Score: 0.59849906
+Ondol - Score: 0.49852332
+Hwaseong_Fortress - Score: 0.39213106

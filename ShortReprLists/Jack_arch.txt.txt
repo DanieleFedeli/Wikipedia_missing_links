@@ -1,0 +1,7 @@
+Jack_arch - Score: 1.0
+Structurae - Score: 0.4355438
+Masonry - Score: 0.4292633
+Segmental_arch - Score: 0.42879114
+Wing_wall - Score: 0.34459984
+King_post - Score: 0.3310357
+Batter_(walls) - Score: 0.32584178

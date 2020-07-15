@@ -1,0 +1,5 @@
+Jack_Graney_Award - Score: 1.0
+Tip_O'Neill_Award - Score: 0.7193909
+Baseball_in_Canada - Score: 0.38329908
+Architecture_of_Canada - Score: 0.31507885
+List_of_Canadian_musicians - Score: 0.3044644

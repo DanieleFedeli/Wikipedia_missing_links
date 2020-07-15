@@ -1,0 +1,4 @@
+Hiram_Bithorn_Stadium - Score: 1.0
+1999_Montreal_Expos_season - Score: 0.6139743
+Pearson_Cup - Score: 0.3900381
+Charles_Bronfman - Score: 0.3430378

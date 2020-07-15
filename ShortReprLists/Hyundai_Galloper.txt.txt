@@ -1,0 +1,3 @@
+Hyundai_Galloper - Score: 1.0
+Hyundai_Excel - Score: 0.9039039
+Mitsubishi_380 - Score: 0.3875475

@@ -1,0 +1,3 @@
+O'Higgins_Park - Score: 1.0
+Simón_Bolívar_Park - Score: 0.4334246
+Foro_Sol - Score: 0.33488643

@@ -1,0 +1,4 @@
+Wave_pool - Score: 1.0
+Rally_raid - Score: 0.31266788
+Sandboarding - Score: 0.31266788
+Carabiner - Score: 0.30213463

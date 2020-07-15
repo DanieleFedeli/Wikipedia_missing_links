@@ -1,0 +1,7 @@
+Electroluminescent_display - Score: 1.0
+Phosphor - Score: 0.5609907
+Photoresist - Score: 0.409662
+Glow_discharge - Score: 0.37263763
+Polythiophene - Score: 0.35276437
+Electron_mobility - Score: 0.3509899
+Thin_film - Score: 0.3387535

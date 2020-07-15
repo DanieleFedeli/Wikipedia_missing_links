@@ -1,0 +1,6 @@
+Baseball_park - Score: 1.0
+Dugout_(baseball) - Score: 0.7844348
+Baseball_field - Score: 0.73865217
+Batting_cage - Score: 0.47150353
+Batter's_eye - Score: 0.37479088
+Infield - Score: 0.37451038

@@ -1,0 +1,5 @@
+Viton - Score: 1.0
+FFKM - Score: 0.8656913
+Vespel - Score: 0.8656913
+Zytel - Score: 0.8656913
+Tyvek - Score: 0.83124447

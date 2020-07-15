@@ -1,0 +1,6 @@
+Electric_mandolin - Score: 1.0
+Electric_cello - Score: 0.59727806
+Mandobass - Score: 0.5296534
+Cigar_box_guitar - Score: 0.39940277
+Chapman_Stick - Score: 0.38044545
+Bordonua - Score: 0.32452556

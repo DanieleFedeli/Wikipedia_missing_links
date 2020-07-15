@@ -1,0 +1,3 @@
+County_surveyor - Score: 1.0
+University_City,_Missouri - Score: 0.8402454
+Abandoned_village - Score: 0.5884633

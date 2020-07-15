@@ -1,0 +1,7 @@
+Erzurum_Airport - Score: 1.0
+United_Nations_Economic_Commission_for_Europe - Score: 0.39750835
+Asphalt - Score: 0.38075203
+Narita_International_Airport - Score: 0.37819505
+Berlin_Tempelhof_Airport - Score: 0.3633016
+Jet_bridge - Score: 0.35106263
+Merkez_Park - Score: 0.30278027

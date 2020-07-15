@@ -1,0 +1,6 @@
+Lining_out - Score: 1.0
+Hymn_tune - Score: 0.5835663
+Singing_school - Score: 0.486681
+Christian_music - Score: 0.46971408
+Hymnary.org - Score: 0.35442293
+Gospel_Music_Hall_of_Fame - Score: 0.3017727

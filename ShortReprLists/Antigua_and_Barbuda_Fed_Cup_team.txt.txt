@@ -1,0 +1,3 @@
+Antigua_and_Barbuda_Fed_Cup_team - Score: 1.0
+Barbados_Fed_Cup_team - Score: 0.3987638
+Colombia_Fed_Cup_team - Score: 0.34528396

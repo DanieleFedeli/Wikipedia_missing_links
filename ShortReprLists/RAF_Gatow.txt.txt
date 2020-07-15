@@ -1,0 +1,5 @@
+RAF_Gatow - Score: 1.0
+Berlin_Tempelhof_Airport - Score: 0.39092603
+Texas_Towers - Score: 0.30774423
+United_Nations_Economic_Commission_for_Europe - Score: 0.3040944
+List_of_parks_and_gardens_in_Berlin - Score: 0.30017188

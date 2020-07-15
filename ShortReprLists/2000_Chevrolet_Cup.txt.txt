@@ -1,0 +1,7 @@
+2000_Chevrolet_Cup - Score: 1.0
+2000_Nottingham_Open - Score: 1.0
+2000_Open_13 - Score: 1.0
+2000_Cincinnati_Masters - Score: 0.91200835
+2000_Gold_Flake_Open - Score: 0.91200835
+2000_Torneo_Godó - Score: 0.82213676
+2000_Estoril_Open - Score: 0.3755976

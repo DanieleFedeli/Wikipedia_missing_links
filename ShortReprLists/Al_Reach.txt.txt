@@ -1,0 +1,5 @@
+Al_Reach - Score: 1.0
+Arthur_Irwin - Score: 0.44488236
+Pat_Gillick - Score: 0.44277745
+Bob_Ferguson_(infielder) - Score: 0.40525985
+Lefty_O'Doul - Score: 0.3659721

@@ -1,0 +1,6 @@
+Opel_Kadett_C - Score: 1.0
+Opel_Manta - Score: 0.5839776
+Opel_Speedster - Score: 0.37865648
+Opel_Adam - Score: 0.37226346
+Opel_Agila - Score: 0.37226346
+Opel_Karl - Score: 0.37226346

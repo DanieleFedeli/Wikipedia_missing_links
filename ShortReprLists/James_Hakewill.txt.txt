@@ -1,0 +1,3 @@
+James_Hakewill - Score: 1.0
+Newton,_Massachusetts - Score: 0.3135633
+Pittsfield,_Massachusetts - Score: 0.3135633

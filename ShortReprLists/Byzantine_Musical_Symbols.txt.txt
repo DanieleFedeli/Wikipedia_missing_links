@@ -1,0 +1,4 @@
+Byzantine_Musical_Symbols - Score: 1.0
+Eduard_Khil - Score: 0.36284006
+Mensural_notation - Score: 0.303503
+Neume - Score: 0.303503

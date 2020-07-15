@@ -1,0 +1,7 @@
+Rose_Parade_marching_bands - Score: 1.0
+Kingdome - Score: 0.37455222
+Hard_Rock_Stadium - Score: 0.3690807
+Maxine_Goodman_Levin_College_of_Urban_Affairs - Score: 0.36736643
+Sporting_News - Score: 0.34830034
+Lexington_Park - Score: 0.3006497
+Nicollet_Park - Score: 0.3006497

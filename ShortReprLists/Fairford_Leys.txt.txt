@@ -1,0 +1,6 @@
+Fairford_Leys - Score: 1.0
+Architecture_of_Aylesbury - Score: 0.4286327
+Claydon_House - Score: 0.39641112
+Oxfordshire_Architectural_and_Historical_Society - Score: 0.3462155
+Diseworth - Score: 0.3406262
+Pevsner_Architectural_Guides - Score: 0.33414552

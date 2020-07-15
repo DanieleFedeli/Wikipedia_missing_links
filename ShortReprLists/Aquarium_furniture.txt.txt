@@ -1,0 +1,5 @@
+Aquarium_furniture - Score: 1.0
+Driftwood - Score: 0.82531714
+Bog-wood - Score: 0.56784785
+Aquascaping - Score: 0.50497216
+Coral_sand - Score: 0.32838288

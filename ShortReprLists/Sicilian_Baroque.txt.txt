@@ -1,0 +1,7 @@
+Sicilian_Baroque - Score: 1.0
+Palermo_Cathedral - Score: 0.7791953
+City_of_Vicenza_and_the_Palladian_Villas_of_the_Veneto - Score: 0.40234366
+Siena_Cathedral_Pulpit - Score: 0.40234366
+Milan_Cathedral - Score: 0.31131235
+Pieve - Score: 0.3054934
+Spolia - Score: 0.3054934

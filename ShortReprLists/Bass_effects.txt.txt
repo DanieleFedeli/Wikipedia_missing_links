@@ -1,0 +1,3 @@
+Bass_effects - Score: 1.0
+Walkdown - Score: 0.915681
+Alternate_bass - Score: 0.69378304

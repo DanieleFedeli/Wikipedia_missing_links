@@ -1,0 +1,5 @@
+Russian_Cup_(tennis) - Score: 1.0
+Kremlin_Cup - Score: 0.42822903
+Madrid_Open_(tennis) - Score: 0.352368
+Tennis_at_the_Summer_Olympics - Score: 0.349723
+Diamond_Games - Score: 0.33960873

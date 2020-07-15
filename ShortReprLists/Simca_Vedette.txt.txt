@@ -1,0 +1,6 @@
+Simca_Vedette - Score: 1.0
+Château_de_Chambord - Score: 0.33178017
+Château_de_Montsoreau - Score: 0.30853906
+Château_de_Marly - Score: 0.3028866
+Château_de_Meudon - Score: 0.3028866
+Machine_de_Marly - Score: 0.3028866

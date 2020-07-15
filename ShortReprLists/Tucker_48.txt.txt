@@ -1,0 +1,5 @@
+Tucker_48 - Score: 1.0
+Preston_Tucker - Score: 0.5111062
+Packard - Score: 0.37768477
+Franklin_(automobile) - Score: 0.35560757
+Studebaker - Score: 0.30984

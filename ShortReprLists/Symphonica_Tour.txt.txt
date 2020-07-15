@@ -1,0 +1,6 @@
+Symphonica_Tour - Score: 1.0
+Cover_to_Cover_tour - Score: 0.83249456
+List_of_George_Michael_live_performances - Score: 0.83249456
+Queen_+_Paul_Rodgers - Score: 0.35597402
+Queen_+_Adam_Lambert - Score: 0.34566933
+Yarkon_Park - Score: 0.3320768

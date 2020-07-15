@@ -1,0 +1,7 @@
+Requinto - Score: 1.0
+Bordonua - Score: 0.6280273
+Mandobass - Score: 0.4331621
+Cigar_box_guitar - Score: 0.39051262
+Charango - Score: 0.36199597
+Ghaychak - Score: 0.33293527
+Viola_braguesa - Score: 0.32879755

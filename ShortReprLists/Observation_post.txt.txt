@@ -1,0 +1,6 @@
+Observation_post - Score: 1.0
+Pointe_du_Hoc - Score: 0.595382
+The_Rifles - Score: 0.45829287
+Mole_(architecture) - Score: 0.4222078
+Room_40 - Score: 0.37712318
+Moorish_Castle - Score: 0.35426715

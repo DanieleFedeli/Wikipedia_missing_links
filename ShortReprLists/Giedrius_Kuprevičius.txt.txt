@@ -1,0 +1,6 @@
+Giedrius_Kuprevičius - Score: 1.0
+Juozas_Domarkas - Score: 1.0
+Vytautas_Barkauskas - Score: 1.0
+Mūza_Rubackytė - Score: 0.91684145
+Vilnius_Gediminas_Technical_University - Score: 0.3242326
+Academy_of_Arts,_Architecture_and_Design_in_Prague - Score: 0.3041322

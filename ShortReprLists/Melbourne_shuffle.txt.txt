@@ -1,0 +1,5 @@
+Melbourne_shuffle - Score: 1.0
+Electro_dance - Score: 0.9235414
+Para_Para - Score: 0.90504664
+Harlem_shake_(dance) - Score: 0.8335625
+Footwork_(genre) - Score: 0.5503233

@@ -1,0 +1,3 @@
+Bricklin_SV-1 - Score: 1.0
+HTT_Pléthore - Score: 0.4992358
+Volvo_Halifax_Assembly - Score: 0.4438628

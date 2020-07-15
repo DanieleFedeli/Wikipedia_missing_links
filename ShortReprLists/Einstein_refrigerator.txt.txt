@@ -1,0 +1,5 @@
+Einstein_refrigerator - Score: 1.0
+Condensed_matter_physics - Score: 0.41125244
+Zero-point_energy - Score: 0.41125244
+Frame_of_reference - Score: 0.33025065
+Rotating_reference_frame - Score: 0.33025065

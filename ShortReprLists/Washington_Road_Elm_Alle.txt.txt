@@ -1,0 +1,5 @@
+Washington_Road_Elm_Allée - Score: 1.0
+Campbell's_Field - Score: 0.32237884
+Center_for_Urban_Policy_Research - Score: 0.32237884
+Institute_of_Jazz_Studies - Score: 0.32237884
+Anniversary_Park - Score: 0.30831796

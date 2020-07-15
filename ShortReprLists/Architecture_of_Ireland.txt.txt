@@ -1,0 +1,6 @@
+Architecture_of_Ireland - Score: 1.0
+Act_for_the_Settlement_of_Ireland_1652 - Score: 0.5865049
+The_Pale - Score: 0.56674665
+Rock_of_Cashel - Score: 0.39744362
+An_Bord_Pleanála - Score: 0.38358775
+Leinster_House - Score: 0.38358775

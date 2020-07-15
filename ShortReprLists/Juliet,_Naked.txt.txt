@@ -1,0 +1,4 @@
+Juliet,_Naked - Score: 1.0
+Songbook_(Nick_Hornby_book) - Score: 0.8822844
+About_a_Boy_(novel) - Score: 0.652492
+High_Fidelity_(novel) - Score: 0.6463532

@@ -1,0 +1,11 @@
+Trabant - Score: 1.0
+Volkswagen - Score: 0.7072265
+Bentley - Score: 0.40785694
+Škoda_Auto - Score: 0.40785694
+Seat - Score: 0.36923906
+ADAC - Score: 0.34833002
+Audi - Score: 0.34699708
+Mercedes-Benz - Score: 0.32594538
+Volvo - Score: 0.31326222
+SEAT_Toledo - Score: 0.3045018
+Austro-Daimler - Score: 0.30014896

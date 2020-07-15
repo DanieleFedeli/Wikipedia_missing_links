@@ -1,0 +1,5 @@
+Contour_crafting - Score: 1.0
+Multi-function_structure - Score: 0.48757172
+Metal_foam - Score: 0.3657734
+Acrylonitrile_butadiene_styrene - Score: 0.35534826
+Thermoplastic - Score: 0.35534826

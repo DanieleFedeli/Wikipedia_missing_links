@@ -1,0 +1,7 @@
+Parque_la_Junta - Score: 1.0
+Uni-Trade_Stadium - Score: 0.9342874
+Estadio_Chevron - Score: 0.6221332
+Parque_Kukulcán_Alamo - Score: 0.6221332
+Veterans_Field - Score: 0.5229902
+Ciudad_Deportiva_(Nuevo_Laredo) - Score: 0.50594586
+Estadio_Nuevo_Laredo - Score: 0.50594586

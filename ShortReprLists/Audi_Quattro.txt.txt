@@ -1,0 +1,7 @@
+Audi_Quattro - Score: 1.0
+Audi_80 - Score: 0.70519143
+Audi_A1 - Score: 0.5204296
+Audi_A4 - Score: 0.48450753
+Audi_100 - Score: 0.41723603
+Audi_A3 - Score: 0.3766622
+Audi_R8_(Type_4S) - Score: 0.30369177

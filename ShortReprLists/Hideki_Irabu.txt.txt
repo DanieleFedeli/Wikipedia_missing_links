@@ -1,0 +1,6 @@
+Hideki_Irabu - Score: 1.0
+Jim_Fanning - Score: 0.3693585
+Jackie_Robinson - Score: 0.3393396
+Sporting_News_Pitcher_of_the_Year_Award - Score: 0.3244771
+Pat_Hentgen - Score: 0.3113515
+Reggie_Cleveland - Score: 0.30728373

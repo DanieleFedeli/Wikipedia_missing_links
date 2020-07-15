@@ -1,0 +1,4 @@
+480_Queen_Street - Score: 1.0
+Brisbane_Quarter - Score: 0.8858927
+Brisbane_Skytower - Score: 0.76593643
+Mezzanine - Score: 0.3594733

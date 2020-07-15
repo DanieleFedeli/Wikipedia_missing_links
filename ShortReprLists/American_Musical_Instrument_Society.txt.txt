@@ -1,0 +1,7 @@
+American_Musical_Instrument_Society - Score: 1.0
+Galpin_Society - Score: 1.0
+Musical_Instrument_Museum_(Brussels) - Score: 1.0
+Dorian_Recordings - Score: 0.92311275
+List_of_period_instruments - Score: 0.92311275
+Early_music_revival - Score: 0.44031987
+List_of_early_music_ensembles - Score: 0.44031987

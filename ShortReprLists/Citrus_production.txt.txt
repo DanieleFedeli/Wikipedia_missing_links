@@ -1,0 +1,5 @@
+Citrus_production - Score: 1.0
+List_of_countries_by_truck_exports - Score: 0.36082765
+Dwarfing - Score: 0.32430673
+Garden_roses - Score: 0.32430673
+Backcrossing - Score: 0.31373754

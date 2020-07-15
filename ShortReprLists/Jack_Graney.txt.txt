@@ -1,0 +1,4 @@
+Jack_Graney - Score: 1.0
+Ted_Husing - Score: 0.34496433
+1994_World_Series - Score: 0.32656455
+The_Double_(Seattle_Mariners) - Score: 0.32656455

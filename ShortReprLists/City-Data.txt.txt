@@ -1,0 +1,3 @@
+City-Data - Score: 1.0
+Linden_Hills,_Minneapolis - Score: 0.6519199
+Minneapolis_City_Hall - Score: 0.33882147

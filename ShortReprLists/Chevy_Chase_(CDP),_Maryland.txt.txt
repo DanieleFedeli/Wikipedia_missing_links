@@ -1,0 +1,7 @@
+Chevy_Chase_(CDP),_Maryland - Score: 1.0
+Braddock_Heights,_Maryland - Score: 0.6919393
+Mount_Rainier,_Maryland - Score: 0.64582926
+Bethesda_Big_Train - Score: 0.4967186
+Union_Square,_Baltimore - Score: 0.3320245
+Brookland_(Washington,_D.C.) - Score: 0.3189397
+Mount_Pleasant_(Washington,_D.C.) - Score: 0.3189397

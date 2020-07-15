@@ -1,0 +1,4 @@
+Verd_antique - Score: 1.0
+Openwork - Score: 0.3645023
+Matroneum - Score: 0.34909806
+Groin_vault - Score: 0.34472108

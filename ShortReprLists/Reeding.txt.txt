@@ -1,0 +1,4 @@
+Reeding - Score: 1.0
+Cincinnati_Musical_Center_half_dollar - Score: 0.706825
+United_States_Bicentennial_coinage - Score: 0.64636254
+The_Capture_of_the_Hessians_at_Trenton,_December_26,_1776 - Score: 0.30375957

@@ -1,0 +1,6 @@
+Chashitsu - Score: 1.0
+Mizuya - Score: 1.0
+Wabi-sabi - Score: 0.44577438
+Folding_screen - Score: 0.4234418
+Tatami - Score: 0.34991184
+Tokonoma - Score: 0.33449897

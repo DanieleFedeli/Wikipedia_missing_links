@@ -1,0 +1,6 @@
+Baton_(conducting) - Score: 1.0
+Generalmusikdirektor - Score: 0.34557182
+Répétiteur - Score: 0.33304873
+Bandmaster - Score: 0.33173752
+Impresario - Score: 0.3066339
+Ballet_(music) - Score: 0.30043873

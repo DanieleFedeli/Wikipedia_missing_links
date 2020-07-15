@@ -1,0 +1,4 @@
+Bill_Weiss - Score: 1.0
+King_of_Baseball - Score: 0.831666
+Jimmy_McAleer - Score: 0.3929379
+John_McHale_(baseball) - Score: 0.31682798

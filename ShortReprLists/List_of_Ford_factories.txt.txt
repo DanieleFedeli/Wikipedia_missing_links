@@ -1,0 +1,6 @@
+List_of_Ford_factories - Score: 1.0
+Lincoln_Motor_Company - Score: 0.4095739
+Studebaker - Score: 0.3472671
+Plymouth_(automobile) - Score: 0.34601933
+List_of_Chrysler_factories - Score: 0.34277153
+Packard_Automotive_Plant - Score: 0.32357162

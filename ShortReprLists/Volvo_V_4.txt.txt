@@ -1,0 +1,7 @@
+Volvo_ÖV_4 - Score: 1.0
+Volvo_140_Series - Score: 0.44572517
+Volvo_164 - Score: 0.44572517
+Volvo_Amazon - Score: 0.44572517
+Volvo_Duett - Score: 0.44572517
+Volvo_P1800 - Score: 0.44572517
+Shooting-brake - Score: 0.35356465

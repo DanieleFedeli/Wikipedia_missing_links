@@ -1,0 +1,7 @@
+2019_European_Baseball_Championship_-_Women - Score: 1.0
+2016_European_Baseball_Championship - Score: 0.8485273
+2019_European_Baseball_Championship_-_B-Pool - Score: 0.8237827
+2019_European_Baseball_Championship - Score: 0.7571187
+2020_Women's_Baseball_World_Cup - Score: 0.54370314
+Women's_Baseball_World_Cup - Score: 0.45052394
+2019_European_Baseball_Championship_–_Qualification - Score: 0.4403363

@@ -1,0 +1,7 @@
+Passive_fire_protection - Score: 1.0
+Arthur_B._Guise_Medal - Score: 0.72921073
+Fire_Technology - Score: 0.72921073
+Active_fire_protection - Score: 0.704645
+Fire_sprinkler_system - Score: 0.7015461
+Fire_door - Score: 0.6257079
+Fire_test - Score: 0.5370936

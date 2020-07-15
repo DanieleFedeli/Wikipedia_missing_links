@@ -1,0 +1,2 @@
+General_Lee_(car) - Score: 1.0
+Dodge_Charger_(B-body) - Score: 0.3663961

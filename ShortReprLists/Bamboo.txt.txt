@@ -1,0 +1,5 @@
+Bamboo - Score: 1.0
+Ironwood - Score: 0.40446642
+Horticulture - Score: 0.39554262
+Urban_forest - Score: 0.3111335
+Afzelia - Score: 0.30054763

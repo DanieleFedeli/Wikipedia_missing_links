@@ -1,0 +1,3 @@
+Stonehenge_replicas_and_derivatives - Score: 1.0
+Phonehenge_West - Score: 0.90731734
+Trilithon - Score: 0.5568416

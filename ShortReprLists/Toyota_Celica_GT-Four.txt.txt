@@ -1,0 +1,9 @@
+Toyota_Celica_GT-Four - Score: 1.0
+Ford_Escort_RS_Cosworth - Score: 0.6058921
+Škoda_Fabia_S2000 - Score: 0.41994733
+1978_Australian_Rally_Championship - Score: 0.40626118
+1979_Australian_Rally_Championship - Score: 0.40626118
+2006_Rally_Australia - Score: 0.35436112
+Subaru_Impreza - Score: 0.35239467
+Mazda_RX-7 - Score: 0.3171544
+Rallying - Score: 0.30790612

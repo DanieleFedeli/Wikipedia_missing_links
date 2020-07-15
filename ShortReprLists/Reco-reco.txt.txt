@@ -1,0 +1,6 @@
+Reco-reco - Score: 1.0
+Surdo - Score: 0.4880882
+Bateria - Score: 0.40260455
+Caxixi - Score: 0.35344008
+Timbales - Score: 0.3322075
+Zabumba - Score: 0.32121283

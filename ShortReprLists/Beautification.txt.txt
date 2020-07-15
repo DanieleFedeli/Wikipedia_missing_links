@@ -1,0 +1,5 @@
+Beautification - Score: 1.0
+Landscaping - Score: 0.45721835
+Lawrence_Hall,_London - Score: 0.37004343
+Suburbanization - Score: 0.31410533
+Landscape_architect - Score: 0.3026266

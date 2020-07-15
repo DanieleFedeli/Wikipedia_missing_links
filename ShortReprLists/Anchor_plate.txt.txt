@@ -1,0 +1,6 @@
+Anchor_plate - Score: 1.0
+Masonry - Score: 0.38722694
+Shear_wall - Score: 0.3501555
+Batter_(walls) - Score: 0.3450308
+Shotcrete - Score: 0.31873214
+Load-bearing_wall - Score: 0.3133612

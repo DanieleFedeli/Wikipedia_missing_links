@@ -1,0 +1,5 @@
+Activity_centre - Score: 1.0
+Medium-density_housing - Score: 0.43056265
+Commuter_town - Score: 0.38516113
+Selection_(Australian_history) - Score: 0.368878
+Urban_village - Score: 0.32347646

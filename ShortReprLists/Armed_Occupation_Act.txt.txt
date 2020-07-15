@@ -1,0 +1,4 @@
+Armed_Occupation_Act - Score: 1.0
+Florida_State_League_Hall_of_Fame - Score: 0.30537683
+Florida_State_League_Pitcher_of_the_Year_Award - Score: 0.30537683
+Florida_State_League_Player_of_the_Year_Award - Score: 0.30537683

@@ -1,0 +1,4 @@
+MLB_Slugfest - Score: 1.0
+Baseball_Mogul - Score: 0.50609237
+Out_of_the_Park_Baseball - Score: 0.41357905
+MLB_Power_Pros - Score: 0.30235752

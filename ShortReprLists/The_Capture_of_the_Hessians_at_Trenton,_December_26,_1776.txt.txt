@@ -1,0 +1,6 @@
+The_Capture_of_the_Hessians_at_Trenton,_December_26,_1776 - Score: 1.0
+Cincinnati_Musical_Center_half_dollar - Score: 0.32348216
+Reeding - Score: 0.32348216
+National_Archives_Building - Score: 0.31548104
+United_States_Senate_Reception_Room - Score: 0.30485302
+Sunshine_Special_(automobile) - Score: 0.3042885

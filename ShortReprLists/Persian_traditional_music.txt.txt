@@ -1,0 +1,6 @@
+Persian_traditional_music - Score: 1.0
+Iranian_rock - Score: 0.81117487
+Iranian_architecture - Score: 0.39523095
+Architects_of_Iran - Score: 0.38145217
+Achaemenid_architecture - Score: 0.36860174
+Automotive_industry_in_Iran - Score: 0.3260431

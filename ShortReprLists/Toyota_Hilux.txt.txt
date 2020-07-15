@@ -1,0 +1,4 @@
+Toyota_Hilux - Score: 1.0
+Toyota_Land_Cruiser - Score: 0.9303638
+Toyota_Land_Cruiser_(J40) - Score: 0.45344892
+Toyota_Land_Cruiser_(J70) - Score: 0.37097293

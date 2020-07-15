@@ -1,0 +1,7 @@
+Plumber's_snake - Score: 1.0
+Plumber_wrench - Score: 0.92162037
+Basin_wrench - Score: 0.89057267
+Caulk - Score: 0.89057267
+Hawk_(plasterer's_tool) - Score: 0.89057267
+Pipe_wrench - Score: 0.89057267
+Plunger - Score: 0.89057267

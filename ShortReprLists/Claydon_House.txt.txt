@@ -1,0 +1,6 @@
+Claydon_House - Score: 1.0
+Orleigh_Court - Score: 0.56162685
+Capability_Brown - Score: 0.45445117
+Fairford_Leys - Score: 0.41410744
+Bramshill_House - Score: 0.3854547
+Architecture_of_Aylesbury - Score: 0.3330795

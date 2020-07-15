@@ -1,0 +1,4 @@
+Nigeria_national_baseball_team - Score: 1.0
+Cameroon_national_baseball_team - Score: 0.8109527
+Ghana_national_baseball_team - Score: 0.8109527
+Uganda_national_baseball_team - Score: 0.51635677

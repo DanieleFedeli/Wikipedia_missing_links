@@ -1,0 +1,6 @@
+Shell_(theater) - Score: 1.0
+Terrazzo - Score: 0.44401398
+Auditorium - Score: 0.3762994
+Courtroom - Score: 0.36457568
+Mural - Score: 0.36457568
+Renovation - Score: 0.36457568

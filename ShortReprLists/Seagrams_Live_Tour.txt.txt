@@ -1,0 +1,6 @@
+Seagrams_Live_Tour - Score: 1.0
+Coolin'_(music_video) - Score: 0.7778966
+Fear_of_Flying_Tour - Score: 0.7248233
+Sleeper_hit - Score: 0.34948066
+We_Run_This - Score: 0.34948066
+Music_video - Score: 0.3457086

@@ -1,0 +1,6 @@
+Climbing_wall - Score: 1.0
+Classroom - Score: 0.3823229
+Computer_lab - Score: 0.3823229
+Cafeteria - Score: 0.36899418
+Conference_hall - Score: 0.35892946
+Changfeng_Park - Score: 0.31012833

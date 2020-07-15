@@ -1,0 +1,7 @@
+Fluid_dynamics - Score: 1.0
+Orifice_plate - Score: 0.45751894
+Piping_and_instrumentation_diagram - Score: 0.32509986
+Process_flow_diagram - Score: 0.32509986
+Relief_valve - Score: 0.32509986
+Heat_engine - Score: 0.31283006
+Joule–Thomson_effect - Score: 0.31283006

@@ -1,0 +1,6 @@
+Courtyard_house - Score: 1.0
+Long_gallery - Score: 0.45346537
+Great_hall - Score: 0.44154346
+Undercroft - Score: 0.42737988
+Solar_(room) - Score: 0.41548535
+Hall - Score: 0.35282874

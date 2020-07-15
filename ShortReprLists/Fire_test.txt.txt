@@ -1,0 +1,7 @@
+Fire_test - Score: 1.0
+Fire_door - Score: 0.8066086
+Passive_fire_protection - Score: 0.54270595
+Fire_sprinkler_system - Score: 0.48959202
+Active_fire_protection - Score: 0.41149917
+Fire_protection - Score: 0.30964977
+Fire_safety - Score: 0.30964977

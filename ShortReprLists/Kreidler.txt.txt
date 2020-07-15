@@ -1,0 +1,7 @@
+Kreidler - Score: 1.0
+2019_Argentine_motorcycle_Grand_Prix - Score: 0.92464733
+MotoGP_Legends - Score: 0.7958896
+Suzuki - Score: 0.67104495
+KTM - Score: 0.52048373
+Honda - Score: 0.44221163
+AJS - Score: 0.42866743

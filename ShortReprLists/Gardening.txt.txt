@@ -1,0 +1,7 @@
+Gardening - Score: 1.0
+Companion_planting - Score: 0.38837767
+Intercropping - Score: 0.38837767
+Raised-bed_gardening - Score: 0.38837767
+Urban_agriculture - Score: 0.37633446
+Allotment_(gardening) - Score: 0.34062314
+Victory_garden - Score: 0.33983627

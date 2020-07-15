@@ -1,0 +1,3 @@
+Evanescent_field - Score: 1.0
+Köhler_illumination - Score: 0.449242
+Photoresist - Score: 0.30866688

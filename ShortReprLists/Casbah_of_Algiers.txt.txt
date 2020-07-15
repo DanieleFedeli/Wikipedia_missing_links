@@ -1,0 +1,6 @@
+Casbah_of_Algiers - Score: 1.0
+Ketchaoua_Mosque - Score: 0.57976186
+Djamaa_el_Kebir - Score: 0.48848662
+Great_Mosque_of_Tlemcen - Score: 0.4026738
+Beni_Hammad_Fort - Score: 0.400778
+Kairouan - Score: 0.38771385

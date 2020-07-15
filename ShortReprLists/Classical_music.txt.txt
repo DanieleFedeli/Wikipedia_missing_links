@@ -1,0 +1,6 @@
+Classical_music - Score: 1.0
+Contemporary_classical_music - Score: 0.5658923
+Thomas_Adès - Score: 0.46984342
+Artistic_director_(music) - Score: 0.45401525
+Musical_composition - Score: 0.39676964
+Concertmaster - Score: 0.37407508

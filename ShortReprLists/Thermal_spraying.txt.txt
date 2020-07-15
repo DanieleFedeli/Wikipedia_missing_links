@@ -1,0 +1,6 @@
+Thermal_spraying - Score: 1.0
+Cermet - Score: 0.51484805
+Galling - Score: 0.48906633
+Adhesion - Score: 0.38421518
+Substrate_(materials_science) - Score: 0.36041325
+Thin_film - Score: 0.36041325

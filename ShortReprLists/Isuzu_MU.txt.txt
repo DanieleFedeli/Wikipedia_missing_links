@@ -1,0 +1,6 @@
+Isuzu_MU - Score: 1.0
+Isuzu_Aska - Score: 0.4248081
+Chevrolet_Tracker - Score: 0.33785516
+Geo_Storm - Score: 0.3357772
+Isuzu_Forward - Score: 0.3239313
+Isuzu_Giga - Score: 0.3239313

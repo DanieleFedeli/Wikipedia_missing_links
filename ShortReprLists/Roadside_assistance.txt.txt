@@ -1,0 +1,5 @@
+Roadside_assistance - Score: 1.0
+Gross_vehicle_weight_rating - Score: 0.3619647
+Isuzu_Motors - Score: 0.3619647
+Tesla,_Inc. - Score: 0.3619647
+Ram_Trucks - Score: 0.33837166

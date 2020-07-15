@@ -1,0 +1,5 @@
+Kültürpark - Score: 1.0
+St._Mary's_church,_İzmir - Score: 1.0
+Ethnography_Museum_of_Ankara - Score: 0.34902075
+Merkez_Park - Score: 0.34902075
+State_Art_and_Sculpture_Museum - Score: 0.34902075

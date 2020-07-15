@@ -1,0 +1,2 @@
+Pier - Score: 1.0
+Town_Pier,_Gravesend - Score: 0.48476997

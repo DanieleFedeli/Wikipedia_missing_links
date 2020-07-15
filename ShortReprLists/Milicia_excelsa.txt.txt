@@ -1,0 +1,4 @@
+Milicia_excelsa - Score: 1.0
+Hickory - Score: 0.37020746
+Afzelia - Score: 0.35185218
+Ironwood - Score: 0.342062

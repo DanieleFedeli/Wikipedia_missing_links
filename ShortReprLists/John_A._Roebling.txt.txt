@@ -1,0 +1,4 @@
+John_A._Roebling - Score: 1.0
+List_of_Historic_Civil_Engineering_Landmarks - Score: 0.4868901
+Gustav_Lindenthal - Score: 0.42046985
+Toll_bridge - Score: 0.30700487

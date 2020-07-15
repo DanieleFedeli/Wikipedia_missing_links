@@ -1,0 +1,5 @@
+Bedding_(horticulture) - Score: 1.0
+Plant_nursery - Score: 0.45222655
+Hardiness_(plants) - Score: 0.43038777
+Plant_collecting - Score: 0.3455144
+Groundcover - Score: 0.30357534

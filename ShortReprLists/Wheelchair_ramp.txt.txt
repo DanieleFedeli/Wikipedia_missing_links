@@ -1,0 +1,7 @@
+Wheelchair_ramp - Score: 1.0
+Lobby_(room) - Score: 0.44555137
+Ornament_(art) - Score: 0.34623432
+Patio - Score: 0.34073105
+Loft - Score: 0.33354375
+Studio - Score: 0.30902404
+Ceiling - Score: 0.30755475

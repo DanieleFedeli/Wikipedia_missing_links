@@ -1,0 +1,7 @@
+Forensic_engineering - Score: 1.0
+Forensic_materials_engineering - Score: 0.7650489
+Catastrophic_failure - Score: 0.4236617
+Brittleness - Score: 0.36539114
+Fracture - Score: 0.36539114
+Toughness - Score: 0.36539114
+Burgers_vector - Score: 0.3431658

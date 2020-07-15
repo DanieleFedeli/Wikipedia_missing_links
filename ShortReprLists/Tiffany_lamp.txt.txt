@@ -1,0 +1,3 @@
+Tiffany_lamp - Score: 1.0
+Tiffany_glass - Score: 0.39641702
+Candlestick - Score: 0.30331394

@@ -1,0 +1,4 @@
+Bass_trumpet - Score: 1.0
+Soprano_cornet - Score: 0.6991846
+Arban_method - Score: 0.6756304
+Bass_clarinet - Score: 0.31168136

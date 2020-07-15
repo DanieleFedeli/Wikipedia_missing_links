@@ -1,0 +1,6 @@
+Wu_Ping - Score: 1.0
+China_Conservatory_of_Music - Score: 0.5614052
+Rock_Records - Score: 0.31995428
+Power_Station_(Taiwanese_band) - Score: 0.3091756
+Teresa_Carpio - Score: 0.3091756
+Wang_Aiping_(baseball) - Score: 0.3008234

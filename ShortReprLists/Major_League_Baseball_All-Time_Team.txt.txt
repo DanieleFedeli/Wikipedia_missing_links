@@ -1,0 +1,7 @@
+Major_League_Baseball_All-Time_Team - Score: 1.0
+DHL_Hometown_Heroes - Score: 0.3766702
+Major_League_Baseball_Manager_of_the_Year_Award - Score: 0.3766702
+Lou_Gehrig_Memorial_Award - Score: 0.34299463
+Curt_Flood - Score: 0.3260277
+This_Year_in_Baseball_Awards - Score: 0.31584102
+List_of_organized_baseball_leagues - Score: 0.31109586

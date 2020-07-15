@@ -1,0 +1,4 @@
+Photoelectrochemical_cell - Score: 1.0
+Energy_conversion_efficiency - Score: 0.37539414
+Interatomic_potential - Score: 0.36230692
+Nafion - Score: 0.33233932

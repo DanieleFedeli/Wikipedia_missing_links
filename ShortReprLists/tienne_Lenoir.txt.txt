@@ -1,0 +1,7 @@
+Étienne_Lenoir - Score: 1.0
+Rudolf_Diesel - Score: 0.55465186
+Siegfried_Marcus - Score: 0.52110565
+Heat_engine - Score: 0.50053316
+Thermal_efficiency - Score: 0.50053316
+Joule–Thomson_effect - Score: 0.41496697
+Back_pressure - Score: 0.40412122

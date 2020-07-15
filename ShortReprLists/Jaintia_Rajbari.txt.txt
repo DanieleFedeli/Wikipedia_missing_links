@@ -1,0 +1,7 @@
+Jaintia_Rajbari - Score: 1.0
+Ghayebi_Dighi_Masjid - Score: 0.54081255
+Pagla_Jame_Masjid - Score: 0.54081255
+Bangladesh_Last_House - Score: 0.5043747
+Madani_Square - Score: 0.5043747
+Gasoline_and_diesel_usage_and_pricing - Score: 0.37370193
+Pipeline_transport - Score: 0.36967242

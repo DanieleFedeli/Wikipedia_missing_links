@@ -1,0 +1,7 @@
+Japan_National_Route_339 - Score: 1.0
+Musical_road - Score: 0.45791882
+Bascule_bridge - Score: 0.43517855
+Retractable_bridge - Score: 0.43517855
+Vertical-lift_bridge - Score: 0.43517855
+John_Alexander_Low_Waddell - Score: 0.3471273
+Swing_bridge - Score: 0.3471273

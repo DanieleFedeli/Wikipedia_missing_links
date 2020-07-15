@@ -1,0 +1,7 @@
+Beltway_Series - Score: 1.0
+Miami_Stadium - Score: 1.0
+1999_Baltimore_Orioles–Cuba_national_baseball_team_exhibition_series - Score: 0.9237002
+Baltimore_Orioles_Hall_of_Fame - Score: 0.9237002
+Dominican_Summer_League_Orioles - Score: 0.9237002
+Wild_Bill_Hagy - Score: 0.9237002
+2015_White_Sox–Orioles_crowdless_game - Score: 0.3678494

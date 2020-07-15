@@ -1,0 +1,3 @@
+Mini_Cooper - Score: 1.0
+Mercedes-Benz - Score: 0.3417889
+Chevrolet_Camaro - Score: 0.30022708

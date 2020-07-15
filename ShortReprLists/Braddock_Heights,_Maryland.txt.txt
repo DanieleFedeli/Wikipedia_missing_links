@@ -1,0 +1,7 @@
+Braddock_Heights,_Maryland - Score: 1.0
+Chevy_Chase_(CDP),_Maryland - Score: 0.66155326
+Mount_Rainier,_Maryland - Score: 0.6115014
+Charles_Village,_Baltimore - Score: 0.42123923
+Union_Square,_Baltimore - Score: 0.42123923
+Bethesda_Big_Train - Score: 0.38882443
+Concordia_Hall_(Baltimore,_Maryland) - Score: 0.36071774

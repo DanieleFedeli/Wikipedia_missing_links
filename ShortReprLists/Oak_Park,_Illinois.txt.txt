@@ -1,0 +1,6 @@
+Oak_Park,_Illinois - Score: 1.0
+Illinois_Secretary_of_State - Score: 0.7603432
+Abandoned_village - Score: 0.41092408
+Evanston,_Illinois - Score: 0.33834058
+Wally_Roettger - Score: 0.33834058
+Chicago_Metropolitan_Agency_for_Planning - Score: 0.32942373

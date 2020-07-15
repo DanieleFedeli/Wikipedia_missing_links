@@ -1,0 +1,4 @@
+List_of_college_baseball_coaches_with_1,100_wins - Score: 1.0
+Baseball_America_College_Coach_of_the_Year - Score: 0.48007447
+National_College_Baseball_Hall_of_Fame - Score: 0.46488148
+Jerry_Kindall - Score: 0.35831463

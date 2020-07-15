@@ -1,0 +1,7 @@
+BYD_Auto - Score: 1.0
+NIO_(car_company) - Score: 0.4603232
+Luxgen - Score: 0.39950624
+Geely - Score: 0.38212708
+Baojun - Score: 0.31077278
+Roewe - Score: 0.31077278
+Tesla,_Inc. - Score: 0.30601335

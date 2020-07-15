@@ -1,0 +1,6 @@
+Bat_flip - Score: 1.0
+Triple_play - Score: 0.4911883
+Dugout_(baseball) - Score: 0.47028092
+Foul_ball - Score: 0.32568234
+Injured_list - Score: 0.32212624
+Bench-clearing_brawl - Score: 0.31772536

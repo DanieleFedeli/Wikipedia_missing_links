@@ -1,0 +1,5 @@
+Some_Girls_(California_band) - Score: 1.0
+Skate_punk - Score: 0.400339
+Jacob_Bannon - Score: 0.38555118
+New_York_hardcore - Score: 0.33223683
+Born_Against - Score: 0.3206542

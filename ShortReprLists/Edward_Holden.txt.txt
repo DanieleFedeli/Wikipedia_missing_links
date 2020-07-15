@@ -1,0 +1,7 @@
+Edward_Holden - Score: 1.0
+Holden_Ute - Score: 0.68395
+Holden_Monaro - Score: 0.4686288
+Holden_Torana - Score: 0.4522912
+Holden_Commodore - Score: 0.44949096
+Holden_Gemini - Score: 0.44949096
+Holden_Astra - Score: 0.4281897

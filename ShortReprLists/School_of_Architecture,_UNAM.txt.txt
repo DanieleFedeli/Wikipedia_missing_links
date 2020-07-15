@@ -1,0 +1,4 @@
+School_of_Architecture,_UNAM - Score: 1.0
+Bachelor_of_Architecture - Score: 0.31145453
+Master_of_Architecture - Score: 0.31145453
+National_Architectural_Accrediting_Board - Score: 0.31145453

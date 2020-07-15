@@ -1,0 +1,3 @@
+Increa_Park - Score: 1.0
+Villa_Brivio,_Brugherio - Score: 1.0
+Villa_Fiorita,_Brugherio - Score: 0.91993535

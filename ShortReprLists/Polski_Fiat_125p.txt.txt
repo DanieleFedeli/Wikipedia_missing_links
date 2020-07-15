@@ -1,0 +1,7 @@
+Polski_Fiat_125p - Score: 1.0
+Polski_Fiat - Score: 0.50456357
+Fiat_125 - Score: 0.38474452
+Fiat_124 - Score: 0.37133133
+K._Rudzki_i_S-ka - Score: 0.33571604
+Mikrus_MR-300 - Score: 0.33571604
+Ralf-Stetysz - Score: 0.33571604

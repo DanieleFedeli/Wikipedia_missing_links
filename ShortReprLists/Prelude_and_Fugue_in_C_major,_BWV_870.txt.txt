@@ -1,0 +1,7 @@
+Prelude_and_Fugue_in_C_major,_BWV_870 - Score: 1.0
+Great_Fantasia_and_Fugue_in_G_minor,_BWV_542 - Score: 0.94858927
+Partita_for_keyboard_No._6_(Bach) - Score: 0.94858927
+Prelude_and_Fugue_in_C_minor,_BWV_871 - Score: 0.94858927
+Partita_for_Violin_No._3_(Bach) - Score: 0.5980588
+Brandenburg_Concertos - Score: 0.49376276
+Johann_Friedrich_Agricola - Score: 0.3321413

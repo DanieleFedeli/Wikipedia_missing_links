@@ -1,0 +1,7 @@
+Percussive_Arts_Society - Score: 1.0
+Open,_closed,_open - Score: 0.9276662
+Drum_cadence - Score: 0.8100088
+Front_ensemble - Score: 0.8100088
+Fanfare_band - Score: 0.765727
+Corps_of_drums - Score: 0.74077183
+Drum_major_(marching_band) - Score: 0.33444518

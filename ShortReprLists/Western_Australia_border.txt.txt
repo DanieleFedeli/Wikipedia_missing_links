@@ -1,0 +1,3 @@
+Western_Australia_border - Score: 1.0
+Medium-density_housing - Score: 0.39325446
+Royal_Automobile_Club_of_Queensland - Score: 0.3290183

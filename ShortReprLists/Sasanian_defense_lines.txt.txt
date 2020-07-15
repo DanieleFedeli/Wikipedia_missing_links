@@ -1,0 +1,6 @@
+Sasanian_defense_lines - Score: 1.0
+Bastion - Score: 0.43079054
+Sasanian_art - Score: 0.38843155
+Sasanian_music - Score: 0.375346
+Palisade - Score: 0.3500768
+Defensive_wall - Score: 0.32376635

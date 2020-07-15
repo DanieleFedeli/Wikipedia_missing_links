@@ -1,0 +1,3 @@
+California_State_Automobile_Association - Score: 1.0
+Automobile_Club_of_Southern_California - Score: 0.45476234
+Mission_Bay_(San_Diego) - Score: 0.35543773

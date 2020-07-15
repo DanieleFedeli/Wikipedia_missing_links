@@ -1,0 +1,7 @@
+Union_of_Estonian_Architects - Score: 1.0
+Estonian_Academy_of_Arts - Score: 0.5418713
+Museum_of_Estonian_Architecture - Score: 0.45173338
+Estonian_Drama_Theatre - Score: 0.45095038
+Estonian_Maritime_Academy - Score: 0.45095038
+Estonian_Theatre_and_Music_Museum - Score: 0.45095038
+Estonia_Theatre - Score: 0.45095038

@@ -1,0 +1,3 @@
+LEAF_Award - Score: 1.0
+RIBA_European_Award - Score: 0.5988124
+World_Architecture_Festival - Score: 0.3458813

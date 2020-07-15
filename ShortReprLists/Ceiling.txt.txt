@@ -1,0 +1,5 @@
+Ceiling - Score: 1.0
+Wall - Score: 0.6810544
+Door - Score: 0.4771695
+Roof - Score: 0.4771695
+Floor - Score: 0.3044969

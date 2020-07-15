@@ -1,0 +1,3 @@
+Green_consumption - Score: 1.0
+Grunge_speak - Score: 0.38445276
+Crass - Score: 0.3633193

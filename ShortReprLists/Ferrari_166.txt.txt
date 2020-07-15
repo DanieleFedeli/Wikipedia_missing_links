@@ -1,0 +1,6 @@
+Ferrari_166 - Score: 1.0
+Ferrari_250_GTO - Score: 0.8175142
+Ferrari_195_S - Score: 0.70754975
+Ferrari_212_Export - Score: 0.70754975
+Ferrari_330 - Score: 0.70754975
+Ferrari_America - Score: 0.70754975

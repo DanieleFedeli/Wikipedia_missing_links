@@ -1,0 +1,6 @@
+Architecture_of_the_Song_dynasty - Score: 1.0
+Yingzao_Fashi - Score: 0.677938
+Chinese_pagoda - Score: 0.5016007
+Drum_Tower_of_Xi'an - Score: 0.38124883
+Door_knocker - Score: 0.3744643
+Tang_dynasty_art - Score: 0.37140685

@@ -1,0 +1,5 @@
+Yokohama_Stadium - Score: 1.0
+Golden_Park - Score: 0.65845823
+Chase_Field - Score: 0.4394551
+Levi's_Stadium - Score: 0.4294228
+Fukushima_Azuma_Baseball_Stadium - Score: 0.40792233

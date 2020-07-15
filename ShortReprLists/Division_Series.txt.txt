@@ -1,0 +1,7 @@
+Division_Series - Score: 1.0
+League_Championship_Series - Score: 0.8183616
+Umpire_(baseball) - Score: 0.5154189
+American_League_Championship_Series - Score: 0.36181337
+National_League_Championship_Series - Score: 0.36181337
+Joe_Carter - Score: 0.31479704
+Commissioner_of_Baseball - Score: 0.31121528

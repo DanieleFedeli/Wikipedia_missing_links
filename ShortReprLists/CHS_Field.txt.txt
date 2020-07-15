@@ -1,0 +1,5 @@
+CHS_Field - Score: 1.0
+Pence_Opera_House - Score: 0.68745774
+Prom_Ballroom - Score: 0.68745774
+Linden_Hills,_Minneapolis - Score: 0.6757231
+Triple_Rock_Social_Club - Score: 0.5046057

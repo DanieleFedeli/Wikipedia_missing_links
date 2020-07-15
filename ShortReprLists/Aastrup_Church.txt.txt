@@ -1,0 +1,7 @@
+Aastrup_Church - Score: 1.0
+Brarup_Church - Score: 0.8967395
+Stubbekøbing_Church - Score: 0.8967395
+Tingsted_Church - Score: 0.8967395
+Torkilstrup_Church - Score: 0.8967395
+Torkilstrup_Windmill - Score: 0.8967395
+Væggerløse_Church - Score: 0.8967395

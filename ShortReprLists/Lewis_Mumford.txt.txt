@@ -1,0 +1,5 @@
+Lewis_Mumford - Score: 1.0
+Urbanism - Score: 0.6783424
+Urban_planner - Score: 0.5699313
+Urban_planning_education - Score: 0.47578156
+Garden_city_movement - Score: 0.34976307

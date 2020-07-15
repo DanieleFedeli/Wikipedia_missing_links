@@ -1,0 +1,5 @@
+Great_Trigonometrical_Survey - Score: 1.0
+Principal_Triangulation_of_Great_Britain - Score: 0.4690894
+Survey_marker - Score: 0.40342987
+Theodolite - Score: 0.3110693
+Triangulation_(surveying) - Score: 0.3057522

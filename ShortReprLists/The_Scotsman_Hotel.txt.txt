@@ -1,0 +1,5 @@
+The_Scotsman_Hotel - Score: 1.0
+Forsyth_Barr_Building - Score: 0.35538274
+Hotel - Score: 0.34341052
+Building_implosion - Score: 0.33450568
+Sheraton_Kansas_City_Hotel_at_Crown_Center - Score: 0.33450568

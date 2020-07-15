@@ -1,0 +1,6 @@
+Architecture_of_Munich - Score: 1.0
+Hofgarten_(Munich) - Score: 0.7998554
+Haus_der_Kunst - Score: 0.7073333
+Englischer_Garten - Score: 0.69573665
+University_of_Music_and_Performing_Arts_Munich - Score: 0.63283336
+Pinacotheca - Score: 0.3551857

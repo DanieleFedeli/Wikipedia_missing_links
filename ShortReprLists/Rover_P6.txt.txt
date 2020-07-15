@@ -1,0 +1,5 @@
+Rover_P6 - Score: 1.0
+Rover_P4 - Score: 0.5842464
+Leyland_P76 - Score: 0.50215995
+Rover_P5 - Score: 0.462736
+Triumph_TR7 - Score: 0.3725443

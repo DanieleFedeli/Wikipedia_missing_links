@@ -1,0 +1,6 @@
+Gas_mantle - Score: 1.0
+Blau_gas - Score: 0.62098914
+Pilot_light - Score: 0.62098914
+Electric_light - Score: 0.3962778
+Whale_oil - Score: 0.37188798
+Gas_lighting - Score: 0.3695781

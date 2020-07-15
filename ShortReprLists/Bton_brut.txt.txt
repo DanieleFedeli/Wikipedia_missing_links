@@ -1,0 +1,4 @@
+Béton_brut - Score: 1.0
+Piloti - Score: 0.434107
+Unité_d'habitation - Score: 0.34291324
+Docomomo_International - Score: 0.30394742

@@ -1,0 +1,17 @@
+Bugatti_Automobiles - Score: 1.0
+Jetta_(car_marque) - Score: 0.742515
+List_of_Volkswagen_Group_engines - Score: 0.742515
+Ivan_Hirst - Score: 0.6674906
+SEAT_Cupra - Score: 0.6674906
+List_of_discontinued_Volkswagen_Group_diesel_engines - Score: 0.6222958
+List_of_discontinued_Volkswagen_Group_petrol_engines - Score: 0.6222958
+List_of_Volkswagen_Group_diesel_engines - Score: 0.6222958
+List_of_Volkswagen_Group_factories - Score: 0.6222958
+List_of_Volkswagen_Group_petrol_engines - Score: 0.6222958
+Porsche_914 - Score: 0.4818532
+Škoda_Auto - Score: 0.4486282
+Ferdinand_Porsche - Score: 0.37098828
+SEAT_Ibiza - Score: 0.3592783
+Sol_(car_marque) - Score: 0.3418556
+List_of_North_American_Volkswagen_engines - Score: 0.3247238
+Volkswagen_Up - Score: 0.3247238

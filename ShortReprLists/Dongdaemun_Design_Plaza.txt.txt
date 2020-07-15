@@ -1,0 +1,3 @@
+Dongdaemun_Design_Plaza - Score: 1.0
+Seoul_Forest - Score: 0.55338234
+Korean_Hip-hop_Awards - Score: 0.32911038

@@ -1,0 +1,4 @@
+Sustainable_landscaping - Score: 1.0
+Urban_agriculture - Score: 0.49935693
+Hardiness_(plants) - Score: 0.36569294
+Permaculture - Score: 0.33956364

@@ -1,0 +1,7 @@
+Precentor - Score: 1.0
+Surveyor_of_the_Fabric_of_Westminster_Abbey - Score: 0.7162725
+Surveyor_of_the_Fabric_of_St_Paul's_Cathedral - Score: 0.70741415
+Jerusalem_Chamber - Score: 0.4949439
+Clonfert_Cathedral - Score: 0.48207635
+Durham_Cathedral - Score: 0.38403413
+Cathedral_close - Score: 0.3637025

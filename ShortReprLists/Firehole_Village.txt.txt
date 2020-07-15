@@ -1,0 +1,3 @@
+Firehole_Village - Score: 1.0
+Grant_Village - Score: 0.4176834
+Casper_Mountain - Score: 0.3078515

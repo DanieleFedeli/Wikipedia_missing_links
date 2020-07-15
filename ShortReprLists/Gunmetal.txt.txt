@@ -1,0 +1,7 @@
+Gunmetal - Score: 1.0
+Kruithof_curve - Score: 0.49483928
+Sanguine - Score: 0.49483928
+Spectral_power_distribution - Score: 0.49483928
+Majorelle_Blue - Score: 0.46149883
+Color_temperature - Score: 0.37531546
+Lighting - Score: 0.36267176

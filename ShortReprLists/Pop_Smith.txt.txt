@@ -1,0 +1,4 @@
+Pop_Smith - Score: 1.0
+Arthur_Irwin - Score: 0.5400411
+Ed_Crane_(baseball) - Score: 0.50453097
+Olympic_Park_(Buffalo) - Score: 0.31407997

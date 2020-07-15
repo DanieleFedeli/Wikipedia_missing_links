@@ -1,0 +1,7 @@
+Plumbing - Score: 1.0
+Workshop - Score: 0.59015477
+Bathroom - Score: 0.4740009
+Bedroom - Score: 0.371779
+Kitchen - Score: 0.371779
+Living_room - Score: 0.371779
+Fireplace - Score: 0.32703418

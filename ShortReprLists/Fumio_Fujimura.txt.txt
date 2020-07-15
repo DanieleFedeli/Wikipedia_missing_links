@@ -1,0 +1,4 @@
+Fumio_Fujimura - Score: 1.0
+1985_Japan_Series - Score: 0.48792765
+2005_Nippon_Professional_Baseball_season - Score: 0.3786641
+Curse_of_the_Colonel - Score: 0.33904377

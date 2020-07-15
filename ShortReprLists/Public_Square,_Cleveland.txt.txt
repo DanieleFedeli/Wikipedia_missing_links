@@ -1,0 +1,4 @@
+Public_Square,_Cleveland - Score: 1.0
+Cleveland_Cultural_Gardens - Score: 0.6391412
+The_Mall_(Cleveland) - Score: 0.52872115
+Tennessee_marble - Score: 0.32793295

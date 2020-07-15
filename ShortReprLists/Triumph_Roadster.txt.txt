@@ -1,0 +1,6 @@
+Triumph_Roadster - Score: 1.0
+Triumph_TR4A - Score: 0.7261437
+Triumph_Mayflower - Score: 0.71151954
+Standard_Ten - Score: 0.6883201
+Triumph_TR2 - Score: 0.3731657
+Triumph_TR4 - Score: 0.36399546

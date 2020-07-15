@@ -1,0 +1,4 @@
+Nissan_Atlas - Score: 1.0
+Nissan_Civilian - Score: 0.6786088
+Nissan_X-Trail - Score: 0.6543943
+Nissan_Cabstar - Score: 0.36765102

@@ -1,0 +1,7 @@
+Dominican_Summer_League_Athletics - Score: 1.0
+1950_Philadelphia_Athletics_season - Score: 0.8304767
+Hohokam_Stadium - Score: 0.8304767
+Moneyball - Score: 0.8015242
+Earle_Mack - Score: 0.645982
+Connie_Mack_Field - Score: 0.485167
+Philadelphia_Baseball_Wall_of_Fame - Score: 0.36440048

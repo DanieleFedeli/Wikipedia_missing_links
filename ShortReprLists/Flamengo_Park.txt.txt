@@ -1,0 +1,7 @@
+Flamengo_Park - Score: 1.0
+Olympic_Tennis_Centre_(Rio_de_Janeiro) - Score: 0.42982966
+Royal_Beerschot_THC - Score: 0.41626358
+Sydney_Olympic_Park_Tennis_Centre - Score: 0.3389488
+Tennis_de_la_Vall_d'Hebron - Score: 0.3389488
+Östermalms_IP - Score: 0.3389488
+Athens_Olympic_Tennis_Centre_Main_Court - Score: 0.32857838

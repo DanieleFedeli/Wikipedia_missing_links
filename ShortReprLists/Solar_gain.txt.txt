@@ -1,0 +1,6 @@
+Solar_gain - Score: 1.0
+Building_insulation - Score: 0.51124656
+Zero-energy_building - Score: 0.38509274
+Low-energy_house - Score: 0.37211967
+Indoor_air_quality - Score: 0.34332708
+Leadership_in_Energy_and_Environmental_Design - Score: 0.3106016

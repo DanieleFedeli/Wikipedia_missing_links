@@ -1,0 +1,5 @@
+Big_City_Plan - Score: 1.0
+Direct_Line - Score: 0.6097835
+London_Plan - Score: 0.5865633
+Architecture_of_the_United_Kingdom - Score: 0.42707226
+Canary_Wharf - Score: 0.39829773

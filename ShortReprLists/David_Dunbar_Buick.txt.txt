@@ -1,0 +1,6 @@
+David_Dunbar_Buick - Score: 1.0
+Ransom_E._Olds - Score: 0.54742455
+Henry_M._Leland - Score: 0.39689517
+Buick_City - Score: 0.32536778
+Genesee_Towers - Score: 0.32536778
+Atwood_Stadium - Score: 0.31440672

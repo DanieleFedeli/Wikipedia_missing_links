@@ -1,0 +1,5 @@
+Volatile_organic_compound - Score: 1.0
+ASHRAE - Score: 0.42679316
+Sick_building_syndrome - Score: 0.41469434
+Air_Conditioning,_Heating_and_Refrigeration_Institute - Score: 0.33170673
+Heat_pump - Score: 0.3271356

@@ -1,0 +1,6 @@
+Siheyuan - Score: 1.0
+Hutong - Score: 0.6713469
+Digital_Beijing_Building - Score: 0.46325898
+Yingzao_Fashi - Score: 0.37864137
+Daguanyuan - Score: 0.36796588
+Great_Wall_of_China - Score: 0.3310359

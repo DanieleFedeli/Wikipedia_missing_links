@@ -1,0 +1,5 @@
+BBC_Radiophonic_Workshop - Score: 1.0
+Tape_loop - Score: 0.64551556
+IRCAM - Score: 0.53200895
+Circuit_bending - Score: 0.45211968
+Acousmatic_music - Score: 0.35937956

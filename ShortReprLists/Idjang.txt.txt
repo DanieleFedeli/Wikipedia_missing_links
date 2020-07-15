@@ -1,0 +1,5 @@
+Idjang - Score: 1.0
+Limestone_tombs_of_Kamhantik - Score: 1.0
+Architecture_of_the_Philippines - Score: 0.6890327
+Sari-sari_store - Score: 0.34404814
+Kutiyapi - Score: 0.3000731

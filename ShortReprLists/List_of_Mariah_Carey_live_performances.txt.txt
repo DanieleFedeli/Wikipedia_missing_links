@@ -1,0 +1,7 @@
+List_of_Mariah_Carey_live_performances - Score: 1.0
+Tommy_Mottola - Score: 0.48051253
+Bass_(sound) - Score: 0.3889982
+BMI_Foundation - Score: 0.34530604
+Whistle_register - Score: 0.31798923
+Sub-bass - Score: 0.31790143
+Treble_(sound) - Score: 0.31790143

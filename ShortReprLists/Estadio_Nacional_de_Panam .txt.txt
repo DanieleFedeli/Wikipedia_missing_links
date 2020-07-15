@@ -1,0 +1,4 @@
+Estadio_Nacional_de_Panamá - Score: 1.0
+Dennis_Martínez_National_Stadium - Score: 0.48609662
+Colombia_national_baseball_team - Score: 0.37327817
+Nicaragua_national_baseball_team - Score: 0.37327817

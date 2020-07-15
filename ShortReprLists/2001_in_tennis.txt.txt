@@ -1,0 +1,6 @@
+2001_in_tennis - Score: 1.0
+2002_in_tennis - Score: 0.61909866
+2000_in_tennis - Score: 0.5158383
+1930_in_tennis - Score: 0.4802353
+1931_in_tennis - Score: 0.4802353
+1990_in_tennis - Score: 0.39310804

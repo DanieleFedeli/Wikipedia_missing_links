@@ -1,0 +1,5 @@
+Monte_Irvin - Score: 1.0
+The_Catch_(baseball) - Score: 0.31843966
+Kirk_Gibson's_1988_World_Series_home_run - Score: 0.3023117
+Shot_Heard_'Round_the_World_(baseball) - Score: 0.3023117
+Vin_Scully - Score: 0.3023117

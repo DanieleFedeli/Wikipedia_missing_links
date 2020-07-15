@@ -1,0 +1,5 @@
+Studio - Score: 1.0
+Ballroom - Score: 0.36719042
+Middle_of_the_road_(music) - Score: 0.3594315
+Attic - Score: 0.31087995
+Wheelchair_ramp - Score: 0.30834115

@@ -1,0 +1,3 @@
+Trailer_park - Score: 1.0
+Mobile_home - Score: 0.68899214
+Drive-in_theater - Score: 0.47425315

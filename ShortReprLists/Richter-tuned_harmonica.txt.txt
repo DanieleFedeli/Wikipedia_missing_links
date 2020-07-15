@@ -1,0 +1,7 @@
+Richter-tuned_harmonica - Score: 1.0
+Kansas_City_blues - Score: 0.89406407
+List_of_blues_genres - Score: 0.89406407
+Origins_of_the_blues - Score: 0.89406407
+Classic_female_blues - Score: 0.88723314
+Blue_note - Score: 0.7058117
+Boogie-woogie - Score: 0.30139908

@@ -1,0 +1,6 @@
+Greater_Grand_Forks_Greenway - Score: 1.0
+Footpath - Score: 0.4058795
+County_park - Score: 0.38213685
+Greenway_(landscape) - Score: 0.3427758
+Linear_park - Score: 0.3312283
+Transport_corridor - Score: 0.31160724

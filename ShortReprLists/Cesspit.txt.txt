@@ -1,0 +1,7 @@
+Cesspit - Score: 1.0
+Constructed_wetland - Score: 0.5615006
+Infiltration_basin - Score: 0.5615006
+French_drain - Score: 0.47690198
+Urban_runoff - Score: 0.46621013
+Best_management_practice_for_water_pollution - Score: 0.37661767
+Stormwater - Score: 0.37155142

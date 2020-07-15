@@ -1,0 +1,6 @@
+Admiral_Fetterman_Field - Score: 1.0
+Smokies_Stadium - Score: 0.6339296
+Montgomery_Riverwalk_Stadium - Score: 0.5400245
+Regions_Field - Score: 0.5328325
+Trustmark_Park - Score: 0.42506897
+The_Ballpark_at_Jackson - Score: 0.4046729

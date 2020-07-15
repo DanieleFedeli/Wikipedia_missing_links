@@ -1,0 +1,7 @@
+Cantometrics - Score: 1.0
+Ethnochoreology - Score: 0.783659
+Performance_studies - Score: 0.5833948
+Urban_anthropology - Score: 0.49269876
+Museum_of_Archaeology_and_Anthropology,_University_of_Cambridge - Score: 0.42772445
+Cultural_Bolshevism - Score: 0.34859368
+Cultural_radicalism - Score: 0.34859368

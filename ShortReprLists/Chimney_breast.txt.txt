@@ -1,0 +1,3 @@
+Chimney_breast - Score: 1.0
+Fire_iron - Score: 0.38890773
+Stove - Score: 0.38453132

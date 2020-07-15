@@ -1,0 +1,6 @@
+Swift_Motor_Company - Score: 1.0
+Donald_Healey - Score: 0.43648148
+Sunbeam_Alpine - Score: 0.3578475
+Berkeley_Cars - Score: 0.3457923
+Land_Rover - Score: 0.33673552
+Triumph_TR3 - Score: 0.30033714

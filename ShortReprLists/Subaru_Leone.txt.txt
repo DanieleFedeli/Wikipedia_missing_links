@@ -1,0 +1,5 @@
+Subaru_Leone - Score: 1.0
+Subaru_Legacy - Score: 0.81247956
+Subaru_Outback - Score: 0.40885276
+Subaru_Impreza - Score: 0.38935077
+Subaru_Levorg - Score: 0.3060548

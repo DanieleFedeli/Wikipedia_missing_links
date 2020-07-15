@@ -1,0 +1,6 @@
+BMW_326 - Score: 1.0
+BMW_02_Series - Score: 0.66485155
+BMW_501 - Score: 0.66485155
+Isetta - Score: 0.66485155
+BMW_507 - Score: 0.64167315
+BMW_New_Six - Score: 0.37514973

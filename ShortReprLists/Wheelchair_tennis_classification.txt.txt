@@ -1,0 +1,5 @@
+Wheelchair_tennis_classification - Score: 1.0
+Soil_type - Score: 0.5788017
+Impervious_surface - Score: 0.48134863
+Soil_pH - Score: 0.48134863
+Mud - Score: 0.37992105

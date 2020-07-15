@@ -1,0 +1,6 @@
+Auto_Union_racing_car - Score: 1.0
+Mercedes-Benz_W165 - Score: 0.9210782
+1936_Italian_Grand_Prix - Score: 0.3883986
+1936_Swiss_Grand_Prix - Score: 0.3883986
+1938_German_Grand_Prix - Score: 0.3883986
+1938_Italian_Grand_Prix - Score: 0.3883986

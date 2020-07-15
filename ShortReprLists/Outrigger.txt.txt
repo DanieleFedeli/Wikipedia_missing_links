@@ -1,0 +1,7 @@
+Outrigger - Score: 1.0
+Concrete_canoe - Score: 0.6815112
+Royalex - Score: 0.6815112
+Clevis_fastener - Score: 0.34692332
+Shackle - Score: 0.34692332
+Floating_restaurant - Score: 0.33071828
+Eagle_Creek_Park - Score: 0.32220644

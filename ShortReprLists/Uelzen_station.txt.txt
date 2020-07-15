@@ -1,0 +1,7 @@
+Uelzen_station - Score: 1.0
+Vactrain - Score: 0.3846413
+Kilometric_point - Score: 0.34822637
+TGV - Score: 0.34447694
+Waiting_room - Score: 0.33275998
+Transport_Integration_Act_2010 - Score: 0.33241013
+Brescia_Metro - Score: 0.3170855

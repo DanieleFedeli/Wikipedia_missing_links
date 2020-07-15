@@ -1,0 +1,6 @@
+International_Computer_Music_Conference - Score: 1.0
+Algorithmic_composition - Score: 0.49744266
+Computer_Music_Journal - Score: 0.49198526
+IRCAM - Score: 0.4654119
+Live_coding - Score: 0.38201618
+Computer_Music_Center - Score: 0.3789867

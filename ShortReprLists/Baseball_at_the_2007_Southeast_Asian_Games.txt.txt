@@ -1,0 +1,7 @@
+Baseball_at_the_2007_Southeast_Asian_Games - Score: 1.0
+Baseball_at_the_2019_Southeast_Asian_Games - Score: 0.9052216
+Baseball_at_the_2005_Southeast_Asian_Games - Score: 0.9043222
+Soft_tennis_at_the_2011_Southeast_Asian_Games - Score: 0.8095437
+Tennis_at_the_Southeast_Asian_Games - Score: 0.7973422
+Tennis_at_the_2019_Southeast_Asian_Games - Score: 0.7881428
+Baseball_at_the_2011_Southeast_Asian_Games - Score: 0.71560466

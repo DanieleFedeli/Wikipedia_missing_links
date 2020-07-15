@@ -1,0 +1,3 @@
+Grating - Score: 1.0
+Adhesion - Score: 0.35616294
+Metallurgy - Score: 0.34719002

@@ -1,0 +1,4 @@
+Jairo_Ramos_Gizzi - Score: 1.0
+2017_World_Baseball_Classic - Score: 0.47768006
+Jack_Santora - Score: 0.3484967
+Pitcher - Score: 0.3281994

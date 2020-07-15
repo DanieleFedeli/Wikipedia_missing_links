@@ -1,0 +1,3 @@
+Holdridge_life_zones - Score: 1.0
+Restoration_ecology - Score: 0.3660235
+Plant_litter - Score: 0.35066622

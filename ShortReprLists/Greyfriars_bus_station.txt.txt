@@ -1,0 +1,2 @@
+Greyfriars_bus_station - Score: 1.0
+National_Lift_Tower - Score: 1.0

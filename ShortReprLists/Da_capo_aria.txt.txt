@@ -1,0 +1,6 @@
+Da_capo_aria - Score: 1.0
+French_overture - Score: 0.6867835
+Coloratura - Score: 0.67615914
+Bass_(voice_type) - Score: 0.4370646
+Queen_of_the_Night_aria - Score: 0.3513189
+Ripieno - Score: 0.32849285

@@ -1,0 +1,5 @@
+Edward_Joseph_Dent - Score: 1.0
+Turandot_Suite - Score: 0.45268646
+George_Grove - Score: 0.33554766
+The_Musical_Times - Score: 0.33554766
+The_New_Grove_Dictionary_of_Music_and_Musicians - Score: 0.33554766

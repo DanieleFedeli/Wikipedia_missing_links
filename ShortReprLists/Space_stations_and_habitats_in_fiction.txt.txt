@@ -1,0 +1,7 @@
+Space_stations_and_habitats_in_fiction - Score: 1.0
+Science_fiction_opera - Score: 0.5101286
+Retrofuturism - Score: 0.4923443
+Dyson_sphere - Score: 0.38402703
+Orbital_Technologies_Commercial_Space_Station - Score: 0.3758922
+Nautilus-X - Score: 0.3632291
+O'Neill_cylinder - Score: 0.3632291

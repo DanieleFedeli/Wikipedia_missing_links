@@ -1,0 +1,4 @@
+Six-banded_armadillo - Score: 1.0
+Big_hairy_armadillo - Score: 0.85231453
+Screaming_hairy_armadillo - Score: 0.85231453
+Nine-banded_armadillo - Score: 0.75602394

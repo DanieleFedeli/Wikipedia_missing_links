@@ -1,0 +1,3 @@
+Architecture_of_Angola - Score: 1.0
+Architecture_of_Madagascar - Score: 0.5972045
+Great_Zimbabwe - Score: 0.38131237

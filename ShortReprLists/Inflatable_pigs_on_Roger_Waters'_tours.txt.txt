@@ -1,0 +1,4 @@
+Inflatable_pigs_on_Roger_Waters'_tours - Score: 1.0
+EMS_VCS_3 - Score: 0.5171705
+Pink_Floyd_live_performances - Score: 0.41321138
+Pink_Floyd_pigs - Score: 0.41321138

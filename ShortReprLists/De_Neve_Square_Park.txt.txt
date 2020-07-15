@@ -1,0 +1,5 @@
+De_Neve_Square_Park - Score: 1.0
+Holmby_Park - Score: 0.9217169
+California_Science_Center - Score: 0.44755828
+Walt_Disney_Concert_Hall - Score: 0.37724292
+Huntington_Park,_California - Score: 0.31644017

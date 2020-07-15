@@ -1,0 +1,5 @@
+Principal_Park - Score: 1.0
+Werner_Park - Score: 0.485313
+Smith's_Ballpark - Score: 0.36796933
+First_Horizon_Park - Score: 0.35576952
+Western_Gateway_Park - Score: 0.32073787

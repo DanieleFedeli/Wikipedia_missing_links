@@ -1,0 +1,7 @@
+Gorilla_Glass - Score: 1.0
+Dragontrail - Score: 0.58965343
+Vitrite - Score: 0.58965343
+Tiffany_glass - Score: 0.5313845
+Bing_Audio - Score: 0.46963668
+AKG_(company) - Score: 0.35378987
+Lexicon_(company) - Score: 0.32196403

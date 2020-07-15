@@ -1,0 +1,3 @@
+Semi-log_plot - Score: 1.0
+Impact_of_the_COVID-19_pandemic_on_the_music_industry - Score: 0.80879253
+Cabinet_Office_Briefing_Rooms - Score: 0.40429056

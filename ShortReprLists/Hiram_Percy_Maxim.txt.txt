@@ -1,0 +1,4 @@
+Hiram_Percy_Maxim - Score: 1.0
+Clarence_Birdseye - Score: 0.50645274
+Karl_Benz - Score: 0.36679307
+Rudolf_Diesel - Score: 0.3355491

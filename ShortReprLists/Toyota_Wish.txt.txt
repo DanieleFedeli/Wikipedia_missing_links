@@ -1,0 +1,3 @@
+Toyota_Wish - Score: 1.0
+Toyota_Avensis - Score: 0.45653722
+Toyota_Yaris - Score: 0.3570825

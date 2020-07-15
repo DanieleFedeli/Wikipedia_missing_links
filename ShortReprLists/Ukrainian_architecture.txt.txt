@@ -1,0 +1,4 @@
+Ukrainian_architecture - Score: 1.0
+Black_Grave - Score: 0.48843077
+Shevchenko_National_Prize - Score: 0.42635086
+Kyiv_National_University_of_Technologies_and_Design - Score: 0.31466225

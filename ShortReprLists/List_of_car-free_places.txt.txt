@@ -1,0 +1,5 @@
+List_of_car-free_places - Score: 1.0
+Car-Free_Days - Score: 0.67782074
+Effects_of_the_car_on_societies - Score: 0.5240547
+Automobile_dependency - Score: 0.32306844
+Permeability_(spatial_and_transport_planning) - Score: 0.3200186

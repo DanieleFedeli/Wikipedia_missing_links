@@ -1,0 +1,5 @@
+Rock_opera - Score: 1.0
+Grunge - Score: 0.3860638
+Experimental_rock - Score: 0.36153638
+Guitar_solo - Score: 0.31739673
+Stoner_rock - Score: 0.3130836

@@ -1,0 +1,7 @@
+Charles_F._Kettering - Score: 1.0
+Edward_G._Budd - Score: 0.8671395
+Willis_Carrier - Score: 0.7526347
+Alfred_P._Sloan - Score: 0.49654657
+Albert_Fink - Score: 0.37092075
+Othmar_Ammann - Score: 0.35760704
+Clarence_Birdseye - Score: 0.31948033

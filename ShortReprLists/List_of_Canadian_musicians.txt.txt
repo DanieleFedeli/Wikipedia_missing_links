@@ -1,0 +1,6 @@
+List_of_Canadian_musicians - Score: 1.0
+Architecture_of_Canada - Score: 0.55282265
+List_of_bands_from_British_Columbia - Score: 0.45623013
+Music_of_Vancouver - Score: 0.31181496
+Jack_Graney_Award - Score: 0.30261657
+Tip_O'Neill_Award - Score: 0.30261657

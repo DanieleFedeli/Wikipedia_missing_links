@@ -1,0 +1,5 @@
+Nordic_Classicism - Score: 1.0
+Kaivopuisto - Score: 0.6375741
+Museum_of_Finnish_Architecture - Score: 0.6375741
+Central_Park_(Helsinki) - Score: 0.50997084
+Docomomo_International - Score: 0.30508202

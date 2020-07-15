@@ -1,0 +1,7 @@
+Caldarium - Score: 1.0
+Frigidarium - Score: 0.91156787
+Tepidarium - Score: 0.91156787
+Apodyterium - Score: 0.7269763
+Palaestra - Score: 0.60744655
+Impluvium - Score: 0.58096653
+Hypocaust - Score: 0.5048016

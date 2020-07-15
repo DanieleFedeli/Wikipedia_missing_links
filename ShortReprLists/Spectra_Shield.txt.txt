@@ -1,0 +1,4 @@
+Spectra_Shield - Score: 1.0
+Chobham_armour - Score: 0.3395085
+Spall - Score: 0.32752585
+Composite_armour - Score: 0.31807762

@@ -1,0 +1,4 @@
+Ted_Husing - Score: 1.0
+Michael_Sergio - Score: 0.38865784
+Jack_Graney - Score: 0.33563977
+Wayne_Randazzo - Score: 0.31456038

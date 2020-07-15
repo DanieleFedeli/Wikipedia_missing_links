@@ -1,0 +1,5 @@
+Tennis_Club_Odense - Score: 1.0
+Arena_Fyn - Score: 0.78747445
+Danish_Architecture_Centre - Score: 0.3112995
+Gamleborg - Score: 0.30925176
+Flakfortet - Score: 0.30894595

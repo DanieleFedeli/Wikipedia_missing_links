@@ -1,0 +1,4 @@
+Dictionary_of_Women_Artists - Score: 1.0
+The_Woman's_Building_(Chicago) - Score: 0.7811306
+The_Awakening_(Chopin_novel) - Score: 0.5457705
+Mathilde_Marchesi - Score: 0.3284314

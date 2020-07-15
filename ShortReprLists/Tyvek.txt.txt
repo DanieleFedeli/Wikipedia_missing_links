@@ -1,0 +1,7 @@
+Tyvek - Score: 1.0
+Viton - Score: 0.8365431
+FFKM - Score: 0.8073791
+Vespel - Score: 0.8073791
+Zytel - Score: 0.8073791
+Polytetrafluoroethylene - Score: 0.3690056
+Cable_tie - Score: 0.34551618

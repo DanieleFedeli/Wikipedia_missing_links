@@ -1,0 +1,7 @@
+Paul_Arditti - Score: 1.0
+Laurence_Olivier_Award_for_Best_New_Opera_Production - Score: 0.9127018
+Laurence_Olivier_Award_for_Outstanding_Achievement_in_Opera - Score: 0.9127018
+The_Hired_Man - Score: 0.55914277
+Irene_Sankoff - Score: 0.5385026
+David_Hein - Score: 0.43401736
+Come_from_Away - Score: 0.33573264

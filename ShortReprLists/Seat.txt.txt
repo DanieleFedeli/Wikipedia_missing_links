@@ -1,0 +1,9 @@
+Seat - Score: 1.0
+Bentley - Score: 0.46992734
+Škoda_Auto - Score: 0.46992734
+Trabant - Score: 0.3685748
+Volkswagen - Score: 0.3685748
+Charles,_Prince_of_Wales - Score: 0.33505687
+Gregor_MacGregor - Score: 0.33505687
+Lamborghini - Score: 0.32891154
+Wreath - Score: 0.3151628

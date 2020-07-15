@@ -1,0 +1,4 @@
+Arpent - Score: 1.0
+Mile_End,_Montreal - Score: 0.43930617
+List_of_Remarkable_Gardens_of_France - Score: 0.42769748
+French_architecture - Score: 0.38944826

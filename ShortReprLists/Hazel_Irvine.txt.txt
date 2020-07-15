@@ -1,0 +1,4 @@
+Hazel_Irvine - Score: 1.0
+Des_Lynam - Score: 0.5729842
+John_Inverdale - Score: 0.49084833
+Grand_Designs - Score: 0.42733756

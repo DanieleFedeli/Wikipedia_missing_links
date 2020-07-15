@@ -1,0 +1,6 @@
+History_of_self-driving_cars - Score: 1.0
+General_Motors_EN-V - Score: 0.85218483
+Tesla_Model_S - Score: 0.36473942
+Toyota_RAV4_EV - Score: 0.36441857
+Tesla_Model_3 - Score: 0.3528525
+Tesla_Model_X - Score: 0.3528525

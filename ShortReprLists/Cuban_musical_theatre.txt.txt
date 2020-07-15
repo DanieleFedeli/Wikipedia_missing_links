@@ -1,0 +1,7 @@
+Cuban_musical_theatre - Score: 1.0
+Baseball_in_Cuba - Score: 0.5692287
+Club_Fé - Score: 0.43042228
+Azul_(baseball) - Score: 0.41735342
+Carmelita_(baseball) - Score: 0.41335824
+Cienfuegos_(Cuban_League_baseball_club) - Score: 0.4050627
+Embassy_of_Russia_in_Havana - Score: 0.3729

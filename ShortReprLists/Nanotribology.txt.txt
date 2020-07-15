@@ -1,0 +1,3 @@
+Nanotribology - Score: 1.0
+Metal_foam - Score: 0.5144069
+Multi-function_structure - Score: 0.5144069

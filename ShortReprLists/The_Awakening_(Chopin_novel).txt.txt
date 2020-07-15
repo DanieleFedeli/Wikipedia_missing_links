@@ -1,0 +1,6 @@
+The_Awakening_(Chopin_novel) - Score: 1.0
+The_Woman's_Building_(Chicago) - Score: 0.6568905
+Dictionary_of_Women_Artists - Score: 0.57105803
+Margaret_Ingels - Score: 0.4537142
+Berenice_Abbott - Score: 0.43635032
+Antoinette_Downing - Score: 0.34947547

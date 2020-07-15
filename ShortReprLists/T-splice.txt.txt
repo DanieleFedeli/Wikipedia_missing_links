@@ -1,0 +1,4 @@
+T-splice - Score: 1.0
+Rat-tail_splice - Score: 0.9104246
+Western_Union_splice - Score: 0.9104246
+Carabiner - Score: 0.4945866

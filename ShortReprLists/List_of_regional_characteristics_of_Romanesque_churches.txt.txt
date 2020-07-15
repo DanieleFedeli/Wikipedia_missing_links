@@ -1,0 +1,5 @@
+List_of_regional_characteristics_of_Romanesque_churches - Score: 1.0
+Westwork - Score: 0.36137605
+Triforium - Score: 0.35909715
+Mosan_art - Score: 0.34877756
+Groin_vault - Score: 0.31481135

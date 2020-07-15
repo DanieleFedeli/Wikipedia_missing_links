@@ -1,0 +1,6 @@
+Trellis_(architecture) - Score: 1.0
+Klopotec - Score: 0.5938802
+Rootstock - Score: 0.41015968
+Water_feature - Score: 0.39933756
+Hedge - Score: 0.31567597
+Ha-ha - Score: 0.3037627

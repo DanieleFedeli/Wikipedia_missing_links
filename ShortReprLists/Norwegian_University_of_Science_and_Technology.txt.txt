@@ -1,0 +1,5 @@
+Norwegian_University_of_Science_and_Technology - Score: 1.0
+Kaunas_University_of_Technology - Score: 0.6091808
+Oslo_School_of_Architecture_and_Design - Score: 0.4534872
+Vilnius_Gediminas_Technical_University - Score: 0.3171612
+Royal_Danish_Academy_of_Music - Score: 0.30884084

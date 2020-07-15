@@ -1,0 +1,5 @@
+The_Opera_House_(Toronto) - Score: 1.0
+Mod_Club_Theatre - Score: 0.6848287
+Echostage - Score: 0.5131347
+Union_Transfer - Score: 0.47031787
+Rainbow_Music_Hall - Score: 0.30238315

@@ -1,0 +1,6 @@
+Drywall - Score: 1.0
+Hydraulic_lime - Score: 0.39037204
+Lime_(material) - Score: 0.39037204
+Lime_mortar - Score: 0.39037204
+Lime_plaster - Score: 0.35960945
+Fire_test - Score: 0.3230832

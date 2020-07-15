@@ -1,0 +1,7 @@
+Lake_McDonald_Lodge_Coffee_Shop - Score: 1.0
+Logan_Pass_Visitor_Center - Score: 1.0
+Saint_Mary_Visitor_Center,_Entrance_Station_and_Checking_Stations - Score: 1.0
+Jackson_Lake_Lodge - Score: 0.7153181
+Beaver_Meadows_Visitor_Center - Score: 0.5061079
+Rustic_architecture - Score: 0.34590074
+Mission_66 - Score: 0.31089264

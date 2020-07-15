@@ -1,0 +1,3 @@
+John_Van_Hamersveld - Score: 1.0
+Trout_Mask_Replica - Score: 0.340017
+Jam_band - Score: 0.33431372

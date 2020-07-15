@@ -1,0 +1,7 @@
+Tie_(draw) - Score: 1.0
+Tauranga_Domain - Score: 0.39416403
+Centennial_Hall - Score: 0.38812116
+North_Harbour_Stadium - Score: 0.38210422
+Charles_T._Fisher - Score: 0.34153467
+Floor_(gymnastics) - Score: 0.33523598
+Wooden_spoon_(award) - Score: 0.31388032

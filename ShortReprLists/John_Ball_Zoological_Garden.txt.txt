@@ -1,0 +1,3 @@
+John_Ball_Zoological_Garden - Score: 1.0
+Crescent_Park_(Grand_Rapids,_Michigan) - Score: 0.91989857
+Four_Winds_Field_at_Coveleski_Stadium - Score: 0.34495157

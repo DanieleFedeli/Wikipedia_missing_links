@@ -1,0 +1,4 @@
+Gordon_Bennett_Cup_(auto_racing) - Score: 1.0
+Camille_Jenatzy - Score: 0.5526362
+RAC_Tourist_Trophy - Score: 0.35063565
+Ligier - Score: 0.30119208

@@ -1,0 +1,6 @@
+New_Town_Eco_Park - Score: 1.0
+Netaji_Indoor_Stadium - Score: 0.6741912
+Hindustan_Ambassador - Score: 0.61055875
+Bankura_horse - Score: 0.37856492
+Jatra_(theatre) - Score: 0.37275383
+Manasa_chali - Score: 0.36536717

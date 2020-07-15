@@ -1,0 +1,6 @@
+Hyundai_Porter - Score: 1.0
+Hyundai_i10 - Score: 0.5835075
+Mitsubishi_Chariot - Score: 0.5033046
+Hyundai_Accent - Score: 0.47022352
+Hyundai_Atos - Score: 0.47022352
+Dodge_Power_Wagon - Score: 0.30167332

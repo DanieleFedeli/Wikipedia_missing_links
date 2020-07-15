@@ -1,0 +1,6 @@
+Lexus_LS - Score: 1.0
+Lexus_ES - Score: 0.76456857
+Lexus_GS - Score: 0.70231324
+Lexus_IS - Score: 0.5008741
+Toyota_Crown - Score: 0.39992845
+Toyota_RAV4 - Score: 0.3005402

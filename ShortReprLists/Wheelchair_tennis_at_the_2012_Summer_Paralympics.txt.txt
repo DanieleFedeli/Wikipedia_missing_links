@@ -1,0 +1,4 @@
+Wheelchair_tennis_at_the_2012_Summer_Paralympics - Score: 1.0
+2012_in_tennis - Score: 0.31707916
+2012_WTA_125K_series - Score: 0.31707916
+2012_ATP_World_Tour_Finals - Score: 0.3022375

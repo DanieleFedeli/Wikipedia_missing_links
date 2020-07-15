@@ -1,0 +1,4 @@
+Oswald_Mathias_Ungers - Score: 1.0
+German_Architecture_Museum - Score: 0.57554
+Architectural_theory - Score: 0.36986277
+Colin_Rowe - Score: 0.36698723

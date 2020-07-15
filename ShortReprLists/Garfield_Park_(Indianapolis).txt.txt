@@ -1,0 +1,4 @@
+Garfield_Park_(Indianapolis) - Score: 1.0
+Riverside_Park_(Indianapolis) - Score: 0.94137174
+Brookside_Park_(Indianapolis) - Score: 0.63606125
+Musical_fountain - Score: 0.309073

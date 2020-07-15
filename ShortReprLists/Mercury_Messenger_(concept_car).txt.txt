@@ -1,0 +1,6 @@
+Mercury_Messenger_(concept_car) - Score: 1.0
+Mercury_My - Score: 0.8654587
+Mercury_Meta_One - Score: 0.6957178
+Mercury_Commuter - Score: 0.4218092
+Mercury_S-55 - Score: 0.4218092
+Mercury_Voyager - Score: 0.4218092

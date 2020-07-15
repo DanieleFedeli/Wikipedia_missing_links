@@ -1,0 +1,5 @@
+Duane_Williams - Score: 1.0
+Grand_Staircase_of_the_RMS_Titanic - Score: 1.0
+Karl_Behr - Score: 1.0
+R._Norris_Williams - Score: 0.34768873
+Promenade_deck - Score: 0.33625993

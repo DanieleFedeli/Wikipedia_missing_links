@@ -1,0 +1,5 @@
+Clothespin - Score: 1.0
+Baths_and_wash_houses_in_Britain - Score: 0.67410713
+Lavoir - Score: 0.35760656
+Toaster - Score: 0.34710634
+Fan_(machine) - Score: 0.34643558

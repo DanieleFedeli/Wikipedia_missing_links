@@ -1,0 +1,3 @@
+Stanchion - Score: 1.0
+Wrought_iron - Score: 0.3745255
+Cast_iron - Score: 0.36950454

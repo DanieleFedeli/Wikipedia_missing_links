@@ -1,0 +1,4 @@
+SIN_Cars - Score: 1.0
+McLaren_570S - Score: 0.50272256
+Ginetta_G55 - Score: 0.42620873
+KTM_X-Bow - Score: 0.41275695

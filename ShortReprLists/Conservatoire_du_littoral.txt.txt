@@ -1,0 +1,3 @@
+Conservatoire_du_littoral - Score: 1.0
+Bourges_Cathedral - Score: 0.34875464
+Château_de_Montsoreau - Score: 0.32454616

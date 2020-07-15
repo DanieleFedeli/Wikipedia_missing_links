@@ -1,0 +1,7 @@
+Dodge_Dakota - Score: 1.0
+Dodge_Ram_SRT-10 - Score: 0.6592473
+Dodge_Journey - Score: 0.58866733
+Dodge_Caliber - Score: 0.55742204
+Dodge_A100 - Score: 0.49646258
+Dodge_Avenger - Score: 0.4026971
+Dodge_Challenger - Score: 0.37597916

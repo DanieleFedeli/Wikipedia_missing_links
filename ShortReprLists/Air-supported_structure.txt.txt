@@ -1,0 +1,4 @@
+Air-supported_structure - Score: 1.0
+Tensile_structure - Score: 0.45849445
+Shukhov_Tower - Score: 0.3426363
+Thin-shell_structure - Score: 0.33109352

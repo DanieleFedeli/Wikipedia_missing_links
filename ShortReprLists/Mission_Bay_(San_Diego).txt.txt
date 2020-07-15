@@ -1,0 +1,6 @@
+Mission_Bay_(San_Diego) - Score: 1.0
+Balboa_Park_(San_Diego) - Score: 0.63762385
+Mission_Hills,_San_Diego - Score: 0.63762385
+Chicano_Park - Score: 0.4240499
+California_State_Automobile_Association - Score: 0.3647684
+San_Diego_Automotive_Museum - Score: 0.36133012

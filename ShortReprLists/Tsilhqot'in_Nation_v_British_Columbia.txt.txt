@@ -1,0 +1,5 @@
+Tsilhqot'in_Nation_v_British_Columbia - Score: 1.0
+Settler_colonialism - Score: 0.60485286
+Native_American_mascot_controversy - Score: 0.50270224
+Dawes_Act - Score: 0.37233868
+Lester_B._Pearson - Score: 0.31094146

@@ -1,0 +1,6 @@
+Elfin_MR5 - Score: 1.0
+Graham_McRae - Score: 0.6035683
+Elfin_Sports_Cars - Score: 0.5025352
+1966_Australian_Drivers'_Championship - Score: 0.49409506
+1970_Australian_Drivers'_Championship - Score: 0.39790666
+Lotus_15 - Score: 0.3094122

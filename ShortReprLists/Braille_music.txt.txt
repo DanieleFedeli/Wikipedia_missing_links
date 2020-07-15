@@ -1,0 +1,3 @@
+Braille_music - Score: 1.0
+Musical_language - Score: 0.39298183
+Solresol - Score: 0.39298183

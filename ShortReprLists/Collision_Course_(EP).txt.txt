@@ -1,0 +1,7 @@
+Collision_Course_(EP) - Score: 1.0
+A_Written_Testimony - Score: 0.9569728
+The_Best_of_Both_Worlds_(Jay-Z_and_R._Kelly_album) - Score: 0.9569728
+Unfinished_Business_(Jay-Z_and_R._Kelly_album) - Score: 0.92131615
+MTV_Unplugged_(Jay-Z_album) - Score: 0.8465284
+Everything_Is_Love - Score: 0.6258893
+Rockland_Records - Score: 0.57561177

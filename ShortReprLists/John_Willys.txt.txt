@@ -1,0 +1,4 @@
+John_Willys - Score: 1.0
+Lee_Iacocca - Score: 0.32751185
+Hudson_Motor_Car_Company - Score: 0.31610772
+Jeep - Score: 0.31338036

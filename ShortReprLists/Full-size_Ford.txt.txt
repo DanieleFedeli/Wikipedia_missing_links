@@ -1,0 +1,4 @@
+Full-size_Ford - Score: 1.0
+Ford_Galaxie - Score: 0.3519472
+Ford_LTD_(Americas) - Score: 0.33856714
+Ford_Falcon_(Australia) - Score: 0.329528

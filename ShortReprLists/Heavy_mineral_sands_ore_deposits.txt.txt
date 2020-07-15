@@ -1,0 +1,4 @@
+Heavy_mineral_sands_ore_deposits - Score: 1.0
+Black_sand - Score: 0.5036197
+Crystal_twinning - Score: 0.5009028
+Tenacity_(mineralogy) - Score: 0.46825373

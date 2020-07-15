@@ -1,0 +1,6 @@
+Changeup - Score: 1.0
+Fastball - Score: 0.7953493
+Curveball - Score: 0.78916985
+Bullpen - Score: 0.5820168
+Inning - Score: 0.46560258
+Cut_fastball - Score: 0.3067419

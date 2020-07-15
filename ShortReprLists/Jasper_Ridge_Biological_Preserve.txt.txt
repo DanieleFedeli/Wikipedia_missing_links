@@ -1,0 +1,5 @@
+Jasper_Ridge_Biological_Preserve - Score: 1.0
+Taube_Tennis_Center - Score: 0.9265062
+San_Jose_Civic - Score: 0.42173743
+Stanford_Jazz_Workshop - Score: 0.42173743
+Excite_Ballpark - Score: 0.34293413

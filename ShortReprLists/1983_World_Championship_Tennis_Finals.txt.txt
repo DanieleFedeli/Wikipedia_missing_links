@@ -1,0 +1,6 @@
+1983_World_Championship_Tennis_Finals - Score: 1.0
+1972_World_Championship_Tennis_circuit - Score: 0.36760524
+1973_World_Championship_Tennis_circuit - Score: 0.36760524
+1975_World_Championship_Tennis_circuit - Score: 0.36760524
+1976_World_Championship_Tennis_circuit - Score: 0.36760524
+1977_World_Championship_Tennis_circuit - Score: 0.36760524

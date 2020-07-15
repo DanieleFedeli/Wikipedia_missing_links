@@ -1,0 +1,4 @@
+LZ_Granderson - Score: 1.0
+Christina_Kahrl - Score: 0.46991974
+Nate_Silver - Score: 0.43041763
+George_Will - Score: 0.31658578

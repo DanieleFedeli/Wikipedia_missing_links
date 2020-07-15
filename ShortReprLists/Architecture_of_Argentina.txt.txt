@@ -1,0 +1,7 @@
+Architecture_of_Argentina - Score: 1.0
+Agricultural_colonies_in_Argentina - Score: 0.56662065
+Avellaneda_Park - Score: 0.37276334
+Chacabuco_Park - Score: 0.37276334
+Lezama_Park - Score: 0.37276334
+Parque_Centenario - Score: 0.37276334
+Parque_Tres_de_Febrero - Score: 0.37276334

@@ -1,0 +1,2 @@
+Catenary_arch - Score: 1.0
+Parabolic_arch - Score: 0.6076304

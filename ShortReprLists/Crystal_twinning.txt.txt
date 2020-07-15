@@ -1,0 +1,6 @@
+Crystal_twinning - Score: 1.0
+Tenacity_(mineralogy) - Score: 0.78159666
+Solid_solution - Score: 0.6451053
+Mohs_scale_of_mineral_hardness - Score: 0.6444529
+Heavy_mineral_sands_ore_deposits - Score: 0.47818887
+Brucite - Score: 0.35038713

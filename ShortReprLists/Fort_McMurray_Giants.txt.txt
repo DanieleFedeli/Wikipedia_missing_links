@@ -1,0 +1,7 @@
+Fort_McMurray_Giants - Score: 1.0
+Edmonton_Prospects - Score: 0.91553056
+Lethbridge_Bulls - Score: 0.91553056
+Bowness,_Calgary - Score: 0.69813114
+Bridgeland,_Calgary - Score: 0.69813114
+Foothills_Stadium - Score: 0.5080864
+National_Music_Centre - Score: 0.41437462

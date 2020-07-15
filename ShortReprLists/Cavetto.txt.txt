@@ -1,0 +1,5 @@
+Cavetto - Score: 1.0
+Pylon_(architecture) - Score: 0.3587889
+Colonnade - Score: 0.342662
+Astragal - Score: 0.33071595
+Classical_order - Score: 0.33071595

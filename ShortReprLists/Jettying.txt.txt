@@ -1,0 +1,7 @@
+Jettying - Score: 1.0
+Pargeting - Score: 0.6985209
+Cottage_orné - Score: 0.45838085
+The_Victorian_Society - Score: 0.45138687
+Timber_framing - Score: 0.34893975
+Ruabon_brick - Score: 0.3472913
+Pantile - Score: 0.3420289

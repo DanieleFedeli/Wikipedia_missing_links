@@ -1,0 +1,7 @@
+National_pipe_thread - Score: 1.0
+Piping_and_plumbing_fitting - Score: 0.7275846
+Pipefitter - Score: 0.44301218
+Screw_thread - Score: 0.4163813
+Pipe_(fluid_conveyance) - Score: 0.3434267
+Piping - Score: 0.3318573
+Gender_of_connectors_and_fasteners - Score: 0.31233057

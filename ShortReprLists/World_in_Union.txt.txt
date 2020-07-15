@@ -1,0 +1,5 @@
+World_in_Union - Score: 1.0
+Mark_Ring - Score: 0.5334833
+Terry_Holmes - Score: 0.3599315
+Australia_national_under-19_baseball_team - Score: 0.32662442
+Birkenhead_Park - Score: 0.30736703

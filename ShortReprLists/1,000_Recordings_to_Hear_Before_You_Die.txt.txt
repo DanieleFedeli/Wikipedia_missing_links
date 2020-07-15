@@ -1,0 +1,7 @@
+1,000_Recordings_to_Hear_Before_You_Die - Score: 1.0
+NME's_The_500_Greatest_Albums_of_All_Time - Score: 0.50267684
+1001_Albums_You_Must_Hear_Before_You_Die - Score: 0.48515227
+Music_Story - Score: 0.46606287
+All_Time_Top_1000_Albums - Score: 0.46302706
+Rolling_Stone's_500_Greatest_Albums_of_All_Time - Score: 0.38647714
+Spin_Alternative_Record_Guide - Score: 0.36819425

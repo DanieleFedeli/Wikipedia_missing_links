@@ -1,0 +1,6 @@
+Pimba - Score: 1.0
+Museum_of_Art,_Architecture_and_Technology - Score: 0.5811312
+Museu_Nacional_da_Música - Score: 0.5811312
+Ducal_Palace_of_Vila_Viçosa - Score: 0.5627898
+São_Jorge_Castle - Score: 0.48122582
+Direção-Geral_do_Património_Cultural - Score: 0.43960214

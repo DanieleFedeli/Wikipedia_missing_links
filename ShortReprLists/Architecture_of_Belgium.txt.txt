@@ -1,0 +1,6 @@
+Architecture_of_Belgium - Score: 1.0
+Architecture_of_Luxembourg - Score: 0.9080443
+Architecture_of_Kosovo - Score: 0.9024284
+Architecture_of_Slovenia - Score: 0.9024284
+Architecture_of_Europe - Score: 0.7822175
+Architecture_of_Poland - Score: 0.5924012

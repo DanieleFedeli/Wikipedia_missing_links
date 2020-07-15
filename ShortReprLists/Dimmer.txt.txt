@@ -1,0 +1,7 @@
+Dimmer - Score: 1.0
+Photometry_(optics) - Score: 0.5763099
+Lighting - Score: 0.47334433
+Gas_lighting - Score: 0.38483486
+Electric_light - Score: 0.33947185
+Color_temperature - Score: 0.32502833
+Chandelier - Score: 0.31878504

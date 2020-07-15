@@ -1,0 +1,5 @@
+Veterans_Field - Score: 1.0
+Ciudad_Deportiva_(Nuevo_Laredo) - Score: 0.6132883
+Estadio_Nuevo_Laredo - Score: 0.6132883
+Parque_la_Junta - Score: 0.5586671
+Uni-Trade_Stadium - Score: 0.5586671

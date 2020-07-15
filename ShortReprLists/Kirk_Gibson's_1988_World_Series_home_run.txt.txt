@@ -1,0 +1,7 @@
+Kirk_Gibson's_1988_World_Series_home_run - Score: 1.0
+Vin_Scully - Score: 0.6761898
+Tommy_Lasorda - Score: 0.4672428
+Shot_Heard_'Round_the_World_(baseball) - Score: 0.44495553
+Fernando_Valenzuela - Score: 0.38038218
+Roy_Campanella - Score: 0.38038218
+Dodger_Stadium - Score: 0.32200482

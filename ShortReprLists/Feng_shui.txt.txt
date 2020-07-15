@@ -1,0 +1,4 @@
+Feng_shui - Score: 1.0
+Rajneesh - Score: 0.5111527
+Taoist_temple - Score: 0.4906111
+Alex_Grey - Score: 0.37925458

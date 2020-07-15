@@ -1,0 +1,7 @@
+Chicago_Architecture_Center - Score: 1.0
+Midway_Plaisance - Score: 0.38025564
+Drawing_Center - Score: 0.34560972
+Crown_Fountain - Score: 0.33156958
+Frank_Lloyd_Wright - Score: 0.31609693
+Julius_Shulman - Score: 0.30172598
+Union_Park_(Chicago) - Score: 0.30078185

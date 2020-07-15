@@ -1,0 +1,3 @@
+Market_square - Score: 1.0
+Town_square - Score: 0.35166022
+Industrial_architecture - Score: 0.30714172

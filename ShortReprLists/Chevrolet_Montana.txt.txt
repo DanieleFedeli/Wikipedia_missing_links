@@ -1,0 +1,6 @@
+Chevrolet_Montana - Score: 1.0
+Chevrolet_Agile - Score: 0.58815783
+Chevrolet_Onix - Score: 0.46127492
+Chevrolet_SSR - Score: 0.35361764
+Chevrolet_Sail - Score: 0.35193193
+Chevrolet_Blazer_(crossover) - Score: 0.34170488

@@ -1,0 +1,4 @@
+Budapest_indie_music_scene - Score: 1.0
+Indie_music_scene - Score: 1.0
+Hamburger_Schule - Score: 0.90916306
+Little_band_scene - Score: 0.45149037

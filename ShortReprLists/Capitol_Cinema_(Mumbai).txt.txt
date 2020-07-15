@@ -1,0 +1,6 @@
+Capitol_Cinema_(Mumbai) - Score: 1.0
+Atash_Behram - Score: 0.91125554
+Architecture_of_Mumbai - Score: 0.7098071
+Lumbini_Park - Score: 0.35854802
+NTR_Gardens - Score: 0.35854802
+Tamasha - Score: 0.32847866

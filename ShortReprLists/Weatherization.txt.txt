@@ -1,0 +1,2 @@
+Weatherization - Score: 1.0
+Public_infrastructure - Score: 0.8411099

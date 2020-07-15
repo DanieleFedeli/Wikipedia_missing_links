@@ -1,0 +1,4 @@
+Toyota_HiAce - Score: 1.0
+Toyota_Probox - Score: 0.7827724
+Toyota_Yaris_(XP150) - Score: 0.3169358
+Toyota_Sienta - Score: 0.3062588

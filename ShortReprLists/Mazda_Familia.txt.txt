@@ -1,0 +1,7 @@
+Mazda_Familia - Score: 1.0
+Mazda_929 - Score: 0.5603615
+Mazda_Luce - Score: 0.55212957
+Mazda_Sentia - Score: 0.46571937
+Mazda_MX-5 - Score: 0.33812055
+Mazda_MX-6 - Score: 0.3140208
+Mazda_RX-8 - Score: 0.31095198

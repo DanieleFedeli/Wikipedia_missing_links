@@ -1,0 +1,7 @@
+Stilts_(architecture) - Score: 1.0
+Demolition - Score: 0.43516594
+Renovation - Score: 0.43516594
+Glazing_(window) - Score: 0.40715164
+Building_implosion - Score: 0.36369085
+General_contractor - Score: 0.31905764
+Vestibule_(architecture) - Score: 0.30656952

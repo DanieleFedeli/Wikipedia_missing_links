@@ -1,0 +1,6 @@
+Utility_cycling - Score: 1.0
+Bicycle_law - Score: 0.8864843
+Cycling_advocacy - Score: 0.8864843
+Idaho_stop - Score: 0.8864843
+List_of_bicycle_types - Score: 0.8864843
+Bicycle_lighting - Score: 0.67373216

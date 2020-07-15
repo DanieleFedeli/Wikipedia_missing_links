@@ -1,0 +1,7 @@
+1992_Australian_Men's_Hardcourt_Championships - Score: 1.0
+1992_Maceió_Open - Score: 1.0
+1992_Copenhagen_Open - Score: 0.9049292
+1992_Australian_Open - Score: 0.55938715
+1992_French_Open - Score: 0.55938715
+1992_Wimbledon_Championships - Score: 0.55938715
+1992_US_Open_(tennis) - Score: 0.521203

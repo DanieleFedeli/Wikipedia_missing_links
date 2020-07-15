@@ -1,0 +1,4 @@
+Criollos_de_Caguas_(baseball) - Score: 1.0
+Gigantes_de_Carolina_(baseball) - Score: 0.9186852
+Senadores_de_San_Juan - Score: 0.91811913
+Atenienses_de_Manatí - Score: 0.74988997

@@ -1,0 +1,7 @@
+Persian_art - Score: 1.0
+Qajar_art - Score: 0.8136023
+Architecture_of_Bengal - Score: 0.5175956
+Shabaka_(window) - Score: 0.42788744
+Charbagh - Score: 0.41148487
+Paradise_garden - Score: 0.34160033
+Somali_architecture - Score: 0.3195933

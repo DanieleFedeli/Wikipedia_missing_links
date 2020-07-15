@@ -1,0 +1,3 @@
+Stadium_seating - Score: 1.0
+List_of_roller_coaster_rankings - Score: 0.6505071
+Kingswood_Music_Theatre - Score: 0.3289642

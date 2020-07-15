@@ -1,0 +1,6 @@
+Pipefitter - Score: 1.0
+Piping_and_plumbing_fitting - Score: 0.6755029
+Pipe_(fluid_conveyance) - Score: 0.52101827
+Piping - Score: 0.5034661
+National_pipe_thread - Score: 0.44789016
+Tube_(fluid_conveyance) - Score: 0.372765

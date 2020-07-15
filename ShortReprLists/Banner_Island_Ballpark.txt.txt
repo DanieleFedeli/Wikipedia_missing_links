@@ -1,0 +1,5 @@
+Banner_Island_Ballpark - Score: 1.0
+Larry_H._Miller_Field - Score: 0.76036954
+UCCU_Ballpark - Score: 0.63640004
+Smith's_Ballpark - Score: 0.62030745
+Tony_Gwynn_Stadium - Score: 0.3476605

@@ -1,0 +1,4 @@
+Architecture_of_Peru - Score: 1.0
+Pukara - Score: 0.58851296
+Pumapunku - Score: 0.39017406
+Inca_architecture - Score: 0.38855052

@@ -1,0 +1,5 @@
+Oklahoma_Music_Hall_of_Fame - Score: 1.0
+Canadian_Country_Music_Hall_of_Fame - Score: 0.3865302
+Nashville_Songwriters_Hall_of_Fame - Score: 0.38339826
+Nashville_Songwriters_Association_International - Score: 0.37048227
+Canadian_Songwriters_Hall_of_Fame - Score: 0.34759757

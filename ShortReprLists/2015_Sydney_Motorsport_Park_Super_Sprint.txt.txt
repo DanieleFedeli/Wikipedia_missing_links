@@ -1,0 +1,4 @@
+2015_Sydney_Motorsport_Park_Super_Sprint - Score: 1.0
+Enduro_Cup - Score: 0.44362867
+V8_Ute_Racing_Series - Score: 0.38425845
+Ford_Falcon_(FG) - Score: 0.31309783

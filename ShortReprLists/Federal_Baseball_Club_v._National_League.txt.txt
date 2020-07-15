@@ -1,0 +1,4 @@
+Federal_Baseball_Club_v._National_League - Score: 1.0
+Flood_v._Kuhn - Score: 0.602949
+Reserve_clause - Score: 0.46566337
+Negro_league_baseball - Score: 0.3676195

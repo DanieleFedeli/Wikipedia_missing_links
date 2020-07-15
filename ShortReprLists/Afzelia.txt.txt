@@ -1,0 +1,5 @@
+Afzelia - Score: 1.0
+Mahogany - Score: 0.3779704
+Ironwood - Score: 0.37463012
+Milicia_excelsa - Score: 0.367263
+Hickory - Score: 0.30418453

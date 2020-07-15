@@ -1,0 +1,7 @@
+Staffordshire_blue_brick - Score: 1.0
+Abutment - Score: 0.6007584
+Joseph_Locke - Score: 0.6003929
+Wrought_iron - Score: 0.41123348
+Wicket_gate - Score: 0.39529985
+Spandrel - Score: 0.32777387
+Springer_(architecture) - Score: 0.31481907

@@ -1,0 +1,6 @@
+Music_manager - Score: 1.0
+Session_musician - Score: 0.34243473
+Talent_manager - Score: 0.32781994
+Multi-instrumentalist - Score: 0.31936276
+Music_industry - Score: 0.3167763
+Artistic_control - Score: 0.3034085

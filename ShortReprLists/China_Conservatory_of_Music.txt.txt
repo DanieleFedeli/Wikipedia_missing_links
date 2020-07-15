@@ -1,0 +1,6 @@
+China_Conservatory_of_Music - Score: 1.0
+Wu_Ping - Score: 0.58884585
+Rock_Records - Score: 0.3421
+Wang_Aiping_(baseball) - Score: 0.3375274
+Teresa_Carpio - Score: 0.33057526
+Phoenix_Legend - Score: 0.31416553

@@ -1,0 +1,3 @@
+Council_garden_estate - Score: 1.0
+Overspill_estate - Score: 0.6786078
+Ronan_Point - Score: 0.4052411

@@ -1,0 +1,5 @@
+Slate_industry_in_Wales - Score: 1.0
+Welsh_Baseball_Union - Score: 0.59656584
+Tennis_Wales - Score: 0.501009
+Welsh_Ladies_Baseball_Union - Score: 0.501009
+Tennis_and_Rackets_Association - Score: 0.4140514

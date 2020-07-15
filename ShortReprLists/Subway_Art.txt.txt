@@ -1,0 +1,6 @@
+Subway_Art - Score: 1.0
+Built_environment - Score: 0.51923174
+Shepard_Fairey - Score: 0.47376168
+Banksy - Score: 0.47042918
+Urban_acupuncture - Score: 0.41595674
+Mr._Brainwash - Score: 0.36148477

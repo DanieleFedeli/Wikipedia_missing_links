@@ -1,0 +1,7 @@
+Progressive_music - Score: 1.0
+Band_(rock_and_pop) - Score: 0.6412209
+Art_music - Score: 0.37296376
+List_of_music_styles - Score: 0.3711244
+Electronics_in_rock_music - Score: 0.36768368
+Canterbury_scene - Score: 0.36685717
+Freakbeat - Score: 0.36685717

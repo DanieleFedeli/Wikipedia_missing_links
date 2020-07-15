@@ -1,0 +1,3 @@
+Centennial_Hall - Score: 1.0
+Floor_(gymnastics) - Score: 0.65307105
+Tie_(draw) - Score: 0.33903795

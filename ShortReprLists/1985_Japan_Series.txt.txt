@@ -1,0 +1,6 @@
+1985_Japan_Series - Score: 1.0
+Fumio_Fujimura - Score: 0.48122343
+1986_Nippon_Professional_Baseball_season - Score: 0.39580685
+1973_Nippon_Professional_Baseball_season - Score: 0.37882382
+1966_Nippon_Professional_Baseball_season - Score: 0.37810218
+1982_Nippon_Professional_Baseball_season - Score: 0.3011808

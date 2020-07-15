@@ -1,0 +1,3 @@
+Rocar - Score: 1.0
+ARO - Score: 0.4189105
+Volvo - Score: 0.31635377

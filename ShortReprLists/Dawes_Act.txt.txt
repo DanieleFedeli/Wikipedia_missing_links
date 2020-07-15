@@ -1,0 +1,7 @@
+Dawes_Act - Score: 1.0
+Native_American_mascot_controversy - Score: 0.47777048
+Checkerboarding_(land) - Score: 0.4480187
+Settler_colonialism - Score: 0.3769496
+Georgia_Land_Lotteries - Score: 0.3729892
+Land_run - Score: 0.3726924
+Tsilhqot'in_Nation_v_British_Columbia - Score: 0.3638082

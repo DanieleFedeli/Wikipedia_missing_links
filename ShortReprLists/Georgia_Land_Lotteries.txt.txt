@@ -1,0 +1,7 @@
+Georgia_Land_Lotteries - Score: 1.0
+Checkerboarding_(land) - Score: 0.6449822
+Land_run - Score: 0.44136348
+Dawes_Act - Score: 0.36765173
+Preemption_Act_of_1841 - Score: 0.361278
+Land_Ordinance_of_1785 - Score: 0.33377653
+American_pioneers_to_the_Northwest_Territory - Score: 0.32663485

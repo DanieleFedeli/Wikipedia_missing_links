@@ -1,0 +1,3 @@
+Ribbon_development - Score: 1.0
+Northwest_Regional_Development_Agency - Score: 0.3087323
+Overspill_estate - Score: 0.30363148

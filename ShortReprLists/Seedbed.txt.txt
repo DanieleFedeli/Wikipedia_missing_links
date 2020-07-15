@@ -1,0 +1,7 @@
+Seedbed - Score: 1.0
+Sowing - Score: 0.56354386
+Hobby_farm - Score: 0.4652831
+Organic_fertilizer - Score: 0.45753935
+Seed_saving - Score: 0.45415702
+Fertilizer - Score: 0.35704225
+Physiological_plant_disorder - Score: 0.35528752

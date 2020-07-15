@@ -1,0 +1,5 @@
+Einstein_Tower - Score: 1.0
+Qitai_Radio_Telescope - Score: 0.5324787
+Square_Kilometre_Array - Score: 0.5324787
+List_of_astronomical_observatories - Score: 0.51454043
+Einstein_refrigerator - Score: 0.30014154

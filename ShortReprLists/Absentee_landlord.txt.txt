@@ -1,0 +1,7 @@
+Absentee_landlord - Score: 1.0
+Act_for_the_Settlement_of_Ireland_1652 - Score: 0.4559875
+The_Pale - Score: 0.4406261
+Happy_Valley_set - Score: 0.4401831
+Charles_Labelye - Score: 0.432396
+Leinster_House - Score: 0.3468815
+Sasine - Score: 0.3453794

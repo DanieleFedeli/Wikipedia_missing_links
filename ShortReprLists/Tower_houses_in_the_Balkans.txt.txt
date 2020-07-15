@@ -1,0 +1,6 @@
+Tower_houses_in_the_Balkans - Score: 1.0
+Aeolic_order - Score: 0.40207994
+List_of_Ancient_Greek_temples - Score: 0.3889206
+List_of_stoae - Score: 0.3889206
+Modern_Greek_architecture - Score: 0.37536183
+Ancient_Greek_architecture - Score: 0.3688696

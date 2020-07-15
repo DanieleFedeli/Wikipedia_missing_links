@@ -1,0 +1,7 @@
+J_R - Score: 1.0
+The_Mambo_Kings_Play_Songs_of_Love - Score: 0.6983076
+A_Visit_from_the_Goon_Squad - Score: 0.69629055
+The_Mailer_Review - Score: 0.3840747
+Glamorama - Score: 0.38047087
+Kafka_on_the_Shore - Score: 0.36807126
+The_Decoration_of_Houses - Score: 0.31637663

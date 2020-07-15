@@ -1,0 +1,3 @@
+Bufori - Score: 1.0
+Kia_Motors - Score: 0.3440847
+Hyundai_Motor_Company - Score: 0.33208904

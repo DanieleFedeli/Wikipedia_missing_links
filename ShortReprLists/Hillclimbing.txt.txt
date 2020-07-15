@@ -1,0 +1,6 @@
+Hillclimbing - Score: 1.0
+BMW_M3 - Score: 0.45477927
+Alfa_Romeo - Score: 0.4028347
+Scuderia_Filipinetti - Score: 0.37938124
+Mille_Miglia - Score: 0.36899814
+Auto_racing - Score: 0.30495566

@@ -1,0 +1,6 @@
+Qinpu - Score: 1.0
+Guqin_notation - Score: 0.8714287
+Jieshi_Diao_Youlan - Score: 0.8714287
+New_York_Qin_Society - Score: 0.8714287
+North_American_Guqin_Association - Score: 0.8714287
+Zhe_school_(guqin) - Score: 0.8714287

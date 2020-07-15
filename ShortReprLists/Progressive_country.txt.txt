@@ -1,0 +1,7 @@
+Progressive_country - Score: 1.0
+List_of_country_genres - Score: 0.6196147
+Eclecticism_in_music - Score: 0.40257114
+Timeline_of_progressive_rock - Score: 0.40257114
+Bakersfield_sound - Score: 0.39890072
+Nashville_sound - Score: 0.39890072
+Canterbury_scene - Score: 0.39301625

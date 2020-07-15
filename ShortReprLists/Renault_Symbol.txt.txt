@@ -1,0 +1,7 @@
+Renault_Symbol - Score: 1.0
+Dacia_Duster - Score: 0.9202841
+Dacia_Logan - Score: 0.9202841
+Nissan_Latio - Score: 0.9202841
+Renault_Kangoo - Score: 0.9202841
+Nissan_Micra - Score: 0.82871795
+Nissan_Navara - Score: 0.8138785

@@ -1,0 +1,4 @@
+Pilot_light - Score: 1.0
+Blau_gas - Score: 0.912064
+Gas_mantle - Score: 0.6233968
+Leak - Score: 0.3759017

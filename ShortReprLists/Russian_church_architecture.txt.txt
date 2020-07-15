@@ -1,0 +1,6 @@
+Russian_church_architecture - Score: 1.0
+Naryshkin_Baroque - Score: 0.73573536
+Russian_architecture - Score: 0.5113371
+Neo-Byzantine_architecture_in_the_Russian_Empire - Score: 0.33904824
+Russian_neoclassical_revival - Score: 0.33904824
+National_Romantic_style - Score: 0.3276263

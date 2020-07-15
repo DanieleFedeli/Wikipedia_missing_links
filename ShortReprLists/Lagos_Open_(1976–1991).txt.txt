@@ -1,0 +1,6 @@
+Lagos_Open_(1976–1991) - Score: 1.0
+International_Tennis_Federation - Score: 0.3457592
+WCT_Tournament_of_Champions - Score: 0.32572833
+ATP_Tour - Score: 0.31553257
+United_States_Tennis_Association - Score: 0.3138897
+Lorraine_Open - Score: 0.3076033

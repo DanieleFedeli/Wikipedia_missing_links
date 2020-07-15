@@ -1,0 +1,5 @@
+Fire_pan - Score: 1.0
+Fire_ring - Score: 1.0
+Fire_pit - Score: 0.90689623
+Smouldering - Score: 0.90689623
+Outdoor_cooking - Score: 0.5149908

@@ -1,0 +1,6 @@
+Harlem_Shake_(meme) - Score: 1.0
+Harlem_shake_(dance) - Score: 0.5005764
+Harlem_Shake_(song) - Score: 0.39508626
+Gangnam_Style_(music_video) - Score: 0.3824438
+My_Boo_(Ghost_Town_DJ's_song) - Score: 0.31372762
+Keyboard_Cat - Score: 0.3031094

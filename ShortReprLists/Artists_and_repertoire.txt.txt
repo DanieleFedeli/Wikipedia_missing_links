@@ -1,0 +1,7 @@
+Artists_and_repertoire - Score: 1.0
+Album-equivalent_unit - Score: 0.5579872
+Phonograph_record - Score: 0.49795878
+List_of_best-selling_singles - Score: 0.42024148
+Shaye - Score: 0.4177167
+Horn_section - Score: 0.3612202
+List_of_Universal_Music_Group_labels - Score: 0.3003211

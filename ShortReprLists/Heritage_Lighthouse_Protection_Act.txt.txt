@@ -1,0 +1,7 @@
+Heritage_Lighthouse_Protection_Act - Score: 1.0
+Aerobeacon - Score: 0.51697594
+Caisson_lighthouse - Score: 0.51697594
+Crib_lighthouse - Score: 0.51697594
+Daymark - Score: 0.51697594
+Pilot_station - Score: 0.39723724
+List_of_lighthouses_and_lightvessels_in_Denmark - Score: 0.3079446

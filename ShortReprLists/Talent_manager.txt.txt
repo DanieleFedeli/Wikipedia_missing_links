@@ -1,0 +1,6 @@
+Talent_manager - Score: 1.0
+Music_industry - Score: 0.61927396
+Promoter_(entertainment) - Score: 0.36483237
+Music_recording_certification - Score: 0.3578265
+Live_Nation_Entertainment - Score: 0.33865437
+List_of_best-selling_music_artists - Score: 0.316125

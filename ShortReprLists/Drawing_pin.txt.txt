@@ -1,0 +1,5 @@
+Drawing_pin - Score: 1.0
+Paper_clip - Score: 0.44230133
+Stapler - Score: 0.43667263
+Fastener - Score: 0.35121104
+Screw_thread - Score: 0.31029493

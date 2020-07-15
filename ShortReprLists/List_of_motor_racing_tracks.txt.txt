@@ -1,0 +1,6 @@
+List_of_motor_racing_tracks - Score: 1.0
+Rufforth_Circuit - Score: 0.6112057
+Longridge_circuit - Score: 0.4526991
+Circuito_da_Boavista - Score: 0.39938563
+List_of_motor_racing_circuits_by_FIA_Grade - Score: 0.3508682
+Road_racing - Score: 0.30537215

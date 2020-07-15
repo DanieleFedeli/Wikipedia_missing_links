@@ -1,0 +1,6 @@
+Heritage_Open_Days - Score: 1.0
+Edwardian_architecture - Score: 0.4293774
+Tudor_architecture - Score: 0.34180108
+English_country_house - Score: 0.34055716
+Alfred_Waterhouse - Score: 0.33768785
+Jacobean_architecture - Score: 0.3290844

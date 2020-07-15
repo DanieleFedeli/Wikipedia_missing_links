@@ -1,0 +1,6 @@
+Simón_Bolívar_Park - Score: 1.0
+O'Higgins_Park - Score: 0.40192506
+Pedreira_Paulo_Leminski - Score: 0.34612322
+Valby-Hallen - Score: 0.31852403
+Concert_tour - Score: 0.31328058
+Foro_Sol - Score: 0.31054825

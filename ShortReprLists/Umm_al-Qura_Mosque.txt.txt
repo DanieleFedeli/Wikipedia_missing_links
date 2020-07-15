@@ -1,0 +1,6 @@
+Umm_al-Qura_Mosque - Score: 1.0
+Abu_Hanifa_Mosque - Score: 0.9421282
+Mausoleum_of_Umar_Suhrawardi - Score: 0.9421282
+Mausoleum_of_Imam_al-Hasan_of_Basra - Score: 0.92452306
+Mausoleum_of_Yahya_Abu_al-Qasim - Score: 0.92452306
+Great_Mosque_of_Kufa - Score: 0.67312884

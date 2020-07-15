@@ -1,0 +1,5 @@
+Burl - Score: 1.0
+Nail_(fastener) - Score: 0.48806587
+Hardwood - Score: 0.35825893
+Wood - Score: 0.33656162
+Teak - Score: 0.32482824

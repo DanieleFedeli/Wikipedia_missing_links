@@ -1,0 +1,3 @@
+Werkbund_Exhibition_(1914) - Score: 1.0
+Stockholm_Exhibition_(1930) - Score: 0.8655798
+Staff_(building_material) - Score: 0.72295624

@@ -1,0 +1,7 @@
+Biogeography - Score: 1.0
+Ecological_niche - Score: 0.63052934
+Propagule - Score: 0.53601253
+Urban_ecology - Score: 0.43000963
+Landscape_ecology - Score: 0.34751403
+Ecotone - Score: 0.34132373
+Disturbance_(ecology) - Score: 0.3365363

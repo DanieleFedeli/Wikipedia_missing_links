@@ -1,0 +1,5 @@
+Herbert_Austin,_1st_Baron_Austin - Score: 1.0
+Jesse_Collings - Score: 0.54291683
+William_Arrol - Score: 0.4477917
+William_Rootes,_1st_Baron_Rootes - Score: 0.34170115
+William_Morris,_1st_Viscount_Nuffield - Score: 0.303664

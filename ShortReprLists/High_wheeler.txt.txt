@@ -1,0 +1,4 @@
+High_wheeler - Score: 1.0
+Brush_Motor_Car_Company - Score: 0.5762308
+Success_Automobile_Manufacturing_Company - Score: 0.5762308
+Brass_Era_car - Score: 0.38632423

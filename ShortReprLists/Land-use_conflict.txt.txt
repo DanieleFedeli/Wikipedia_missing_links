@@ -1,0 +1,4 @@
+Land-use_conflict - Score: 1.0
+Land_(economics) - Score: 0.37166688
+Open_space_reserve - Score: 0.37166688
+Common_land - Score: 0.31306055

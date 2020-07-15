@@ -1,0 +1,5 @@
+1961_London_Trophy - Score: 1.0
+Matra_MS5 - Score: 0.53460544
+Oulton_Park_International_Gold_Cup - Score: 0.47741517
+Connaught_Engineering - Score: 0.36352867
+Veritas_(automobile) - Score: 0.36352867

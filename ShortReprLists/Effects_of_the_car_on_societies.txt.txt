@@ -1,0 +1,6 @@
+Effects_of_the_car_on_societies - Score: 1.0
+List_of_car-free_places - Score: 0.6045573
+Automobile_dependency - Score: 0.5350116
+Car-Free_Days - Score: 0.48704764
+Federal_Motor_Vehicle_Safety_Standards - Score: 0.35179636
+California_Department_of_Motor_Vehicles - Score: 0.32400396

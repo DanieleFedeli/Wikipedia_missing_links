@@ -1,0 +1,3 @@
+War_Memorials_Trust - Score: 1.0
+Memorial_bench - Score: 0.3492357
+War_memorial - Score: 0.3492357

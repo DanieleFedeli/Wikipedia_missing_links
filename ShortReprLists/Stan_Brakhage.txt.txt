@@ -1,0 +1,6 @@
+Stan_Brakhage - Score: 1.0
+Len_Lye - Score: 0.7351835
+Norman_McLaren - Score: 0.60290134
+Jordan_Belson - Score: 0.5790562
+Oskar_Fischinger - Score: 0.407694
+John_Whitney_(animator) - Score: 0.3812812

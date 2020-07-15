@@ -1,0 +1,5 @@
+Knee_wall - Score: 1.0
+Clinker_brick - Score: 0.5318243
+Brick_Expressionism - Score: 0.4484179
+Ridge_turret - Score: 0.3638791
+Gründerzeit - Score: 0.33553463

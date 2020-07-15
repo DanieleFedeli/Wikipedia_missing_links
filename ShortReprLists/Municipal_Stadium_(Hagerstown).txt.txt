@@ -1,0 +1,7 @@
+Municipal_Stadium_(Hagerstown) - Score: 1.0
+L._P._Frans_Stadium - Score: 0.9188458
+Atrium_Health_Ballpark - Score: 0.7970346
+Arthur_W._Perdue_Stadium - Score: 0.65683013
+First_National_Bank_Field - Score: 0.49289185
+McCormick_Field - Score: 0.4768284
+McNair_Field - Score: 0.35071695

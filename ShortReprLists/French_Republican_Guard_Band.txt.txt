@@ -1,0 +1,6 @@
+French_Republican_Guard_Band - Score: 1.0
+French_Foreign_Legion_Music_Band_(MLE) - Score: 0.5311624
+Spasskaya_Tower_Military_Music_Festival_and_Tattoo - Score: 0.52764815
+Fanfare_band - Score: 0.4005794
+Military_band - Score: 0.325991
+Corps_of_drums - Score: 0.30027404

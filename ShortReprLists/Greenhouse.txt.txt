@@ -1,0 +1,7 @@
+Greenhouse - Score: 1.0
+Garden - Score: 0.5101846
+Espalier - Score: 0.4810417
+Orchard - Score: 0.4810417
+Plant_nursery - Score: 0.37555814
+Plant_collecting - Score: 0.3626926
+Water_feature - Score: 0.3033805

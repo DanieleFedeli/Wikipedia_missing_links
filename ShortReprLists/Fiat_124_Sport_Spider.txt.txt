@@ -1,0 +1,7 @@
+Fiat_124_Sport_Spider - Score: 1.0
+Fiat_Barchetta - Score: 0.4061615
+Fiat_Dino - Score: 0.402255
+Fiat_2300 - Score: 0.4004427
+Fiat_124_Spider_(2016) - Score: 0.3572734
+Fiat_8V - Score: 0.30820933
+Fiat_508 - Score: 0.30533236

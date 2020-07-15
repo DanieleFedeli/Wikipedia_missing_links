@@ -1,0 +1,4 @@
+Trojan_(automobile) - Score: 1.0
+Heinkel_Kabine - Score: 0.52606493
+Messerschmitt_KR200 - Score: 0.3515005
+Berkeley_Cars - Score: 0.34241384

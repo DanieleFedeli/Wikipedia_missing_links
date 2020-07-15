@@ -1,0 +1,4 @@
+South_Orange_Open - Score: 1.0
+St._Louis_WCT - Score: 0.6035704
+River_Oaks_International_Tennis_Tournament - Score: 0.4858125
+Richmond_WCT - Score: 0.41588578

@@ -1,0 +1,6 @@
+MTV_Generation - Score: 1.0
+Buzz_Bin - Score: 0.66794103
+List_of_first_music_videos_aired_on_MTV - Score: 0.58141583
+Pimp_My_Ride - Score: 0.46988648
+Funk_Flex_Full_Throttle - Score: 0.38049418
+Last.fm - Score: 0.3536466

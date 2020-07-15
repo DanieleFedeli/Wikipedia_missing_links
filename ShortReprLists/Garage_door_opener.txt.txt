@@ -1,0 +1,7 @@
+Garage_door_opener - Score: 1.0
+Base_station - Score: 0.59102744
+Envelope_detector - Score: 0.56727684
+Henry_Sutton_(inventor) - Score: 0.49792066
+Audio_signal - Score: 0.490486
+Théâtrophone - Score: 0.39003432
+Electrical_element - Score: 0.30706716

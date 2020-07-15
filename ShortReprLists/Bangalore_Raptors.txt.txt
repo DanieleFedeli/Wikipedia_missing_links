@@ -1,0 +1,7 @@
+Bangalore_Raptors - Score: 1.0
+Aihole - Score: 0.44005746
+Anthapura - Score: 0.42471597
+Carnatic_music - Score: 0.34976584
+Hampi - Score: 0.34976584
+Yakshagana - Score: 0.34976584
+Overdrive_(magazine) - Score: 0.33757213

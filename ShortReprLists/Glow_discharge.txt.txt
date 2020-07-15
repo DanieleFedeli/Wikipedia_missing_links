@@ -1,0 +1,7 @@
+Glow_discharge - Score: 1.0
+Electroluminescent_display - Score: 0.39676937
+Particle_aggregation - Score: 0.39210412
+Electron_mobility - Score: 0.38141555
+Adsorption - Score: 0.3694657
+Hyperspectral_imaging - Score: 0.36678857
+Thin_film - Score: 0.3639096

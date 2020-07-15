@@ -1,0 +1,6 @@
+Short_baseline_acoustic_positioning_system - Score: 1.0
+Long_baseline_acoustic_positioning_system - Score: 0.92182267
+Ultra-short_baseline - Score: 0.8712483
+Echo_sounding - Score: 0.688296
+Underwater_acoustic_positioning_system - Score: 0.34702885
+Hydrographic_survey - Score: 0.31417048

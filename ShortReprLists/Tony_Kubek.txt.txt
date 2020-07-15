@@ -1,0 +1,3 @@
+Tony_Kubek - Score: 1.0
+1967_Major_League_Baseball_All-Star_Game - Score: 0.49929944
+Major_League_Baseball_All-Century_Team - Score: 0.33011454

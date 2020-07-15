@@ -1,0 +1,6 @@
+2006_Idaho_Proposition_2 - Score: 1.0
+Michigan_Secretary_of_State - Score: 0.656698
+Ash_Kalra - Score: 0.47522435
+United_States_Senate_Reception_Room - Score: 0.31947613
+George_W._Romney - Score: 0.31320402
+Nate_Silver - Score: 0.31320402

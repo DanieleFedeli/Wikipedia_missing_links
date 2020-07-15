@@ -1,0 +1,6 @@
+Morgan_Plus_8 - Score: 1.0
+Porsche_911_GT2 - Score: 0.41102138
+Freisinger_Motorsport - Score: 0.40639937
+Morgan_Aero_8 - Score: 0.38706082
+Konrad_Motorsport - Score: 0.3105122
+Saleen_S7 - Score: 0.3105122

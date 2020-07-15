@@ -1,0 +1,5 @@
+Masonry_oven - Score: 1.0
+Tabun_oven - Score: 0.55164546
+List_of_food_trucks - Score: 0.49580947
+Wood-fired_oven - Score: 0.4636702
+Tandoor - Score: 0.3223079

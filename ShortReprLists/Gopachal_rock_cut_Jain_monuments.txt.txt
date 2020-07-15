@@ -1,0 +1,7 @@
+Gopachal_rock_cut_Jain_monuments - Score: 1.0
+Tirumalai_(Jain_complex) - Score: 0.72473925
+Udayagiri_and_Khandagiri_Caves - Score: 0.7213444
+Sittanavasal_Cave - Score: 0.7138601
+Samanar_Hills - Score: 0.6454264
+Kalugumalai - Score: 0.3650318
+Ellora_Caves - Score: 0.33071744

@@ -1,0 +1,5 @@
+Zebra_finch - Score: 1.0
+Australian_magpie - Score: 0.4874766
+Common_starling - Score: 0.48672712
+Bird_vocalization - Score: 0.37899476
+Red-whiskered_bulbul - Score: 0.36589175

@@ -1,0 +1,3 @@
+Hyundai_Excel - Score: 1.0
+Hyundai_Galloper - Score: 0.90219504
+Mitsubishi_Magna - Score: 0.38413924

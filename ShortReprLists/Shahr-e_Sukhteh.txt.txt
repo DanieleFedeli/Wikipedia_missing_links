@@ -1,0 +1,5 @@
+Shahr-e_Sukhteh - Score: 1.0
+Mount_Khajeh - Score: 0.78777856
+Kohneh_Bridge - Score: 0.38205433
+Khorramabad - Score: 0.32852143
+Shazdeh_Garden - Score: 0.3098243

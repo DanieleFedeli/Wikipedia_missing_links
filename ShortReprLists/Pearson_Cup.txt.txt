@@ -1,0 +1,6 @@
+Pearson_Cup - Score: 1.0
+Englebert_Complex - Score: 0.64174885
+Grant_Field_(Dunedin) - Score: 0.64174885
+TD_Ballpark - Score: 0.64174885
+Hiram_Bithorn_Stadium - Score: 0.3587085
+1999_Montreal_Expos_season - Score: 0.31342283

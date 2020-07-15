@@ -1,0 +1,7 @@
+Modal_share - Score: 1.0
+Automobile_dependency - Score: 0.47591263
+Transportation_demand_management - Score: 0.43049654
+Metropolitan_planning_organization - Score: 0.34236792
+Institute_for_Transportation_and_Development_Policy - Score: 0.33172154
+Smart_growth - Score: 0.33083415
+International_Association_of_Public_Transport - Score: 0.3209107

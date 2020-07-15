@@ -1,0 +1,4 @@
+Kakatiya_Kala_Thoranam - Score: 1.0
+Kakatiya_Urban_Development_Authority - Score: 0.9025102
+Lumbini_Park - Score: 0.40718055
+NTR_Gardens - Score: 0.40718055

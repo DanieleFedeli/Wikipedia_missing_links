@@ -1,0 +1,5 @@
+H1_Unlimited - Score: 1.0
+Canadian_Motorsport_Hall_of_Fame - Score: 0.45441604
+Autocross - Score: 0.37092367
+Oval_track_racing - Score: 0.36628795
+American_Power_Boat_Association - Score: 0.3618452

@@ -1,0 +1,6 @@
+Jackal_(vehicle) - Score: 1.0
+Land_Rover_Wolf - Score: 1.0
+Pinzgauer_High-Mobility_All-Terrain_Vehicle - Score: 0.93306065
+Snatch_Land_Rover - Score: 0.93306065
+AEC_Q-type - Score: 0.7179367
+Land_Rover_101_Forward_Control - Score: 0.66430527

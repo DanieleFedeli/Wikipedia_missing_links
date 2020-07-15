@@ -1,0 +1,4 @@
+Jon_Langford - Score: 1.0
+Randy_Jackson - Score: 0.38239157
+Ugly_Things - Score: 0.35790396
+Kevin_Coyne - Score: 0.33080623

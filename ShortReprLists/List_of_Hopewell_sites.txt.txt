@@ -1,0 +1,7 @@
+List_of_Hopewell_sites - Score: 1.0
+Platform_mound - Score: 0.9084671
+Mound_Builders - Score: 0.64050037
+Kiva - Score: 0.53379273
+Subterranean_river - Score: 0.3436738
+Granary - Score: 0.33246052
+Wattle_(construction) - Score: 0.3214492

@@ -1,0 +1,6 @@
+Water_heating - Score: 1.0
+HEPA - Score: 0.3761182
+Refrigerant_reclamation - Score: 0.36829725
+Dishwasher - Score: 0.3024778
+Floor_scrubber - Score: 0.3024778
+Oven - Score: 0.3024778

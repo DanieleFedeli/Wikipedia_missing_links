@@ -1,0 +1,7 @@
+Architecture_of_Zimbabwe - Score: 1.0
+Great_Zimbabwe - Score: 0.89397436
+Architecture_of_Madagascar - Score: 0.48575637
+Architecture_of_Africa - Score: 0.3878141
+Urbanization_in_Africa - Score: 0.37429392
+List_of_African_musicians - Score: 0.3664924
+Architecture_of_South_Africa - Score: 0.33885396

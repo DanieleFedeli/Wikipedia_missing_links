@@ -1,0 +1,5 @@
+Ghostwriter - Score: 1.0
+Horn_section - Score: 0.5891476
+Rhythm_section - Score: 0.5891476
+Orchestration - Score: 0.5302881
+Talent_manager - Score: 0.3079534

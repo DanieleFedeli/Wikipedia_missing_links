@@ -1,0 +1,5 @@
+São_Paulo_International_Motor_Show - Score: 1.0
+Ibirapuera_Park - Score: 0.8546242
+Praça_da_República_(São_Paulo) - Score: 0.8546242
+Praça_Roosevelt - Score: 0.8546242
+Pinacotheca - Score: 0.5582323

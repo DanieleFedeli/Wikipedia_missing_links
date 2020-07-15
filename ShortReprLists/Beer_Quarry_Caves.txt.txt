@@ -1,0 +1,5 @@
+Beer_Quarry_Caves - Score: 1.0
+Mews - Score: 0.35244235
+Yorkstone - Score: 0.33747414
+Town_Pier,_Gravesend - Score: 0.31585437
+Parc_le_Breos - Score: 0.3144855

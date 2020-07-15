@@ -1,0 +1,6 @@
+Latin_Songwriters_Hall_of_Fame - Score: 1.0
+Billboard_Latin_Music_Lifetime_Achievement_Award - Score: 0.38413283
+Lo_Nuestro_Excellence_Award - Score: 0.38413283
+Lo_Nuestro_Award_for_Collaboration_of_the_Year - Score: 0.3723334
+Indonesian_Choice_Awards - Score: 0.36132595
+International_Latin_Music_Hall_of_Fame - Score: 0.30216953

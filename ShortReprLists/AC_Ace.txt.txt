@@ -1,0 +1,5 @@
+AC_Ace - Score: 1.0
+DB_(car) - Score: 0.5607368
+Kieft_Cars - Score: 0.47672284
+AC_Cobra - Score: 0.44938597
+Elva_(car_manufacturer) - Score: 0.37665033

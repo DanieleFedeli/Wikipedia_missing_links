@@ -1,0 +1,6 @@
+Dodge_Dart - Score: 1.0
+Dodge_Coronet - Score: 0.50228
+Dodge_Polara - Score: 0.4908329
+Plymouth_Barracuda - Score: 0.392683
+Dodge_Charger_(B-body) - Score: 0.38841262
+Dodge_Diplomat - Score: 0.35507923

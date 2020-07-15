@@ -1,0 +1,7 @@
+2013_Asia_Series - Score: 1.0
+2017_Asia_Professional_Baseball_Championship - Score: 1.0
+2011_Asia_Series - Score: 0.66410774
+2012_Asia_Series - Score: 0.5763798
+2008_Asia_Series - Score: 0.52494514
+2007_Korean_Series - Score: 0.38198033
+2009_Korean_Series - Score: 0.38198033

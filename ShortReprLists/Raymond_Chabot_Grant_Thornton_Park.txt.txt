@@ -1,0 +1,4 @@
+Raymond_Chabot_Grant_Thornton_Park - Score: 1.0
+Daly_Building - Score: 0.8073192
+The_Glebe - Score: 0.71408004
+Greber_Plan - Score: 0.46365824

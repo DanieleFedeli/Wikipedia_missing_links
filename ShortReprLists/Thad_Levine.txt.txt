@@ -1,0 +1,7 @@
+Thad_Levine - Score: 1.0
+1909_Washington_Senators_season - Score: 0.9185477
+1924_in_baseball - Score: 0.9185477
+Calvin_Griffith - Score: 0.9185477
+Dominican_Summer_League_Twins - Score: 0.9185477
+Hammond_Stadium - Score: 0.9185477
+Sherry_Robertson - Score: 0.7148096

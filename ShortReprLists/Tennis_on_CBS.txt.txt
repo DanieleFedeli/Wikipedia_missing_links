@@ -1,0 +1,6 @@
+Tennis_on_CBS - Score: 1.0
+Tennis_on_TNT - Score: 0.6025881
+Tennis_on_NBC - Score: 0.42318225
+Tennis_on_television - Score: 0.40473437
+Tennis_on_USA - Score: 0.3704226
+Don_Robertson_(television_announcer) - Score: 0.3083845

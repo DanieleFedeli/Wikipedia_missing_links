@@ -1,0 +1,6 @@
+Canadian_Motorsport_Hall_of_Fame - Score: 1.0
+H1_Unlimited - Score: 0.46699154
+Oval_track_racing - Score: 0.37284267
+Jack_Zink - Score: 0.30140704
+Motorsports_Hall_of_Fame_of_America - Score: 0.30140704
+National_Midget_Auto_Racing_Hall_of_Fame - Score: 0.30140704

@@ -1,0 +1,4 @@
+Shahbulag_Castle - Score: 1.0
+Quadrangular_castle_(Mardakan) - Score: 0.8965034
+Bayat_Castle - Score: 0.7524623
+Quadrangular_Tower - Score: 0.65309364

@@ -1,0 +1,3 @@
+Ward's - Score: 1.0
+List_of_hybrid_vehicles - Score: 0.36137134
+Miles_per_gallon_gasoline_equivalent - Score: 0.36137134

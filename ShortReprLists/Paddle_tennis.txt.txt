@@ -1,0 +1,2 @@
+Paddle_tennis - Score: 1.0
+Estadi_La_Feixa_Llarga - Score: 0.30095732

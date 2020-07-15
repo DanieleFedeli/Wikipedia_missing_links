@@ -1,0 +1,4 @@
+Nissan_Patrol - Score: 1.0
+Nissan_Laurel - Score: 0.38289148
+Nissan_Cedric - Score: 0.37392205
+Nissan_Terrano_II - Score: 0.33906528

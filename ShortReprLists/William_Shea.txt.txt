@@ -1,0 +1,5 @@
+William_Shea - Score: 1.0
+World_Series - Score: 0.4007522
+Commissioner_of_Baseball - Score: 0.3328899
+Lou_DiBella - Score: 0.31886747
+Ozzie_Guillén - Score: 0.311192

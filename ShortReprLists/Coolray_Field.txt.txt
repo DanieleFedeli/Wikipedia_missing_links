@@ -1,0 +1,7 @@
+Coolray_Field - Score: 1.0
+Sahlen_Field - Score: 0.46698102
+Victory_Field - Score: 0.4534956
+McCoy_Stadium - Score: 0.4521718
+PNC_Field - Score: 0.43230087
+FNB_Field - Score: 0.38520896
+Louisville_Slugger_Field - Score: 0.38520896

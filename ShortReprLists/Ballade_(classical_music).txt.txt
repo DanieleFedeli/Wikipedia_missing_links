@@ -1,0 +1,5 @@
+Ballade_(classical_music) - Score: 1.0
+Orchestral_song - Score: 0.8595752
+New_German_School - Score: 0.6991437
+Mannheim_school - Score: 0.35162508
+First_Viennese_School - Score: 0.30872968

@@ -1,0 +1,5 @@
+Architecture_of_Lucknow - Score: 1.0
+Assam-type_architecture - Score: 1.0
+Harappan_architecture - Score: 0.8556089
+Hindu_architecture - Score: 0.5914127
+Architecture_of_Mumbai - Score: 0.38730702

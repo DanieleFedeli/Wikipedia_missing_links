@@ -1,0 +1,6 @@
+Paradigmatic_analysis - Score: 1.0
+Representation_(arts) - Score: 0.4613805
+Urban_culture - Score: 0.44806138
+Cultural_Bolshevism - Score: 0.36314756
+Cultural_radicalism - Score: 0.36314756
+Multimedia_translation - Score: 0.31102648

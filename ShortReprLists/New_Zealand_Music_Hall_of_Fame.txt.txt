@@ -1,0 +1,4 @@
+New_Zealand_Music_Hall_of_Fame - Score: 1.0
+2018_New_Zealand_Music_Awards - Score: 0.46179163
+2019_New_Zealand_Music_Awards - Score: 0.46179163
+Taonga_pūoro - Score: 0.41043115

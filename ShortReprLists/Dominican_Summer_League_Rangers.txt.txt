@@ -1,0 +1,6 @@
+Dominican_Summer_League_Rangers - Score: 1.0
+1962_Washington_Senators_season - Score: 0.880213
+Pompano_Beach_Municipal_Stadium - Score: 0.880213
+History_of_Washington,_D.C._professional_baseball - Score: 0.83719414
+Charlotte_Sports_Park - Score: 0.7495637
+Dominican_Summer_League_Nationals - Score: 0.4115615

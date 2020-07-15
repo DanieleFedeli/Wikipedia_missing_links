@@ -1,0 +1,5 @@
+New_York_State_Department_of_Motor_Vehicles - Score: 1.0
+TWA_Flight_Center - Score: 0.3906885
+Worldport_(Pan_Am) - Score: 0.36678156
+Music_of_New_York_City - Score: 0.30543438
+Rats_in_New_York_City - Score: 0.30543438

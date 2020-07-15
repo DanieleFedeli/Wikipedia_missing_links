@@ -1,0 +1,6 @@
+Excite_Ballpark - Score: 1.0
+San_Jose_Civic - Score: 0.71555585
+Stanford_Jazz_Workshop - Score: 0.71555585
+Jasper_Ridge_Biological_Preserve - Score: 0.4078506
+Taube_Tennis_Center - Score: 0.4078506
+San_Diego_Automotive_Museum - Score: 0.35052177

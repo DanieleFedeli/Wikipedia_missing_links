@@ -1,0 +1,6 @@
+Kingdom_of_Benin - Score: 1.0
+Sungbo's_Eredo - Score: 0.5086986
+Architecture_of_Africa - Score: 0.3962618
+List_of_African_musicians - Score: 0.38244712
+Urbanization_in_Africa - Score: 0.38244712
+Nok_culture - Score: 0.32077998

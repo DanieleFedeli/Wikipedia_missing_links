@@ -1,0 +1,5 @@
+Pakistan_Council_for_Architects_and_Town_Planners - Score: 1.0
+Council_of_Architecture - Score: 0.49342573
+List_of_architecture_schools - Score: 0.39935327
+List_of_Ramakrishna_Mission_institutions - Score: 0.39935327
+Sri_Sri_University - Score: 0.38584918

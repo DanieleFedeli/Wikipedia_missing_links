@@ -1,0 +1,3 @@
+Indoor_air_quality - Score: 1.0
+HEPA - Score: 0.4109806
+Solar_gain - Score: 0.32996476

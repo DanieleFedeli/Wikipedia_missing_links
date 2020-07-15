@@ -1,0 +1,7 @@
+List_of_largest_shopping_malls_in_Thailand - Score: 1.0
+List_of_largest_shopping_malls_in_Canada - Score: 0.6127531
+Shopping_mall - Score: 0.5323277
+Dead_mall - Score: 0.51497906
+Galleria_at_Erieview - Score: 0.41121247
+Eastmont_Town_Center - Score: 0.40324187
+Strip_mall - Score: 0.3304969

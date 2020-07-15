@@ -1,0 +1,5 @@
+Cooley_Law_School_Stadium - Score: 1.0
+Four_Winds_Field_at_Coveleski_Stadium - Score: 0.42010134
+Oestrike_Stadium - Score: 0.33418533
+Breese_Stevens_Field - Score: 0.3280736
+Bowling_Green_Ballpark - Score: 0.3071677

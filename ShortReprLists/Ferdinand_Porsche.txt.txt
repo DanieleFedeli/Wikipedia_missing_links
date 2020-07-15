@@ -1,0 +1,6 @@
+Ferdinand_Porsche - Score: 1.0
+Škoda_Auto - Score: 0.42276648
+Bugatti_Automobiles - Score: 0.39521033
+Ivan_Hirst - Score: 0.3760599
+List_of_Volkswagen_Group_engines - Score: 0.3760599
+SEAT_Cupra - Score: 0.3760599

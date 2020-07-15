@@ -1,0 +1,5 @@
+Conservation_development - Score: 1.0
+Conservation_easement - Score: 0.7305248
+Conservation_grazing - Score: 0.7305248
+Landscape-scale_conservation - Score: 0.7305248
+Roadside_conservation - Score: 0.7305248

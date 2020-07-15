@@ -1,0 +1,6 @@
+Fire_clay - Score: 1.0
+Forge - Score: 0.39585352
+Steam_mill - Score: 0.39585352
+Bellows - Score: 0.3920319
+Argon_oxygen_decarburization - Score: 0.38317558
+Steel - Score: 0.38068226

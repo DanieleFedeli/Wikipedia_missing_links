@@ -1,0 +1,7 @@
+Moroccan_settlers - Score: 1.0
+Green_March - Score: 0.6403157
+Moroccan_Western_Sahara_Wall - Score: 0.6403157
+Survey_of_Palestine - Score: 0.47772792
+Third_country_resettlement - Score: 0.3754474
+United_Nations_Department_of_Economic_and_Social_Affairs - Score: 0.3690317
+United_Nations_Security_Council_mural - Score: 0.3690317

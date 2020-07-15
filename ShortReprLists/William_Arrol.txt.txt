@@ -1,0 +1,5 @@
+William_Arrol - Score: 1.0
+Scottish_Parliament_Building - Score: 0.6476897
+John_Miller_(engineer) - Score: 0.5344403
+Herbert_Austin,_1st_Baron_Austin - Score: 0.48434073
+Jesse_Collings - Score: 0.48085374

@@ -1,0 +1,3 @@
+Baths_and_wash_houses_in_Britain - Score: 1.0
+Clothespin - Score: 0.7016347
+Lavoir - Score: 0.38565454

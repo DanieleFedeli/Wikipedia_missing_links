@@ -1,0 +1,5 @@
+Schönbrunn_Palace - Score: 1.0
+Vienna_Museum - Score: 0.478032
+Buda_Castle - Score: 0.42996997
+Schloss - Score: 0.37617365
+Mainau - Score: 0.3557829

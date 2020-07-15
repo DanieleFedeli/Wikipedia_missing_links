@@ -1,0 +1,6 @@
+2003_E2_nightclub_stampede - Score: 1.0
+Italian_Hall_disaster - Score: 1.0
+Laurier_Palace_Theatre_fire - Score: 1.0
+The_Station_nightclub_fire - Score: 1.0
+Kiss_nightclub_fire - Score: 0.83085525
+Iroquois_Theatre_fire - Score: 0.63308924

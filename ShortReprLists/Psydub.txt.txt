@@ -1,0 +1,7 @@
+Psydub - Score: 1.0
+Italian_occult_psychedelia - Score: 0.9041327
+Psychedelic_funk - Score: 0.7040147
+Acid_trance - Score: 0.5633602
+Sitar_in_popular_music - Score: 0.46177247
+Balearic_trance - Score: 0.35865203
+Goa_trance - Score: 0.35865203

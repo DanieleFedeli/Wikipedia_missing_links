@@ -1,0 +1,7 @@
+Beating_the_bounds - Score: 1.0
+Elsenham - Score: 0.39215446
+Society_for_the_Protection_of_Ancient_Buildings - Score: 0.34497866
+Conservation_area_(United_Kingdom) - Score: 0.3424472
+Jacobean_architecture - Score: 0.3217353
+Howgills,_Letchworth_Garden_City - Score: 0.31124988
+The_Cloisters_(Letchworth) - Score: 0.31124988

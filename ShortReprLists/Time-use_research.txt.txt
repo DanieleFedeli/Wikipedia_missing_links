@@ -1,0 +1,6 @@
+Time-use_research - Score: 1.0
+Duration_(music) - Score: 0.4852279
+Qitai_Radio_Telescope - Score: 0.31832063
+Square_Kilometre_Array - Score: 0.31832063
+Einstein_Tower - Score: 0.31777284
+List_of_astronomical_observatories - Score: 0.30759698

@@ -1,0 +1,4 @@
+Phase-change_material - Score: 1.0
+List_of_pioneering_solar_buildings - Score: 0.33135733
+Energy_conversion_efficiency - Score: 0.32774663
+Thermal_energy_storage - Score: 0.3203876

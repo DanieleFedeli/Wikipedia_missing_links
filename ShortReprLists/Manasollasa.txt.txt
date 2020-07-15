@@ -1,0 +1,5 @@
+Manasollasa - Score: 1.0
+Aihole - Score: 0.36352694
+Hampi - Score: 0.36352694
+Dvarapala - Score: 0.35858533
+Mandapa - Score: 0.35858533

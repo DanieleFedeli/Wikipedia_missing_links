@@ -1,0 +1,4 @@
+Fred_Claire - Score: 1.0
+Sporting_News_Executive_of_the_Year_Award - Score: 0.8270582
+John_McHale_(baseball) - Score: 0.54500157
+Dick_O'Connell - Score: 0.3534016

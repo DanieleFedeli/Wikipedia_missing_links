@@ -1,0 +1,5 @@
+Padel_(sport) - Score: 1.0
+Australian_Karting_Association - Score: 0.3460039
+International_Soft_Tennis_Federation - Score: 0.30232215
+Motorsport_Australia - Score: 0.30232215
+Union_Internationale_Motonautique - Score: 0.30232215

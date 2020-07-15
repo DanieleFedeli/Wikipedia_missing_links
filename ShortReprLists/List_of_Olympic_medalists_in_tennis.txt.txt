@@ -1,0 +1,4 @@
+List_of_Olympic_medalists_in_tennis - Score: 1.0
+Tennis_at_the_1968_Summer_Olympics - Score: 0.4042908
+List_of_Olympic_medalists_in_art_competitions - Score: 0.37695405
+Isner–Mahut_match_at_the_2010_Wimbledon_Championships - Score: 0.31863904

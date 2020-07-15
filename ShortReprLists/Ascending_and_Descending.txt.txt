@@ -1,0 +1,7 @@
+Ascending_and_Descending - Score: 1.0
+Trompe-l'œil - Score: 0.58355606
+Penrose_stairs - Score: 0.5645379
+Schroeder_stairs - Score: 0.5645379
+Perspective_(graphical) - Score: 0.36431143
+Auditory_illusion - Score: 0.3610815
+Easel - Score: 0.33412373

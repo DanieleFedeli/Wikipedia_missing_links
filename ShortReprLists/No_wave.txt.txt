@@ -1,0 +1,7 @@
+No_wave - Score: 1.0
+Experimental_pop - Score: 0.49574673
+Rock_in_Opposition - Score: 0.49574673
+Aleatoric_music - Score: 0.3913418
+Riot_grrrl - Score: 0.38794348
+Deathrock - Score: 0.3873172
+Punk_subculture - Score: 0.3859722

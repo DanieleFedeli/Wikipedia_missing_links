@@ -1,0 +1,6 @@
+First_Four_Ships - Score: 1.0
+Hagley_Park,_Christchurch - Score: 0.62819713
+Forsyth_Barr_Building - Score: 0.47858378
+Drapery - Score: 0.39497554
+Heritage_New_Zealand - Score: 0.36022857
+Beehive_(New_Zealand) - Score: 0.34848863

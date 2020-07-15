@@ -1,0 +1,5 @@
+Indonesia_International_Motor_Show - Score: 1.0
+Indonesia_International_Auto_Show - Score: 0.7914427
+Kia_Motors - Score: 0.35538802
+Seoul_Motor_Show - Score: 0.34796497
+Moscow_International_Automobile_Salon - Score: 0.3223002

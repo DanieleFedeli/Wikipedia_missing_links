@@ -1,0 +1,5 @@
+MusicBee - Score: 1.0
+TuneWiki - Score: 1.0
+Music_visualization - Score: 0.67911214
+AMV_video_format - Score: 0.40063566
+CDDB - Score: 0.31158286

@@ -1,0 +1,4 @@
+List_of_years_in_country_music - Score: 1.0
+Table_of_years_in_country_music - Score: 0.8100424
+Country_Music_Hall_of_Fame_and_Museum - Score: 0.37225685
+Country_Music_Association - Score: 0.36463228

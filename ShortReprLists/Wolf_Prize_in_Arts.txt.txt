@@ -1,0 +1,7 @@
+Wolf_Prize_in_Arts - Score: 1.0
+Praemium_Imperiale - Score: 0.73798674
+Peter_Eisenman - Score: 0.6227654
+Frank_Gehry - Score: 0.35723168
+Robert_Venturi - Score: 0.35723168
+El_Sistema - Score: 0.33960885
+Rafael_Moneo - Score: 0.32336524

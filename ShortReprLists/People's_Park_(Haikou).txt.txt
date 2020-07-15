@@ -1,0 +1,6 @@
+People's_Park_(Haikou) - Score: 1.0
+Sky_lobby - Score: 0.34028205
+Taipei_101 - Score: 0.34028205
+Double-deck_elevator - Score: 0.32841894
+International_Ocean_Shipping_Building - Score: 0.3163951
+People's_Park_(Guangzhou) - Score: 0.31082332

@@ -1,0 +1,6 @@
+List_of_all-female_bands - Score: 1.0
+Ballad - Score: 0.3185016
+Dance_music - Score: 0.3185016
+Disco - Score: 0.3185016
+Universal_Music_Group - Score: 0.3185016
+Dance-pop - Score: 0.3081216

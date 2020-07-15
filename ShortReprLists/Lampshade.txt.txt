@@ -1,0 +1,3 @@
+Lampshade - Score: 1.0
+Electric_light - Score: 0.46182048
+Chandelier - Score: 0.3357041

@@ -1,0 +1,6 @@
+Francesco_Gasparini - Score: 1.0
+Opera_seria - Score: 0.39238325
+Pasticcio - Score: 0.39238325
+Francesco_Geminiani - Score: 0.38403285
+Singspiel - Score: 0.37139863
+Opera_buffa - Score: 0.34284627

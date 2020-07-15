@@ -1,0 +1,7 @@
+Fustat - Score: 1.0
+Bibliotheca_Alexandrina - Score: 0.55047196
+Nilometer - Score: 0.48529667
+Aswan_Dam - Score: 0.4789003
+Lighthouse_of_Alexandria - Score: 0.4789003
+City_of_the_Dead_(Cairo) - Score: 0.39970922
+Library_of_Alexandria - Score: 0.35617897

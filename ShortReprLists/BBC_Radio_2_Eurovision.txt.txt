@@ -1,0 +1,7 @@
+BBC_Radio_2_Eurovision - Score: 1.0
+BBC_School_Radio - Score: 0.7251653
+BBC_Sound_Archive - Score: 0.7251653
+Bells_on_Sunday - Score: 0.7251653
+Radio_4_UK_Theme - Score: 0.7251653
+Sailing_By - Score: 0.7251653
+Slartibartfast - Score: 0.31938583

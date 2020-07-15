@@ -1,0 +1,5 @@
+Southern_League_Most_Valuable_Player_Award - Score: 1.0
+Luis_Sojo - Score: 0.37105158
+Carlos_Delgado - Score: 0.36938494
+Tony_Armas - Score: 0.36938494
+Andrés_Galarraga - Score: 0.3248538

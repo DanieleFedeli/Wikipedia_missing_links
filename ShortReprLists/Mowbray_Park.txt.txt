@@ -1,0 +1,4 @@
+Mowbray_Park - Score: 1.0
+Barnes_Park - Score: 0.912793
+Roker_Park_(park) - Score: 0.912793
+Herrington_Country_Park - Score: 0.6954443

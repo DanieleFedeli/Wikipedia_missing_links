@@ -1,0 +1,7 @@
+Japan_Composer's_Association - Score: 1.0
+Japan_Record_Award_for_Best_New_Artist - Score: 1.0
+Japan_Music_Awards - Score: 0.79605854
+CD_Shop_Awards - Score: 0.56115395
+MTV_Video_Music_Award_Japan_for_Best_Collaboration - Score: 0.3913445
+Space_Shower_TV - Score: 0.34842256
+Space_Shower_Music_Awards - Score: 0.33627564

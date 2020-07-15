@@ -1,0 +1,7 @@
+The_Mall_(Cleveland) - Score: 1.0
+Public_Square,_Cleveland - Score: 0.5132409
+Cleveland_Cultural_Gardens - Score: 0.36277092
+Office - Score: 0.35703817
+Project_for_Public_Spaces - Score: 0.35703817
+Minneapolis_City_Hall - Score: 0.30531377
+City_Beautiful_movement - Score: 0.30365777

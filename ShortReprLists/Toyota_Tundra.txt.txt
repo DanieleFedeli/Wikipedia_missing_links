@@ -1,0 +1,3 @@
+Toyota_Tundra - Score: 1.0
+Toyota_Tacoma - Score: 0.5022998
+Toyota_Camry - Score: 0.3001305

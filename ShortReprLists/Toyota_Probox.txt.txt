@@ -1,0 +1,7 @@
+Toyota_Probox - Score: 1.0
+Toyota_HiAce - Score: 0.78669536
+Toyota_Prius_Plug-in_Hybrid - Score: 0.42149505
+Toyota_Mirai - Score: 0.38497365
+Toyota_Sienta - Score: 0.36507702
+Toyota_Corolla_(E210) - Score: 0.35966834
+Toyota_Yaris_(XP150) - Score: 0.30779365

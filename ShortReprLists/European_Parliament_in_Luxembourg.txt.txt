@@ -1,0 +1,4 @@
+European_Parliament_in_Luxembourg - Score: 1.0
+Bpoplive - Score: 0.50835836
+Jesse_Collings - Score: 0.31671298
+Charles,_Prince_of_Wales - Score: 0.306717

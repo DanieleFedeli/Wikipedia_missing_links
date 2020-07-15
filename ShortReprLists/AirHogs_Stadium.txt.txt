@@ -1,0 +1,6 @@
+AirHogs_Stadium - Score: 1.0
+The_Depot_at_Cleburne_Station - Score: 0.9146795
+Newman_Outdoor_Field - Score: 0.7410229
+Sioux_Falls_Stadium - Score: 0.7410229
+U.S._Steel_Yard - Score: 0.7410229
+Routine_Field - Score: 0.42972824

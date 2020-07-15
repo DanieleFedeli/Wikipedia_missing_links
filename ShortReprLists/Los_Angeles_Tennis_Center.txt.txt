@@ -1,0 +1,6 @@
+Los_Angeles_Tennis_Center - Score: 1.0
+Dignity_Health_Sports_Park - Score: 0.36478856
+Grand_Park - Score: 0.33705866
+Market_Square_Arena - Score: 0.3272857
+State_Farm_Arena - Score: 0.3172123
+Kitchener_Memorial_Auditorium_Complex - Score: 0.3146521

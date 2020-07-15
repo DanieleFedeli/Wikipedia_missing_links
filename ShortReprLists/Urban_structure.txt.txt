@@ -1,0 +1,5 @@
+Urban_structure - Score: 1.0
+Inner_city - Score: 0.45036003
+Western_Australian_Planning_Commission - Score: 0.34289226
+Urban_development - Score: 0.3294382
+Urban_density - Score: 0.31834

@@ -1,0 +1,4 @@
+Lewis_Bay - Score: 1.0
+Falkland_Islands_and_Dependencies_Aerial_Survey_Expedition - Score: 0.68882024
+Princess_Elisabeth_Antarctica - Score: 0.4183297
+Triangulation_station - Score: 0.33127198

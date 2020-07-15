@@ -1,0 +1,5 @@
+Imperial_staircase - Score: 1.0
+Belvedere_(structure) - Score: 0.4084747
+Folly - Score: 0.33938095
+Grotto - Score: 0.32950148
+Ferme_ornée - Score: 0.32832047

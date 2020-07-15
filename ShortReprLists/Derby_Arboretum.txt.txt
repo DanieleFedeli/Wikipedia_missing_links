@@ -1,0 +1,7 @@
+Derby_Arboretum - Score: 1.0
+Swarkestone_Hall_Pavilion - Score: 0.57024324
+Cliffe_Castle_Museum - Score: 0.40706947
+Bromley_House_Library - Score: 0.39883712
+Conservation_area_(United_Kingdom) - Score: 0.34468234
+Charles_Sylvester - Score: 0.31360137
+Heath_Wood_barrow_cemetery - Score: 0.31360137

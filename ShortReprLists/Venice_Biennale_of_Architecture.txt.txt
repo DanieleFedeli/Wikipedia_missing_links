@@ -1,0 +1,7 @@
+Venice_Biennale_of_Architecture - Score: 1.0
+Bat-Yam_International_Biennale_of_Landscape_Urbanism - Score: 0.6934205
+Chicago_Architecture_Biennial - Score: 0.6934205
+Visual_Collaborative - Score: 0.6934205
+Domus_(magazine) - Score: 0.5739558
+Casabella - Score: 0.39103764
+Colin_Rowe - Score: 0.32872793

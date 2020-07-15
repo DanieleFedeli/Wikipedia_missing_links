@@ -1,0 +1,6 @@
+Yang_Joon-hyuk - Score: 1.0
+Park_Jae-hong_(baseball) - Score: 0.5827488
+Kim_Soo-chul - Score: 0.4565206
+Choi_Dong-won - Score: 0.42968598
+Danny_Rios - Score: 0.3537833
+Yang_Sang-moon - Score: 0.34199166

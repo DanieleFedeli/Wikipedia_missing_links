@@ -1,0 +1,4 @@
+Cavity_wall - Score: 1.0
+Damp_(structural) - Score: 0.43613416
+Rainscreen - Score: 0.35034138
+Load-bearing_wall - Score: 0.30945367

@@ -1,0 +1,7 @@
+Ford_Escort_RS_Cosworth - Score: 1.0
+Toyota_Celica_GT-Four - Score: 0.60003245
+2006_Rally_Australia - Score: 0.5787353
+Škoda_Fabia_S2000 - Score: 0.5639078
+Škoda_Fabia_R5 - Score: 0.3941118
+Hyundai_i20_R5 - Score: 0.39116508
+Subaru_Impreza - Score: 0.3262395

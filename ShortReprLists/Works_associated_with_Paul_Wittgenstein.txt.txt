@@ -1,0 +1,5 @@
+Works_associated_with_Paul_Wittgenstein - Score: 1.0
+Generative_grammar - Score: 0.34060797
+Philosophy_of_music - Score: 0.34060797
+Existence_precedes_essence - Score: 0.32913354
+Existentialism - Score: 0.32913354

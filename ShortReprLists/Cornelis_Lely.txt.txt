@@ -1,0 +1,4 @@
+Cornelis_Lely - Score: 1.0
+Groninger_Museum - Score: 0.44757563
+Prix_de_Rome_(Netherlands) - Score: 0.37225404
+Staatsgalerie_Stuttgart - Score: 0.31235856

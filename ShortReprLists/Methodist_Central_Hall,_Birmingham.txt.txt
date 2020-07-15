@@ -1,0 +1,4 @@
+Methodist_Central_Hall,_Birmingham - Score: 1.0
+Eastside_City_Park - Score: 0.41642615
+Burmantofts_Pottery - Score: 0.33860663
+Bromley_House_Library - Score: 0.32799223

@@ -1,0 +1,7 @@
+Structural_integrity_and_failure - Score: 1.0
+Catastrophic_failure - Score: 0.47008356
+Shear_wall - Score: 0.46083868
+Structural_load - Score: 0.44976607
+Buckling - Score: 0.38924953
+Truss - Score: 0.37132713
+Bending - Score: 0.32520908

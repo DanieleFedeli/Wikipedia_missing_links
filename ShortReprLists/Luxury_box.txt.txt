@@ -1,0 +1,6 @@
+Luxury_box - Score: 1.0
+Club_seating - Score: 0.65088665
+Kitchener_Memorial_Auditorium_Complex - Score: 0.51367366
+Levi's_Stadium - Score: 0.45721996
+Seating_capacity - Score: 0.4212773
+Ford's_Grand_Opera_House - Score: 0.3440498

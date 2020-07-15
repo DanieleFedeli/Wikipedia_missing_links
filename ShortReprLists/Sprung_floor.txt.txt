@@ -1,0 +1,3 @@
+Sprung_floor - Score: 1.0
+Mezzanine - Score: 0.33388418
+Fire_escape - Score: 0.30284283

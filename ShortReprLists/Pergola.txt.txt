@@ -1,0 +1,4 @@
+Pergola - Score: 1.0
+Tent - Score: 0.44289935
+Quonset_hut - Score: 0.43666598
+Palloza - Score: 0.3023893

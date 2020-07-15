@@ -1,0 +1,6 @@
+Bibliotheca_Alexandrina - Score: 1.0
+Aswan_Dam - Score: 0.580316
+Fustat - Score: 0.5758099
+Nilometer - Score: 0.50339377
+Lighthouse_of_Alexandria - Score: 0.49265045
+Library_of_Alexandria - Score: 0.45481294

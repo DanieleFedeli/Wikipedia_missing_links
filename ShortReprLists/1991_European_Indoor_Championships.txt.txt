@@ -1,0 +1,7 @@
+1991_Copenhagen_Open - Score: 1.0
+1991_European_Indoor_Championships - Score: 1.0
+1991_Estoril_Open - Score: 0.798525
+1991_OTB_International_Open - Score: 0.60940486
+1991_Paris_Open - Score: 0.5643552
+1991_Australian_Open - Score: 0.38008007
+1990_French_Open - Score: 0.35330147

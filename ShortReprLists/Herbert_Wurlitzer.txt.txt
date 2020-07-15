@@ -1,0 +1,6 @@
+Herbert_Wurlitzer - Score: 1.0
+Reform_Boehm_system_(clarinet) - Score: 1.0
+Basset_horn - Score: 0.92545336
+Boehm_system_(clarinet) - Score: 0.92545336
+Contrabass_clarinet - Score: 0.86900496
+Bass_saxophone - Score: 0.3701088

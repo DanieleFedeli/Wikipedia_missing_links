@@ -1,0 +1,5 @@
+Dugout_(baseball) - Score: 1.0
+Baseball_park - Score: 0.70658576
+Baseball_field - Score: 0.5337334
+Batting_cage - Score: 0.52836335
+Bat_flip - Score: 0.44312212

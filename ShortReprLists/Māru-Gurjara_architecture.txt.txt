@@ -1,0 +1,6 @@
+Māru-Gurjara_architecture - Score: 1.0
+Torana - Score: 0.4742958
+Gavaksha - Score: 0.43830755
+Stambha - Score: 0.36689904
+Sun_temple - Score: 0.30536705
+Shikhara - Score: 0.3040708

@@ -1,0 +1,6 @@
+Medina_of_Tunis - Score: 1.0
+Kairouan - Score: 0.45347282
+Dar_el_Makhzen_(Tangier) - Score: 0.40058544
+Ketchaoua_Mosque - Score: 0.3566063
+Kasbah - Score: 0.3428241
+Zawiya_(institution) - Score: 0.33165145

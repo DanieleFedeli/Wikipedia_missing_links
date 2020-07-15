@@ -1,0 +1,6 @@
+Greenlee_Field - Score: 1.0
+Pittsburgh_Vintage_Grand_Prix - Score: 1.0
+Schenley_Park - Score: 0.63558704
+Mary_Schenley_Memorial_Fountain - Score: 0.44139966
+Schenley_Plaza - Score: 0.3706649
+Negro_league_baseball - Score: 0.3204154

@@ -1,0 +1,4 @@
+Carlos_Raúl_Villanueva - Score: 1.0
+Estadio_Universitario_de_Caracas - Score: 0.6146023
+Estadio_Luis_Aparicio_El_Grande - Score: 0.51723707
+Estadio_Nueva_Esparta - Score: 0.4992048

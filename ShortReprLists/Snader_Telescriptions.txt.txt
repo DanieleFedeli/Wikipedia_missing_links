@@ -1,0 +1,4 @@
+Snader_Telescriptions - Score: 1.0
+List_of_acts_who_appeared_on_American_Bandstand - Score: 0.5409308
+Broadway_theatre - Score: 0.32211062
+Busker - Score: 0.32174388

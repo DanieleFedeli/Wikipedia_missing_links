@@ -1,0 +1,4 @@
+Alai_Darwaza - Score: 1.0
+Chanderi - Score: 0.4046748
+Qutb_Minar - Score: 0.38473347
+Humayun's_Tomb - Score: 0.36284497

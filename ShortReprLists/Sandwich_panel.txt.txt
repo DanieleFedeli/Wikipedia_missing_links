@@ -1,0 +1,3 @@
+Sandwich_panel - Score: 1.0
+Metal_foam - Score: 0.42273727
+Composite_material - Score: 0.32969624

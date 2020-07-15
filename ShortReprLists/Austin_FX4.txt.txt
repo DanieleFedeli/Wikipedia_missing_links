@@ -1,0 +1,4 @@
+Austin_FX4 - Score: 1.0
+Rover_P4 - Score: 0.3585611
+TX4 - Score: 0.3407867
+Mini - Score: 0.33556148

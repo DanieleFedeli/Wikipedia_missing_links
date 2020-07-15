@@ -1,0 +1,7 @@
+Aixam - Score: 1.0
+Auverland - Score: 1.0
+De_La_Chapelle - Score: 1.0
+Microcar_(brand) - Score: 1.0
+MPM_Motors - Score: 1.0
+PGO_(Automobile) - Score: 1.0
+DS_Automobiles - Score: 0.809445

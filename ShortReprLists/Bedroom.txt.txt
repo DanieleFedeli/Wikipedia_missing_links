@@ -1,0 +1,6 @@
+Bedroom - Score: 1.0
+Bathroom - Score: 0.56494063
+Living_room - Score: 0.54524535
+Dining_room - Score: 0.42856622
+Plumbing - Score: 0.36351946
+Kitchen - Score: 0.35084626

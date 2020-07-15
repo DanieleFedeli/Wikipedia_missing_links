@@ -1,0 +1,4 @@
+Shelf_(storage) - Score: 1.0
+Drawer_(furniture) - Score: 0.6347881
+Desk - Score: 0.3723489
+Filing_cabinet - Score: 0.3570141

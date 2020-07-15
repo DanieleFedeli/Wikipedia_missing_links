@@ -1,0 +1,3 @@
+Anechoic_chamber - Score: 1.0
+Room_acoustics - Score: 0.42857817
+Hermann_von_Helmholtz - Score: 0.3726877

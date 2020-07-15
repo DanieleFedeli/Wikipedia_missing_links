@@ -1,0 +1,5 @@
+Burmantofts_Pottery - Score: 1.0
+Woodhouse_Moor - Score: 0.45160168
+Glazed_architectural_terra-cotta - Score: 0.3925721
+Alfred_Waterhouse - Score: 0.34768662
+Methodist_Central_Hall,_Birmingham - Score: 0.32641327

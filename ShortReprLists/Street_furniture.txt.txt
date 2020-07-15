@@ -1,0 +1,2 @@
+Street_furniture - Score: 1.0
+Bench_(furniture) - Score: 0.38805303

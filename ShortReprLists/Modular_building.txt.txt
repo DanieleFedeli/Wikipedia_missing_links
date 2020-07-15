@@ -1,0 +1,3 @@
+Modular_building - Score: 1.0
+Prefabricated_building - Score: 0.4377809
+Prefabricated_home - Score: 0.30172944

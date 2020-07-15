@@ -1,0 +1,5 @@
+Ranz - Score: 1.0
+Besturn_B50 - Score: 0.35735726
+Hongqi_HQE - Score: 0.35735726
+Hongqi_L5 - Score: 0.3457109
+Toyota_2000GT - Score: 0.32749212

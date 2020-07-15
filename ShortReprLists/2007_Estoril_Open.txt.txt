@@ -1,0 +1,6 @@
+2007_Estoril_Open - Score: 1.0
+2007_Dubai_Tennis_Championships - Score: 0.7890591
+2007_ATP_Masters_Series - Score: 0.46834907
+2005_Estoril_Open - Score: 0.40669534
+2006_Estoril_Open - Score: 0.39104384
+2007_French_Open - Score: 0.36721754

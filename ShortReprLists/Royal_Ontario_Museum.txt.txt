@@ -1,0 +1,6 @@
+Royal_Ontario_Museum - Score: 1.0
+Ontario_Heritage_Act - Score: 0.47585368
+Dominion_Lands_Act - Score: 0.44327545
+Canadian_Automobile_Association - Score: 0.41000402
+Lester_B._Pearson - Score: 0.3685854
+Lawrence_Pennell - Score: 0.35178763

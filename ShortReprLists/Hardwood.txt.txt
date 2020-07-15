@@ -1,0 +1,6 @@
+Hardwood - Score: 1.0
+Hickory - Score: 0.48678818
+Lesbian_rule - Score: 0.3707343
+Burl - Score: 0.36011627
+Oak - Score: 0.3569441
+Nail_(fastener) - Score: 0.3437828

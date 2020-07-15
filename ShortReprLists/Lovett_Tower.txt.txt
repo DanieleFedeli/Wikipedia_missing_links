@@ -1,0 +1,6 @@
+Lovett_Tower - Score: 1.0
+Sir_Bruce_Small_Park - Score: 0.35642377
+Brooke_Street_Pier - Score: 0.33144778
+Kelly's_Steps - Score: 0.33144778
+Wrest_Point_Hotel_Casino - Score: 0.33144778
+Medium-density_housing - Score: 0.30609035

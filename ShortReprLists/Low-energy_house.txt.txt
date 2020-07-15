@@ -1,0 +1,5 @@
+Low-energy_house - Score: 1.0
+Zero-energy_building - Score: 0.67698336
+Building_insulation - Score: 0.4189841
+Solar_gain - Score: 0.3446576
+Living_Building_Challenge - Score: 0.33232573

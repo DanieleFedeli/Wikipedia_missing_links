@@ -1,0 +1,7 @@
+Peking_to_Paris - Score: 1.0
+1908_New_York_to_Paris_Race - Score: 0.6472769
+Lorraine-Dietrich - Score: 0.32962102
+Opel - Score: 0.32563475
+Ligier - Score: 0.3142823
+Peugeot - Score: 0.3142823
+De_Dion-Bouton - Score: 0.31159756

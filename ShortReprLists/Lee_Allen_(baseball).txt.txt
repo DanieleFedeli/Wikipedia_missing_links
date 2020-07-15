@@ -1,0 +1,5 @@
+Lee_Allen_(baseball) - Score: 1.0
+August_Herrmann - Score: 0.4130216
+Sparky_Anderson - Score: 0.39134452
+Dave_Concepción - Score: 0.35841867
+Baseball_Writers'_Association_of_America - Score: 0.34418395

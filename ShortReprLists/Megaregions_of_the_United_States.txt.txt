@@ -1,0 +1,3 @@
+Megaregions_of_the_United_States - Score: 1.0
+Traffic_analysis_zone - Score: 0.50180703
+City_region_(United_Kingdom) - Score: 0.38015446

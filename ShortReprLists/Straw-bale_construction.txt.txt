@@ -1,0 +1,2 @@
+Straw-bale_construction - Score: 1.0
+Building_insulation - Score: 0.31367382

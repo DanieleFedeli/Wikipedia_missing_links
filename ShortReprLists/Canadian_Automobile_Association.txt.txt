@@ -1,0 +1,4 @@
+Canadian_Automobile_Association - Score: 1.0
+Royal_Ontario_Museum - Score: 0.37994856
+Saskatchewan_Government_Insurance - Score: 0.32043973
+Block_settlement - Score: 0.31622478

@@ -1,0 +1,4 @@
+Saint_Thomas_Christian_music - Score: 1.0
+Syriac_sacral_music - Score: 0.5103145
+Priest_hole - Score: 0.36669195
+Church_of_the_Holy_Cross,_Nin - Score: 0.3016221

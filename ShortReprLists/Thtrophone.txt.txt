@@ -1,0 +1,6 @@
+Théâtrophone - Score: 1.0
+Base_station - Score: 0.59886813
+Henry_Sutton_(inventor) - Score: 0.51907194
+Audio_signal - Score: 0.43662122
+Garage_door_opener - Score: 0.38680142
+Professional_audio - Score: 0.32505578

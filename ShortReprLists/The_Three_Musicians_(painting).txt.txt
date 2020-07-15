@@ -1,0 +1,5 @@
+The_Three_Musicians_(painting) - Score: 1.0
+Las_Hilanderas_(Velázquez) - Score: 0.9306329
+Flaying_of_Marsyas_(Titian) - Score: 0.35395342
+Ycuá_Bolaños_supermarket_fire - Score: 0.3383364
+Boys_playing_soldiers - Score: 0.33622095

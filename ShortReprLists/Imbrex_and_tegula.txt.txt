@@ -1,0 +1,5 @@
+Imbrex_and_tegula - Score: 1.0
+Roman_villa - Score: 0.4832842
+Hypocaust - Score: 0.38854417
+Peristyle - Score: 0.32880583
+Impluvium - Score: 0.3263663

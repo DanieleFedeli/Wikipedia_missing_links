@@ -1,0 +1,7 @@
+Flushwork - Score: 1.0
+Dry_stone - Score: 0.57176393
+Fan_vault - Score: 0.5237114
+Artificial_stone - Score: 0.3883985
+Cast_stone - Score: 0.3883985
+Grout - Score: 0.37485793
+Flagstone - Score: 0.3731896

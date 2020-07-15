@@ -1,0 +1,4 @@
+Sing-along - Score: 1.0
+Karaoke - Score: 0.33807898
+A_cappella - Score: 0.3376719
+Sleeper_hit - Score: 0.3035924

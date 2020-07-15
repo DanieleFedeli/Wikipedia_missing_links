@@ -1,0 +1,7 @@
+1994_World_Series - Score: 1.0
+The_Double_(Seattle_Mariners) - Score: 0.6158828
+Historical_Major_League_Baseball_over-the-air_television_broadcasters - Score: 0.5426557
+List_of_Philadelphia_Phillies_broadcasters - Score: 0.408865
+List_of_Chicago_Cubs_broadcasters - Score: 0.39782467
+Jack_Graney - Score: 0.32051542
+Tony_Kubek - Score: 0.3004792

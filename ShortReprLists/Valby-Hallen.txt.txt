@@ -1,0 +1,7 @@
+Valby-Hallen - Score: 1.0
+Concert_tour - Score: 0.37294552
+Hemmerleinhalle - Score: 0.3599437
+Terminal_5_(venue) - Score: 0.3599437
+Cirque_Royal - Score: 0.34288675
+Simón_Bolívar_Park - Score: 0.3226009
+Pedreira_Paulo_Leminski - Score: 0.32151923

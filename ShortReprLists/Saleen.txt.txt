@@ -1,0 +1,7 @@
+Saleen - Score: 1.0
+Callaway_Cars - Score: 0.7922475
+Mosler_Automotive - Score: 0.4389206
+Locomobile_Company_of_America - Score: 0.38610044
+Excalibur_(automobile) - Score: 0.37930843
+Fisker_Automotive - Score: 0.3602548
+Karma_Automotive - Score: 0.3296245

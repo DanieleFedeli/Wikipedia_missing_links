@@ -1,0 +1,3 @@
+Scenic_viewpoint - Score: 1.0
+Annual_average_daily_traffic - Score: 0.38361827
+Automobile_Blue_Book - Score: 0.36860776

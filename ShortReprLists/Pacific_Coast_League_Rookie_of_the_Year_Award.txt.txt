@@ -1,0 +1,5 @@
+Pacific_Coast_League_Rookie_of_the_Year_Award - Score: 1.0
+Pacific_Coast_League_Pitcher_of_the_Year_Award - Score: 0.87796223
+Pacific_Coast_League_Hall_of_Fame - Score: 0.69060445
+List_of_Pacific_Coast_League_no-hitters - Score: 0.6554794
+Triple-A_All-Star_Game - Score: 0.35587996

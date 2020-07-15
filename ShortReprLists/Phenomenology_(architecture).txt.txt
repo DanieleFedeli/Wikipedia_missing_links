@@ -1,0 +1,5 @@
+Phenomenology_(architecture) - Score: 1.0
+Generative_grammar - Score: 0.34146622
+Authenticity_(philosophy) - Score: 0.32996285
+Existence_precedes_essence - Score: 0.32996285
+Existentialism - Score: 0.32996285

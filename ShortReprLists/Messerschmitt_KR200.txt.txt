@@ -1,0 +1,4 @@
+Messerschmitt_KR200 - Score: 1.0
+Peel_P50 - Score: 0.553004
+Heinkel_Kabine - Score: 0.39670983
+Trojan_(automobile) - Score: 0.3516863

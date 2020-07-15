@@ -1,0 +1,3 @@
+Cal_Expo_Amphitheatre - Score: 1.0
+Hemmerleinhalle - Score: 0.3831066
+Houston_Music_Hall - Score: 0.30562726

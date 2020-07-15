@@ -1,0 +1,4 @@
+Glamorama - Score: 1.0
+Kafka_on_the_Shore - Score: 0.49437606
+A_Clockwork_Orange_(novel) - Score: 0.37879327
+J_R - Score: 0.33866256

@@ -1,0 +1,7 @@
+Virgin_of_the_Angels - Score: 1.0
+Madonna_of_Humility_(Fra_Angelico) - Score: 0.6082895
+The_Last_Judgment_(Memling) - Score: 0.391458
+Concert_in_the_Egg - Score: 0.3427953
+Triptych_of_the_Temptation_of_St._Anthony - Score: 0.3427953
+Hortus_conclusus - Score: 0.33746067
+Triptych - Score: 0.32768384

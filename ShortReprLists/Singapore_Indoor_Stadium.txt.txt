@@ -1,0 +1,6 @@
+Singapore_Indoor_Stadium - Score: 1.0
+Hamdan_Sports_Complex - Score: 0.4856869
+World_Memorial_Hall - Score: 0.41041148
+Mall_of_Asia_Arena - Score: 0.3582559
+Forum_Horsens - Score: 0.34551907
+Deutschlandhalle - Score: 0.33802506

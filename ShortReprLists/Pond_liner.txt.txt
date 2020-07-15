@@ -1,0 +1,7 @@
+Plunge_pool - Score: 1.0
+Pond_liner - Score: 1.0
+Swimming_hole - Score: 1.0
+Bakki_shower - Score: 0.9011595
+Bird_bath - Score: 0.9011595
+Infinity_pool - Score: 0.9011595
+Puddle - Score: 0.9011595

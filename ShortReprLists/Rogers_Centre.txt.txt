@@ -1,0 +1,5 @@
+Rogers_Centre - Score: 1.0
+C._C._Pyle - Score: 0.35694763
+Monarch_Park_Stadium - Score: 0.31968933
+Luxury_box - Score: 0.31111974
+Dignity_Health_Sports_Park - Score: 0.31071502

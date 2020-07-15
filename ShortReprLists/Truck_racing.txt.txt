@@ -1,0 +1,4 @@
+Truck_racing - Score: 1.0
+Autocross - Score: 0.33329204
+Group_A - Score: 0.32957646
+Drag_racing - Score: 0.31992704

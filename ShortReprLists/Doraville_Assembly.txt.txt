@@ -1,0 +1,4 @@
+Doraville_Assembly - Score: 1.0
+South_Gate_Assembly - Score: 0.6104039
+Framingham_Assembly - Score: 0.4946968
+Van_Nuys_Assembly - Score: 0.3093798

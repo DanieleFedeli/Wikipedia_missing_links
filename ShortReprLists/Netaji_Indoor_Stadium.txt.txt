@@ -1,0 +1,4 @@
+Netaji_Indoor_Stadium - Score: 1.0
+New_Town_Eco_Park - Score: 0.653889
+Hindustan_Ambassador - Score: 0.64609915
+Jatra_(theatre) - Score: 0.3603741

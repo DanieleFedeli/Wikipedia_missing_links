@@ -1,0 +1,4 @@
+Vauxhall_Motors - Score: 1.0
+Jaguar_Cars - Score: 0.35569727
+Lotus_Cars - Score: 0.35569727
+Bedford_Vehicles - Score: 0.33277386

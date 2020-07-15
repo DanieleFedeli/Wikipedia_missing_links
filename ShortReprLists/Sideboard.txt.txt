@@ -1,0 +1,4 @@
+Sideboard - Score: 1.0
+Lowboy - Score: 0.4329947
+Chest_of_drawers - Score: 0.34009457
+Cupboard - Score: 0.3054705

@@ -1,0 +1,5 @@
+Screech_(mascot) - Score: 1.0
+Baby_Shark - Score: 0.943205
+Rubber_Chicken_Man - Score: 0.943205
+Dominican_Summer_League_Nationals - Score: 0.7722403
+History_of_Washington,_D.C._professional_baseball - Score: 0.3878927

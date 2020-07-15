@@ -1,0 +1,7 @@
+Mick_Rock - Score: 1.0
+1000_Years_of_Popular_Music - Score: 0.43405226
+Live_at_Montreux_2000 - Score: 0.39501277
+Transformer_(Lou_Reed_album) - Score: 0.39501277
+Hipgnosis - Score: 0.349856
+Rock's_Backpages - Score: 0.33596155
+Frank_Slay - Score: 0.30758908

@@ -1,0 +1,6 @@
+Eagle_Creek_Park - Score: 1.0
+2002_World_University_Baseball_Championship - Score: 0.3079215
+2008_World_University_Baseball_Championship - Score: 0.3079215
+2010_World_University_Baseball_Championship - Score: 0.3079215
+Concrete_canoe - Score: 0.30142367
+Royalex - Score: 0.30142367

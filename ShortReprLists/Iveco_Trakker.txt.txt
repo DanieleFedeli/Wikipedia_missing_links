@@ -1,0 +1,5 @@
+Iveco_Trakker - Score: 1.0
+Iveco_Stralis - Score: 0.8322064
+Iveco_EuroStar - Score: 0.7779628
+Iveco_Zeta - Score: 0.7779628
+OM_X-series - Score: 0.7779628

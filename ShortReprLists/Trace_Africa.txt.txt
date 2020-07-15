@@ -1,0 +1,4 @@
+Trace_Africa - Score: 1.0
+Viasat_Motor - Score: 0.7286766
+Motorsport.tv - Score: 0.438332
+Discovery_Turbo - Score: 0.36061466

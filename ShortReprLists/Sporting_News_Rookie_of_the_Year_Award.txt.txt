@@ -1,0 +1,3 @@
+Sporting_News_Rookie_of_the_Year_Award - Score: 1.0
+Hideo_Nomo - Score: 0.34477186
+Andy_Messersmith - Score: 0.3088675

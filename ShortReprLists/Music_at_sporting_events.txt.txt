@@ -1,0 +1,6 @@
+Groundhopping - Score: 1.0
+Music_at_sporting_events - Score: 1.0
+Stadium_anthem - Score: 0.68505424
+Baseball_clothing_and_equipment - Score: 0.32751387
+Baseball_doughnut - Score: 0.32751387
+Batting_glove - Score: 0.32751387

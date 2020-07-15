@@ -1,0 +1,7 @@
+Junior_Monaco_Kart_Cup - Score: 1.0
+Crosskart - Score: 0.74897796
+KF2 - Score: 0.42903566
+Go-kart - Score: 0.35905233
+Commission_Internationale_de_Karting - Score: 0.34104416
+Dune_buggy - Score: 0.32857388
+Formula_Libre - Score: 0.32857388

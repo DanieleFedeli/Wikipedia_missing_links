@@ -1,0 +1,6 @@
+Bob_Marley_Museum - Score: 1.0
+Smile_Jamaica_Concert - Score: 0.92258877
+No_Woman,_No_Cry - Score: 0.69336873
+Peter_Tosh - Score: 0.65426624
+Bob_Marley - Score: 0.47982186
+Rasputin_(song) - Score: 0.32335165

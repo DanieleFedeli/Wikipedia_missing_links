@@ -1,0 +1,7 @@
+No_Talking,_Just_Head - Score: 1.0
+How_Music_Works - Score: 0.76066184
+Love_This_Giant - Score: 0.41279215
+Live_at_Carnegie_Hall_(David_Byrne_and_Caetano_Veloso_album) - Score: 0.39933914
+Here_Lies_Love - Score: 0.38673538
+Playing_the_Building - Score: 0.38673538
+My_Life_in_the_Bush_of_Ghosts_(album) - Score: 0.3060238

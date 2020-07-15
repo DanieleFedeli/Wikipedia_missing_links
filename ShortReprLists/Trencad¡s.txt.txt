@@ -1,0 +1,7 @@
+Trencadís - Score: 1.0
+Noucentisme - Score: 0.6240015
+Casa_de_les_Punxes - Score: 0.52212405
+Mossèn_Costa_i_Llobera_Gardens - Score: 0.52212405
+Museu_de_la_Música_de_Barcelona - Score: 0.52212405
+Teatre_Nacional_de_Catalunya - Score: 0.52212405
+Dutch_Interiors - Score: 0.4396743

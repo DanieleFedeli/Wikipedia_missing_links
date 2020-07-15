@@ -1,0 +1,7 @@
+Cobblestone_architecture - Score: 1.0
+Corn_crib - Score: 0.6462639
+Farmhouse - Score: 0.558573
+Outhouse - Score: 0.5407826
+Log_house - Score: 0.34942192
+Heritage_Documentation_Programs - Score: 0.33163145
+Fieldstone - Score: 0.32006994

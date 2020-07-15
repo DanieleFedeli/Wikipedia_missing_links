@@ -1,0 +1,5 @@
+Comedians_in_Cars_Getting_Coffee - Score: 1.0
+My_Mother_the_Car - Score: 0.45123369
+Phil_Hartman - Score: 0.45087463
+Miranda_Sings - Score: 0.31017813
+Westin_Bonaventure_Hotel - Score: 0.3082139

@@ -1,0 +1,4 @@
+Terminator_(character) - Score: 1.0
+John_Connor - Score: 0.38446486
+The_Dark_Saga - Score: 0.32918745
+Godzilla_March - Score: 0.31050977

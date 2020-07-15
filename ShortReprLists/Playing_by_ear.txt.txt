@@ -1,0 +1,4 @@
+Playing_by_ear - Score: 1.0
+Solmization - Score: 0.4999577
+Ear_training - Score: 0.34593198
+Pitch_circularity - Score: 0.34593198

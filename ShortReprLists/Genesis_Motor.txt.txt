@@ -1,0 +1,7 @@
+Genesis_Motor - Score: 1.0
+Genesis_G80 - Score: 0.796281
+Genesis_G90 - Score: 0.796281
+Genesis_G70 - Score: 0.705746
+Hyundai_Genesis - Score: 0.4721315
+Hyundai_Genesis_Coupe - Score: 0.3815965
+Hyundai_Equus - Score: 0.38024214

@@ -1,0 +1,5 @@
+Dance,_Voldo,_Dance - Score: 1.0
+Water_Temple_(Ocarina_of_Time) - Score: 0.49380583
+Music_of_Xenosaga - Score: 0.31549147
+Myth__The_Xenogears_Orchestral_Album - Score: 0.31549147
+Koji_Kondo - Score: 0.30654994

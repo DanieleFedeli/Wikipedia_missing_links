@@ -1,0 +1,5 @@
+Brisbane_Quarter - Score: 1.0
+480_Queen_Street - Score: 0.8344477
+Brisbane_Skytower - Score: 0.7214574
+Low-rise_building - Score: 0.33116886
+High-rise_building - Score: 0.3125108

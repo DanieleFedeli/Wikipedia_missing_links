@@ -1,0 +1,5 @@
+Bawn - Score: 1.0
+Rock_of_Cashel - Score: 0.52504575
+Roscrea_Castle - Score: 0.52504575
+Hope_Castle - Score: 0.50674134
+Leinster_House - Score: 0.403985

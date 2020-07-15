@@ -1,0 +1,3 @@
+I_Love_New_York - Score: 1.0
+Electronic_toll_collection - Score: 0.37697273
+Pennsylvania_Department_of_Transportation - Score: 0.37697273

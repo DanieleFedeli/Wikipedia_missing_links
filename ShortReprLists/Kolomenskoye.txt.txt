@@ -1,0 +1,5 @@
+Kolomenskoye - Score: 1.0
+Peterhof_Palace - Score: 0.696963
+Alexander_Garden - Score: 0.63870275
+Tsarina's_Golden_Chamber - Score: 0.63870275
+Moscow_Kremlin_Wall - Score: 0.61643595

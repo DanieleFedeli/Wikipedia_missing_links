@@ -1,0 +1,6 @@
+Union_des_Producteurs_Phonographiques_Français_Indépendants - Score: 1.0
+Peermusic - Score: 0.6434921
+Tôt_ou_tard - Score: 0.6434921
+AB_Disques - Score: 0.5832125
+American_Composers_Alliance - Score: 0.5088609
+Wagram_Music - Score: 0.451884

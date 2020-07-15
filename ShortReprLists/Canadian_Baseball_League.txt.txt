@@ -1,0 +1,7 @@
+Canadian_Baseball_League - Score: 1.0
+Québec_Carnavals - Score: 0.8962732
+Sherbrooke_Pirates - Score: 0.8962732
+Montreal_Royales - Score: 0.87105227
+Trois-Rivières_Saints - Score: 0.87105227
+Associés_de_Laval - Score: 0.8092485
+Ducs_de_Longueuil - Score: 0.8092485

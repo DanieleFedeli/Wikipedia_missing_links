@@ -1,0 +1,7 @@
+Tennis_at_the_Youth_Olympic_Games - Score: 1.0
+Tennis_at_the_Island_Games - Score: 0.86741817
+Tennis_at_the_Commonwealth_Games - Score: 0.80674213
+Tennis_at_the_Pacific_Games - Score: 0.80674213
+Tennis_at_the_Mediterranean_Games - Score: 0.75238687
+Tennis_at_the_Pan_American_Games - Score: 0.69715583
+Tennis_at_the_African_Games - Score: 0.62899446

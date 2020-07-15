@@ -1,0 +1,7 @@
+Art_pop - Score: 1.0
+Groove_(music) - Score: 0.39664
+Sentimental_ballad - Score: 0.38846835
+Standard_(music) - Score: 0.3684603
+Slow_jam - Score: 0.34445724
+Wall_of_Sound - Score: 0.34445724
+Psychedelic_pop - Score: 0.33884636

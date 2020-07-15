@@ -1,0 +1,4 @@
+Daewoo_Matiz - Score: 1.0
+Chevrolet_Tracker - Score: 0.3801317
+Chevrolet_Kodiak - Score: 0.3637747
+Daewoo_Lanos - Score: 0.30089077

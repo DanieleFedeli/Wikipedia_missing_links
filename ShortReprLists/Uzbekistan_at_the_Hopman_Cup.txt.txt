@@ -1,0 +1,5 @@
+Uzbekistan_at_the_Hopman_Cup - Score: 1.0
+Paraguay_at_the_Hopman_Cup - Score: 0.89612603
+Chinese_Taipei_at_the_Hopman_Cup - Score: 0.48450288
+Romania_at_the_Hopman_Cup - Score: 0.47338068
+Serbia_at_the_Hopman_Cup - Score: 0.3695067

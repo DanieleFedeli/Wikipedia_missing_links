@@ -1,0 +1,5 @@
+Fountain - Score: 1.0
+Exedra - Score: 0.6269418
+Giardino_all'italiana - Score: 0.39497983
+Water_feature - Score: 0.32318866
+Villa_La_Petraia - Score: 0.3079523

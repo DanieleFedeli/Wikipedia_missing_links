@@ -1,0 +1,6 @@
+Mise-en-scène - Score: 1.0
+Buried_Country - Score: 0.3956687
+Musical_film - Score: 0.3956687
+Melodrama - Score: 0.3255908
+Premiere - Score: 0.32540372
+Stereophonic_sound - Score: 0.32433254

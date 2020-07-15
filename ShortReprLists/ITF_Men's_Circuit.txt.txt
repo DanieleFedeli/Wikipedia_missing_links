@@ -1,0 +1,5 @@
+ITF_Men's_Circuit - Score: 1.0
+Yshai_Oliel - Score: 0.520442
+ATP_Tour - Score: 0.49194908
+Dead_rubber - Score: 0.39178017
+Davis_Cup - Score: 0.3794108

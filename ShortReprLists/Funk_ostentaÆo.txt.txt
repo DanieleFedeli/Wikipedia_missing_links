@@ -1,0 +1,6 @@
+Funk_ostentação - Score: 1.0
+Melodic_funk - Score: 0.8102893
+Miami_bass - Score: 0.35649756
+Music_sequencer - Score: 0.35649756
+Akai_MPC - Score: 0.34487924
+Detroit_techno - Score: 0.34487924

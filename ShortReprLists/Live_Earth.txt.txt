@@ -1,0 +1,7 @@
+Live_Earth - Score: 1.0
+Tour_manager - Score: 0.37879398
+Royal_Albert_Hall - Score: 0.37699094
+LiveDaily - Score: 0.3737113
+Headliner_(performances) - Score: 0.36432636
+Harvey_Goldsmith - Score: 0.3638481
+Enmore_Theatre - Score: 0.35962442

@@ -1,0 +1,5 @@
+List_of_Baroque_residences - Score: 1.0
+Cour_d'honneur - Score: 0.58800924
+Enfilade_(architecture) - Score: 0.574164
+Overdoor - Score: 0.5493959
+Corps_de_logis - Score: 0.42562738

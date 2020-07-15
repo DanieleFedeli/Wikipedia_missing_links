@@ -1,0 +1,4 @@
+Jan_Bussell - Score: 1.0
+Robert_Ritchie_(racing_driver) - Score: 0.9210978
+List_of_Macau_Grand_Prix_winners - Score: 0.91359985
+Autosport_BRDC_Award - Score: 0.7462989

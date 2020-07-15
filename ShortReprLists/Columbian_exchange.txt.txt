@@ -1,0 +1,6 @@
+Columbian_exchange - Score: 1.0
+Muisca_architecture - Score: 0.8023761
+Complex_society - Score: 0.6922648
+Muisca_art - Score: 0.49728024
+Inca_architecture - Score: 0.38716894
+Pukara - Score: 0.38716894

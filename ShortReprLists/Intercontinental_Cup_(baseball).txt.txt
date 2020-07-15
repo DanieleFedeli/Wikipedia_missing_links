@@ -1,0 +1,6 @@
+Intercontinental_Cup_(baseball) - Score: 1.0
+Baseball_at_the_Summer_Olympics - Score: 0.5991164
+2016_Haarlem_Baseball_Week - Score: 0.42988467
+Baseball_at_the_Asian_Games - Score: 0.39265472
+Asian_Junior_Baseball_Championship - Score: 0.33717877
+2007_Asian_Baseball_Championship - Score: 0.31378555

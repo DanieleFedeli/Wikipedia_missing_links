@@ -1,0 +1,6 @@
+Root_cellar - Score: 1.0
+Sunroom - Score: 0.60152495
+Breezeway - Score: 0.4679728
+Ell_(architecture) - Score: 0.43996388
+Overhang_(architecture) - Score: 0.3903786
+Screened_porch - Score: 0.34923264

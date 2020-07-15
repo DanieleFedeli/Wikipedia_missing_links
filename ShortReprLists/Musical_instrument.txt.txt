@@ -1,0 +1,7 @@
+Musical_instrument - Score: 1.0
+Acoustic_bass_guitar - Score: 0.47719935
+Panduri - Score: 0.3716886
+Classical_guitar - Score: 0.36895546
+History_of_the_mandolin - Score: 0.30743778
+Mandolins_in_North_America - Score: 0.30743778
+String_instrument - Score: 0.30724344

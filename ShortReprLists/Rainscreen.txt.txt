@@ -1,0 +1,3 @@
+Rainscreen - Score: 1.0
+Cavity_wall - Score: 0.3570508
+Copper_in_architecture - Score: 0.33250767

@@ -1,0 +1,7 @@
+American_Five - Score: 1.0
+West_Coast_School - Score: 0.488243
+Mannheim_school - Score: 0.37951067
+English_Pastoral_School - Score: 0.3759463
+Second_New_England_School - Score: 0.3759463
+New_German_School - Score: 0.36714232
+Grupo_de_los_cuatro - Score: 0.35473135

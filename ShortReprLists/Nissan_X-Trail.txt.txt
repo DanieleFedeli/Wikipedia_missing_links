@@ -1,0 +1,7 @@
+Nissan_X-Trail - Score: 1.0
+Nissan_Atlas - Score: 0.64813817
+Nissan_Civilian - Score: 0.55736095
+Nissan_Sentra - Score: 0.44598377
+Nissan_Tiida - Score: 0.35893166
+Nissan_Maxima - Score: 0.34952986
+Nissan_Qashqai - Score: 0.3292661

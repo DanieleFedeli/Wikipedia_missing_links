@@ -1,0 +1,7 @@
+Hudson_Hornet - Score: 1.0
+Fabulous_Hudson_Hornet - Score: 0.6948904
+Hudson_Jet - Score: 0.609372
+Hudson_Wasp - Score: 0.609372
+Nash_Rambler - Score: 0.50027514
+AMC_Hornet - Score: 0.3051096
+AMC_Matador - Score: 0.3051096

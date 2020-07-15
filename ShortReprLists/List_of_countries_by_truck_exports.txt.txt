@@ -1,0 +1,5 @@
+List_of_countries_by_truck_exports - Score: 1.0
+Organisation_Internationale_des_Constructeurs_d'Automobiles - Score: 0.40393546
+List_of_countries_by_vehicles_per_capita - Score: 0.38985324
+Citrus_production - Score: 0.37156343
+Automotive_industry_in_Iran - Score: 0.30781412

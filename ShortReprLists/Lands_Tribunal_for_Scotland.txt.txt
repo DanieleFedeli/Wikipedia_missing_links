@@ -1,0 +1,7 @@
+Lands_Tribunal_for_Scotland - Score: 1.0
+Registers_of_Scotland - Score: 0.68740755
+List_of_oldest_buildings_in_Scotland - Score: 0.59790486
+Architecture_and_Design_Scotland - Score: 0.5575697
+Sasine - Score: 0.4129158
+Darien_scheme - Score: 0.4110423
+Scottish_Land_Commission - Score: 0.32605872

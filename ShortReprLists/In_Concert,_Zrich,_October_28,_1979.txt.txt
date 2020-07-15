@@ -1,0 +1,7 @@
+In_Concert,_Zürich,_October_28,_1979 - Score: 1.0
+The_New_Crystal_Silence - Score: 1.0
+The_Enchantment - Score: 0.9050892
+CoreaHancock - Score: 0.87620384
+1+1_(Herbie_Hancock_and_Wayne_Shorter_album) - Score: 0.7148277
+Happy_Anniversary,_Charlie_Brown_(album) - Score: 0.68370783
+With_Dave_Holland_and_Elvin_Jones - Score: 0.32309073

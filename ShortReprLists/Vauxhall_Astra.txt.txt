@@ -1,0 +1,6 @@
+Vauxhall_Astra - Score: 1.0
+Vauxhall_Cavalier - Score: 0.5990264
+Vauxhall_Belmont - Score: 0.4158526
+Opel_Astra - Score: 0.38772663
+Vauxhall_Carlton - Score: 0.3096025
+Opel_Manta - Score: 0.30026922

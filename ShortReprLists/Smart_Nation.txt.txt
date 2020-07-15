@@ -1,0 +1,6 @@
+Smart_Nation - Score: 1.0
+Public_housing_in_Singapore - Score: 0.5588462
+Architecture_of_Singapore - Score: 0.47151953
+Future_developments_in_Singapore - Score: 0.3731602
+Shophouse - Score: 0.3628911
+Housing_and_Development_Board - Score: 0.34801808

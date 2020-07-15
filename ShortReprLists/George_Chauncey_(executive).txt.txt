@@ -1,0 +1,5 @@
+George_Chauncey_(executive) - Score: 1.0
+Henry_Medicus - Score: 0.78672826
+Ed_McKeever_(baseball_owner) - Score: 0.7213954
+Ferdinand_Abell - Score: 0.7189539
+Harry_Von_der_Horst - Score: 0.35337076

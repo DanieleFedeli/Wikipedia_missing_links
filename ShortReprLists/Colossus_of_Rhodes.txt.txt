@@ -1,0 +1,5 @@
+Colossus_of_Rhodes - Score: 1.0
+Seven_Wonders_of_the_Ancient_World - Score: 0.72927636
+Hanging_Gardens_of_Babylon - Score: 0.63413554
+Eighth_Wonder_of_the_World - Score: 0.61202794
+Lighthouse_of_Alexandria - Score: 0.38250846

@@ -1,0 +1,6 @@
+Dome - Score: 1.0
+Architectural_style - Score: 0.47544864
+Islamic_Center_of_Murfreesboro - Score: 0.41160443
+Minaret - Score: 0.39465347
+Jami_Mosque_of_Taluak - Score: 0.30543283
+Nurul_Iman_Mosque_of_Koto_Gadang - Score: 0.30543283

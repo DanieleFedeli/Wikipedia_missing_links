@@ -1,0 +1,4 @@
+List_of_electronic_dance_music_venues - Score: 1.0
+The_End_(club) - Score: 0.5503606
+Nightclub_act - Score: 0.34213135
+Iroquois_Theatre_fire - Score: 0.34025505

@@ -1,0 +1,3 @@
+La_Cucaracha - Score: 1.0
+German_cockroach - Score: 0.37234777
+American_cockroach - Score: 0.35980406

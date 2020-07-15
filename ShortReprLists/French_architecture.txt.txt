@@ -1,0 +1,4 @@
+French_architecture - Score: 1.0
+List_of_Remarkable_Gardens_of_France - Score: 0.56755567
+Arpent - Score: 0.37490037
+Laurel_wreath - Score: 0.33766803

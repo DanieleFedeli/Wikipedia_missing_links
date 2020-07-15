@@ -1,0 +1,6 @@
+Wrest_Point_Hotel_Casino - Score: 1.0
+Kelly's_Steps - Score: 0.92012674
+Brooke_Street_Pier - Score: 0.8376133
+Hobart_International_Tennis_Centre - Score: 0.4380263
+Lovett_Tower - Score: 0.3424385
+Medium-density_housing - Score: 0.30286893

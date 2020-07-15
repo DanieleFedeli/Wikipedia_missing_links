@@ -1,0 +1,6 @@
+Zayed_National_Museum - Score: 1.0
+Bardo_National_Museum_(Tunis) - Score: 0.54641974
+Zubarah - Score: 0.43453065
+Louvre_Abu_Dhabi - Score: 0.40114266
+Masdar_City - Score: 0.30725503
+Majlis - Score: 0.30331823

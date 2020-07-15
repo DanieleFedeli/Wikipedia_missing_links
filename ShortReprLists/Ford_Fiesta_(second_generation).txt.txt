@@ -1,0 +1,5 @@
+Ford_Fiesta_(second_generation) - Score: 1.0
+Ford_Fiesta_(third_generation) - Score: 0.661637
+Ford_Fiesta_(first_generation) - Score: 0.54603004
+Ford_Mondeo_(second_generation) - Score: 0.5402905
+Ford_Granada_(Europe) - Score: 0.34954756

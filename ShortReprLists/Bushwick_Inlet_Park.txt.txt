@@ -1,0 +1,7 @@
+Bushwick_Inlet_Park - Score: 1.0
+Spring_Creek_Park - Score: 0.91499317
+Alley_Pond_Park - Score: 0.80305415
+Clove_Lakes_Park - Score: 0.80305415
+Baisley_Pond_Park - Score: 0.7750576
+Pelham_Bay_Park - Score: 0.6784785
+Flushing_Meadows–Corona_Park - Score: 0.6535165

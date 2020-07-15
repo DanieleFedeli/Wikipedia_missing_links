@@ -1,0 +1,6 @@
+David_Van_Tieghem - Score: 1.0
+Whale_Music - Score: 0.39945945
+The_Fortress_of_Solitude_(novel) - Score: 0.38600236
+Anton_Chekhov - Score: 0.3291218
+Improvisation - Score: 0.32254943
+A_Clockwork_Orange_(novel) - Score: 0.3116833

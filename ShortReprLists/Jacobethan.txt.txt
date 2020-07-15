@@ -1,0 +1,7 @@
+Jacobethan - Score: 1.0
+Adam_style - Score: 0.48697442
+Châteauesque - Score: 0.44387686
+Edwardian_Baroque_architecture - Score: 0.42818707
+Italianate_architecture - Score: 0.33942765
+Collegiate_Gothic - Score: 0.33341092
+List_of_largest_houses_in_the_United_States - Score: 0.33189517

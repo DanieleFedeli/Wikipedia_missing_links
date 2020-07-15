@@ -1,0 +1,6 @@
+The_Thorns - Score: 1.0
+Under_the_Covers,_Vol._3 - Score: 0.9355351
+Under_the_Covers,_Vol._2 - Score: 0.87291086
+Under_the_Covers,_Vol._1 - Score: 0.73450583
+Greatest_Hits_(The_Bangles_video) - Score: 0.3691938
+Illuminations_(video) - Score: 0.33726037

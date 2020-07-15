@@ -1,0 +1,3 @@
+Rufforth_Circuit - Score: 1.0
+List_of_motor_racing_tracks - Score: 0.576478
+Longridge_circuit - Score: 0.320462

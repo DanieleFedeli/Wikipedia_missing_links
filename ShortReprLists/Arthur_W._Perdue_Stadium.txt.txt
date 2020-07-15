@@ -1,0 +1,7 @@
+Arthur_W._Perdue_Stadium - Score: 1.0
+L._P._Frans_Stadium - Score: 0.6703457
+Municipal_Stadium_(Hagerstown) - Score: 0.6703457
+Atrium_Health_Ballpark - Score: 0.4517899
+Dutchess_Stadium - Score: 0.3831682
+Fred_Handler_Park - Score: 0.32965422
+Appalachian_Power_Park - Score: 0.3273289

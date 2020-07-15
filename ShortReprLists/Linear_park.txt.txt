@@ -1,0 +1,5 @@
+Linear_park - Score: 1.0
+Greenway_(landscape) - Score: 0.636384
+Liberty_State_Park - Score: 0.40207547
+Hudson_River_Park - Score: 0.3534407
+Greater_Grand_Forks_Greenway - Score: 0.3377382

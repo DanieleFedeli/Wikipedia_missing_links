@@ -1,0 +1,6 @@
+Prix_de_l'Équerre_d'Argent - Score: 1.0
+Praemium_Imperiale - Score: 0.4317164
+Thomas_Jefferson_Medal_in_Architecture - Score: 0.36401522
+Pritzker_Architecture_Prize - Score: 0.3283244
+Rem_Koolhaas - Score: 0.3283244
+Rafael_Moneo - Score: 0.31687817

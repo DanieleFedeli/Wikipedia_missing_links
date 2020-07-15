@@ -1,0 +1,6 @@
+FIA_Motorsport_Games - Score: 1.0
+2020_Women's_Baseball_World_Cup - Score: 0.45835125
+Commission_Internationale_de_Karting - Score: 0.45616752
+FIA_Institute_Young_Driver_Excellence_Academy - Score: 0.45616752
+List_of_FIA_member_organisations - Score: 0.45616752
+Women's_Baseball_World_Cup - Score: 0.39198762

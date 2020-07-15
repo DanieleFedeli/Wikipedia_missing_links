@@ -1,0 +1,4 @@
+Cream_City_brick - Score: 1.0
+Parks_of_Milwaukee - Score: 0.44180202
+Indiana_Limestone - Score: 0.355553
+Masonry_veneer - Score: 0.32983255

@@ -1,0 +1,5 @@
+Herma - Score: 1.0
+Telamon - Score: 0.42353186
+Acropolis - Score: 0.3859117
+Atlas_(architecture) - Score: 0.3291917
+Caryatid - Score: 0.31907645

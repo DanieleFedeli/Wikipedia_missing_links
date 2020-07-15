@@ -1,0 +1,7 @@
+Australian_Institute_of_Landscape_Architects - Score: 1.0
+Urban_design - Score: 0.3991642
+Hardscape - Score: 0.3926284
+Architectural_designer - Score: 0.37262142
+Landscape_Institute - Score: 0.3660856
+Max_Dupain - Score: 0.34836137
+Interior_design - Score: 0.30701947

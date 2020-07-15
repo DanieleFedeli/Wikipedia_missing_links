@@ -1,0 +1,5 @@
+Yemen_Davis_Cup_team - Score: 1.0
+Cambodia_Davis_Cup_team - Score: 0.5582738
+Turkmenistan_Davis_Cup_team - Score: 0.47536835
+Myanmar_Davis_Cup_team - Score: 0.36773047
+Vietnam_Davis_Cup_team - Score: 0.36773047

@@ -1,0 +1,7 @@
+Il_prigioniero - Score: 1.0
+The_New_Grove_Dictionary_of_Opera - Score: 0.4654356
+Verismo - Score: 0.44531167
+Operabase - Score: 0.39424664
+Impresario - Score: 0.3596242
+Opera_buffa - Score: 0.35602418
+Voice_type - Score: 0.32111493

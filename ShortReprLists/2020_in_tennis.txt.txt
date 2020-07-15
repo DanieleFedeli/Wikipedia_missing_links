@@ -1,0 +1,6 @@
+2020_in_tennis - Score: 1.0
+2020_ATP_Cup - Score: 0.49130875
+2020_Davis_Cup_Finals - Score: 0.49130875
+Laver_Cup - Score: 0.49130875
+2020_French_Open - Score: 0.47418052
+2020_ATP_Finals - Score: 0.3949874

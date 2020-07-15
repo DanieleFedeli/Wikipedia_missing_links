@@ -1,0 +1,4 @@
+Cirque_Royal - Score: 1.0
+Riverside_Theater_(Milwaukee) - Score: 0.49628663
+AFAS_Live - Score: 0.41557676
+Valby-Hallen - Score: 0.34371865

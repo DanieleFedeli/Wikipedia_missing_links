@@ -1,0 +1,7 @@
+2020_Women's_Baseball_World_Cup - Score: 1.0
+2019_European_Baseball_Championship_-_Women - Score: 0.56351453
+Women's_Baseball_World_Cup - Score: 0.47207934
+FIA_Motorsport_Games - Score: 0.4696863
+2016_European_Baseball_Championship - Score: 0.37821925
+2019_European_Baseball_Championship - Score: 0.3675275
+2019_European_Baseball_Championship_-_B-Pool - Score: 0.3675275

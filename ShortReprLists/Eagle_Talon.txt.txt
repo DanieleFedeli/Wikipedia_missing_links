@@ -1,0 +1,3 @@
+Eagle_Talon - Score: 1.0
+Mitsubishi_Pajero - Score: 0.3839108
+Mitsubishi_GTO - Score: 0.3811725

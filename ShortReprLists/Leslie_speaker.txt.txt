@@ -1,0 +1,6 @@
+Leslie_speaker - Score: 1.0
+Digital_piano - Score: 0.60605127
+Keytar - Score: 0.49805665
+Pedal_keyboard - Score: 0.41033185
+Chord_organ - Score: 0.39205244
+List_of_Hammond_organs - Score: 0.39205244

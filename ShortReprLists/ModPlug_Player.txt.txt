@@ -1,0 +1,7 @@
+ModPlug_Player - Score: 1.0
+Music_tracker - Score: 0.6822945
+Cassette_culture - Score: 0.38499078
+Netlabel - Score: 0.38499078
+Visionary_environment - Score: 0.38499078
+Music_software - Score: 0.34320274
+Chiptune - Score: 0.3338946

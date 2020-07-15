@@ -1,0 +1,4 @@
+CR-39 - Score: 1.0
+Styrofoam - Score: 0.33839297
+Plastic - Score: 0.33601144
+Stainless_steel - Score: 0.327688

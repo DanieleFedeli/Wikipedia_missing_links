@@ -1,0 +1,5 @@
+String_synthesizer - Score: 1.0
+Musical_keyboard - Score: 0.35007203
+Stutter_edit - Score: 0.33806795
+Timbre - Score: 0.3104146
+Vocoder - Score: 0.30112776

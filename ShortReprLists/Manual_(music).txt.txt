@@ -1,0 +1,7 @@
+Manual_(music) - Score: 1.0
+Ring_of_bells - Score: 0.5417891
+Organ_console - Score: 0.3430527
+Organ_stop - Score: 0.3430527
+Pedal_keyboard - Score: 0.3430527
+Pipe_organ - Score: 0.33149588
+Dove's_Guide_for_Church_Bell_Ringers - Score: 0.31112888

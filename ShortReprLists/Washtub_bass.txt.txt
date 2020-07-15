@@ -1,0 +1,5 @@
+Washtub_bass - Score: 1.0
+Diddley_bow - Score: 0.4496799
+String_(music) - Score: 0.3676667
+Monochord - Score: 0.36140764
+Musical_bow - Score: 0.35538468

@@ -1,0 +1,6 @@
+De_Immigrant - Score: 1.0
+Little_Chute_Windmill - Score: 0.7912881
+Volendam_Windmill - Score: 0.7912881
+List_of_windmills_in_the_United_States - Score: 0.69794
+90-92_Windmill_Street,_Millers_Point - Score: 0.4593757
+Australian_residential_architectural_styles - Score: 0.37781247

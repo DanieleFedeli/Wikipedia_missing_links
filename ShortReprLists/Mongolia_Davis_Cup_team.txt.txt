@@ -1,0 +1,6 @@
+Mongolia_Davis_Cup_team - Score: 1.0
+Singapore_Davis_Cup_team - Score: 0.46854198
+Fiji_Davis_Cup_team - Score: 0.38346046
+Iran_Davis_Cup_team - Score: 0.376226
+Malaysia_Davis_Cup_team - Score: 0.37295407
+Sri_Lanka_Davis_Cup_team - Score: 0.37295407

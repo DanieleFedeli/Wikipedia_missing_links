@@ -1,0 +1,2 @@
+Fogel_Field - Score: 1.0
+Flamingo_Field - Score: 0.49265558

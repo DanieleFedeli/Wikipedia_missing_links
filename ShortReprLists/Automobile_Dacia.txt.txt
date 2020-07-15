@@ -1,0 +1,7 @@
+Automobile_Dacia - Score: 1.0
+Dacia_Sandero - Score: 0.6120423
+Dacia_Dokker - Score: 0.5026855
+Dacia_Lodgy - Score: 0.5026855
+List_of_Renault_engines - Score: 0.40205902
+Renault_Estafette - Score: 0.38205054
+Renault_Captur - Score: 0.30388027

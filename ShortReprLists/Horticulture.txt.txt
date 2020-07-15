@@ -1,0 +1,5 @@
+Horticulture - Score: 1.0
+Orchard - Score: 0.5028325
+Transplanting - Score: 0.49523085
+Hobby_farm - Score: 0.40115434
+Bamboo - Score: 0.3969266

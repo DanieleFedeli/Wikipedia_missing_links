@@ -1,0 +1,5 @@
+Villa_rustica - Score: 1.0
+Knee_wall - Score: 0.33509877
+Apodyterium - Score: 0.30310866
+Roman_villa - Score: 0.30310866
+Triclinium - Score: 0.30310866

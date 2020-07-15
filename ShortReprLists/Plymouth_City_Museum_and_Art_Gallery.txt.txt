@@ -1,0 +1,6 @@
+Plymouth_City_Museum_and_Art_Gallery - Score: 1.0
+Royal_Albert_Memorial_Museum - Score: 0.35457456
+Heath_Wood_barrow_cemetery - Score: 0.32905874
+Arts_and_Crafts_Exhibition_Society - Score: 0.32663682
+Drapery - Score: 0.32663682
+Royal_Engineers_Museum - Score: 0.30497816

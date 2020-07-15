@@ -1,0 +1,6 @@
+Campbell's_Field - Score: 1.0
+Center_for_Urban_Policy_Research - Score: 0.65566915
+Institute_of_Jazz_Studies - Score: 0.5852008
+Sousa_Archives_and_Center_for_American_Music - Score: 0.3195946
+Illinois_Solar_Decathlon - Score: 0.30882806
+List_of_University_of_Illinois_songs - Score: 0.30882806

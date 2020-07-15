@@ -1,0 +1,5 @@
+Global_Urban_Research_Unit - Score: 1.0
+Pedestrian_Accessibility_and_Movement_Environment_Laboratory - Score: 0.43758532
+SOAS_University_of_London - Score: 0.35475326
+Institute_of_Asian_Research - Score: 0.34815985
+Sainsbury_Centre_for_Visual_Arts - Score: 0.33418232

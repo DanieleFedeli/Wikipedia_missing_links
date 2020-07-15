@@ -1,0 +1,3 @@
+Straw - Score: 1.0
+Sowing - Score: 0.51653385
+Sprouting - Score: 0.42448518

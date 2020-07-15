@@ -1,0 +1,3 @@
+Architectural_painting - Score: 1.0
+Merry_company - Score: 0.58420545
+Capriccio_(art) - Score: 0.32876894

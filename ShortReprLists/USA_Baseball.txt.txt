@@ -1,0 +1,4 @@
+USA_Baseball - Score: 1.0
+American_Power_Boat_Association - Score: 0.5361432
+Tennis_in_the_United_States - Score: 0.5361432
+Automobile_Competition_Committee_for_the_United_States - Score: 0.42866603

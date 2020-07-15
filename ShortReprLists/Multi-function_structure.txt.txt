@@ -1,0 +1,4 @@
+Multi-function_structure - Score: 1.0
+Metal_foam - Score: 0.6293699
+Nanotribology - Score: 0.5471097
+Contour_crafting - Score: 0.49233827

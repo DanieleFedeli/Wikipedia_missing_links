@@ -1,0 +1,4 @@
+Pumapunku - Score: 1.0
+Architecture_of_Bolivia - Score: 0.6162655
+Pukara - Score: 0.49324164
+Architecture_of_Peru - Score: 0.38401732

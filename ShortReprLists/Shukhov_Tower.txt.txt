@@ -1,0 +1,7 @@
+Shukhov_Tower - Score: 1.0
+Vladimir_Shukhov - Score: 0.76345706
+Gridshell - Score: 0.7434027
+Thin-shell_structure - Score: 0.7030289
+Tensile_structure - Score: 0.6337061
+Eduardo_Torroja - Score: 0.35717297
+Air-supported_structure - Score: 0.33615908

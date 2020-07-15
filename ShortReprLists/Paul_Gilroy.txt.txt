@@ -1,0 +1,4 @@
+Paul_Gilroy - Score: 1.0
+Post-postmodernism - Score: 0.31832126
+Social_stratification - Score: 0.31138396
+Urban_culture - Score: 0.30149817

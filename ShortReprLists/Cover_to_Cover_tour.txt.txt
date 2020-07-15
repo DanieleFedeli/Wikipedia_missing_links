@@ -1,0 +1,4 @@
+Cover_to_Cover_tour - Score: 1.0
+List_of_George_Michael_live_performances - Score: 0.9204588
+Symphonica_Tour - Score: 0.88836926
+Anton_Corbijn - Score: 0.30267125

@@ -1,0 +1,4 @@
+Las_Hilanderas_(Velázquez) - Score: 1.0
+The_Three_Musicians_(painting) - Score: 0.92950624
+Boys_playing_soldiers - Score: 0.4085325
+Ycuá_Bolaños_supermarket_fire - Score: 0.3379268

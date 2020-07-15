@@ -1,0 +1,4 @@
+List_of_Indian_state_songs - Score: 1.0
+Emblem_of_Tamil_Nadu - Score: 0.43240675
+Architecture_of_India - Score: 0.33808565
+Emblem_of_Telangana - Score: 0.31401497

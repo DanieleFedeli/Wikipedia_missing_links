@@ -1,0 +1,6 @@
+Concrete_mixer - Score: 1.0
+Ready-mix_concrete - Score: 0.4337822
+Roller-compacted_concrete - Score: 0.42251897
+Concrete_pump - Score: 0.35762948
+Alkali–silica_reaction - Score: 0.3452113
+Construction_aggregate - Score: 0.3363241

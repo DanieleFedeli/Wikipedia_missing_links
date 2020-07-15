@@ -1,0 +1,6 @@
+Low-rise_building - Score: 1.0
+Foundry_Wood - Score: 0.41674903
+Royal_Pump_Room_Gardens - Score: 0.41674903
+Brisbane_Quarter - Score: 0.40633452
+Ronan_Point - Score: 0.3667379
+High-rise_building - Score: 0.3435735

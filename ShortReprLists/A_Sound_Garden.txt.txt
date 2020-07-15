@@ -1,0 +1,5 @@
+A_Sound_Garden - Score: 1.0
+Seattle_Cloud_Cover - Score: 0.42535502
+The_Electric_Lady_Studio_Guitar - Score: 0.4110256
+Temple_of_the_Dog - Score: 0.36367017
+Mercury_fountain - Score: 0.3451105

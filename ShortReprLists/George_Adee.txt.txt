@@ -1,0 +1,5 @@
+George_Adee - Score: 1.0
+Frank_Faulkinberry - Score: 0.3297599
+Mahaney_Diamond - Score: 0.31170878
+Charles_Phelps_Taft - Score: 0.30660972
+Conrad_L._Wirth - Score: 0.30660972

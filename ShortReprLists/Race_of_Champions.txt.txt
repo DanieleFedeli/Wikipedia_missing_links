@@ -1,0 +1,6 @@
+Race_of_Champions - Score: 1.0
+2004_Race_of_Champions - Score: 0.4826325
+Autosport_Awards - Score: 0.40389028
+Fédération_Internationale_de_l'Automobile - Score: 0.39194962
+Autocross - Score: 0.3843119
+Auto_racing - Score: 0.30868798

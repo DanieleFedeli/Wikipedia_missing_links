@@ -1,0 +1,6 @@
+Mahindra_e2o - Score: 1.0
+Mahindra_Bolero - Score: 0.885944
+Mahindra_Scorpio - Score: 0.885944
+Mahindra_Thar - Score: 0.885944
+Mahindra_XUV500 - Score: 0.885944
+SsangYong_Rexton - Score: 0.70376587

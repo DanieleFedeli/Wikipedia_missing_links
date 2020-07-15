@@ -1,0 +1,3 @@
+Foundry_Wood - Score: 1.0
+Royal_Pump_Room_Gardens - Score: 1.0
+Low-rise_building - Score: 0.35154375

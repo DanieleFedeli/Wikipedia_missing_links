@@ -1,0 +1,4 @@
+Odometer_fraud - Score: 1.0
+Miracle_cars_scam - Score: 0.49021512
+Public_auto_insurance - Score: 0.3317756
+Vehicle_insurance - Score: 0.32059866

@@ -1,0 +1,7 @@
+NASCAR_Trackside - Score: 1.0
+WindTunnel_with_Dave_Despain - Score: 1.0
+NASCAR_Angels - Score: 0.90102756
+NASCAR_Live! - Score: 0.90102756
+NASCAR_RaceDay - Score: 0.6774844
+NASCAR_Victory_Lane - Score: 0.6774844
+Ken_Squier - Score: 0.4734954

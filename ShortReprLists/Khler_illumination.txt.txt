@@ -1,0 +1,5 @@
+Köhler_illumination - Score: 1.0
+Evanescent_field - Score: 0.43441308
+Hyperspectral_imaging - Score: 0.39445198
+Low-energy_electron_diffraction - Score: 0.37188295
+X-ray_microtomography - Score: 0.31339303

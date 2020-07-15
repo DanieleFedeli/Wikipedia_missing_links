@@ -1,0 +1,6 @@
+Local_nature_reserve - Score: 1.0
+Village_green - Score: 0.413805
+Clay_pit - Score: 0.36140835
+Coat_of_arms_of_the_London_Borough_of_Barking_and_Dagenham - Score: 0.340963
+Wimbledon_Lawn_Tennis_Museum - Score: 0.33187455
+Elsenham - Score: 0.30894092

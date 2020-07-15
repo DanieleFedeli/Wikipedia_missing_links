@@ -1,0 +1,4 @@
+Little_Chute_Windmill - Score: 1.0
+Volendam_Windmill - Score: 1.0
+De_Immigrant - Score: 0.86868906
+List_of_windmills_in_the_United_States - Score: 0.8215639

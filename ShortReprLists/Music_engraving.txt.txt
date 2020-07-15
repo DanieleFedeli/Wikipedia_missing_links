@@ -1,0 +1,7 @@
+Music_engraving - Score: 1.0
+Cantata_700 - Score: 0.4847149
+History_of_multitrack_recording - Score: 0.4847149
+Music_box - Score: 0.4847149
+Music_roll - Score: 0.4847149
+Sound_chip - Score: 0.4847149
+Vinyl_emulation_software - Score: 0.4847149

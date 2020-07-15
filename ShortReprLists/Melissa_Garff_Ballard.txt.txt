@@ -1,0 +1,4 @@
+Melissa_Garff_Ballard - Score: 1.0
+Charles_Phelps_Taft - Score: 0.32365274
+Charles_Stewart_Mott - Score: 0.31375033
+Roy_D._Chapin - Score: 0.31375033

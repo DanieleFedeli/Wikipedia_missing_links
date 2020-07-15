@@ -1,0 +1,6 @@
+Kyiv_National_University_of_Technologies_and_Design - Score: 1.0
+Kyiv_National_University_of_Construction_and_Architecture - Score: 0.82888335
+Vilnius_Gediminas_Technical_University - Score: 0.3491244
+Shevchenko_National_Prize - Score: 0.3181682
+Ukrainian_architecture - Score: 0.3181682
+Aznavour_Center - Score: 0.3000233

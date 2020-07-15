@@ -1,0 +1,6 @@
+Dancin'_Homer - Score: 1.0
+Hungry,_Hungry_Homer - Score: 0.91370654
+Tennis_the_Menace - Score: 0.9119764
+Matt_Groening - Score: 0.82568294
+Homer_at_the_Bat - Score: 0.7987738
+Marge_and_Homer_Turn_a_Couple_Play - Score: 0.77356327

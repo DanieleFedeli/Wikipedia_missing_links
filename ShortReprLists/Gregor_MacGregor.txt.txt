@@ -1,0 +1,3 @@
+Gregor_MacGregor - Score: 1.0
+Charles,_Prince_of_Wales - Score: 0.30880955
+Seat - Score: 0.30880955

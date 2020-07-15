@@ -1,0 +1,7 @@
+Heritage_New_Zealand - Score: 1.0
+Oamaru_stone - Score: 0.5483366
+Beehive_(New_Zealand) - Score: 0.4881235
+Forsyth_Barr_Building - Score: 0.40672866
+First_Four_Ships - Score: 0.39302674
+Hagley_Park,_Christchurch - Score: 0.3802179
+Bluestone - Score: 0.35317633

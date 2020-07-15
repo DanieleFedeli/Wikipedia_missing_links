@@ -1,0 +1,5 @@
+Hopman_Cup - Score: 1.0
+2018_Hopman_Cup - Score: 0.49512553
+2019_Hopman_Cup - Score: 0.40176272
+World_Team_Cup - Score: 0.3865667
+Davis_Cup - Score: 0.38590083

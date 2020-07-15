@@ -1,0 +1,7 @@
+Asphalt_concrete - Score: 1.0
+Road_surface - Score: 0.49780172
+Parkway - Score: 0.49114913
+Jersey_barrier - Score: 0.3990446
+Macadam - Score: 0.3990446
+Texas_Department_of_Transportation - Score: 0.3808296
+Sidewalk - Score: 0.30093044

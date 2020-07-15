@@ -1,0 +1,6 @@
+Pullen_Park - Score: 1.0
+The_Village_Subway - Score: 0.91099346
+Burlington_Athletic_Stadium - Score: 0.3033567
+Five_County_Stadium - Score: 0.3033567
+Wake_County_Speedway - Score: 0.3033567
+Finch_Field - Score: 0.30202818

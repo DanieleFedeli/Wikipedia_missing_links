@@ -1,0 +1,7 @@
+Havana_Plan_Piloto - Score: 1.0
+Palacio_de_Aldama - Score: 1.0
+Radiocentro_CMQ_Building - Score: 1.0
+Rosita_De_Hornedo - Score: 1.0
+Colegio_Nacional_de_Arquitectos_de_Cuba - Score: 0.9169055
+Gran_Teatro_de_La_Habana - Score: 0.82014513
+Embassy_of_Russia_in_Havana - Score: 0.7915528

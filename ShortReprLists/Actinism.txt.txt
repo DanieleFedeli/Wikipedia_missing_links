@@ -1,0 +1,4 @@
+Actinism - Score: 1.0
+House_dust_mite - Score: 0.565868
+Legionnaires'_disease - Score: 0.47651345
+Vocal_cords - Score: 0.36461565

@@ -1,0 +1,6 @@
+Espalier - Score: 1.0
+Tree_shaping - Score: 0.50568044
+Greenhouse - Score: 0.46608293
+Orchard - Score: 0.46608293
+Plant_nursery - Score: 0.36387956
+Pleaching - Score: 0.31633213

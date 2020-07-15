@@ -1,0 +1,6 @@
+Slazenger - Score: 1.0
+Racket_(sports_equipment) - Score: 0.5182227
+Strings_(tennis) - Score: 0.5182227
+Tennis_ball - Score: 0.5027862
+Hawk-Eye - Score: 0.50028
+Racing_helmet - Score: 0.3398951

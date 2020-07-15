@@ -1,0 +1,7 @@
+Canal_Park_(Akron,_Ohio) - Score: 1.0
+FirstEnergy_Stadium_(Reading,_Pennsylvania) - Score: 1.0
+Hadlock_Field - Score: 1.0
+Northeast_Delta_Dental_Stadium - Score: 1.0
+NYSEG_Stadium - Score: 1.0
+Peoples_Natural_Gas_Field - Score: 1.0
+UPMC_Park - Score: 0.58137745

@@ -1,0 +1,3 @@
+Mulch - Score: 1.0
+Reclaimed_lumber - Score: 0.39039576
+Pine_tar - Score: 0.3668221

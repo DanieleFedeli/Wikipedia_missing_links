@@ -1,0 +1,5 @@
+The_Twentieth_Century_Society - Score: 1.0
+AIA_Gold_Medal - Score: 0.39446664
+Royal_Institute_of_British_Architects - Score: 0.3832807
+Royal_Gold_Medal - Score: 0.38006085
+Alison_and_Peter_Smithson - Score: 0.37362942

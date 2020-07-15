@@ -1,0 +1,5 @@
+Phil_Marchildon - Score: 1.0
+Philadelphia_Baseball_Wall_of_Fame - Score: 0.3780604
+Cy_Morgan - Score: 0.3491221
+Moneyball_(film) - Score: 0.32687125
+Scottsdale_Stadium - Score: 0.32687125

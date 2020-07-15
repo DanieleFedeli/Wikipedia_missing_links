@@ -1,0 +1,6 @@
+Electronic_toll_collection - Score: 1.0
+Texas_Department_of_Transportation - Score: 0.6970769
+Pennsylvania_Department_of_Transportation - Score: 0.6914094
+Vignette_(road_tax) - Score: 0.47018027
+Annual_average_daily_traffic - Score: 0.38901135
+I_Love_New_York - Score: 0.3777739

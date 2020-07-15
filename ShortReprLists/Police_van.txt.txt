@@ -1,0 +1,3 @@
+Police_van - Score: 1.0
+Fast_Response_Car - Score: 0.4241509
+Police_car - Score: 0.36298078

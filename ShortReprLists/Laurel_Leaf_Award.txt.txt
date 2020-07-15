@@ -1,0 +1,7 @@
+Laurel_Leaf_Award - Score: 1.0
+American_Composers_Alliance - Score: 0.4776347
+Canadian_Music_Centre - Score: 0.45628044
+IMG_Artists - Score: 0.37424448
+Pierre_Alexandre_Tremblay - Score: 0.3696428
+Bruce_Adolphe - Score: 0.3440019
+Thomas_Adès - Score: 0.33996272

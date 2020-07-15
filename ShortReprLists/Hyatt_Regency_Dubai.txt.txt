@@ -1,0 +1,7 @@
+Al_Bastakiya - Score: 1.0
+Hyatt_Regency_Dubai - Score: 1.0
+The_Dubai_Fountain - Score: 1.0
+Zabeel_Park - Score: 1.0
+Jumeirah_Beach_Hotel - Score: 0.89287776
+Dubai_Creek_Tower - Score: 0.7950517
+The_Sustainable_City - Score: 0.78996634

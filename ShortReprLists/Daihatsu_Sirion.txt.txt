@@ -1,0 +1,7 @@
+Daihatsu_Sirion - Score: 1.0
+Daihatsu_Mira_e_S - Score: 0.504599
+Daihatsu_Tanto - Score: 0.504599
+Daihatsu_Tanto_Exe - Score: 0.504599
+Daihatsu_Ayla - Score: 0.49760056
+Daihatsu_Charade - Score: 0.40767324
+Daihatsu_Midget - Score: 0.38632017

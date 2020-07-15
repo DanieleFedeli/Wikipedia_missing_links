@@ -1,0 +1,4 @@
+Glossary_of_architecture - Score: 1.0
+Ceramic_engineering - Score: 0.46497858
+Construction_engineering - Score: 0.37890896
+Structural_mechanics - Score: 0.3133779

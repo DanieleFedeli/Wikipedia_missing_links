@@ -1,0 +1,4 @@
+Eco_Park,_Patna - Score: 1.0
+Buddha_Smriti_Park - Score: 0.8854426
+Hardinge_Park - Score: 0.83059114
+Tamasha - Score: 0.33562264

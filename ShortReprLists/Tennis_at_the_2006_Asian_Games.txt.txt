@@ -1,0 +1,6 @@
+Tennis_at_the_2006_Asian_Games - Score: 1.0
+Tennis_at_the_1998_Asian_Games - Score: 0.70470154
+Tennis_at_the_2002_Asian_Games - Score: 0.6801339
+Tennis_at_the_Asian_Games - Score: 0.5084749
+Tennis_at_the_2018_Asian_Games - Score: 0.40042
+Tennis_at_the_2002_Central_American_and_Caribbean_Games - Score: 0.3083656

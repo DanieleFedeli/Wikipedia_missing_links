@@ -1,0 +1,6 @@
+1969_Monte_Carlo_Open - Score: 1.0
+1970_Monte_Carlo_Open - Score: 1.0
+1974_Monte_Carlo_WCT - Score: 0.8955178
+1976_Monte_Carlo_Open - Score: 0.8955178
+1973_Monte_Carlo_Open - Score: 0.71335
+1971_Monte_Carlo_Open - Score: 0.7063515

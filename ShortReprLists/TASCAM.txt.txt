@@ -1,0 +1,7 @@
+TASCAM - Score: 1.0
+Chiptune - Score: 0.4388588
+Dubbing_(music) - Score: 0.36260965
+Music_software - Score: 0.36150238
+Music_sequencer - Score: 0.3303548
+Revox - Score: 0.30381796
+Public_address_system - Score: 0.30111298

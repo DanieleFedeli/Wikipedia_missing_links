@@ -1,0 +1,3 @@
+John_Holland_(baseball_executive) - Score: 1.0
+Jim_Fanning - Score: 0.34443963
+Claude_Raymond_(baseball) - Score: 0.3410242

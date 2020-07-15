@@ -1,0 +1,4 @@
+Best_Female_Tennis_Player_ESPY_Award - Score: 1.0
+Best_Driver_ESPY_Award - Score: 0.70670986
+Best_Major_League_Baseball_Player_ESPY_Award - Score: 0.70670986
+Best_Male_Tennis_Player_ESPY_Award - Score: 0.70670986

@@ -1,0 +1,7 @@
+Late_model - Score: 1.0
+Legends_car_racing - Score: 0.80435735
+Modified_stock_car_racing - Score: 0.48510972
+Quarter_Midget_racing - Score: 0.38012305
+KF2 - Score: 0.36998484
+Formula_Continental - Score: 0.35534644
+Next_Generation_Touring_Car - Score: 0.35534644

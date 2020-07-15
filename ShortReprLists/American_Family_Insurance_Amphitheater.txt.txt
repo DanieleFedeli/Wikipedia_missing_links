@@ -1,0 +1,5 @@
+American_Family_Insurance_Amphitheater - Score: 1.0
+Xfinity_Theatre - Score: 0.5060355
+Isleta_Amphitheater - Score: 0.4439136
+USANA_Amphitheatre - Score: 0.4439136
+Toyota_Amphitheatre - Score: 0.3321608

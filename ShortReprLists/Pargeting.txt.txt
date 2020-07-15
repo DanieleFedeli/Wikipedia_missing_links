@@ -1,0 +1,6 @@
+Pargeting - Score: 1.0
+Jettying - Score: 0.6928108
+The_Victorian_Society - Score: 0.52900743
+Ruabon_brick - Score: 0.42302358
+Pantile - Score: 0.33565247
+English_country_house - Score: 0.33491018

@@ -1,0 +1,4 @@
+Klopotec - Score: 1.0
+Trellis_(architecture) - Score: 0.5828448
+Growing_season - Score: 0.4535292
+Rootstock - Score: 0.3889774

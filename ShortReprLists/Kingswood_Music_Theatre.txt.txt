@@ -1,0 +1,4 @@
+Kingswood_Music_Theatre - Score: 1.0
+Kryal_Castle - Score: 0.36732867
+List_of_roller_coaster_rankings - Score: 0.33047906
+Stadium_seating - Score: 0.3061196

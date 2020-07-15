@@ -1,0 +1,5 @@
+Wiener_Werkstätte - Score: 1.0
+Deutscher_Werkbund - Score: 0.36325622
+Generation_of_'27 - Score: 0.33187002
+Avant-garde - Score: 0.3083802
+Modernism - Score: 0.3083802

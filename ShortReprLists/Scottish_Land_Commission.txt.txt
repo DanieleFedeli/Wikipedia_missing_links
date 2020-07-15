@@ -1,0 +1,6 @@
+Scottish_Land_Commission - Score: 1.0
+Land_Reform_(Scotland)_Act_2016 - Score: 0.7275662
+Saltire_Prize - Score: 0.7275662
+Sustainable_development_in_Scotland - Score: 0.7275662
+Architecture_and_Design_Scotland - Score: 0.4661347
+Registers_of_Scotland - Score: 0.33888793

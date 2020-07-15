@@ -1,0 +1,5 @@
+Cynicism_(contemporary) - Score: 1.0
+Ecstasy_(emotion) - Score: 0.9375827
+Music_and_emotion - Score: 0.5707727
+Vocal_learning - Score: 0.46678835
+Generative_grammar - Score: 0.32180235

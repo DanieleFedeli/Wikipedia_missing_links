@@ -1,0 +1,6 @@
+Museum_of_Archaeology_and_Anthropology,_University_of_Cambridge - Score: 1.0
+Ethnochoreology - Score: 0.49478272
+Cantometrics - Score: 0.4781144
+Performance_studies - Score: 0.37134227
+Civic_Trust_Awards - Score: 0.3236386
+Royal_Conservatoire_of_Scotland - Score: 0.30252826

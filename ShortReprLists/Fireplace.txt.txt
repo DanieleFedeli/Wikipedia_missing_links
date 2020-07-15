@@ -1,0 +1,3 @@
+Fireplace - Score: 1.0
+Furnace_room - Score: 0.30621162
+Plumbing - Score: 0.30298302

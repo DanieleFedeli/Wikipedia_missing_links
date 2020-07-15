@@ -1,0 +1,7 @@
+West_Coast_Stock_Car_Hall_of_Fame - Score: 1.0
+Motorsports_Hall_of_Fame_of_America - Score: 0.65641224
+National_Midget_Auto_Racing_Hall_of_Fame - Score: 0.6034217
+Jack_Zink - Score: 0.5750584
+Louis_Chevrolet - Score: 0.4560208
+International_Motorsports_Hall_of_Fame - Score: 0.3808646
+Gaston_Chevrolet - Score: 0.37466696

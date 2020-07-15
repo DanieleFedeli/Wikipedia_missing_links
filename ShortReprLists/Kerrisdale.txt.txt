@@ -1,0 +1,5 @@
+Kerrisdale - Score: 1.0
+Hastings–Sunrise - Score: 0.8578973
+Dunbar–Southlands - Score: 0.801191
+Vancouverism - Score: 0.7170772
+BowMac_sign - Score: 0.51952285

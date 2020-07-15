@@ -1,0 +1,6 @@
+Morgan_Aero_8 - Score: 1.0
+Morgan_+4 - Score: 0.4770994
+Morgan_3-Wheeler - Score: 0.46155062
+Morgan_Plus_8 - Score: 0.38872
+Marcos_Engineering - Score: 0.33529788
+Ascari_KZ1 - Score: 0.33174682

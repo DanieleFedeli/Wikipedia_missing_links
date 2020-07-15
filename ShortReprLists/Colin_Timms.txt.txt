@@ -1,0 +1,5 @@
+Colin_Timms - Score: 1.0
+Derek_Allen_Prize - Score: 0.913025
+Association_of_Talent_Agents - Score: 0.36233798
+Rome_Prize - Score: 0.35202596
+Megan_Wraight - Score: 0.33373326

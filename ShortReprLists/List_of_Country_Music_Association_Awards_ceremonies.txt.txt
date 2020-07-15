@@ -1,0 +1,6 @@
+List_of_Country_Music_Association_Awards_ceremonies - Score: 1.0
+Country_Music_Association - Score: 0.40701222
+Nashville_Songwriters_Association_International - Score: 0.37555876
+Where_Were_You_(When_the_World_Stopped_Turning) - Score: 0.33572003
+Academy_of_Country_Music - Score: 0.31737986
+Nashville_Songwriters_Hall_of_Fame - Score: 0.3082096

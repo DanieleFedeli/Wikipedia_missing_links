@@ -1,0 +1,6 @@
+Melody_type - Score: 1.0
+Melodic_motion - Score: 0.8430845
+Modal_frame - Score: 0.67359996
+Level_(music) - Score: 0.66760546
+Echos - Score: 0.54087245
+Steps_and_skips - Score: 0.3244543

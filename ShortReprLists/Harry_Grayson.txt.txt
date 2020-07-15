@@ -1,0 +1,7 @@
+Harry_Grayson - Score: 1.0
+Carl_Sitton - Score: 0.5673883
+National_College_Baseball_Hall_of_Fame - Score: 0.45921624
+American_Baseball_Coaches_Association - Score: 0.38842255
+Infielder - Score: 0.38549933
+Utility_player - Score: 0.38549933
+Baseball_America_College_Coach_of_the_Year - Score: 0.36085477

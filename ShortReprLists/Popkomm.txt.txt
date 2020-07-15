@@ -1,0 +1,6 @@
+Popkomm - Score: 1.0
+Disco_Mix_Club - Score: 0.36603686
+Electronic_music - Score: 0.36603686
+Paul's_Boutique - Score: 0.3291803
+Karaoke - Score: 0.31642365
+Disc_jockey - Score: 0.3132232

@@ -1,0 +1,4 @@
+Hilton_Village - Score: 1.0
+Mount_Trashmore_Park - Score: 0.4306837
+Historic_house_museum - Score: 0.34089646
+Colonial_architecture - Score: 0.3314335

@@ -1,0 +1,7 @@
+Interior_design - Score: 1.0
+Furniture - Score: 0.5754317
+Urban_design - Score: 0.4944744
+Technical_drawing - Score: 0.40260705
+Christopher_Alexander - Score: 0.39656347
+Design - Score: 0.3839325
+Architectural_design_competition - Score: 0.34928137

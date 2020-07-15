@@ -1,0 +1,6 @@
+Jones_and_Laughlin_Steel_Company - Score: 1.0
+Cambria_Iron_Company - Score: 0.48848808
+PONY_Baseball_and_Softball - Score: 0.4353037
+Lackawanna_Steel_Company - Score: 0.42758185
+North_Park_(Pittsburgh) - Score: 0.38613775
+American_Bridge_Company - Score: 0.3703734

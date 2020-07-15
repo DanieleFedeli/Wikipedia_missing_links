@@ -1,0 +1,6 @@
+Sparkassen_Cup_(tennis) - Score: 1.0
+Nichirei_International_Championships - Score: 0.6075368
+Ameritech_Cup - Score: 0.531229
+Advanta_Championships_of_Philadelphia - Score: 0.51333284
+Virginia_Slims_of_Houston - Score: 0.4283722
+Gaz_de_France_Stars - Score: 0.3364805

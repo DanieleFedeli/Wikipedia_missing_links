@@ -1,0 +1,7 @@
+List_of_BTCC_champions - Score: 1.0
+1975_British_Saloon_Car_Championship - Score: 0.9180977
+Merkur_XR4Ti - Score: 0.32690004
+1985_Australian_GT_Championship - Score: 0.31491292
+Honda_Civic_(first_generation) - Score: 0.30956155
+1978_Australian_Rally_Championship - Score: 0.30118993
+1979_Australian_Rally_Championship - Score: 0.30118993

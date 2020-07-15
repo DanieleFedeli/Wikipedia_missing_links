@@ -1,0 +1,4 @@
+Hummer_H2 - Score: 1.0
+Hummer_H1 - Score: 0.61364084
+GMC_Sierra - Score: 0.46382332
+GMC_Canyon - Score: 0.38712278

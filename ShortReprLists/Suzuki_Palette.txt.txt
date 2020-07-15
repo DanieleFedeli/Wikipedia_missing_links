@@ -1,0 +1,5 @@
+Suzuki_Palette - Score: 1.0
+Suzuki_Hustler - Score: 0.6934736
+Suzuki_Spacia - Score: 0.6934736
+Autozam_AZ-1 - Score: 0.6708732
+Suzuki_Wagon_R - Score: 0.57665765

@@ -1,0 +1,7 @@
+Swimming_machine - Score: 1.0
+Coolflo - Score: 0.58247197
+Racing_helmet - Score: 0.42941839
+Baseball_uniform - Score: 0.3459861
+Shin_guard - Score: 0.3459861
+Racket_(sports_equipment) - Score: 0.30168423
+Strings_(tennis) - Score: 0.30168423

@@ -1,0 +1,6 @@
+Piping_and_instrumentation_diagram - Score: 1.0
+Process_flow_diagram - Score: 0.7264856
+Relief_valve - Score: 0.45961636
+Joule–Thomson_effect - Score: 0.41117117
+Pipe_(fluid_conveyance) - Score: 0.3184042
+Fluid_dynamics - Score: 0.31474584

@@ -1,0 +1,4 @@
+Power_trio - Score: 1.0
+Drum_solo - Score: 0.7916474
+Sextet - Score: 0.4717366
+One-man_band - Score: 0.45636263

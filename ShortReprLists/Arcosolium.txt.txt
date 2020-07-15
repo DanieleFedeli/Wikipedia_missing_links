@@ -1,0 +1,6 @@
+Arcosolium - Score: 1.0
+Hermitage_(religious_retreat) - Score: 0.44169575
+Cloister - Score: 0.44136292
+Monastery - Score: 0.43636942
+Refectory - Score: 0.3640761
+Loculus_(architecture) - Score: 0.3320923

@@ -1,0 +1,7 @@
+1946_Baseball_Hall_of_Fame_balloting - Score: 1.0
+2006_Baseball_Hall_of_Fame_balloting - Score: 0.5266852
+2014_Baseball_Hall_of_Fame_balloting - Score: 0.4460366
+Baseball_Writers'_Association_of_America - Score: 0.3606666
+2008_Baseball_Hall_of_Fame_balloting - Score: 0.3502047
+Veterans_Committee - Score: 0.3485164
+Buck_O'Neil_Lifetime_Achievement_Award - Score: 0.326517

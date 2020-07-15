@@ -1,0 +1,6 @@
+Project_(album) - Score: 1.0
+Tilt_(Greg_Howe_and_Richie_Kotzen_album) - Score: 1.0
+The_Winery_Dogs - Score: 0.77552724
+Flying_Colors_(band) - Score: 0.40739143
+Truth_in_Shredding - Score: 0.3407215
+The_Sea_Within - Score: 0.338081

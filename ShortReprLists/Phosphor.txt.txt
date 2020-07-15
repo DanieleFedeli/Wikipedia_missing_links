@@ -1,0 +1,5 @@
+Phosphor - Score: 1.0
+Electroluminescent_display - Score: 0.59498745
+Light_tube - Score: 0.40190262
+Photometry_(optics) - Score: 0.37561545
+Electron_mobility - Score: 0.36315846

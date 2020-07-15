@@ -1,0 +1,7 @@
+Kora_(instrument) - Score: 1.0
+Talking_drum - Score: 0.48587617
+Dunun - Score: 0.46950793
+Junjung - Score: 0.39298797
+Charango - Score: 0.37793723
+Griot - Score: 0.3649942
+Music_of_Mali - Score: 0.3649942

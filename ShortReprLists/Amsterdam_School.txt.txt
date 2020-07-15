@@ -1,0 +1,7 @@
+Amsterdam_School - Score: 1.0
+Brick_Expressionism - Score: 0.42536804
+Functionalism_(architecture) - Score: 0.38503513
+Le_Corbusier - Score: 0.35098866
+Docomomo_International - Score: 0.31911746
+Scandinavian_design - Score: 0.31557024
+Form_follows_function - Score: 0.3103829

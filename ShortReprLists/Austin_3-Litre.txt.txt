@@ -1,0 +1,7 @@
+Austin_3-Litre - Score: 1.0
+Morris_Nomad - Score: 0.6498548
+Austin_Kimberley - Score: 0.6345047
+Triumph_TR250 - Score: 0.56206757
+Daimler_Majestic_Major - Score: 0.43924472
+Daimler_DR450 - Score: 0.35902408
+Rover_P5 - Score: 0.34769824

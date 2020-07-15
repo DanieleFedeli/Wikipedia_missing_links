@@ -1,0 +1,7 @@
+Building_information_modeling - Score: 1.0
+BSRIA - Score: 0.6545033
+Ventilation_(architecture) - Score: 0.50968724
+Building_services_engineering - Score: 0.46627477
+Building_envelope - Score: 0.4548989
+Mechanical,_electrical,_and_plumbing - Score: 0.3174029
+Building_automation - Score: 0.30899954

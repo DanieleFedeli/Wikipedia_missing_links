@@ -1,0 +1,6 @@
+Cetra_Records - Score: 1.0
+La_Bohème_(1965_film) - Score: 0.6531465
+La_Bohème_(2008_film) - Score: 0.6004472
+Turandot_at_the_Forbidden_City - Score: 0.5771639
+Madame_Butterfly_(1954_film) - Score: 0.3279697
+Verismo - Score: 0.3207525

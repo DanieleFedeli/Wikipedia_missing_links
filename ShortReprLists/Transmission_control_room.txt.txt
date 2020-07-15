@@ -1,0 +1,4 @@
+Transmission_control_room - Score: 1.0
+Central_apparatus_room - Score: 0.902944
+Network_operations_center - Score: 0.687303
+Changing_room - Score: 0.58719325

@@ -1,0 +1,5 @@
+Baojun_E200 - Score: 1.0
+Baojun_360 - Score: 0.90222764
+Baojun_RC-6 - Score: 0.90222764
+Baojun_730 - Score: 0.81905663
+Baojun_630 - Score: 0.6381133

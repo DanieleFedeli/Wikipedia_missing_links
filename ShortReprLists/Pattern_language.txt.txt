@@ -1,0 +1,5 @@
+Pattern_language - Score: 1.0
+Christopher_Alexander - Score: 0.7885776
+A_Pattern_Language - Score: 0.59587747
+Urban_design - Score: 0.5711103
+Landscape_architecture - Score: 0.359688

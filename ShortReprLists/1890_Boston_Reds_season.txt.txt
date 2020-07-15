@@ -1,0 +1,5 @@
+1890_Boston_Reds_season - Score: 1.0
+1890_Philadelphia_Athletics_(PL)_season - Score: 1.0
+Olympic_Park_(Buffalo) - Score: 0.857166
+1891_Boston_Reds_season - Score: 0.5460178
+1890_Cleveland_Spiders_season - Score: 0.5345009

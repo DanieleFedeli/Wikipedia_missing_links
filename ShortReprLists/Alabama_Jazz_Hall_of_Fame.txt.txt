@@ -1,0 +1,5 @@
+Alabama_Jazz_Hall_of_Fame - Score: 1.0
+Alabama_Music_Hall_of_Fame - Score: 0.5510849
+International_Motorsports_Hall_of_Fame - Score: 0.5029351
+Regions_Field - Score: 0.5029351
+Ray_Reach - Score: 0.44506827

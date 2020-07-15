@@ -1,0 +1,7 @@
+Plant_litter - Score: 1.0
+Cline_(biology) - Score: 0.44185466
+Anthropogenic_biome - Score: 0.4281177
+Bird_vocalization - Score: 0.36147848
+Holdridge_life_zones - Score: 0.35273784
+Soil_fertility - Score: 0.35270855
+Propagule - Score: 0.3468581

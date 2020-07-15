@@ -1,0 +1,5 @@
+Palm_Springs_Stadium - Score: 1.0
+Dominican_Summer_League_White_Sox - Score: 0.45435774
+Curse_of_the_Black_Sox - Score: 0.3665754
+Nancy_Faust - Score: 0.3665754
+Turn_Back_the_Clock_(baseball) - Score: 0.3665754

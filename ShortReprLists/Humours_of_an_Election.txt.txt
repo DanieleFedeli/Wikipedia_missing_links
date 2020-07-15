@@ -1,0 +1,6 @@
+Humours_of_an_Election - Score: 1.0
+The_March_of_the_Guards_to_Finchley - Score: 0.82196856
+Captain_Lord_George_Graham_in_his_Cabin - Score: 0.79768765
+The_Enraged_Musician - Score: 0.79768765
+Scene_from_Shakespeare's_The_Tempest - Score: 0.40576544
+A_Dance_to_the_Music_of_Time_(painting) - Score: 0.32494298

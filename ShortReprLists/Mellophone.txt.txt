@@ -1,0 +1,7 @@
+Mellophone - Score: 1.0
+Sousaphone - Score: 0.7544531
+Janzi_(musical_instrument) - Score: 0.44800505
+Drum_major_(marching_band) - Score: 0.37694138
+Majorette_(dancer) - Score: 0.3585648
+Contrabass_bugle - Score: 0.34221053
+Color_guard_(flag_spinning) - Score: 0.30032378

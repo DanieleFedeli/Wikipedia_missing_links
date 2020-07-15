@@ -1,0 +1,6 @@
+Music_industry - Score: 1.0
+Talent_manager - Score: 0.6106366
+List_of_best-selling_music_artists - Score: 0.5605987
+List_of_popular_music_genres - Score: 0.4163437
+Music_recording_certification - Score: 0.32428876
+List_of_best-selling_singles - Score: 0.32299525

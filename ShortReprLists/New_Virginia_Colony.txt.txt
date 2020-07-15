@@ -1,0 +1,7 @@
+New_Virginia_Colony - Score: 1.0
+African-American_musical_theater - Score: 0.6017152
+Black_conductors - Score: 0.6017152
+Baseball_color_line - Score: 0.5064442
+Slave_Songs_of_the_United_States - Score: 0.44611806
+Redlining - Score: 0.42807344
+Ghetto - Score: 0.34482384

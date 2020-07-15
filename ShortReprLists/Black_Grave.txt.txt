@@ -1,0 +1,3 @@
+Black_Grave - Score: 1.0
+Ukrainian_architecture - Score: 0.48091033
+Russian_architecture - Score: 0.3621795

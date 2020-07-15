@@ -1,0 +1,7 @@
+North_South_University - Score: 1.0
+Primeasia_University - Score: 0.9008654
+Stamford_University_Bangladesh - Score: 0.9008654
+Jatiya_Sangsad_Bhaban - Score: 0.45037884
+Hussaini_Dalan - Score: 0.3758441
+Oriental_magpie-robin - Score: 0.3750852
+Bashundhara_City - Score: 0.36359528

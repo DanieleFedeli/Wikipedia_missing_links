@@ -1,0 +1,6 @@
+Molding_sand - Score: 1.0
+Tube_bending - Score: 0.6804682
+Anvil - Score: 0.58230716
+Patina - Score: 0.4818523
+Bellows - Score: 0.35648257
+Non-ferrous_metal - Score: 0.35408872

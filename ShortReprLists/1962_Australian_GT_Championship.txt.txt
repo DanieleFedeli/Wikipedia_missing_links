@@ -1,0 +1,7 @@
+1962_Australian_GT_Championship - Score: 1.0
+1985_Australian_GT_Championship - Score: 0.63814056
+Porsche_GT3_Cup_Challenge_Australia - Score: 0.47257957
+Lamborghini - Score: 0.3312818
+Enduro_Cup - Score: 0.327244
+Production_car_racing - Score: 0.327244
+BMW_M3 - Score: 0.31943682

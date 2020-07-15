@@ -1,0 +1,3 @@
+Round_barn - Score: 1.0
+List_of_octagon_houses - Score: 0.38315952
+Corn_crib - Score: 0.30087504

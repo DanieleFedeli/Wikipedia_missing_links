@@ -1,0 +1,6 @@
+1995_in_tennis - Score: 1.0
+1995_French_Open - Score: 0.5646727
+1995_Warsaw_Cup_by_Heros - Score: 0.49632162
+1995_Australian_Open - Score: 0.4790186
+1995_WTA_Tour - Score: 0.40117997
+1995_Wimbledon_Championships - Score: 0.38719383

@@ -1,0 +1,6 @@
+Native_American_mascot_controversy - Score: 1.0
+NCAA_Native_American_mascot_decision - Score: 0.6035535
+Settler_colonialism - Score: 0.49682558
+Sports_teams_named_Redskins - Score: 0.49218032
+Tsilhqot'in_Nation_v_British_Columbia - Score: 0.47950494
+Dawes_Act - Score: 0.4664094

@@ -1,0 +1,5 @@
+Koenigsegg_CCX - Score: 1.0
+Koenigsegg_Agera - Score: 0.9106044
+Koenigsegg - Score: 0.40816984
+McLaren_F1 - Score: 0.38374692
+Pagani_Huayra - Score: 0.36742392

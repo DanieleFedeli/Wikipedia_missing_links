@@ -1,0 +1,7 @@
+Metal_foam - Score: 1.0
+Multi-function_structure - Score: 0.6706377
+Nanotribology - Score: 0.58298373
+Sandwich_panel - Score: 0.45215297
+Composite_material - Score: 0.43141067
+Contour_crafting - Score: 0.3935675
+Polymer_science - Score: 0.34059042

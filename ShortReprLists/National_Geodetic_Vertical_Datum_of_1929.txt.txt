@@ -1,0 +1,5 @@
+National_Geodetic_Vertical_Datum_of_1929 - Score: 1.0
+Casper_Mountain - Score: 0.56108785
+North_American_Vertical_Datum_of_1988 - Score: 0.56108785
+Summit - Score: 0.45504844
+Beaver_Meadows_Visitor_Center - Score: 0.44407877

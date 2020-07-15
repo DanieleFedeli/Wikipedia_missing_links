@@ -1,0 +1,6 @@
+Royal_Albert_Memorial_Museum - Score: 1.0
+Plymouth_City_Museum_and_Art_Gallery - Score: 0.36795187
+Stevenstone - Score: 0.33009744
+Holburne_Museum - Score: 0.3196579
+Orleigh_Court - Score: 0.30894104
+Royal_Engineers_Museum - Score: 0.30235988

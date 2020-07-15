@@ -1,0 +1,4 @@
+Fight,_Raiders,_Fight - Score: 1.0
+Dan_Law_Field_at_Rip_Griffin_Park - Score: 0.6900996
+Chickasaw_Bricktown_Ballpark - Score: 0.32672656
+Crutcher_Scott_Field - Score: 0.309672

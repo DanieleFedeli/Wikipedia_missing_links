@@ -1,0 +1,7 @@
+Enfilade_(architecture) - Score: 1.0
+List_of_Baroque_residences - Score: 0.56240326
+Cour_d'honneur - Score: 0.5091522
+Overdoor - Score: 0.464342
+Corps_de_logis - Score: 0.41690916
+Throne_room - Score: 0.3429856
+Het_Loo_Palace - Score: 0.34115317

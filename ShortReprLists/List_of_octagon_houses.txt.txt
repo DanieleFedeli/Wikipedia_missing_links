@@ -1,0 +1,3 @@
+List_of_octagon_houses - Score: 1.0
+Octagon_house - Score: 0.40165678
+Round_barn - Score: 0.36713874

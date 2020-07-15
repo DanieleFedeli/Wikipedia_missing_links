@@ -1,0 +1,4 @@
+Ray_Chapman - Score: 1.0
+Cy_Slapnicka - Score: 0.73531634
+Cleveland_Indians_Hall_of_Fame - Score: 0.5569183
+Jeff_Heath - Score: 0.34309778

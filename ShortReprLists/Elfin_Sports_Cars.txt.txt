@@ -1,0 +1,4 @@
+Elfin_Sports_Cars - Score: 1.0
+Elfin_MR5 - Score: 0.5036821
+Alpha_Sports - Score: 0.40385765
+Graham_McRae - Score: 0.39615548

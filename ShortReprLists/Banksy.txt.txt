@@ -1,0 +1,5 @@
+Banksy - Score: 1.0
+Subway_Art - Score: 0.47208154
+Shepard_Fairey - Score: 0.41921875
+MoneyBart - Score: 0.39657536
+Grunge_speak - Score: 0.31482607

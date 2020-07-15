@@ -1,0 +1,7 @@
+Cob_(material) - Score: 1.0
+Rammed_earth - Score: 0.57955486
+Lime_(material) - Score: 0.3653562
+Lime_mortar - Score: 0.3653562
+Hydraulic_lime - Score: 0.30096427
+Lime_plaster - Score: 0.30096427
+Fire_brick - Score: 0.300652

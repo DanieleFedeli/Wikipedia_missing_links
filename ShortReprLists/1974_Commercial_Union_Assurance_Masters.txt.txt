@@ -1,0 +1,4 @@
+1974_Commercial_Union_Assurance_Masters - Score: 1.0
+2020_ATP_Finals - Score: 0.39132774
+2009_ATP_World_Tour_Finals - Score: 0.3856538
+2011_ATP_World_Tour_Finals - Score: 0.3856538

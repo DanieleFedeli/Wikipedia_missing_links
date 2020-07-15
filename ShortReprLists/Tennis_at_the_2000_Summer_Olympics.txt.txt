@@ -1,0 +1,5 @@
+Tennis_at_the_2000_Summer_Olympics - Score: 1.0
+Athens_Lawn_Tennis_Club - Score: 0.4836838
+Tennis_at_the_1992_Summer_Olympics - Score: 0.4836838
+Ariake_Coliseum - Score: 0.47269863
+2000_Estoril_Open - Score: 0.3091655

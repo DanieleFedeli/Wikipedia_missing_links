@@ -1,0 +1,4 @@
+Concrete_canoe - Score: 1.0
+Royalex - Score: 1.0
+Outrigger - Score: 0.67952716
+Eagle_Creek_Park - Score: 0.33287323

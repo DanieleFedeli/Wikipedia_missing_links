@@ -1,0 +1,7 @@
+Saskatchewan_Government_Insurance - Score: 1.0
+Insurance_Corporation_of_British_Columbia - Score: 0.52132595
+Manitoba_Public_Insurance - Score: 0.5031512
+Block_settlement - Score: 0.47867405
+Public_auto_insurance - Score: 0.41104153
+Dominion_Land_Survey - Score: 0.35351926
+Canadian_Automobile_Association - Score: 0.30073923

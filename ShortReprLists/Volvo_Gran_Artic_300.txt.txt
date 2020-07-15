@@ -1,0 +1,5 @@
+Volvo_Gran_Artic_300 - Score: 1.0
+Volvo_B54 - Score: 0.80670965
+Volvo_B7F - Score: 0.80670965
+Volvo_C30 - Score: 0.38041282
+Volvo_S40 - Score: 0.38041282

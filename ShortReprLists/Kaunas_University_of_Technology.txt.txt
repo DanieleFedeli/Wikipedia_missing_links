@@ -1,0 +1,7 @@
+Kaunas_University_of_Technology - Score: 1.0
+Norwegian_University_of_Science_and_Technology - Score: 0.64462554
+Australian_Academy_of_Science - Score: 0.46596637
+Vilnius_Gediminas_Technical_University - Score: 0.45405278
+Kyiv_National_University_of_Construction_and_Architecture - Score: 0.41805956
+Oslo_School_of_Architecture_and_Design - Score: 0.36169368
+Kyiv_National_University_of_Technologies_and_Design - Score: 0.31509328

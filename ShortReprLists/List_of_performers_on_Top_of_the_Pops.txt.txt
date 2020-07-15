@@ -1,0 +1,7 @@
+List_of_performers_on_Top_of_the_Pops - Score: 1.0
+Recording_contract - Score: 0.56669164
+Human_voice - Score: 0.5469353
+List_of_acts_who_appeared_on_American_Bandstand - Score: 0.39632434
+List_of_vocal_groups - Score: 0.36833063
+Cover_band - Score: 0.3205822
+Gig_(music) - Score: 0.3205822

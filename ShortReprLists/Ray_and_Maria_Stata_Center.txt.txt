@@ -1,0 +1,7 @@
+Ray_and_Maria_Stata_Center - Score: 1.0
+Infinite_Corridor - Score: 0.6803526
+MIT_Senseable_City_Lab - Score: 0.6803526
+Campus_of_the_Massachusetts_Institute_of_Technology - Score: 0.6566338
+Urban_Culture_Lab - Score: 0.4658594
+Weisman_Art_Museum - Score: 0.4321225
+Under_the_Couch - Score: 0.39375067

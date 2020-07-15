@@ -1,0 +1,4 @@
+Grunge_speak - Score: 1.0
+Green_consumption - Score: 0.3798887
+Crass - Score: 0.3580483
+Banksy - Score: 0.3181486

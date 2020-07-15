@@ -1,0 +1,3 @@
+Maharishi_Vastu_Architecture - Score: 1.0
+List_of_architecture_schools - Score: 0.37930298
+List_of_Ramakrishna_Mission_institutions - Score: 0.37930298

@@ -1,0 +1,3 @@
+Liberty_Park_(Salt_Lake_City) - Score: 1.0
+Log_cabin - Score: 0.31301036
+Aquaveo - Score: 0.30039153

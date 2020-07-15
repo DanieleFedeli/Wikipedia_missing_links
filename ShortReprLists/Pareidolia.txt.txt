@@ -1,0 +1,6 @@
+Pareidolia - Score: 1.0
+Hidden_message - Score: 0.6963002
+Chronogram - Score: 0.50119823
+Penrose_stairs - Score: 0.39349082
+Schroeder_stairs - Score: 0.39349082
+Background_music - Score: 0.32797462

@@ -1,0 +1,6 @@
+Go-kart - Score: 1.0
+Crosskart - Score: 0.46244386
+Junior_Monaco_Kart_Cup - Score: 0.37116572
+Pansy_Craze - Score: 0.3468343
+Boy_racer - Score: 0.3389447
+Hot_Wheels - Score: 0.3316085

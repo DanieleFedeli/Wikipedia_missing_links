@@ -1,0 +1,6 @@
+Queen's_Park,_Brighton - Score: 1.0
+Ammonite_order - Score: 0.80571735
+Bungaroosh - Score: 0.80571735
+Mathematical_tile - Score: 0.80571735
+The_Blind_Tiger_Club,_Brighton - Score: 0.80571735
+Images_of_England - Score: 0.58862567

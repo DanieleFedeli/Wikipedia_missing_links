@@ -1,0 +1,6 @@
+Architecture_of_Lahore - Score: 1.0
+Haveli_of_Nau_Nihal_Singh - Score: 0.9021756
+Roshnai_Gate - Score: 0.9021756
+Minar-e-Pakistan - Score: 0.4849122
+Uch - Score: 0.4614734
+Hazuri_Bagh - Score: 0.30408162

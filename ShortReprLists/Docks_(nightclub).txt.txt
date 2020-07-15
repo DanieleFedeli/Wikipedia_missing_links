@@ -1,0 +1,7 @@
+Docks_(nightclub) - Score: 1.0
+Markthalle_Hamburg - Score: 0.84199905
+Gruenspan - Score: 0.77272475
+Live_Music_Hall - Score: 0.77272475
+Saalbau_Essen - Score: 0.77272475
+Elbphilharmonie - Score: 0.6920212
+Gewandhaus - Score: 0.6920212

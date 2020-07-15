@@ -1,0 +1,7 @@
+Strasbourg_Cathedral - Score: 1.0
+Rouen_Cathedral - Score: 0.60403633
+Ulm_Minster - Score: 0.58980185
+Bourges_Cathedral - Score: 0.48419142
+Church_architecture - Score: 0.36452693
+Westwork - Score: 0.3630455
+Mosan_art - Score: 0.3503888

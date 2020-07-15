@@ -1,0 +1,4 @@
+Bore_(wind_instruments) - Score: 1.0
+Mouthpiece_(woodwind) - Score: 0.70117843
+Zhaleika - Score: 0.5565205
+Embouchure - Score: 0.34094378

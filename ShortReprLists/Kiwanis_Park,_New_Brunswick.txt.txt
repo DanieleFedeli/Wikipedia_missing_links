@@ -1,0 +1,7 @@
+Kiwanis_Park,_New_Brunswick - Score: 1.0
+Pearce_Estate_Wetland - Score: 0.6989495
+St._Roch_(ship) - Score: 0.6989495
+Mill_Creek_Park - Score: 0.37339973
+Regional_park - Score: 0.37339973
+County_park - Score: 0.35523516
+Falkland_Islands_and_Dependencies_Aerial_Survey_Expedition - Score: 0.34555045

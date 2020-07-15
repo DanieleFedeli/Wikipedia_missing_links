@@ -1,0 +1,7 @@
+Max_Friz - Score: 1.0
+List_of_BMW_vehicles - Score: 0.8960192
+BMW_Car_Club_of_America - Score: 0.8598974
+BMW_Central_Building - Score: 0.8598974
+BMW_Dixi - Score: 0.8598974
+History_of_BMW - Score: 0.8598974
+Herbert_Quandt - Score: 0.6856857

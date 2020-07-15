@@ -1,0 +1,4 @@
+William_H.G._FitzGerald_Tennis_Center - Score: 1.0
+Robert_Kendrick - Score: 0.34995764
+Justin_Gimelstob - Score: 0.3405628
+Indianapolis_Tennis_Center - Score: 0.30582806

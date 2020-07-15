@@ -1,0 +1,4 @@
+Refrigerant_reclamation - Score: 1.0
+Heating,_ventilation,_and_air_conditioning - Score: 0.41837457
+Evaporative_cooler - Score: 0.35099673
+Water_heating - Score: 0.3320495

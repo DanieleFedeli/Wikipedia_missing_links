@@ -1,0 +1,7 @@
+Nishat_Bagh - Score: 1.0
+Mughal_gardens - Score: 0.46816707
+Agra_Fort - Score: 0.46557194
+Gardens_of_Babur - Score: 0.46557194
+Taj_Mahal - Score: 0.46557194
+Mughal_architecture - Score: 0.4493409
+Tomb_of_Jahangir - Score: 0.36986238

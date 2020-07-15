@@ -1,0 +1,7 @@
+Adventure_Aquarium - Score: 1.0
+Highland_Park,_New_Jersey - Score: 0.4065388
+North_Hudson,_New_Jersey - Score: 0.39245656
+South_Jersey_Transportation_Authority - Score: 0.3421913
+Transportation_in_New_Jersey - Score: 0.33066347
+Forest_Hill,_Newark,_New_Jersey - Score: 0.31633723
+Morris_Canal - Score: 0.31057718

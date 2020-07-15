@@ -1,0 +1,7 @@
+List_of_largest_domes - Score: 1.0
+List_of_largest_shopping_malls - Score: 1.0
+List_of_largest_buildings - Score: 0.90242445
+List_of_city_squares_by_size - Score: 0.89862454
+World's_largest_palace - Score: 0.89862454
+List_of_largest_church_buildings - Score: 0.7112357
+List_of_largest_mosques - Score: 0.50174

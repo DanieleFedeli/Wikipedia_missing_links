@@ -1,0 +1,4 @@
+Sunroom - Score: 1.0
+Root_cellar - Score: 0.59121126
+Overhang_(architecture) - Score: 0.36746082
+Billiard_room - Score: 0.35721788

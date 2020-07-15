@@ -1,0 +1,7 @@
+Chop_shop - Score: 1.0
+Hartford_circus_fire - Score: 0.44372457
+Carjacking - Score: 0.4287763
+Gang - Score: 0.4287763
+Joyride_(crime) - Score: 0.4287763
+Drive-by_shooting - Score: 0.4017106
+Driving_while_black - Score: 0.3085796

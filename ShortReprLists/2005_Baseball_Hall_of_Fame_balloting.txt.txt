@@ -1,0 +1,7 @@
+2005_Baseball_Hall_of_Fame_balloting - Score: 1.0
+2003_Baseball_Hall_of_Fame_balloting - Score: 0.70910096
+2007_Baseball_Hall_of_Fame_balloting - Score: 0.6123917
+2009_Baseball_Hall_of_Fame_balloting - Score: 0.6123917
+Golden_Era_Committee - Score: 0.59692127
+1998_Baseball_Hall_of_Fame_balloting - Score: 0.49935207
+1980_Baseball_Hall_of_Fame_balloting - Score: 0.39456162

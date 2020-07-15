@@ -1,0 +1,4 @@
+World_Hard_Court_Championships - Score: 1.0
+British_Covered_Court_Championships - Score: 0.5119175
+World_Covered_Court_Championships - Score: 0.49958798
+A._Wallis_Myers - Score: 0.38677543

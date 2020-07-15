@@ -1,0 +1,7 @@
+Jesse_Collings - Score: 1.0
+Herbert_Austin,_1st_Baron_Austin - Score: 0.54868364
+William_Arrol - Score: 0.44928992
+Scottish_Parliament_Building - Score: 0.3467266
+Charles,_Prince_of_Wales - Score: 0.3162446
+European_Parliament_in_Luxembourg - Score: 0.3162446
+Australian_Cyclists_Party - Score: 0.30369526

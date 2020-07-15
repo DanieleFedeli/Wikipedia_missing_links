@@ -1,0 +1,4 @@
+Low-emission_zone - Score: 1.0
+C40_Cities_Climate_Leadership_Group - Score: 0.3901308
+Land_use,_land-use_change,_and_forestry - Score: 0.3901308
+Hypervelocity - Score: 0.32287657

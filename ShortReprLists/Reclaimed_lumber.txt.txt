@@ -1,0 +1,5 @@
+Reclaimed_lumber - Score: 1.0
+Land_recycling - Score: 0.714844
+Concrete_recycling - Score: 0.60625553
+Mulch - Score: 0.39682087
+Construction_waste - Score: 0.30486777

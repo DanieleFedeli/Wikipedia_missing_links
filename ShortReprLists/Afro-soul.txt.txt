@@ -1,0 +1,6 @@
+Afro-soul - Score: 1.0
+Fela_Kuti - Score: 0.50977105
+Highlife - Score: 0.47834155
+Fuji_music - Score: 0.38442102
+Waka_music - Score: 0.37439662
+Maleek_Berry - Score: 0.34635746

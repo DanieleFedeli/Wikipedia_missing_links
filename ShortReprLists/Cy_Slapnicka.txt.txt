@@ -1,0 +1,3 @@
+Cy_Slapnicka - Score: 1.0
+Ray_Chapman - Score: 0.7191086
+Cleveland_Indians_Hall_of_Fame - Score: 0.6294967

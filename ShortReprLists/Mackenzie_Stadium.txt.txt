@@ -1,0 +1,6 @@
+Mackenzie_Stadium - Score: 1.0
+Elmwood,_Holyoke,_Massachusetts - Score: 0.96795946
+Highlands,_Holyoke,_Massachusetts - Score: 0.96795946
+Highland_Park,_Holyoke,_Massachusetts - Score: 0.96795946
+Oakdale,_Holyoke,_Massachusetts - Score: 0.96795946
+Springdale,_Holyoke,_Massachusetts - Score: 0.96795946

@@ -1,0 +1,7 @@
+Khmer_architecture - Score: 1.0
+Grand_Palace - Score: 0.63057876
+Prang_(architecture) - Score: 0.63057876
+Architecture_of_Thailand - Score: 0.5439916
+Devasathan - Score: 0.5107531
+Lumphini_Park - Score: 0.42370048
+Suan_Pakkad_Palace - Score: 0.42370048

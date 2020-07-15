@@ -1,0 +1,5 @@
+Saigon_Electric - Score: 1.0
+Snoop_Dogg - Score: 0.32888454
+Disc_jockey - Score: 0.3225115
+Electro_dance - Score: 0.3206972
+Red_Bull_Music_Academy - Score: 0.312695

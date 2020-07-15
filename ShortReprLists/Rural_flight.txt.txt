@@ -1,0 +1,3 @@
+Rural_flight - Score: 1.0
+Deindustrialization - Score: 0.45391336
+Edge_city - Score: 0.35320446

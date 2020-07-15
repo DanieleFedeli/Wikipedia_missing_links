@@ -1,0 +1,4 @@
+Daguanyuan - Score: 1.0
+Hutong - Score: 0.4385357
+Digital_Beijing_Building - Score: 0.35264793
+Siheyuan - Score: 0.35209176

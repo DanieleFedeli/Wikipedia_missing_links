@@ -1,0 +1,7 @@
+Autocross - Score: 1.0
+Race_of_Champions - Score: 0.38215423
+H1_Unlimited - Score: 0.37277272
+Rally_raid - Score: 0.36759064
+Sandboarding - Score: 0.36759064
+Radio-controlled_car - Score: 0.35760325
+Truck_racing - Score: 0.34827137

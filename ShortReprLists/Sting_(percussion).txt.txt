@@ -1,0 +1,6 @@
+Ghost_note - Score: 1.0
+Snare_rush - Score: 1.0
+Sting_(percussion) - Score: 1.0
+Ride_cymbal - Score: 0.5837026
+Fill_(music) - Score: 0.44790912
+Drum_cadence - Score: 0.30878267

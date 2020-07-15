@@ -1,0 +1,7 @@
+National_Museum_of_Art,_Architecture_and_Design - Score: 1.0
+Royal_Danish_Academy_of_Music - Score: 0.45352247
+Eckersberg_Medal - Score: 0.43824416
+Danish_design - Score: 0.36731493
+Drawing - Score: 0.35607156
+I_and_the_Village - Score: 0.34446713
+Danish_modern - Score: 0.3433732

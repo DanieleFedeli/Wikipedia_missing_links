@@ -1,0 +1,5 @@
+French_Foreign_Legion_Music_Band_(MLE) - Score: 1.0
+French_Republican_Guard_Band - Score: 0.52558225
+King's_Own_Royal_Regiment_(Lancaster) - Score: 0.48156732
+Spasskaya_Tower_Military_Music_Festival_and_Tattoo - Score: 0.35154882
+The_Rifles - Score: 0.32061553

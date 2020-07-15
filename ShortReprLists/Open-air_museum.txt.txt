@@ -1,0 +1,6 @@
+Open-air_museum - Score: 1.0
+Historic_house_museum - Score: 0.42210275
+Historic_house - Score: 0.3557072
+Farmhouse - Score: 0.34773844
+Federal_architecture - Score: 0.30654687
+Tabby_concrete - Score: 0.30654687

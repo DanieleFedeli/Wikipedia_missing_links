@@ -1,0 +1,6 @@
+Boys_playing_soldiers - Score: 1.0
+Las_Hilanderas_(Velázquez) - Score: 0.42576477
+The_Three_Musicians_(painting) - Score: 0.3499788
+Concert_of_Angels - Score: 0.3270172
+Doña_María_de_Aragón_Altarpiece - Score: 0.3270172
+The_Country_Dance - Score: 0.31975153

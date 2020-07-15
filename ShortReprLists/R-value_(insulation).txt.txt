@@ -1,0 +1,4 @@
+R-value_(insulation) - Score: 1.0
+Glass_wool - Score: 0.43911687
+Urea-formaldehyde - Score: 0.37566528
+Cavity_wall - Score: 0.31178683

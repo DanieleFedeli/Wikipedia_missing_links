@@ -1,0 +1,4 @@
+Furniture_Today - Score: 1.0
+Mother_Earth_Living - Score: 0.6982176
+Autotrader.com - Score: 0.3660549
+Hemmings_Motor_News - Score: 0.34083346

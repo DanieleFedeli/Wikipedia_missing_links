@@ -1,0 +1,5 @@
+1994_ATP_St._Pölten - Score: 1.0
+1994_Copenhagen_Open - Score: 1.0
+1994_Estoril_Open - Score: 0.91967696
+1994_Qatar_Open - Score: 0.91967696
+1994_Benson_and_Hedges_Open - Score: 0.75954014

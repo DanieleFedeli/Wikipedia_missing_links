@@ -1,0 +1,5 @@
+Background_music - Score: 1.0
+Pareidolia - Score: 0.33757606
+Penrose_stairs - Score: 0.3164109
+Schroeder_stairs - Score: 0.3164109
+Oliver_Sacks - Score: 0.31030095

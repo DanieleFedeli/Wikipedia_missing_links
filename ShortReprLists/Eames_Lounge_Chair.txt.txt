@@ -1,0 +1,7 @@
+Eames_Lounge_Chair - Score: 1.0
+Chaise_longue - Score: 0.7588803
+Ottoman_(furniture) - Score: 0.6551485
+List_of_chairs - Score: 0.5605484
+Chair - Score: 0.47362158
+Modern_furniture - Score: 0.3352468
+Upholstery - Score: 0.32784277

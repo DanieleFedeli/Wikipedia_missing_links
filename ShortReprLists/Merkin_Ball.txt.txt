@@ -1,0 +1,4 @@
+Merkin_Ball - Score: 1.0
+Temple_of_the_Dog - Score: 0.8480745
+Mirror_Ball_(Neil_Young_album) - Score: 0.46012303
+Vote_for_Change - Score: 0.43107858

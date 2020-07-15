@@ -1,0 +1,6 @@
+Jerry_Brown_(gridiron_football) - Score: 1.0
+1995_Major_League_Baseball_draft - Score: 0.3853429
+San_Francisco_Giants_Wall_of_Fame - Score: 0.3723614
+Dan_Thomas_(baseball) - Score: 0.36022606
+Frank_Shaughnessy - Score: 0.32005838
+Triston_McKenzie - Score: 0.3092248

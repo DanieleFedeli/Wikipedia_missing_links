@@ -1,0 +1,6 @@
+Musical_notation - Score: 1.0
+Art_music - Score: 0.4899728
+List_of_classical_music_composers_by_era - Score: 0.47289112
+Tablature - Score: 0.33419442
+Ancient_music - Score: 0.30004367
+List_of_classical_and_art_music_traditions - Score: 0.30004367

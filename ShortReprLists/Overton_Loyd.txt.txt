@@ -1,0 +1,5 @@
+Overton_Loyd - Score: 1.0
+Pedro_Bell - Score: 0.90763396
+U.S._Music_with_Funkadelic - Score: 0.90763396
+Parliament-Funkadelic - Score: 0.6306695
+List_of_tributes_to_Marvin_Gaye - Score: 0.35431272

@@ -1,0 +1,7 @@
+Library_of_Alexandria - Score: 1.0
+Aswan_Dam - Score: 0.76430947
+Lighthouse_of_Alexandria - Score: 0.66863984
+Urban_planning_in_ancient_Egypt - Score: 0.48641798
+Serapeum - Score: 0.48202726
+Bibliotheca_Alexandrina - Score: 0.46289706
+Fustat - Score: 0.37919605

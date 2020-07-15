@@ -1,0 +1,5 @@
+Gustavianum - Score: 1.0
+Temple_at_Uppsala - Score: 0.48275307
+Uppsala_Castle - Score: 0.4644461
+Uppsala_Cathedral - Score: 0.3632599
+Vulnerable_area - Score: 0.3568471

@@ -1,0 +1,4 @@
+Ravenswood_School_for_Girls - Score: 1.0
+Frensham_School - Score: 0.88544154
+Classroom - Score: 0.33133042
+Cafeteria - Score: 0.31977943

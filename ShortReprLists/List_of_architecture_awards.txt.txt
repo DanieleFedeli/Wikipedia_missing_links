@@ -1,0 +1,5 @@
+List_of_architecture_awards - Score: 1.0
+People's_Architect_of_the_USSR - Score: 0.6000564
+West_Wall_Medal - Score: 0.48380548
+Nobel_Peace_Prize_Concert - Score: 0.3601792
+Charles,_Prince_of_Wales - Score: 0.3512725

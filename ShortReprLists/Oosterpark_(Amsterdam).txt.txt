@@ -1,0 +1,4 @@
+Oosterpark_(Amsterdam) - Score: 1.0
+Sarphatipark - Score: 0.8786268
+Vondelpark - Score: 0.8786268
+Westerpark_(park) - Score: 0.8786268

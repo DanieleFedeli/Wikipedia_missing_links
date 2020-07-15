@@ -1,0 +1,7 @@
+Happy_Valley_set - Score: 1.0
+Charles_Labelye - Score: 0.44957894
+Georgiana_Spencer,_Countess_Spencer - Score: 0.41813028
+Absentee_landlord - Score: 0.40424722
+Highclere_Castle - Score: 0.37024102
+Jerusalem_Chamber - Score: 0.34634608
+Historic_Houses_Association - Score: 0.3091628

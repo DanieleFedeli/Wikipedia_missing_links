@@ -1,0 +1,7 @@
+Concordia_Hall_(Baltimore,_Maryland) - Score: 1.0
+Charles_Village,_Baltimore - Score: 0.79967755
+Union_Square,_Baltimore - Score: 0.7395669
+MECU_Pavilion - Score: 0.6579483
+Arch_Social_Club - Score: 0.6419163
+Mount_Rainier,_Maryland - Score: 0.41322592
+Braddock_Heights,_Maryland - Score: 0.3605434

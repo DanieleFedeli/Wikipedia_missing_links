@@ -1,0 +1,7 @@
+Seminole_music - Score: 1.0
+Apache_fiddle - Score: 0.7295213
+Dene_music - Score: 0.7295213
+Pueblo_music - Score: 0.7295213
+Sioux_music - Score: 0.7295213
+Indigenous_music_of_North_America - Score: 0.62377405
+Iroquois_music - Score: 0.6219262

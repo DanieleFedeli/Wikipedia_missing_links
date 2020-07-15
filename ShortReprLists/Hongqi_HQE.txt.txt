@@ -1,0 +1,7 @@
+Besturn_B50 - Score: 1.0
+Hongqi_HQE - Score: 1.0
+Hongqi_L5 - Score: 0.8957919
+Sol_(car_marque) - Score: 0.5461815
+Besturn - Score: 0.4619959
+Hongqi_(marque) - Score: 0.4619959
+Ranz - Score: 0.34267184

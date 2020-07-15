@@ -1,0 +1,5 @@
+Château_Montebello - Score: 1.0
+Canada's_grand_railway_hotels - Score: 0.86842936
+Ottawa_Marriott_Hotel - Score: 0.37540492
+Tyndall_stone - Score: 0.34991807
+Westin_Harbour_Castle_Hotel - Score: 0.3468383

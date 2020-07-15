@@ -1,0 +1,5 @@
+North_Park_(Pittsburgh) - Score: 1.0
+Friendship_(Pittsburgh) - Score: 0.6650441
+Cambria_Iron_Company - Score: 0.48622438
+Mt._Lebanon,_Pennsylvania - Score: 0.4839911
+Jones_and_Laughlin_Steel_Company - Score: 0.31469813

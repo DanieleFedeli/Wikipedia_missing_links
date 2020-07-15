@@ -1,0 +1,7 @@
+Cy_Grant - Score: 1.0
+Simon_Fuller - Score: 0.52397203
+Spectrum_Patrol_Car - Score: 0.40467164
+What's_Up__(4_Non_Blondes_song) - Score: 0.36364037
+Simon_Cowell - Score: 0.36016804
+No_Woman,_No_Cry - Score: 0.32447326
+Ray_Chew - Score: 0.30951267

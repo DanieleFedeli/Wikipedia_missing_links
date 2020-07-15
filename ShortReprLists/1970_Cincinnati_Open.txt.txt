@@ -1,0 +1,5 @@
+1970_Cincinnati_Open - Score: 1.0
+1969_Cincinnati_Open - Score: 0.77789813
+1982_Cincinnati_Open - Score: 0.6296338
+1983_Cincinnati_Open - Score: 0.6296338
+1984_Cincinnati_Open - Score: 0.6296338

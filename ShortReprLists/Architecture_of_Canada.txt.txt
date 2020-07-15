@@ -1,0 +1,4 @@
+Architecture_of_Canada - Score: 1.0
+List_of_Canadian_musicians - Score: 0.5276328
+Dominion_Lands_Act - Score: 0.42010283
+Block_settlement - Score: 0.36521047

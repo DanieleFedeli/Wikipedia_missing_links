@@ -1,0 +1,4 @@
+Répertoire_International_de_Littérature_Musicale - Score: 1.0
+International_Musicological_Society - Score: 0.7152289
+Notes_(journal) - Score: 0.4043245
+Journal_of_the_American_Musicological_Society - Score: 0.38415584

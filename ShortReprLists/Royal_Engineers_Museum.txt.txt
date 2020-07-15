@@ -1,0 +1,5 @@
+Royal_Engineers_Museum - Score: 1.0
+Powell-Cotton_Museum - Score: 0.39673325
+Gordon_Highlanders_Museum - Score: 0.34407833
+Natural_History_Museum,_London - Score: 0.3317267
+RIBA_Competitions - Score: 0.3200915

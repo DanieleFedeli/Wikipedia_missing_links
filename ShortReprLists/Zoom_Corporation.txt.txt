@@ -1,0 +1,7 @@
+Zoom_Corporation - Score: 1.0
+Mitsubishi_Motors - Score: 0.3962584
+Tokyo_Dome - Score: 0.38823265
+Yamaha_Corporation - Score: 0.38299498
+Hyundai_Motor_Company - Score: 0.38244385
+Isuzu_Motors - Score: 0.38244385
+Yoshisuke_Aikawa - Score: 0.3137135

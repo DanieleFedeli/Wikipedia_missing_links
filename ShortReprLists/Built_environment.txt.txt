@@ -1,0 +1,5 @@
+Built_environment - Score: 1.0
+Subway_Art - Score: 0.57453346
+Urban_acupuncture - Score: 0.55986214
+Urban_development - Score: 0.3507308
+Landscape_Institute - Score: 0.3047427

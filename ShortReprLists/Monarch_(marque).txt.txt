@@ -1,0 +1,7 @@
+Ford_Motor_Company_of_Japan - Score: 1.0
+Ford_World_Headquarters - Score: 1.0
+History_of_Ford_Motor_Company - Score: 1.0
+List_of_Ford_engines - Score: 1.0
+List_of_Ford_transmissions - Score: 1.0
+Monarch_(marque) - Score: 1.0
+List_of_Ford_platforms - Score: 0.91655654

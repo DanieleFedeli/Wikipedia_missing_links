@@ -1,0 +1,6 @@
+List_of_country_genres - Score: 1.0
+Progressive_country - Score: 0.60188085
+List_of_music_styles - Score: 0.40091056
+Bakersfield_sound - Score: 0.30913222
+Nashville_sound - Score: 0.30913222
+Indigenous_music_of_North_America - Score: 0.30082813

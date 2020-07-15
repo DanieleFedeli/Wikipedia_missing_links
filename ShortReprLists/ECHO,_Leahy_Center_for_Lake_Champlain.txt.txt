@@ -1,0 +1,2 @@
+ECHO,_Leahy_Center_for_Lake_Champlain - Score: 1.0
+Centennial_Field - Score: 0.43907702

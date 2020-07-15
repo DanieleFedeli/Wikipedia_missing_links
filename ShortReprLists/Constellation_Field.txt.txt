@@ -1,0 +1,5 @@
+Constellation_Field - Score: 1.0
+Vincent–Beck_Stadium - Score: 0.4440079
+UTRGV_Baseball_Stadium - Score: 0.37084258
+Crutcher_Scott_Field - Score: 0.35929218
+Shrine_on_Airline - Score: 0.35761452

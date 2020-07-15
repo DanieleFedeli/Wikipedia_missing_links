@@ -1,0 +1,5 @@
+Smash_It_Up - Score: 1.0
+Only_Crime - Score: 0.4254043
+Hazen_Street - Score: 0.41107318
+Split_album - Score: 0.34265095
+Me_First_and_the_Gimme_Gimmes - Score: 0.33422527

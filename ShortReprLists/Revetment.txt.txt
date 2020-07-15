@@ -1,0 +1,3 @@
+Revetment - Score: 1.0
+Riprap - Score: 0.43059093
+Stream_restoration - Score: 0.41557944

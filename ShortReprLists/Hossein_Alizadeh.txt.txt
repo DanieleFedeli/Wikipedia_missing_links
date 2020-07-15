@@ -1,0 +1,6 @@
+Hossein_Alizadeh - Score: 1.0
+Mohammad-Reza_Shajarian - Score: 0.91141623
+Shahram_Nazeri - Score: 0.8722837
+Tombak - Score: 0.7494673
+Alborz_High_School - Score: 0.3203906
+University_of_Tehran - Score: 0.31027856

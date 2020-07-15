@@ -1,0 +1,5 @@
+Jay_Ryan_(artist) - Score: 1.0
+Unsigned_artist - Score: 0.4248557
+Susan_Sherouse - Score: 0.35094494
+The_Reindeer_Section - Score: 0.35094494
+Extended_play - Score: 0.32806784

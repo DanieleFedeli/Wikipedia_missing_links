@@ -1,0 +1,5 @@
+Puerto_Rico_women's_national_baseball_team - Score: 1.0
+Cuba_women's_national_baseball_team - Score: 0.619473
+Venezuela_women's_national_baseball_team - Score: 0.52791584
+Dominican_Republic_women's_national_baseball_team - Score: 0.45805392
+Brazil_national_baseball_team - Score: 0.36282557

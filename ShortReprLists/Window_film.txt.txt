@@ -1,0 +1,4 @@
+Window_film - Score: 1.0
+Police_bicycle - Score: 0.31870988
+United_States_Virgin_Islands_Police_Department - Score: 0.31870988
+Park_police - Score: 0.30759883

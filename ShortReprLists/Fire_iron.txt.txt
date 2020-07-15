@@ -1,0 +1,5 @@
+Fire_iron - Score: 1.0
+Stove - Score: 0.47203234
+Potbelly_stove - Score: 0.3802135
+Chimney_breast - Score: 0.37501544
+Masonry_heater - Score: 0.31965968

@@ -1,0 +1,9 @@
+Entity		Category		c-Similarity
+
+Official_(tennis)	Tennis	0.99
+Maria_Pepe	League	1.0
+SEAT_Arona	Vehicles	1.0
+Dodge_Coronet	Dodge	1.0
+Christmas_window	Christmas	0.9
+Last.fm	Use	0.75
+Traditional_bluegrass	Music	0.73

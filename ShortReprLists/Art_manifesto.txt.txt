@@ -1,0 +1,7 @@
+Art_manifesto - Score: 1.0
+Eclecticism_in_art - Score: 0.5729422
+Architecture_criticism - Score: 0.45405954
+List_of_most_valuable_records - Score: 0.45405954
+List_of_largest_art_museums - Score: 0.43876308
+Philosophy_of_music - Score: 0.36343387
+Site-specific_art - Score: 0.36184067

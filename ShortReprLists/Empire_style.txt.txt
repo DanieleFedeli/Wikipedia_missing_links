@@ -1,0 +1,7 @@
+Empire_style - Score: 1.0
+Louis_XVI_style - Score: 0.48391238
+Adam_style - Score: 0.46088526
+Neoclassicism_in_France - Score: 0.37470227
+Style_Louis_XIV - Score: 0.37470227
+Châteauesque - Score: 0.3474509
+Swiss_chalet_style - Score: 0.31843352

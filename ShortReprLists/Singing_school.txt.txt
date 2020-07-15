@@ -1,0 +1,6 @@
+Singing_school - Score: 1.0
+Hymn_tune - Score: 0.5106732
+Lining_out - Score: 0.5106732
+Christian_music - Score: 0.39406952
+Sacred_Harp - Score: 0.3140089
+Shape_note - Score: 0.3140089

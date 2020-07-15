@@ -1,0 +1,6 @@
+Amilcar - Score: 1.0
+Lorraine-Dietrich - Score: 0.5936422
+Ballot_(automobile) - Score: 0.51015073
+Grand_Prix_motor_racing - Score: 0.33469895
+Scuderia_Ambrosiana - Score: 0.33469895
+Bugatti - Score: 0.3230305

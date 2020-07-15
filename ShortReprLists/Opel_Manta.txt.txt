@@ -1,0 +1,4 @@
+Opel_Manta - Score: 1.0
+Opel_Kadett_C - Score: 0.59420496
+Opel_Rekord - Score: 0.4972479
+Opel_Astra - Score: 0.38799098

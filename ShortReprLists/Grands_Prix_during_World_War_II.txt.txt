@@ -1,0 +1,4 @@
+Grands_Prix_during_World_War_II - Score: 1.0
+Fred_Duesenberg - Score: 0.50149226
+Ballot_(automobile) - Score: 0.49151263
+National_Motor_Vehicle_Company - Score: 0.3283405

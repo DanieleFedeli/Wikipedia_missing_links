@@ -1,0 +1,3 @@
+Dnieper_Hydroelectric_Station - Score: 1.0
+List_of_largest_hydroelectric_power_stations - Score: 0.3435454
+List_of_largest_power_stations - Score: 0.3435454

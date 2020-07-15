@@ -1,0 +1,5 @@
+Electric_motorcycles_and_scooters - Score: 1.0
+List_of_electric_cars_currently_available - Score: 0.56685084
+List_of_modern_production_plug-in_electric_vehicles - Score: 0.56685084
+List_of_hybrid_vehicles - Score: 0.36787674
+History_of_the_electric_vehicle - Score: 0.32310036

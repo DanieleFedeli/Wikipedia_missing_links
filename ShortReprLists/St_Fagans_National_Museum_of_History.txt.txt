@@ -1,0 +1,6 @@
+St_Fagans_National_Museum_of_History - Score: 1.0
+The_Oppressed - Score: 0.6843277
+Tsunami_Relief_Cardiff - Score: 0.6843277
+Welsh_National_War_Memorial - Score: 0.664338
+Scolton_Manor - Score: 0.54526347
+Lisvane_(CAC)_Tennis_Club - Score: 0.5055642

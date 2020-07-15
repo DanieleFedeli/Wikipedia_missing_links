@@ -1,0 +1,5 @@
+Englebert_Complex - Score: 1.0
+Grant_Field_(Dunedin) - Score: 1.0
+TD_Ballpark - Score: 1.0
+Pearson_Cup - Score: 0.65105325
+Doug_Ault - Score: 0.40999663

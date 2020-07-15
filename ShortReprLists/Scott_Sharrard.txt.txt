@@ -1,0 +1,7 @@
+Scott_Sharrard - Score: 1.0
+Warren_Haynes - Score: 0.54487914
+Bluesmobile - Score: 0.45677504
+JamBase - Score: 0.4549181
+Trout_Mask_Replica - Score: 0.4246913
+Bob_Dylan - Score: 0.32499757
+Together_at_the_Bluebird_Café - Score: 0.32143927

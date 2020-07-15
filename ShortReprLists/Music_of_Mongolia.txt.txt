@@ -1,0 +1,5 @@
+Music_of_Mongolia - Score: 1.0
+Music_of_Asia - Score: 0.6094048
+Music_of_Nepal - Score: 0.6094048
+Pinpeat - Score: 0.36451948
+Piphat - Score: 0.36451948

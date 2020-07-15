@@ -1,0 +1,6 @@
+Azul_(baseball) - Score: 1.0
+Carmelita_(baseball) - Score: 0.9082055
+Cienfuegos_(Cuban_League_baseball_club) - Score: 0.89254576
+Baseball_in_Cuba - Score: 0.8381663
+Club_Fé - Score: 0.7875914
+Cuban_musical_theatre - Score: 0.42903408

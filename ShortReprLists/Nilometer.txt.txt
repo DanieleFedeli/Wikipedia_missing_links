@@ -1,0 +1,6 @@
+Nilometer - Score: 1.0
+Fustat - Score: 0.5118302
+Bibliotheca_Alexandrina - Score: 0.50755435
+Aswan_Dam - Score: 0.42498246
+Lighthouse_of_Alexandria - Score: 0.42498246
+Deir_el-Bahari - Score: 0.3464822

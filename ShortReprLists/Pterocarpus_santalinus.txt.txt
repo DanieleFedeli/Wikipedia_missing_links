@@ -1,0 +1,4 @@
+Pterocarpus_santalinus - Score: 1.0
+Conservation-reliant_species - Score: 0.53699315
+Endangered_species_recovery_plan - Score: 0.53699315
+Threatened_species - Score: 0.3502021

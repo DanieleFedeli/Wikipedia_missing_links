@@ -1,0 +1,7 @@
+Outside_(jazz) - Score: 1.0
+Bar-line_shift - Score: 0.9268734
+Melodic_pattern - Score: 0.9120502
+Avoid_note - Score: 0.7563549
+Head_(music) - Score: 0.5983768
+Jazz_harmony - Score: 0.413121
+Comping - Score: 0.35810423

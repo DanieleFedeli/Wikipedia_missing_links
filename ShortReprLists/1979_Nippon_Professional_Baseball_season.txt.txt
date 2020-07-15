@@ -1,0 +1,5 @@
+1979_Nippon_Professional_Baseball_season - Score: 1.0
+1979_Japan_Series - Score: 0.6977302
+1980_Nippon_Professional_Baseball_season - Score: 0.6977302
+1984_Nippon_Professional_Baseball_season - Score: 0.6977302
+1975_Nippon_Professional_Baseball_season - Score: 0.6049203

@@ -1,0 +1,5 @@
+Greenway_(landscape) - Score: 1.0
+Linear_park - Score: 0.6501471
+Greater_Grand_Forks_Greenway - Score: 0.35707158
+Liberty_State_Park - Score: 0.34420368
+North_Hudson,_New_Jersey - Score: 0.31149626

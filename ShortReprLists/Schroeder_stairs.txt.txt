@@ -1,0 +1,6 @@
+Schroeder_stairs - Score: 1.0
+Penrose_stairs - Score: 0.9113913
+Trompe-l'œil - Score: 0.5913642
+Ascending_and_Descending - Score: 0.5720916
+Auditory_illusion - Score: 0.44931298
+Pareidolia - Score: 0.36561865

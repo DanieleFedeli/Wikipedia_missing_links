@@ -1,0 +1,6 @@
+Del_Bissonette - Score: 1.0
+Pennant_(sports) - Score: 0.37341517
+Jimmy_McAleer - Score: 0.35278994
+1923_Major_League_Baseball_season - Score: 0.32671398
+John_McHale_(baseball) - Score: 0.32405683
+George_Selkirk - Score: 0.31570756

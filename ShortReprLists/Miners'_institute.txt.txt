@@ -1,0 +1,4 @@
+Miners'_institute - Score: 1.0
+Listed_buildings_in_England - Score: 0.31676006
+Listed_buildings_in_Wales - Score: 0.31676006
+Planning_(Listed_Buildings_and_Conservation_Areas)_Act_1990 - Score: 0.30643678

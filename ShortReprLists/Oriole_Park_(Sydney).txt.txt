@@ -1,0 +1,7 @@
+Baxter_Field - Score: 1.0
+Oriole_Park_(Sydney) - Score: 1.0
+Geelong_Baseball_Park - Score: 0.8415822
+John_Murray_Field - Score: 0.8415822
+Holloway_Field - Score: 0.7622965
+Diamond_Sports_Stadium - Score: 0.5085514
+Sir_Bruce_Small_Park - Score: 0.30667192

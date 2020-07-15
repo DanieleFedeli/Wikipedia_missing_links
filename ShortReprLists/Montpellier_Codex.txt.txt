@@ -1,0 +1,6 @@
+Montpellier_Codex - Score: 1.0
+Codex_Faenza - Score: 0.89865166
+Llibre_Vermell_de_Montserrat - Score: 0.89865166
+Squarcialupi_Codex - Score: 0.8117431
+Chantilly_Codex - Score: 0.6481048
+Modena_Codex - Score: 0.6481048

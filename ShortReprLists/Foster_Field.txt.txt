@@ -1,0 +1,4 @@
+Foster_Field - Score: 1.0
+Tony_Gwynn_Stadium - Score: 0.40631208
+Smith's_Ballpark - Score: 0.33743313
+Appalachian_Power_Park - Score: 0.3320633

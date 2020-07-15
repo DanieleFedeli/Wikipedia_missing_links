@@ -1,0 +1,7 @@
+2016_in_tennis - Score: 1.0
+2016_WTA_125K_series - Score: 0.7038885
+Tennis_at_the_2016_South_Asian_Games - Score: 0.7038885
+Wheelchair_tennis_at_the_2016_Summer_Paralympics - Score: 0.42011482
+2018_in_tennis - Score: 0.3963882
+2016_ITF_Men's_Circuit - Score: 0.39265966
+2015_WTA_125K_series - Score: 0.39072138

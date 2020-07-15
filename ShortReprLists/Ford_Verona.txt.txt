@@ -1,0 +1,3 @@
+Ford_Verona - Score: 1.0
+Volkswagen_Caddy - Score: 0.3410534
+Volkswagen_Gol - Score: 0.3410534

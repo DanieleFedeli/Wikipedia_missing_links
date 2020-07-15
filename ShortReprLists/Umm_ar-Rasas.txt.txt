@@ -1,0 +1,5 @@
+Umm_ar-Rasas - Score: 1.0
+Petra - Score: 0.45247212
+Mada'in_Saleh - Score: 0.4507366
+Diriyah - Score: 0.4488663
+Great_Mosque_of_Mecca - Score: 0.36762598

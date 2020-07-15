@@ -1,0 +1,6 @@
+Tennis_at_the_2018_Mediterranean_Games - Score: 1.0
+Tennis_at_the_2018_South_American_Games - Score: 0.8077814
+Tennis_at_the_2018_Central_American_and_Caribbean_Games - Score: 0.708617
+2018_in_tennis - Score: 0.49381548
+2018_Laver_Cup - Score: 0.4046498
+Tennis_at_the_2018_Asian_Games - Score: 0.39931765

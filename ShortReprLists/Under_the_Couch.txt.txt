@@ -1,0 +1,6 @@
+Under_the_Couch - Score: 1.0
+Infinite_Corridor - Score: 0.40913546
+MIT_Senseable_City_Lab - Score: 0.40913546
+Campus_of_the_Massachusetts_Institute_of_Technology - Score: 0.39487198
+Ray_and_Maria_Stata_Center - Score: 0.39487198
+Ponce_de_Leon_Park - Score: 0.374714

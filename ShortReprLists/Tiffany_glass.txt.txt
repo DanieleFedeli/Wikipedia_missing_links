@@ -1,0 +1,7 @@
+Tiffany_glass - Score: 1.0
+Gorilla_Glass - Score: 0.5576451
+Dragontrail - Score: 0.52007306
+Vitrite - Score: 0.52007306
+Tiffany_lamp - Score: 0.3910228
+Came - Score: 0.36315027
+Fleur-de-lis - Score: 0.32764482

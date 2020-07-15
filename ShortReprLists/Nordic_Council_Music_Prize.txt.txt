@@ -1,0 +1,5 @@
+Nordic_Council_Music_Prize - Score: 1.0
+Royal_College_of_Music,_Stockholm - Score: 0.41966107
+Royal_Danish_Academy_of_Music - Score: 0.35354096
+International_Rostrum_of_Composers - Score: 0.33687273
+International_Music_Council - Score: 0.3155051

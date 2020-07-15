@@ -1,0 +1,4 @@
+Motorhome - Score: 1.0
+Sleeper_bus - Score: 0.780408
+Police_bus - Score: 0.7541175
+Transit_Elevated_Bus - Score: 0.60606134

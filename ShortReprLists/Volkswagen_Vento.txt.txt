@@ -1,0 +1,7 @@
+Volkswagen_Vento - Score: 1.0
+Volkswagen_Golf - Score: 0.47073153
+Volkswagen_Jetta - Score: 0.45996562
+Volkswagen_Passat - Score: 0.45996562
+Volkswagen_Polo - Score: 0.3708281
+Škoda_Fabia - Score: 0.35455167
+SEAT_Ibiza - Score: 0.3399537

@@ -1,0 +1,5 @@
+John_Callahan_(cartoonist) - Score: 1.0
+Masking_(illustration) - Score: 0.38572004
+Felix_the_Cat - Score: 0.32950646
+Urbanus - Score: 0.32950646
+Lip_sync - Score: 0.3142969

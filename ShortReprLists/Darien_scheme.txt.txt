@@ -1,0 +1,7 @@
+Darien_scheme - Score: 1.0
+List_of_oldest_buildings_in_Scotland - Score: 0.6446698
+Lands_Tribunal_for_Scotland - Score: 0.4442584
+Historic_Houses_Association - Score: 0.40810078
+Sasine - Score: 0.34174028
+Leinster_House - Score: 0.3376229
+Scottish_Parliament_Building - Score: 0.3137977

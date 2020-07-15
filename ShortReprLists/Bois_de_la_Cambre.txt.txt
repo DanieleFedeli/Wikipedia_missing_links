@@ -1,0 +1,4 @@
+Bois_de_la_Cambre - Score: 1.0
+Brussels_Park - Score: 0.78727037
+Galeries_Royales_Saint-Hubert - Score: 0.59381557
+La_Cambre - Score: 0.35933882

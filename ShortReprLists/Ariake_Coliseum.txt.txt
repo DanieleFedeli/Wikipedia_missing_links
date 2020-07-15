@@ -1,0 +1,6 @@
+Ariake_Coliseum - Score: 1.0
+Athens_Lawn_Tennis_Club - Score: 0.53637916
+Tennis_at_the_2000_Summer_Olympics - Score: 0.53486824
+Tennis_at_the_1992_Summer_Olympics - Score: 0.42683163
+Tennis_at_the_2012_Summer_Olympics - Score: 0.39877492
+Tennis_at_the_2004_Summer_Olympics - Score: 0.32139048

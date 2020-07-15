@@ -1,0 +1,6 @@
+Harry_Von_der_Horst - Score: 1.0
+Radiology_Associates_Field_at_Jackie_Robinson_Ballpark - Score: 0.4624444
+1892_Baltimore_Orioles_season - Score: 0.38386893
+1897_Baltimore_Orioles_season - Score: 0.38386893
+George_Chauncey_(executive) - Score: 0.3762667
+Henry_Medicus - Score: 0.34275535

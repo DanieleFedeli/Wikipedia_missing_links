@@ -1,0 +1,5 @@
+Road_surface - Score: 1.0
+Sidewalk - Score: 0.5842619
+Asphalt_concrete - Score: 0.5023701
+Parkway - Score: 0.3898289
+Street - Score: 0.37007266

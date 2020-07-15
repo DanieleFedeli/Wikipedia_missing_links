@@ -1,0 +1,4 @@
+Eglinton_Castle - Score: 1.0
+Dean_Castle - Score: 0.35454798
+Eaglesham - Score: 0.34030947
+Barmkin - Score: 0.32887113

@@ -1,0 +1,3 @@
+Charles_Duryea - Score: 1.0
+Duryea_Motor_Wagon_Company - Score: 0.91972184
+Horseless_carriage - Score: 0.3250001

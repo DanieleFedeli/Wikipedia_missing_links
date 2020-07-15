@@ -1,0 +1,4 @@
+Construction_waste - Score: 1.0
+Garden_waste_dumping - Score: 0.8896663
+Land_recycling - Score: 0.6268744
+Reclaimed_lumber - Score: 0.3083458

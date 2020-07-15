@@ -1,0 +1,6 @@
+Glass_mosaic - Score: 1.0
+Decorative_arts - Score: 0.8804453
+Ironwork - Score: 0.8804453
+Micromosaic - Score: 0.8804453
+Pietra_dura - Score: 0.8804453
+Scale_model - Score: 0.58400786

@@ -1,0 +1,7 @@
+Horseless_carriage - Score: 1.0
+Duryea_Motor_Wagon_Company - Score: 0.4875707
+Brass_Era_car - Score: 0.43566808
+Stanley_Motor_Carriage_Company - Score: 0.3723593
+Charles_Duryea - Score: 0.36751086
+Hupmobile - Score: 0.36369902
+Preston_Tucker - Score: 0.36369902

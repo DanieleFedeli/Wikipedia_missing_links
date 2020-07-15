@@ -1,0 +1,6 @@
+The_Prince's_Foundation - Score: 1.0
+Poundbury - Score: 0.6260733
+Max_Dupain - Score: 0.38536078
+Charles,_Prince_of_Wales - Score: 0.35697946
+Eden_Project - Score: 0.30363962
+Royal_Prince_Alfred_Hospital - Score: 0.30363962

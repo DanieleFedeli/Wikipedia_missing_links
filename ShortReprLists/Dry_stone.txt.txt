@@ -1,0 +1,7 @@
+Dry_stone - Score: 1.0
+Flagstone - Score: 0.7031635
+Grout - Score: 0.6077019
+Flushwork - Score: 0.5602535
+Cast_stone - Score: 0.48653305
+Mortar_(masonry) - Score: 0.43778792
+Artificial_stone - Score: 0.3805795

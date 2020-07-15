@@ -1,0 +1,3 @@
+Technics_SL-10 - Score: 1.0
+Technics_SL-J2 - Score: 0.93754673
+Technics_SL-1200 - Score: 0.6295229

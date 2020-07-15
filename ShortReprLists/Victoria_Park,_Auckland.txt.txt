@@ -1,0 +1,7 @@
+Victoria_Park,_Auckland - Score: 1.0
+Auckland_Domain - Score: 0.78996617
+Albert_Park,_Auckland - Score: 0.5267648
+Architecture_of_New_Zealand - Score: 0.5081819
+Beehive_(New_Zealand) - Score: 0.44224223
+North_Harbour_Stadium - Score: 0.33213466
+Bach_(New_Zealand) - Score: 0.3028378

@@ -1,0 +1,5 @@
+Harry_M._Miller - Score: 1.0
+National_Institute_of_Dramatic_Art - Score: 0.43290898
+Sydney_Opera_House - Score: 0.39518476
+Royal_Albert_Hall - Score: 0.37655535
+Michael_Lynch_(arts_administrator) - Score: 0.3471021

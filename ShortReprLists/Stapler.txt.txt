@@ -1,0 +1,4 @@
+Stapler - Score: 1.0
+Drawing_pin - Score: 0.46354723
+Paper_clip - Score: 0.3513815
+Surgical_staple - Score: 0.32129025

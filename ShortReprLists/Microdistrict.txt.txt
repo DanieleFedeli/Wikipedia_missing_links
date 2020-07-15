@@ -1,0 +1,7 @@
+Microdistrict - Score: 1.0
+Khrushchyovka - Score: 0.37627915
+Million_Programme - Score: 0.37627915
+Panelház - Score: 0.37627915
+Panel_building - Score: 0.37627915
+Plattenbau - Score: 0.37627915
+Tilt_up - Score: 0.37627915

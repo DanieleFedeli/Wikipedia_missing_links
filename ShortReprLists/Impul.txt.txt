@@ -1,0 +1,7 @@
+Impul - Score: 1.0
+Naoki_Yamamoto_(racing_driver) - Score: 0.45739254
+Mitsubishi_Motors - Score: 0.427516
+Subaru - Score: 0.42497376
+Datsun - Score: 0.35254714
+Infiniti - Score: 0.35254714
+Nissan - Score: 0.33098418

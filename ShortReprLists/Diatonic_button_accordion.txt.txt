@@ -1,0 +1,12 @@
+Diatonic_button_accordion - Score: 1.0
+Lombard_rhythm - Score: 0.8251589
+Cornkister - Score: 0.71946394
+Puirt_à_beul - Score: 0.71946394
+Waulking_song - Score: 0.71946394
+Public_Dance_Halls_Act_1935 - Score: 0.6471848
+Keening - Score: 0.472454
+Squeezebox - Score: 0.3453729
+Button_accordion - Score: 0.33171198
+Chromatic_button_accordion - Score: 0.32053715
+Digital_accordion - Score: 0.32053715
+Livenka_(music) - Score: 0.32053715

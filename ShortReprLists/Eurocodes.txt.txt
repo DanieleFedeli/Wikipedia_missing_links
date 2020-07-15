@@ -1,0 +1,7 @@
+Eurocodes - Score: 1.0
+Cast_in_place_concrete - Score: 0.5337804
+Concrete_degradation - Score: 0.46835476
+Concrete_cover - Score: 0.4598805
+Hollow-core_slab - Score: 0.38378844
+Screed - Score: 0.30850214
+Reinforced_concrete_column - Score: 0.30731222

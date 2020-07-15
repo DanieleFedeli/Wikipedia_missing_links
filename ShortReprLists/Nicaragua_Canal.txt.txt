@@ -1,0 +1,6 @@
+Nicaragua_Canal - Score: 1.0
+Plaza - Score: 0.45680678
+List_of_the_oldest_schools_in_the_Philippines - Score: 0.4485958
+Plaza_de_Armas - Score: 0.34695053
+List_of_pre-columbian_archaeological_sites_in_Mexico_City - Score: 0.34532678
+Jesuit_reduction - Score: 0.34013206

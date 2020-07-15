@@ -1,0 +1,3 @@
+United_States_Bicentennial_coinage - Score: 1.0
+Reeding - Score: 0.6767252
+Cincinnati_Musical_Center_half_dollar - Score: 0.57685363

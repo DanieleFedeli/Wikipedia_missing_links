@@ -1,0 +1,6 @@
+John_Hiller - Score: 1.0
+Sporting_News_Comeback_Player_of_the_Year_Award - Score: 0.4383777
+Lou_Gehrig_Memorial_Award - Score: 0.4053715
+League_Championship_Series_Most_Valuable_Player_Award - Score: 0.32697707
+World_Series - Score: 0.31596178
+World_Series_Most_Valuable_Player_Award - Score: 0.30566457

@@ -1,0 +1,5 @@
+Green_room - Score: 1.0
+Bundesvision_Song_Contest - Score: 0.4390016
+Broadway_theatre - Score: 0.34997988
+Eurovision_Song_Contest - Score: 0.3164469
+BBC_Radio_2_Eurovision - Score: 0.30328068

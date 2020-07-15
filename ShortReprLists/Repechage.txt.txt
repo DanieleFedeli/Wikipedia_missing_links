@@ -1,0 +1,3 @@
+Repechage - Score: 1.0
+ExCeL_London - Score: 0.37638825
+Sydney_Convention_and_Exhibition_Centre - Score: 0.3641217

@@ -1,0 +1,6 @@
+Walchand_Hirachand - Score: 1.0
+Maluti - Score: 0.5770294
+Pinjore_Gardens - Score: 0.4836289
+Haveli - Score: 0.48263982
+Bankura_horse - Score: 0.47678858
+Stepwell - Score: 0.4659156

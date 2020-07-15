@@ -1,0 +1,4 @@
+Arch-gravity_dam - Score: 1.0
+Arch_dam - Score: 0.91268355
+List_of_reservoirs_by_volume - Score: 0.4838862
+Aqueduct_(water_supply) - Score: 0.37653217

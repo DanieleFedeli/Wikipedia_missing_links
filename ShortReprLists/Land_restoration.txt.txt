@@ -1,0 +1,7 @@
+Land_restoration - Score: 1.0
+Buffer_strip - Score: 0.46795526
+Restoration_ecology - Score: 0.37752423
+Hypervelocity - Score: 0.3693233
+Fertilizer - Score: 0.3681796
+Soil_fertility - Score: 0.35969627
+Soil_conservation - Score: 0.34757876

@@ -1,0 +1,4 @@
+Brickworks - Score: 1.0
+Fire_brick - Score: 0.39715323
+Clay_pit - Score: 0.3496457
+Bluestone - Score: 0.3375621

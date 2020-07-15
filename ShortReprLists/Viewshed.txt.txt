@@ -1,0 +1,6 @@
+Viewshed - Score: 1.0
+The_Trust_for_Public_Land - Score: 0.5930114
+North_American_Vertical_Datum_of_1988 - Score: 0.35270885
+Summit - Score: 0.35270885
+49th_parallel_north - Score: 0.33905837
+Conservation_easement - Score: 0.32700813

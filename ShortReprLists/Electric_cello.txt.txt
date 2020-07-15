@@ -1,0 +1,5 @@
+Electric_cello - Score: 1.0
+Electric_mandolin - Score: 0.59264153
+Cigar_box_guitar - Score: 0.5144067
+Mandobass - Score: 0.38853988
+Electric_harp - Score: 0.31342548

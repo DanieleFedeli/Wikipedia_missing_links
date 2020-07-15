@@ -1,0 +1,5 @@
+Digital_architecture - Score: 1.0
+Tradigital_art - Score: 0.78226113
+Generative_art - Score: 0.5447924
+Music_visualization - Score: 0.42346102
+Technical_illustration - Score: 0.34058672

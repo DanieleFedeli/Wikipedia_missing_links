@@ -1,0 +1,3 @@
+Ilaro_Court - Score: 1.0
+President's_House,_Trinidad_and_Tobago - Score: 0.47903165
+Charles,_Prince_of_Wales - Score: 0.3073819

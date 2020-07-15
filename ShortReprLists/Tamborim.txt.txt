@@ -1,0 +1,5 @@
+Tamborim - Score: 1.0
+Timbrel - Score: 0.6887856
+Pandero_jarocho - Score: 0.49603894
+Caxixi - Score: 0.37631255
+Surdo - Score: 0.37631255

@@ -1,0 +1,5 @@
+MOOMA - Score: 1.0
+Israel_in_the_Eurovision_Song_Contest_1973 - Score: 0.51707506
+Israel_in_the_Eurovision_Song_Contest_1996 - Score: 0.51707506
+Israel_in_the_Eurovision_Song_Contest_2000 - Score: 0.51707506
+Time_(Izabo_song) - Score: 0.41069055

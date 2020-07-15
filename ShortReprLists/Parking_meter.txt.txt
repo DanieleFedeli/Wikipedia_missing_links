@@ -1,0 +1,6 @@
+Parking_meter - Score: 1.0
+Parking_enforcement_officer - Score: 0.6329344
+Multistorey_car_park - Score: 0.43570969
+Fixed_penalty_notice - Score: 0.40537953
+Road_space_rationing - Score: 0.3052573
+Department_of_Motor_Vehicles - Score: 0.30063388

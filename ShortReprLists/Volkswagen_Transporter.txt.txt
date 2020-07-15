@@ -1,0 +1,7 @@
+Volkswagen_Transporter - Score: 1.0
+Campervan - Score: 0.876262
+Volkswagen_LT - Score: 0.876262
+Volkswagen_Transporter_(T5) - Score: 0.876262
+Volkswagen_Taro - Score: 0.8695288
+Volkswagen_Transporter_(T6) - Score: 0.8695288
+Volkswagen_Transporter_(T4) - Score: 0.5011558

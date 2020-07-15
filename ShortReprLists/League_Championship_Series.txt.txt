@@ -1,0 +1,6 @@
+League_Championship_Series - Score: 1.0
+Division_Series - Score: 0.8047814
+American_League_Championship_Series - Score: 0.3677958
+National_League_Championship_Series - Score: 0.3677958
+Umpire_(baseball) - Score: 0.33660868
+Commissioner_of_Baseball - Score: 0.31636107

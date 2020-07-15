@@ -1,0 +1,5 @@
+Tree_shaping - Score: 1.0
+Espalier - Score: 0.5135782
+Transplanting - Score: 0.47470206
+Pleaching - Score: 0.4340317
+Cultigen - Score: 0.33913937

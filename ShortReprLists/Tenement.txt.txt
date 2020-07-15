@@ -1,0 +1,5 @@
+Tenement - Score: 1.0
+Party_wall - Score: 0.5033213
+Terraced_house - Score: 0.47909883
+Flophouse - Score: 0.40497977
+Townhouse - Score: 0.37770313

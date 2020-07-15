@@ -1,0 +1,4 @@
+Luther_Williams_Field - Score: 1.0
+Sims_Legion_Park - Score: 0.45293942
+McNair_Field - Score: 0.42242202
+Finch_Field - Score: 0.3290967

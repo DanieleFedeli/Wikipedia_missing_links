@@ -1,0 +1,5 @@
+Security_alarm - Score: 1.0
+Arthur_B._Guise_Medal - Score: 0.4596226
+Fire_Technology - Score: 0.4596226
+Active_fire_protection - Score: 0.44413874
+Fire_sprinkler_system - Score: 0.35494393

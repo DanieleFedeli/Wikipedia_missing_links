@@ -1,0 +1,6 @@
+Don_Larsen's_perfect_game - Score: 1.0
+Babe_Ruth's_called_shot - Score: 0.6017777
+Jeffrey_Maier - Score: 0.6017777
+MLB_at_Field_of_Dreams - Score: 0.5984392
+Curse_of_the_Bambino - Score: 0.3141673
+Yankees–Red_Sox_rivalry - Score: 0.3141673

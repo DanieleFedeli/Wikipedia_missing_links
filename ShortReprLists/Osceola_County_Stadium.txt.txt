@@ -1,0 +1,7 @@
+Osceola_County_Stadium - Score: 1.0
+2001_Houston_Astros_season - Score: 0.9042496
+2002_Houston_Astros_season - Score: 0.9042496
+2003_Houston_Astros_season - Score: 0.9042496
+Dominican_Summer_League_Astros - Score: 0.82146317
+1961_Major_League_Baseball_expansion_draft - Score: 0.79888314
+2005_Houston_Astros_season - Score: 0.42154258

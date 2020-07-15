@@ -1,0 +1,4 @@
+Nescafé_Basement - Score: 1.0
+Cracker_Jack - Score: 0.47370026
+Used_coffee_grounds - Score: 0.3584238
+Big_League_Chew - Score: 0.31745213

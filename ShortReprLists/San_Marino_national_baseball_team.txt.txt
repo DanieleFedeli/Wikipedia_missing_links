@@ -1,0 +1,6 @@
+San_Marino_national_baseball_team - Score: 1.0
+Georgia_national_baseball_team - Score: 0.5717335
+Cyprus_national_baseball_team - Score: 0.407025
+Moldova_national_baseball_team - Score: 0.407025
+Latvia_national_baseball_team - Score: 0.3783692
+Malta_national_baseball_team - Score: 0.30019462

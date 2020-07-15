@@ -1,0 +1,6 @@
+Bletting - Score: 1.0
+Shylock_(musical) - Score: 0.52793354
+Masque - Score: 0.3981193
+Othello_(ballet) - Score: 0.32657373
+Dream_of_a_Summer_Night - Score: 0.31868058
+The_Quarrel_of_Oberon_and_Titania - Score: 0.31868058

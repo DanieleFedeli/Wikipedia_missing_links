@@ -1,0 +1,7 @@
+Ostrovica_Fortress - Score: 1.0
+Dobra_Kuća - Score: 0.93296707
+Kamičak_Castle - Score: 0.92973584
+Pazin_Castle - Score: 0.92973584
+Tržan_Castle_in_Modruš - Score: 0.92973584
+Fortress_of_Klis - Score: 0.8195496
+Monkodonja - Score: 0.7469956

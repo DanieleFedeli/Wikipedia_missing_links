@@ -1,0 +1,7 @@
+Tetraconch - Score: 1.0
+Pendentive - Score: 0.4579328
+Whispering_gallery - Score: 0.39215356
+Onion_dome - Score: 0.38458118
+Squinch - Score: 0.34217563
+Tholobate - Score: 0.33582103
+Semi-dome - Score: 0.33102408

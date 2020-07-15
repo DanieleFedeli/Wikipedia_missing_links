@@ -1,0 +1,7 @@
+Balalaika - Score: 1.0
+Treshchotka - Score: 0.48895308
+Janzi_(musical_instrument) - Score: 0.47573626
+Spoon_(musical_instrument) - Score: 0.43093237
+Acoustic_bass_guitar - Score: 0.32319912
+Panduri - Score: 0.313861
+Mellophone - Score: 0.31193158

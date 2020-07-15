@@ -1,0 +1,7 @@
+Ruf_CTR - Score: 1.0
+Porsche_930 - Score: 0.43470255
+Porsche_964 - Score: 0.43470255
+Porsche_911_(classic) - Score: 0.33992916
+Porsche_991 - Score: 0.33787084
+Porsche_996 - Score: 0.33787084
+Porsche_997 - Score: 0.33787084

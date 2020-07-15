@@ -1,0 +1,5 @@
+Architecture_of_Israel - Score: 1.0
+Architecture_of_Taiwan - Score: 0.51539624
+Architecture_of_Thailand - Score: 0.39833337
+Proposals_for_a_Jewish_state - Score: 0.3860813
+Architecture_of_Lebanon - Score: 0.3749702

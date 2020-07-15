@@ -1,0 +1,7 @@
+Opera_house - Score: 1.0
+List_of_opera_houses - Score: 0.52379835
+Impresario - Score: 0.42609948
+Opera_seria - Score: 0.39280087
+Pasticcio - Score: 0.39280087
+Comic_opera - Score: 0.37890476
+Opera_buffa - Score: 0.34321117

@@ -1,0 +1,7 @@
+Sod - Score: 1.0
+Acre - Score: 0.88055056
+Asphalt - Score: 0.79744285
+Elevation - Score: 0.79744285
+Central_business_district - Score: 0.68962646
+Concrete - Score: 0.5842039
+Gravel - Score: 0.46470627

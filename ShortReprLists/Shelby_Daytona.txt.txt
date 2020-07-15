@@ -1,0 +1,3 @@
+Shelby_Daytona - Score: 1.0
+AC_Cobra - Score: 0.3694578
+Elva_(car_manufacturer) - Score: 0.3057524

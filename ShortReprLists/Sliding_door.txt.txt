@@ -1,0 +1,2 @@
+Sliding_door - Score: 1.0
+Garage_door - Score: 0.42257214

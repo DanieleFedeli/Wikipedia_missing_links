@@ -1,0 +1,4 @@
+Galt_House - Score: 1.0
+Ford_Piquette_Avenue_Plant - Score: 0.4020097
+Edsel_and_Eleanor_Ford_House - Score: 0.32630682
+Renaissance_Center - Score: 0.31531414

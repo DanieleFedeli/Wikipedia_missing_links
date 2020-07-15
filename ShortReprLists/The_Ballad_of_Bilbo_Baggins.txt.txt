@@ -1,0 +1,6 @@
+The_Ballad_of_Bilbo_Baggins - Score: 1.0
+A_Walking_Song - Score: 0.31605536
+Bilbo's_Last_Song - Score: 0.31605536
+Music_of_The_Hobbit_film_series - Score: 0.31605536
+The_Road_Goes_Ever_On - Score: 0.31605536
+Poems_and_Songs_of_Middle_Earth - Score: 0.30503684

@@ -1,0 +1,3 @@
+Town_of_district_significance - Score: 1.0
+Jewish_Autonomous_Oblast - Score: 0.5265354
+City_of_district_significance_(Ukraine) - Score: 0.34338138

@@ -1,0 +1,7 @@
+Drake_Field_(stadium) - Score: 1.0
+Carter_Blackburn - Score: 0.39346322
+Chris_Fowler - Score: 0.35297865
+Ron_Franklin - Score: 0.3424901
+Quigley_Stadium_(Little_Rock) - Score: 0.3335671
+Adam_Amin - Score: 0.33055001
+Ben_Holden - Score: 0.32179725

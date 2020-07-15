@@ -1,0 +1,7 @@
+WTA_125K_series - Score: 1.0
+WTA_Indian_Open - Score: 0.725096
+Hawaii_Tennis_Open - Score: 0.64180255
+Hua_Hin_Challenger - Score: 0.64180255
+Oracle_Challenger_Series_–_Chicago - Score: 0.64180255
+2019_Abierto_Zapopan - Score: 0.54784954
+2019_Karlsruhe_Open - Score: 0.54784954

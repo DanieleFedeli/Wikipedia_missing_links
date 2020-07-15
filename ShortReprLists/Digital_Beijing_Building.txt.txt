@@ -1,0 +1,6 @@
+Digital_Beijing_Building - Score: 1.0
+Hutong - Score: 0.8344307
+Siheyuan - Score: 0.45903674
+CCTV_Headquarters - Score: 0.41907638
+National_Tennis_Center,_Beijing - Score: 0.3859453
+Daguanyuan - Score: 0.3651881

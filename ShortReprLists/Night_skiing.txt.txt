@@ -1,0 +1,5 @@
+Night_skiing - Score: 1.0
+Ski_lodge - Score: 0.557755
+Car_orienteering - Score: 0.5210879
+Position_resection - Score: 0.5210879
+Wayfinding - Score: 0.5210879

@@ -1,0 +1,7 @@
+John_Thorn - Score: 1.0
+Bill_James - Score: 0.49179572
+Ban_Johnson - Score: 0.3898777
+Abraham_G._Mills - Score: 0.3195302
+Kenesaw_Mountain_Landis - Score: 0.31099665
+Lee_MacPhail - Score: 0.3082762
+Pete_Palmer - Score: 0.30575812

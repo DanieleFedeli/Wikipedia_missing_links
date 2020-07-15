@@ -1,0 +1,4 @@
+Photometry_(optics) - Score: 1.0
+Dimmer - Score: 0.5750998
+Available_light - Score: 0.38733163
+Phosphor - Score: 0.35275328

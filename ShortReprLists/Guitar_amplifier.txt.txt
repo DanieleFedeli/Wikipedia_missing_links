@@ -1,0 +1,6 @@
+Guitar_amplifier - Score: 1.0
+Bass_amplifier - Score: 0.40705547
+Distortion_(music) - Score: 0.3991776
+Carvin_Corporation - Score: 0.39218396
+Experimental_musical_instrument - Score: 0.3730439
+Tonewood - Score: 0.3515691

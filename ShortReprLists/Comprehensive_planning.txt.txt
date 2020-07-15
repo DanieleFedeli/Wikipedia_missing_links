@@ -1,0 +1,5 @@
+Comprehensive_planning - Score: 1.0
+Transportation_planning - Score: 0.46275544
+Athens_Charter - Score: 0.40305728
+Growth_management - Score: 0.3025654
+Urban_freight_distribution - Score: 0.3025654

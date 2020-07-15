@@ -1,0 +1,7 @@
+Entropic_force - Score: 1.0
+Interatomic_potential - Score: 0.8240036
+Energy_conversion_efficiency - Score: 0.5384879
+Zero-point_energy - Score: 0.48228556
+Thermal_efficiency - Score: 0.42543384
+Heat_engine - Score: 0.35046804
+Load_profile - Score: 0.33020616

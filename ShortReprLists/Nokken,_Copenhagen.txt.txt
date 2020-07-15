@@ -1,0 +1,5 @@
+Nokken,_Copenhagen - Score: 1.0
+Ørestad - Score: 0.6172301
+Danish_Architecture_Centre - Score: 0.46609533
+Freetown_Christiania - Score: 0.46609533
+Architecture_of_Denmark - Score: 0.38301945

@@ -1,0 +1,6 @@
+Sefton_Park - Score: 1.0
+Canalside_Park - Score: 0.85896826
+Chavasse_Park - Score: 0.85896826
+Clarke's_Gardens - Score: 0.85896826
+Grant_Gardens - Score: 0.85896826
+Otterspool_Promenade - Score: 0.85896826

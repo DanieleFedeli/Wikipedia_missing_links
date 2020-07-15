@@ -1,0 +1,4 @@
+New_Zealand_Automobile_Association - Score: 1.0
+Almac_(automobile) - Score: 0.33936757
+Chevron_Engineering - Score: 0.33936757
+Fraser_Clubman - Score: 0.33936757

@@ -1,0 +1,5 @@
+Gamleborg - Score: 1.0
+Liselund - Score: 0.41466463
+Tennis_Club_Odense - Score: 0.31530902
+Danish_Architecture_Centre - Score: 0.3089877
+Rococo_architecture - Score: 0.30885628

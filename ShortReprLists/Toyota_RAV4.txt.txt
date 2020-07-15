@@ -1,0 +1,5 @@
+Toyota_RAV4 - Score: 1.0
+Toyota_Tacoma - Score: 0.47894812
+Toyota_Auris - Score: 0.35357627
+Toyota_Avensis - Score: 0.3339117
+Toyota_Yaris - Score: 0.3339117

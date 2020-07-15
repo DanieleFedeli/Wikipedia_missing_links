@@ -1,0 +1,6 @@
+500_home_run_club - Score: 1.0
+3,000_hit_club - Score: 0.64407665
+30–30_club - Score: 0.60052586
+List_of_Major_League_Baseball_career_home_run_leaders - Score: 0.33340472
+List_of_Major_League_Baseball_career_total_bases_leaders - Score: 0.33340472
+Hitting_streak - Score: 0.33253667

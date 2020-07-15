@@ -1,0 +1,7 @@
+Oshawa_Truck_Assembly - Score: 1.0
+St._Louis_Truck_Assembly - Score: 0.64784837
+Oakland_Assembly - Score: 0.6311863
+North_Tarrytown_Assembly - Score: 0.51849
+Norwood_Assembly - Score: 0.51849
+Van_Nuys_Assembly - Score: 0.34584033
+Framingham_Assembly - Score: 0.33418962

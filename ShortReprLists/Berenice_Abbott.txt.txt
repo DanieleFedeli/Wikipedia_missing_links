@@ -1,0 +1,7 @@
+Berenice_Abbott - Score: 1.0
+Our_Lady_of_the_Angels_School_fire - Score: 0.46510217
+Antoinette_Downing - Score: 0.4617188
+The_Awakening_(Chopin_novel) - Score: 0.45710823
+Cooperstown,_New_York - Score: 0.40931496
+The_Woman's_Building_(Chicago) - Score: 0.34182206
+Dictionary_of_Women_Artists - Score: 0.31403053

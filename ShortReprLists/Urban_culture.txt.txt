@@ -1,0 +1,7 @@
+Urban_culture - Score: 1.0
+Cultural_Bolshevism - Score: 0.7189828
+Cultural_radicalism - Score: 0.7189828
+Paradigmatic_analysis - Score: 0.49636084
+Social_stratification - Score: 0.46090236
+Urban_sociology - Score: 0.37887338
+Urban_anthropology - Score: 0.3623141

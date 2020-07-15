@@ -1,0 +1,6 @@
+Centring - Score: 1.0
+Arch - Score: 0.42759624
+Pavement_(architecture) - Score: 0.39343816
+Corbel_arch - Score: 0.38840282
+Masonry - Score: 0.35247645
+Tile - Score: 0.30949253

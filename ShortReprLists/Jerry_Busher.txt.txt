@@ -1,0 +1,7 @@
+Jerry_Busher - Score: 1.0
+Only_Crime - Score: 0.47381106
+Hazen_Street - Score: 0.38591272
+Side_project - Score: 0.3620504
+Split_album - Score: 0.3620504
+Jarrod_Alexander - Score: 0.34985358
+Man_or_Astro-man_ - Score: 0.3255576

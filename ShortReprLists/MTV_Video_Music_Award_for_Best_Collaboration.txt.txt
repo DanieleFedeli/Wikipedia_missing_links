@@ -1,0 +1,5 @@
+MTV_Video_Music_Award_for_Best_Collaboration - Score: 1.0
+MTV_Video_Music_Award_Japan_for_Best_Collaboration - Score: 0.55476373
+BET_Award_for_Best_Collaboration - Score: 0.36078042
+Without_Me_(Eminem_song) - Score: 0.34137607
+Redbone_(song) - Score: 0.34041107

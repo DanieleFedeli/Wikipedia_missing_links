@@ -1,0 +1,4 @@
+Gastropnir - Score: 1.0
+Mead_hall - Score: 1.0
+Temple_at_Uppsala - Score: 0.4665848
+Heathen_hof - Score: 0.37989408

@@ -1,0 +1,4 @@
+Cañeros_de_Los_Mochis - Score: 1.0
+Tomateros_de_Culiacán - Score: 0.921449
+Francisco_Estrada - Score: 0.3563548
+Houston_Jiménez - Score: 0.3563548

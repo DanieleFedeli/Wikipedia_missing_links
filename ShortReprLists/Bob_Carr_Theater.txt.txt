@@ -1,0 +1,4 @@
+Bob_Carr_Theater - Score: 1.0
+Beacham_Theatre - Score: 0.8985782
+Casino_Miami - Score: 0.8985782
+Orlando_Sports_Stadium - Score: 0.8985782

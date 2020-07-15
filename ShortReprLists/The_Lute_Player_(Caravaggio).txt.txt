@@ -1,0 +1,7 @@
+The_Lute_Player_(Caravaggio) - Score: 1.0
+Amor_Vincit_Omnia_(Caravaggio) - Score: 0.9470731
+The_Musicians_(Caravaggio) - Score: 0.47950232
+Saint_Cecilia_(Artemisia_Gentileschi) - Score: 0.35529944
+Self-Portrait_as_a_Lute_Player - Score: 0.35529944
+Flaying_of_Marsyas_(Titian) - Score: 0.3416633
+Venus_and_Musician - Score: 0.33087987

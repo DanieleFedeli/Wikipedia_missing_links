@@ -1,0 +1,5 @@
+American_cockroach - Score: 1.0
+German_cockroach - Score: 0.79629236
+Western_honey_bee - Score: 0.5729558
+Insects_in_music - Score: 0.47933677
+List_of_insect-inspired_songs - Score: 0.41792995

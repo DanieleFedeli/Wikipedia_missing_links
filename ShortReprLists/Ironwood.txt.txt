@@ -1,0 +1,5 @@
+Ironwood - Score: 1.0
+Afzelia - Score: 0.40604642
+Bamboo - Score: 0.4050588
+Milicia_excelsa - Score: 0.38698557
+Oak - Score: 0.37582284

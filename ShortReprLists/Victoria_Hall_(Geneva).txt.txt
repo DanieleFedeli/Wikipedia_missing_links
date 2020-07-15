@@ -1,0 +1,3 @@
+Victoria_Hall_(Geneva) - Score: 1.0
+Lausanne_Opera - Score: 0.3449578
+Conservatoire_de_Musique_de_Genève - Score: 0.3141665

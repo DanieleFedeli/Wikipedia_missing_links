@@ -1,0 +1,4 @@
+Memphis_Group - Score: 1.0
+American_Society_of_Interior_Designers - Score: 0.3691288
+Architectural_designer - Score: 0.353142
+Scandinavian_design - Score: 0.3470088

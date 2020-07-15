@@ -1,0 +1,4 @@
+BMI_Foundation - Score: 1.0
+List_of_Mariah_Carey_live_performances - Score: 0.36653656
+BMI_Awards - Score: 0.33668166
+Songwriters_Hall_of_Fame - Score: 0.33668166

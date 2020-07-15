@@ -1,0 +1,7 @@
+Food_desert - Score: 1.0
+Seed_saving - Score: 0.37733853
+Food_for_the_Hungry - Score: 0.3624714
+Food_security - Score: 0.3624714
+White_flight - Score: 0.3484218
+Deindustrialization - Score: 0.33456656
+Inner_city - Score: 0.33456656

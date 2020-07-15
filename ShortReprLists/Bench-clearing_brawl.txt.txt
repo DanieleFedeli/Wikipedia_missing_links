@@ -1,0 +1,6 @@
+Bench-clearing_brawl - Score: 1.0
+Ground_rule_double - Score: 0.5617216
+Scoring_position - Score: 0.5617216
+Unassisted_triple_play - Score: 0.4744483
+Squeeze_play_(baseball) - Score: 0.36918196
+Bat_flip - Score: 0.30254322

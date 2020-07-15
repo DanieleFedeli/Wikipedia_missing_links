@@ -1,0 +1,5 @@
+Bakersfield_sound - Score: 1.0
+Nashville_sound - Score: 0.62374264
+Progressive_country - Score: 0.4497126
+List_of_country_genres - Score: 0.3587779
+Indigenous_music_of_North_America - Score: 0.3269074

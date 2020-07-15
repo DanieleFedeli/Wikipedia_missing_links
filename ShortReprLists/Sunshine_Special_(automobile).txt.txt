@@ -1,0 +1,4 @@
+Sunshine_Special_(automobile) - Score: 1.0
+A_Guest_of_Honor_(opera) - Score: 0.5963921
+The_Capture_of_the_Hessians_at_Trenton,_December_26,_1776 - Score: 0.31646743
+SS-100-X - Score: 0.31470734

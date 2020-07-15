@@ -1,0 +1,7 @@
+Virtual_Light_Machine - Score: 1.0
+Neon_(light_synthesizer) - Score: 0.83894384
+Psychedelia_(light_synthesizer) - Score: 0.83894384
+Computer_graphics_lighting - Score: 0.427016
+Pong - Score: 0.426855
+Atari_Video_Music - Score: 0.37905034
+Tennis_for_Two - Score: 0.33976874

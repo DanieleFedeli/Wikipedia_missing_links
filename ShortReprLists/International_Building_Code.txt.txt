@@ -1,0 +1,4 @@
+International_Building_Code - Score: 1.0
+Building_code - Score: 0.42497584
+Occupancy - Score: 0.36378223
+Building_insulation - Score: 0.36276314

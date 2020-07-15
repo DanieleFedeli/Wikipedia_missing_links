@@ -1,0 +1,4 @@
+Glazing_(window) - Score: 1.0
+Stilts_(architecture) - Score: 0.41759938
+Glass_brick - Score: 0.40261552
+Display_window - Score: 0.30225343

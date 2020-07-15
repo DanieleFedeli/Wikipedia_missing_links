@@ -1,0 +1,4 @@
+Neon_(light_synthesizer) - Score: 1.0
+Psychedelia_(light_synthesizer) - Score: 1.0
+Virtual_Light_Machine - Score: 0.8402366
+Computer_graphics_lighting - Score: 0.35095328

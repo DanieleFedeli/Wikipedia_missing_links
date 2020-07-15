@@ -1,0 +1,6 @@
+Churches_in_Norway - Score: 1.0
+Stave_church - Score: 0.60097694
+Lectern - Score: 0.41072464
+Pulpit - Score: 0.41072464
+Building_material - Score: 0.36455607
+Groundbreaking - Score: 0.36455607

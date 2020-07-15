@@ -1,0 +1,6 @@
+Am_Rothenbaum - Score: 1.0
+1994_ATP_German_Open - Score: 0.7835617
+1968_German_Open_Championships - Score: 0.7827353
+1969_German_Open_Championships - Score: 0.7827353
+1970_German_Open_Championships - Score: 0.7827353
+Hardcourt - Score: 0.34687015

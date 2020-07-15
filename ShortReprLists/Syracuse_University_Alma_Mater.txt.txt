@@ -1,0 +1,4 @@
+Syracuse_University_Alma_Mater - Score: 1.0
+Syracuse_Baseball_Wall_of_Fame - Score: 0.53873974
+NBT_Bank_Stadium - Score: 0.43588546
+Governors'_Cup - Score: 0.33651724

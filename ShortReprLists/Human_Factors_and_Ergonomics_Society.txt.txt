@@ -1,0 +1,6 @@
+Human_Factors_and_Ergonomics_Society - Score: 1.0
+Banishment_room - Score: 0.54772335
+Take-home_vehicle - Score: 0.54772335
+Tennis_elbow - Score: 0.54772335
+Home_modifications - Score: 0.3579533
+Sick_building_syndrome - Score: 0.3458945

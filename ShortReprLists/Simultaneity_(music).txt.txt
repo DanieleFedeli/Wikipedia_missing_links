@@ -1,0 +1,4 @@
+Simultaneity_(music) - Score: 1.0
+Cadence - Score: 0.44438273
+Sequence_(music) - Score: 0.34935403
+Steps_and_skips - Score: 0.34523743

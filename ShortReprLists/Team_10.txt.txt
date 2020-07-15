@@ -1,0 +1,6 @@
+Team_10 - Score: 1.0
+Congrès_Internationaux_d'Architecture_Moderne - Score: 0.84187394
+Alison_and_Peter_Smithson - Score: 0.4213864
+Piloti - Score: 0.34217286
+Le_Corbusier - Score: 0.34095356
+Wassily_Chair - Score: 0.30939576

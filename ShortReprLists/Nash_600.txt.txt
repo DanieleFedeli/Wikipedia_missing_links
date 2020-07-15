@@ -1,0 +1,6 @@
+Nash_600 - Score: 1.0
+Nash_Ambassador - Score: 0.5980685
+Nash-Healey - Score: 0.5172829
+Nash_Rambler - Score: 0.44413948
+List_of_military_vehicles - Score: 0.36202717
+Hudson_Wasp - Score: 0.36043584

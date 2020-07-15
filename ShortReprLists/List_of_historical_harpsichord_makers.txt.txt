@@ -1,0 +1,6 @@
+List_of_historical_harpsichord_makers - Score: 1.0
+Square_piano - Score: 0.5917303
+Ralph_Kirkpatrick - Score: 0.46106288
+Clavichord - Score: 0.43378714
+Harpsichord - Score: 0.3433291
+Fortepiano - Score: 0.32019687

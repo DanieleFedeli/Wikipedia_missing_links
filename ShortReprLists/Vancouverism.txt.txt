@@ -1,0 +1,6 @@
+Vancouverism - Score: 1.0
+Dunbar–Southlands - Score: 0.89059114
+Hastings–Sunrise - Score: 0.68932015
+Kerrisdale - Score: 0.67266715
+Music_of_Vancouver - Score: 0.5250795
+BowMac_sign - Score: 0.31677526

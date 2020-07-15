@@ -1,0 +1,5 @@
+TipsArena_Linz - Score: 1.0
+Linz_Open - Score: 0.4405863
+Varvara_Lepchenko - Score: 0.35339773
+2016_WTA_Tour - Score: 0.3427988
+Barbora_Strýcová - Score: 0.3427988

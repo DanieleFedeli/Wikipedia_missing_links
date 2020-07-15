@@ -1,0 +1,6 @@
+Pitch_circularity - Score: 1.0
+Ear_training - Score: 0.8044681
+Tuning_fork - Score: 0.50992465
+Concert_pitch - Score: 0.50869083
+Electronic_tuner - Score: 0.49963036
+Playing_by_ear - Score: 0.34885252

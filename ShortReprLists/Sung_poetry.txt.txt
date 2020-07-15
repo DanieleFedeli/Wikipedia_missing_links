@@ -1,0 +1,6 @@
+Sung_poetry - Score: 1.0
+Generation_of_'27 - Score: 0.70635295
+Tom_Clark_(poet) - Score: 0.6999826
+New_York_School_(art) - Score: 0.51670915
+Modernist_poetry_in_English - Score: 0.39681244
+Menno_ter_Braak - Score: 0.3053135

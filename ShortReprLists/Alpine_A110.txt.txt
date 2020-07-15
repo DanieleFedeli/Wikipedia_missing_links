@@ -1,0 +1,6 @@
+Alpine_A110 - Score: 1.0
+Renault_Dauphine - Score: 0.7527218
+Renault_4CV - Score: 0.56308657
+Renault_Clio - Score: 0.5422941
+Renault_4 - Score: 0.3927952
+Renault_Caravelle - Score: 0.38163367

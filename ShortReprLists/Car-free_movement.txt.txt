@@ -1,0 +1,3 @@
+Car-free_movement - Score: 1.0
+Tiny_house_movement - Score: 0.61547726
+Transition_town - Score: 0.61547726

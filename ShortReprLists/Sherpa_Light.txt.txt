@@ -1,0 +1,5 @@
+Sherpa_Light - Score: 1.0
+Renault_Kerax - Score: 0.90081125
+Renault_Midlum - Score: 0.90081125
+Renault_Maxity - Score: 0.79688966
+Renault_Magnum - Score: 0.66387236

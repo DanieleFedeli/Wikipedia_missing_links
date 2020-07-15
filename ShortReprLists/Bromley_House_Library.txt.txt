@@ -1,0 +1,5 @@
+Bromley_House_Library - Score: 1.0
+Derby_Arboretum - Score: 0.44202513
+Civic_Trust_Awards - Score: 0.38425484
+Southampton_Guildhall - Score: 0.36551645
+Methodist_Central_Hall,_Birmingham - Score: 0.3389768

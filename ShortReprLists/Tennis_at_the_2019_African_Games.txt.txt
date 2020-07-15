@@ -1,0 +1,6 @@
+Tennis_at_the_2019_African_Games - Score: 1.0
+Baseball_at_the_Pan_American_Games - Score: 0.5671421
+Baseball_at_the_2010_South_American_Games - Score: 0.47986284
+Baseball_at_the_Asian_Games - Score: 0.46342787
+World_University_Baseball_Championship - Score: 0.3761486
+Baseball_at_the_World_Games - Score: 0.3676805

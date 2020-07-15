@@ -1,0 +1,3 @@
+Taman_Sari_(Yogyakarta) - Score: 1.0
+Merdeka_Palace - Score: 0.73944473
+Surau - Score: 0.3547802

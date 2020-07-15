@@ -1,0 +1,3 @@
+Journal_of_Urban_History - Score: 1.0
+Urban_history - Score: 0.7917432
+Urban_sociology - Score: 0.3551963

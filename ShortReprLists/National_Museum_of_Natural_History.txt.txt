@@ -1,0 +1,7 @@
+National_Museum_of_Natural_History - Score: 1.0
+Arts_and_Industries_Building - Score: 0.42483065
+American_Academy_in_Rome - Score: 0.3392463
+Arts_and_Crafts_Exhibition_Society - Score: 0.3392463
+Metropolitan_Museum_of_Art - Score: 0.32741934
+The_Course_of_Empire_(paintings) - Score: 0.32741934
+World's_Columbian_Exposition - Score: 0.31638914

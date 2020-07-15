@@ -1,0 +1,3 @@
+Caxirola - Score: 1.0
+Estadio_Pedro_Marrero - Score: 0.3578721
+North_Harbour_Stadium - Score: 0.3182572

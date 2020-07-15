@@ -1,0 +1,3 @@
+Smart_Forfour - Score: 1.0
+Smart_Roadster - Score: 0.740026
+Smart_Fortwo - Score: 0.7156517

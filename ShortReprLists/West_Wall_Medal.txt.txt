@@ -1,0 +1,5 @@
+West_Wall_Medal - Score: 1.0
+List_of_architecture_awards - Score: 0.46331573
+People's_Architect_of_the_USSR - Score: 0.46331573
+Chevron_(insignia) - Score: 0.32013136
+Wreath - Score: 0.30112347

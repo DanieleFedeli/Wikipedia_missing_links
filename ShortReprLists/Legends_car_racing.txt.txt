@@ -1,0 +1,6 @@
+Legends_car_racing - Score: 1.0
+Late_model - Score: 0.80799633
+Modified_stock_car_racing - Score: 0.57788277
+KF2 - Score: 0.36990514
+Formula_Libre - Score: 0.36327136
+Next_Generation_Touring_Car - Score: 0.35531485

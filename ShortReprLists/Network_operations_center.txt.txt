@@ -1,0 +1,7 @@
+Network_operations_center - Score: 1.0
+Central_apparatus_room - Score: 0.6783209
+Transmission_control_room - Score: 0.6783209
+Changing_room - Score: 0.55931586
+Data_center - Score: 0.34532714
+Henry_Sutton_(inventor) - Score: 0.33369368
+Room_641A - Score: 0.32281852

@@ -1,0 +1,6 @@
+Garden - Score: 1.0
+Greenhouse - Score: 0.48862386
+Plant_nursery - Score: 0.48319405
+Orchard - Score: 0.38886946
+Hardiness_(plants) - Score: 0.37622756
+Rock_garden - Score: 0.3036532

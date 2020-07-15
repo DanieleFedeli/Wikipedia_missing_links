@@ -1,0 +1,6 @@
+Holden_Premier - Score: 1.0
+Holden_Apollo - Score: 0.52772707
+Holden_Brougham - Score: 0.48844144
+Holden_Special - Score: 0.4555321
+Holden_Rodeo - Score: 0.4406862
+Holden_Captiva - Score: 0.3873649

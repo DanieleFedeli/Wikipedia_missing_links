@@ -1,0 +1,5 @@
+Quilapayún - Score: 1.0
+Víctor_Jara - Score: 0.7627394
+Daniel_Viglietti - Score: 0.65636027
+Los_Prisioneros - Score: 0.37053466
+Occupation_of_Araucanía - Score: 0.3146411

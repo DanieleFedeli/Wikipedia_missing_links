@@ -1,0 +1,6 @@
+1990_in_tennis - Score: 1.0
+1930_in_tennis - Score: 0.45719334
+1931_in_tennis - Score: 0.45719334
+2001_in_tennis - Score: 0.41235584
+2002_in_tennis - Score: 0.3697674
+William_H.G._FitzGerald_Tennis_Center - Score: 0.30599195

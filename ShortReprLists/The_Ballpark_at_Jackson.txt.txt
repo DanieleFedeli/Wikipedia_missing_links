@@ -1,0 +1,5 @@
+The_Ballpark_at_Jackson - Score: 1.0
+Smokies_Stadium - Score: 0.48315972
+Montgomery_Riverwalk_Stadium - Score: 0.39150843
+Admiral_Fetterman_Field - Score: 0.38000113
+Dutchess_Stadium - Score: 0.34267968

@@ -1,0 +1,4 @@
+Hanging_Gardens_of_Babylon - Score: 1.0
+Colossus_of_Rhodes - Score: 0.5992956
+Seven_Wonders_of_the_Ancient_World - Score: 0.5992956
+Eighth_Wonder_of_the_World - Score: 0.57840264

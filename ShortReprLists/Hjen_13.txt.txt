@@ -1,0 +1,7 @@
+Højen_13 - Score: 1.0
+Aarhus_School_of_Architecture - Score: 0.82186717
+Coat_of_arms_of_Aarhus - Score: 0.82186717
+Dokk1 - Score: 0.82186717
+Danish_National_Exhibition_of_1909 - Score: 0.8118286
+Danish_Agency_for_Culture_and_Palaces - Score: 0.70315963
+Aalborghallen - Score: 0.3019734

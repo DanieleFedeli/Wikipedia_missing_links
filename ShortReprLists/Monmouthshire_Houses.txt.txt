@@ -1,0 +1,3 @@
+Monmouthshire_Houses - Score: 1.0
+John_Newman_(architectural_historian) - Score: 0.64269495
+Cement_render - Score: 0.5085763

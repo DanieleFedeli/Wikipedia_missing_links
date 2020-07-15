@@ -1,0 +1,5 @@
+Slumlord - Score: 1.0
+Slum_clearance - Score: 0.38118052
+Slum - Score: 0.36789158
+Inner_city - Score: 0.36760116
+Flophouse - Score: 0.34997547

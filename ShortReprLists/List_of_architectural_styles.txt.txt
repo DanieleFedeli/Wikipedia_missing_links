@@ -1,0 +1,6 @@
+List_of_architectural_styles - Score: 1.0
+Bristol_Byzantine - Score: 0.3819769
+Adam_style - Score: 0.37891084
+Napoleon_III_style - Score: 0.37209785
+Palazzo_style_architecture - Score: 0.3686602
+Neo-Mudéjar - Score: 0.32999915

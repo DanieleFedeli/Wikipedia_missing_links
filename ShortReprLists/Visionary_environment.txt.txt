@@ -1,0 +1,5 @@
+Visionary_environment - Score: 1.0
+Netlabel - Score: 0.92431384
+Cassette_culture - Score: 0.82593155
+ModPlug_Player - Score: 0.40316924
+Chiptune - Score: 0.32028514

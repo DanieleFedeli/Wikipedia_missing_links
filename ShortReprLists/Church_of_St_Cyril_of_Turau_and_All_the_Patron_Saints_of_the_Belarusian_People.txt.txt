@@ -1,0 +1,6 @@
+Church_of_St_Cyril_of_Turau_and_All_the_Patron_Saints_of_the_Belarusian_People - Score: 1.0
+Chickenshed - Score: 0.50164247
+All_Saints_Church,_Haggerston - Score: 0.41962683
+Coat_of_arms_of_the_London_Borough_of_Hackney - Score: 0.41962683
+Holy_Trinity_Church,_Dalston - Score: 0.41962683
+Brentwood_Cathedral - Score: 0.30267885

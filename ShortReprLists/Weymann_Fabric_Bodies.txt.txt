@@ -1,0 +1,6 @@
+Weymann_Fabric_Bodies - Score: 1.0
+Classic_Car_Club_of_America - Score: 0.3861786
+Sports_sedan - Score: 0.36529073
+E-segment - Score: 0.35338587
+F-segment - Score: 0.34223247
+Luxury_vehicle - Score: 0.34223247

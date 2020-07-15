@@ -1,0 +1,5 @@
+Hippodrome - Score: 1.0
+Byzantine_architecture - Score: 0.4506637
+Museum_of_Ancient_Greek,_Byzantine_and_Post-Byzantine_Musical_Instruments - Score: 0.41425577
+Arch_of_Galerius_and_Rotunda - Score: 0.36642626
+Byzantine_lyra - Score: 0.36642626

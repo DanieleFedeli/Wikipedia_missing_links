@@ -1,0 +1,4 @@
+Toyota_Prius - Score: 1.0
+Toyota_Prius_(XW30) - Score: 0.4166961
+Toyota_Camry - Score: 0.35811466
+Scion_xB - Score: 0.35482064

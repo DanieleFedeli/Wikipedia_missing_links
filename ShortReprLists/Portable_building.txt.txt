@@ -1,0 +1,5 @@
+Portable_building - Score: 1.0
+Portable_classroom - Score: 0.5496221
+Cafeteria - Score: 0.40474126
+Mezzanine - Score: 0.3494978
+Fire_escape - Score: 0.32671738

@@ -1,0 +1,6 @@
+Sarphatipark - Score: 1.0
+Vondelpark - Score: 1.0
+Westerpark_(park) - Score: 0.9151872
+Oosterpark_(Amsterdam) - Score: 0.8853611
+De_Meer_Stadion - Score: 0.34741852
+Het_Houten_Stadion - Score: 0.34741852

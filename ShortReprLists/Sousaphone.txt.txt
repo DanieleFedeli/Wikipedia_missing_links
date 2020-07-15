@@ -1,0 +1,6 @@
+Sousaphone - Score: 1.0
+Mellophone - Score: 0.7852338
+Drum_major_(marching_band) - Score: 0.40649146
+Majorette_(dancer) - Score: 0.38667423
+Peter_and_the_Wolf - Score: 0.3697719
+Color_guard_(flag_spinning) - Score: 0.32386747

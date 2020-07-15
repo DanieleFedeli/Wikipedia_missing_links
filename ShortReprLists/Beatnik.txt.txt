@@ -1,0 +1,4 @@
+Beatnik - Score: 1.0
+Psych-Out - Score: 0.5150326
+Clubbing_(subculture) - Score: 0.37023863
+Psychedelic_music - Score: 0.35562077

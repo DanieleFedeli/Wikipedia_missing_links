@@ -1,0 +1,7 @@
+Institute_of_Asian_Research - Score: 1.0
+Global_Urban_Research_Unit - Score: 0.36096087
+Pedestrian_Accessibility_and_Movement_Environment_Laboratory - Score: 0.34976178
+Classroom - Score: 0.33102542
+Computer_lab - Score: 0.33102542
+Urban_area - Score: 0.33102542
+Cafeteria - Score: 0.31948507

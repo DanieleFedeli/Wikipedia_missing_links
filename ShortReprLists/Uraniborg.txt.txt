@@ -1,0 +1,6 @@
+Kärnan - Score: 1.0
+Trolle-Ljungby_Castle - Score: 1.0
+Uraniborg - Score: 1.0
+Borgeby_Castle - Score: 0.9330707
+Herrevad_Abbey - Score: 0.6126379
+Liselund - Score: 0.57822996

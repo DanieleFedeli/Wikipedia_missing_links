@@ -1,0 +1,5 @@
+Aston_Martin_Vantage_GT4 - Score: 1.0
+Aston_Martin_Vantage_(2005) - Score: 0.8219045
+Aston_Martin_Vantage_GT2 - Score: 0.44449788
+Ginetta_G55 - Score: 0.3411779
+KTM_X-Bow - Score: 0.33435228

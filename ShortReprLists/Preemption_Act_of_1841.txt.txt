@@ -1,0 +1,7 @@
+Preemption_Act_of_1841 - Score: 1.0
+Desert_Land_Act - Score: 0.5335886
+Land_Ordinance_of_1785 - Score: 0.4593819
+Checkerboarding_(land) - Score: 0.45560995
+Land_run - Score: 0.36739475
+American_pioneers_to_the_Northwest_Territory - Score: 0.36152902
+Georgia_Land_Lotteries - Score: 0.35458642

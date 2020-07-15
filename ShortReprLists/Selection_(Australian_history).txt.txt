@@ -1,0 +1,4 @@
+Selection_(Australian_history) - Score: 1.0
+Medium-density_housing - Score: 0.5098822
+Activity_centre - Score: 0.37158117
+Group_Settlement_Scheme - Score: 0.34102803

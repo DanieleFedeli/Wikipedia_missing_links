@@ -1,0 +1,3 @@
+Outline_of_architecture - Score: 1.0
+Design - Score: 0.33577234
+Architectural_designer - Score: 0.3241269

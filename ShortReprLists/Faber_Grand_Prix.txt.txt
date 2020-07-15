@@ -1,0 +1,7 @@
+Faber_Grand_Prix - Score: 1.0
+1996_WTA_Tour - Score: 0.37626424
+1997_WTA_Tour - Score: 0.37626424
+1998_WTA_Tour - Score: 0.37626424
+1999_WTA_Tour - Score: 0.37626424
+2000_WTA_Tour - Score: 0.37626424
+Advanta_Championships_of_Philadelphia - Score: 0.32013467

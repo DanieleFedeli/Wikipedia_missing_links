@@ -1,0 +1,4 @@
+Red_Bull_X2010 - Score: 1.0
+Fittipaldi_EF7 - Score: 0.7269202
+Mercedes-Benz_AMG_Vision_Gran_Turismo - Score: 0.7269202
+SRT_Tomahawk - Score: 0.7269202

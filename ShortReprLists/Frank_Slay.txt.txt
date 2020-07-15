@@ -1,0 +1,6 @@
+Frank_Slay - Score: 1.0
+Johnny_B._Goode - Score: 0.33142516
+Rolling_Stone's_100_Greatest_Artists_of_All_Time - Score: 0.33142516
+Mick_Rock - Score: 0.31738538
+Rock_and_roll - Score: 0.3169672
+Rock's_Backpages - Score: 0.30591694

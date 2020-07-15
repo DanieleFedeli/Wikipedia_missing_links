@@ -1,0 +1,4 @@
+Curt_Smith_(author) - Score: 1.0
+Kingdome - Score: 0.31156373
+Riverfront_Stadium - Score: 0.3010677
+Three_Rivers_Stadium - Score: 0.3010677

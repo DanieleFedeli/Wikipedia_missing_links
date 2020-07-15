@@ -1,0 +1,4 @@
+Georgiana_Spencer,_Countess_Spencer - Score: 1.0
+Charles_Labelye - Score: 0.52294916
+Happy_Valley_set - Score: 0.39710537
+Highclere_Castle - Score: 0.31934932

@@ -1,0 +1,5 @@
+CNA_Arena_Akita - Score: 1.0
+Lixil_Group - Score: 0.40861398
+Arena - Score: 0.3625154
+Deutschlandhalle - Score: 0.34314477
+Repechage - Score: 0.30327147

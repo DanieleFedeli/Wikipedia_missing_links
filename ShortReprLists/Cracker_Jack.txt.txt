@@ -1,0 +1,4 @@
+Cracker_Jack - Score: 1.0
+Nescafé_Basement - Score: 0.5274338
+Used_coffee_grounds - Score: 0.38207632
+Masonry_oven - Score: 0.3100207

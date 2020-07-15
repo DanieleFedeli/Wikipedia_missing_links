@@ -1,0 +1,6 @@
+Reeves-Reed_Arboretum - Score: 1.0
+Morris_Canal - Score: 0.5036484
+Forest_Hill,_Newark,_New_Jersey - Score: 0.32537088
+Antebellum_architecture - Score: 0.30267707
+Heritage_Documentation_Programs - Score: 0.30267707
+Log_cabin - Score: 0.30267707

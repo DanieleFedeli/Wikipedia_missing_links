@@ -1,0 +1,3 @@
+Keycard_lock - Score: 1.0
+Slim_jim_(lock_pick) - Score: 1.0
+Dead_bolt - Score: 0.9096484

@@ -1,0 +1,6 @@
+Ginetta_G50 - Score: 1.0
+Ginetta_G55 - Score: 0.77369344
+Ginetta_G60-LT-P1 - Score: 0.6965466
+Ginetta_G40 - Score: 0.6259689
+Ginetta-Juno_P3-15 - Score: 0.47464392
+KTM_X-Bow - Score: 0.33184388

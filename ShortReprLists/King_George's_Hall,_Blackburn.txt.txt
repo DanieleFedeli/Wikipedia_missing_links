@@ -1,0 +1,3 @@
+King_George's_Hall,_Blackburn - Score: 1.0
+Singing_Ringing_Tree_(Panopticons) - Score: 0.49744847
+Canopy_(building) - Score: 0.30423087

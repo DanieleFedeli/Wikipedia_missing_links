@@ -1,0 +1,7 @@
+Ford_Model_T - Score: 1.0
+Ford_Crown_Victoria_Police_Interceptor - Score: 0.37890705
+Ford_Explorer - Score: 0.37890705
+Mercury_Cougar - Score: 0.32928318
+Ford_F-Series - Score: 0.30130708
+Ford_Crown_Victoria - Score: 0.3006638
+Ford_Expedition - Score: 0.3006638

@@ -1,0 +1,3 @@
+Design_Observer - Score: 1.0
+Graham_Foundation_for_Advanced_Studies_in_the_Fine_Arts - Score: 0.34455863
+Rhode_Island_School_of_Design - Score: 0.32687318

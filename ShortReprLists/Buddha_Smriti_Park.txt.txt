@@ -1,0 +1,7 @@
+Buddha_Smriti_Park - Score: 1.0
+Eco_Park,_Patna - Score: 0.88430333
+Hardinge_Park - Score: 0.72081226
+Tamasha - Score: 0.393693
+Architecture_of_Chennai - Score: 0.30347055
+Semmozhi_Poonga - Score: 0.30347055
+V._Sriram - Score: 0.30347055

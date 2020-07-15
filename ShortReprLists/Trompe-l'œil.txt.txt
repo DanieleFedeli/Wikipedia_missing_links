@@ -1,0 +1,7 @@
+Trompe-l'œil - Score: 1.0
+Ascending_and_Descending - Score: 0.6268178
+Penrose_stairs - Score: 0.6268178
+Schroeder_stairs - Score: 0.6268178
+Auditory_illusion - Score: 0.4009161
+Plafond - Score: 0.34360644
+Easel - Score: 0.30280304

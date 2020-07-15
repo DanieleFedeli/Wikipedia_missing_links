@@ -1,0 +1,6 @@
+AFAS_Live - Score: 1.0
+Cirque_Royal - Score: 0.43297598
+Rotown - Score: 0.36863708
+W2_Poppodium - Score: 0.36863708
+Concert_tour - Score: 0.34581593
+Headliner_(performances) - Score: 0.321309

@@ -1,0 +1,4 @@
+Lesbian_rule - Score: 1.0
+Spirit_level - Score: 0.5642899
+Hardwood - Score: 0.3707757
+Millwork_(building_material) - Score: 0.330357

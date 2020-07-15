@@ -1,0 +1,3 @@
+Seoul_Forest - Score: 1.0
+Dongdaemun_Design_Plaza - Score: 0.59479624
+Cheonggyecheon - Score: 0.41504157

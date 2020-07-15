@@ -1,0 +1,6 @@
+2009_NASCAR_Camping_World_West_Series - Score: 1.0
+2008_NASCAR_Camping_World_West_Series - Score: 0.88416135
+ARCA_Mobile_200 - Score: 0.44696498
+Nashville_ARCA_150 - Score: 0.44696498
+Bandolero_racing - Score: 0.37465638
+Toyota - Score: 0.35740122

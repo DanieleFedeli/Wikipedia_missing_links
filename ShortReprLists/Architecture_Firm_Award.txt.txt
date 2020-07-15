@@ -1,0 +1,5 @@
+Architecture_Firm_Award - Score: 1.0
+Twenty-five_Year_Award - Score: 0.63492817
+Thomas_Jefferson_Medal_in_Architecture - Score: 0.58932704
+AIA_Gold_Medal - Score: 0.41668043
+Royal_Gold_Medal - Score: 0.41668043

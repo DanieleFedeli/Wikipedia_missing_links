@@ -1,0 +1,7 @@
+Project_IC - Score: 1.0
+Architecture_of_Penang - Score: 0.49411634
+Stadthuys - Score: 0.48847556
+Architecture_of_France - Score: 0.38240188
+Architecture_of_Germany - Score: 0.38240188
+Architecture_of_the_Netherlands - Score: 0.38240188
+Architecture_of_the_United_Kingdom - Score: 0.38240188

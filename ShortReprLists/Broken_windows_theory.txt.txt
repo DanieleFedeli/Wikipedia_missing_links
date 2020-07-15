@@ -1,0 +1,6 @@
+Broken_windows_theory - Score: 1.0
+Crime_prevention_through_environmental_design - Score: 0.41123283
+Social_stratification - Score: 0.3797072
+Spatial_justice - Score: 0.37741685
+Social_capital - Score: 0.36646965
+Prison_cell - Score: 0.311906

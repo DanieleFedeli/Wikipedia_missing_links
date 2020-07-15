@@ -1,0 +1,7 @@
+British_Covered_Court_Championships - Score: 1.0
+A._Wallis_Myers - Score: 0.59955317
+World_Hard_Court_Championships - Score: 0.50870305
+World_Covered_Court_Championships - Score: 0.48128235
+Fred_Perry - Score: 0.37181526
+Bill_Tilden - Score: 0.3698521
+Budge_Patty - Score: 0.3698521

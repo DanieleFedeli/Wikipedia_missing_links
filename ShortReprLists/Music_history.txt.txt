@@ -1,0 +1,7 @@
+Music_history - Score: 1.0
+Doctor_of_Musical_Arts - Score: 0.40557384
+Music_appreciation - Score: 0.3970886
+Musicology - Score: 0.39085552
+Music_theory - Score: 0.39085552
+Music_education - Score: 0.3850241
+Master_of_Music - Score: 0.38324505

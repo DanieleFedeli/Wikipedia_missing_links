@@ -1,0 +1,7 @@
+Engineering,_procurement,_and_construction - Score: 1.0
+Bokpoort_CSP - Score: 0.46743885
+Musicians_United_for_Safe_Energy - Score: 0.36430123
+List_of_largest_power_stations_in_the_United_States - Score: 0.35899073
+Cogeneration - Score: 0.3520286
+List_of_largest_hydroelectric_power_stations - Score: 0.335193
+List_of_largest_power_stations - Score: 0.335193

@@ -1,0 +1,6 @@
+Micronization - Score: 1.0
+Plasticizer - Score: 0.52607906
+Polymer_science - Score: 0.36398864
+Thermoplastic - Score: 0.35274586
+Polycaprolactone - Score: 0.34086248
+Polyurethane - Score: 0.33914155

@@ -1,0 +1,5 @@
+Under_the_Greenwood_Tree - Score: 1.0
+The_Rotters'_Club_(novel) - Score: 0.38269243
+The_Commitments_(novel) - Score: 0.36845326
+William_Chappell_(writer) - Score: 0.32170457
+A_Clockwork_Orange_(novel) - Score: 0.3051225

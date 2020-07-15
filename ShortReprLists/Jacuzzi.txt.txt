@@ -1,0 +1,5 @@
+Jacuzzi - Score: 1.0
+Hot_tub - Score: 0.7217522
+Bathtub - Score: 0.5421793
+Nudity_in_music_videos - Score: 0.41268885
+Shower - Score: 0.30565852

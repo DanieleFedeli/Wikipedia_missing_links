@@ -1,0 +1,7 @@
+Formwork - Score: 1.0
+Concrete_slab - Score: 0.7830703
+Rebar - Score: 0.5463906
+Precast_concrete - Score: 0.54376924
+Concrete_masonry_unit - Score: 0.45869437
+Construction_aggregate - Score: 0.43933967
+Portland_cement - Score: 0.43072146

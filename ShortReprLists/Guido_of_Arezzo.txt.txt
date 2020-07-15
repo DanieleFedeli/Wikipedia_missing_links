@@ -1,0 +1,4 @@
+Guido_of_Arezzo - Score: 1.0
+Solmization - Score: 0.6547301
+Guidonian_hand - Score: 0.5982191
+Tonic_sol-fa - Score: 0.54494

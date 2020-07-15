@@ -1,0 +1,7 @@
+Vladimir_Shukhov - Score: 1.0
+Shukhov_Tower - Score: 0.74701387
+Gridshell - Score: 0.64094603
+Tensile_structure - Score: 0.62005746
+Thin-shell_structure - Score: 0.5410681
+List_of_Russian_opera_singers - Score: 0.3600202
+Eduardo_Torroja - Score: 0.34948024

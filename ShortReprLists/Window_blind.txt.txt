@@ -1,0 +1,2 @@
+Window_blind - Score: 1.0
+Roller_shutter - Score: 0.48286474

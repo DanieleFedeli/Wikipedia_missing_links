@@ -1,0 +1,5 @@
+Open_mic - Score: 1.0
+DMC_World_DJ_Championships - Score: 0.42263004
+Canadian_Music_Week - Score: 0.3870515
+Street_performance - Score: 0.367584
+Mark_Hartley - Score: 0.34840083

@@ -1,0 +1,6 @@
+Castellane - Score: 1.0
+Concours_des_villes_et_villages_fleuris - Score: 0.6576736
+Lavoir - Score: 0.64606124
+Rennes-le-Château - Score: 0.49227762
+List_of_medieval_bridges_in_France - Score: 0.44390133
+Giverny - Score: 0.35103476

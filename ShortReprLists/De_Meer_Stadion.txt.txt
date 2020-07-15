@@ -1,0 +1,6 @@
+De_Meer_Stadion - Score: 1.0
+Het_Houten_Stadion - Score: 1.0
+Alkmaarderhout - Score: 0.4686752
+Sarphatipark - Score: 0.36793762
+Vondelpark - Score: 0.36793762
+Aalto_University_Sports_Club - Score: 0.31515804

@@ -1,0 +1,5 @@
+Doctor_Faustus_(novel) - Score: 1.0
+Mephisto_Polka - Score: 0.48905364
+Mephisto_Waltzes - Score: 0.47453478
+Cross_Road_Blues - Score: 0.42016312
+The_Ground_Beneath_Her_Feet - Score: 0.32388824

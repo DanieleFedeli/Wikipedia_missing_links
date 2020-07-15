@@ -1,0 +1,7 @@
+Car_orienteering - Score: 1.0
+Position_resection - Score: 0.92526716
+Wayfinding - Score: 0.92526716
+Radio-controlled_car - Score: 0.6579584
+Rally_raid - Score: 0.6579584
+Sandboarding - Score: 0.6579584
+Night_skiing - Score: 0.54594916

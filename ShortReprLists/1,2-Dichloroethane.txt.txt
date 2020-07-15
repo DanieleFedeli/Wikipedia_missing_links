@@ -1,0 +1,4 @@
+1,2-Dichloroethane - Score: 1.0
+Adsorption - Score: 0.4574433
+Pyrolysis - Score: 0.32240194
+Diatomaceous_earth - Score: 0.30299005

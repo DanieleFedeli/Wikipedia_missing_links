@@ -1,0 +1,3 @@
+University_of_Oregon_College_of_Design - Score: 1.0
+The_Oregon_Experiment - Score: 0.8648418
+Weinhard_Brewery_Complex - Score: 0.3002324

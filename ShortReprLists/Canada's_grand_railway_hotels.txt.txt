@@ -1,0 +1,3 @@
+Canada's_grand_railway_hotels - Score: 1.0
+Château_Montebello - Score: 0.8409048
+Tyndall_stone - Score: 0.42503515

@@ -1,0 +1,3 @@
+Garage_door - Score: 1.0
+Pocket_door - Score: 0.4609369
+Sliding_door - Score: 0.38844714

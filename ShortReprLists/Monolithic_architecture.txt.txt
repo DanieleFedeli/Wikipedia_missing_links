@@ -1,0 +1,4 @@
+Monolithic_architecture - Score: 1.0
+Jamb - Score: 0.4853799
+Impost_(architecture) - Score: 0.37486252
+Venetian_window - Score: 0.30053732

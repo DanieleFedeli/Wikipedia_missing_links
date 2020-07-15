@@ -1,0 +1,5 @@
+John_Connor - Score: 1.0
+Ron_Cobb - Score: 0.43634444
+Terminator_(character) - Score: 0.37726098
+Godzilla_March - Score: 0.3046916
+H._R._Giger - Score: 0.30018488

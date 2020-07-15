@@ -1,0 +1,5 @@
+Thermoelectric_materials - Score: 1.0
+Electron_mobility - Score: 0.46925884
+Surface_states - Score: 0.36875296
+Ohmic_contact - Score: 0.35633034
+Electrical_resistivity_and_conductivity - Score: 0.35580495

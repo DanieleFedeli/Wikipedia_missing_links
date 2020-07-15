@@ -1,0 +1,7 @@
+Gonzalo_Márquez - Score: 1.0
+Horacio_Piña - Score: 0.6464976
+Manny_Trillo - Score: 0.4642675
+Bo_Díaz - Score: 0.4291361
+Vic_Davalillo - Score: 0.4133435
+Major_League_Baseball_Rookie_of_the_Year_Award - Score: 0.38040563
+Major_League_Baseball_Most_Valuable_Player_Award - Score: 0.36714372

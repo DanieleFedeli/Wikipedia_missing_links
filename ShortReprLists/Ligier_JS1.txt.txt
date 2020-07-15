@@ -1,0 +1,7 @@
+Ligier_JS1 - Score: 1.0
+Ligier_JS3 - Score: 1.0
+Ligier_JS4 - Score: 1.0
+Ligier_JS2 - Score: 0.60504526
+2017_FRD_LMP3_Series - Score: 0.4769745
+ADESS_AG - Score: 0.4769745
+Ginetta-Juno_P3-15 - Score: 0.4468664

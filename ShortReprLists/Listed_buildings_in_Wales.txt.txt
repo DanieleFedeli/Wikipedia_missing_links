@@ -1,0 +1,6 @@
+Listed_buildings_in_Wales - Score: 1.0
+Listed_buildings_in_England - Score: 0.8582451
+Planning_(Listed_Buildings_and_Conservation_Areas)_Act_1990 - Score: 0.7493789
+London_stock_brick - Score: 0.46861145
+Miners'_institute - Score: 0.35245568
+Ancient_monument - Score: 0.30352682

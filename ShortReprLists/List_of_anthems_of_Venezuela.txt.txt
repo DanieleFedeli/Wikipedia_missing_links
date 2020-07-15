@@ -1,0 +1,7 @@
+List_of_anthems_of_Venezuela - Score: 1.0
+Merck_toch_hoe_sterck - Score: 0.68403226
+List_of_national_anthems - Score: 0.6033197
+Honors_music - Score: 0.50525326
+List_of_U.S._state_songs - Score: 0.3896485
+Go,_Mississippi - Score: 0.3416325
+State_Anthem_of_the_Soviet_Union - Score: 0.30785426

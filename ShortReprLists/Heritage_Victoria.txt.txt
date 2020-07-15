@@ -1,0 +1,5 @@
+Heritage_Victoria - Score: 1.0
+Victorian_Heritage_Register - Score: 0.70458245
+Commonwealth_Heritage_List - Score: 0.46178365
+Federation_architecture - Score: 0.35660845
+Medium-density_housing - Score: 0.33131883

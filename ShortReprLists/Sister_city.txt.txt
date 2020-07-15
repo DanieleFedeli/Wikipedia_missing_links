@@ -1,0 +1,7 @@
+Sister_city - Score: 1.0
+Mahallah - Score: 0.54374915
+Quarter_(urban_subdivision) - Score: 0.54374915
+Merger_(politics) - Score: 0.53900146
+Shanty_town - Score: 0.46088293
+Neighbourhood - Score: 0.43739575
+Survey_township - Score: 0.35528046

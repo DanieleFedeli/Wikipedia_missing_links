@@ -1,0 +1,6 @@
+Yingzao_Fashi - Score: 1.0
+Architecture_of_the_Song_dynasty - Score: 0.6377561
+Tang_dynasty_art - Score: 0.6297714
+Chinese_pagoda - Score: 0.37404737
+Siheyuan - Score: 0.34782216
+Door_knocker - Score: 0.33998853

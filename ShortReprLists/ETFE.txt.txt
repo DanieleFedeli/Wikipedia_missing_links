@@ -1,0 +1,3 @@
+ETFE - Score: 1.0
+Building_implosion - Score: 0.30715725
+Manhattanization - Score: 0.30715725

@@ -1,0 +1,4 @@
+Sainsbury_Centre_for_Visual_Arts - Score: 1.0
+The_Waterfront,_Norwich - Score: 0.37610576
+Global_Urban_Research_Unit - Score: 0.3342244
+Pedestrian_Accessibility_and_Movement_Environment_Laboratory - Score: 0.322965

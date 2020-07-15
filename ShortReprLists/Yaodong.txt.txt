@@ -1,0 +1,5 @@
+Yaodong - Score: 1.0
+Subterranean_river - Score: 0.6004032
+Cave_survey - Score: 0.56577575
+Rock-cut_architecture - Score: 0.35169393
+Silex - Score: 0.3179644

@@ -1,0 +1,4 @@
+Vaughn_Street_Park - Score: 1.0
+Delta_Park - Score: 0.4671049
+Hare_Field - Score: 0.41972968
+St._Johns_Racquet_Center - Score: 0.41972968

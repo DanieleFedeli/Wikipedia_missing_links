@@ -1,0 +1,4 @@
+Porte-cochère - Score: 1.0
+Conservatory_(greenhouse) - Score: 0.8372032
+Undercroft - Score: 0.5270554
+Loggia - Score: 0.31283328

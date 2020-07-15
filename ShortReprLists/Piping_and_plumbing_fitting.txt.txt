@@ -1,0 +1,7 @@
+Piping_and_plumbing_fitting - Score: 1.0
+National_pipe_thread - Score: 0.694955
+Pipefitter - Score: 0.64382523
+ASTM_A795 - Score: 0.39626408
+Pipe_(fluid_conveyance) - Score: 0.38489273
+Tube_(fluid_conveyance) - Score: 0.37264785
+Piping - Score: 0.37192637

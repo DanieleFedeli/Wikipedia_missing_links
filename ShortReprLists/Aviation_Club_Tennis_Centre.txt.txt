@@ -1,0 +1,7 @@
+Aviation_Club_Tennis_Centre - Score: 1.0
+2000_WTA_Tour - Score: 0.3818434
+2001_WTA_Tour - Score: 0.3818434
+2002_WTA_Tour - Score: 0.3818434
+2003_WTA_Tour - Score: 0.3818434
+2004_WTA_Tour - Score: 0.3818434
+2003_in_tennis - Score: 0.36988533

@@ -1,0 +1,5 @@
+Muzak - Score: 1.0
+Jingle - Score: 0.47391853
+Elevator_music - Score: 0.45925298
+Easy_listening - Score: 0.39937726
+Adult_contemporary_music - Score: 0.32225713

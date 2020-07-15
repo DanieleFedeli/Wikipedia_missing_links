@@ -1,0 +1,5 @@
+Baseball_(TV_series) - Score: 1.0
+Horatio's_Drive__America's_First_Road_Trip - Score: 0.46867913
+Life_After_People - Score: 0.35129526
+David_Michael_Frank - Score: 0.34237698
+Tennis_on_HBO - Score: 0.34237698

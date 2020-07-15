@@ -1,0 +1,6 @@
+Victory_column - Score: 1.0
+List_of_ancient_spiral_stairs - Score: 0.38575098
+List_of_reservoirs_by_volume - Score: 0.3449185
+Socle_(architecture) - Score: 0.3052385
+List_of_ancient_Greek_and_Roman_roofs - Score: 0.30255523
+List_of_ancient_watermills - Score: 0.30255523

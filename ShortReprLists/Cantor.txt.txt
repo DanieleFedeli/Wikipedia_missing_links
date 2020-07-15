@@ -1,0 +1,6 @@
+Cantor - Score: 1.0
+Mechitza - Score: 0.38160458
+Torah_ark - Score: 0.37060255
+Bema - Score: 0.3576824
+Ambon_(liturgy) - Score: 0.35383773
+Candelabra - Score: 0.35383773

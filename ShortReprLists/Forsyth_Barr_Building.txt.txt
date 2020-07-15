@@ -1,0 +1,7 @@
+Forsyth_Barr_Building - Score: 1.0
+First_Four_Ships - Score: 0.48668736
+Hagley_Park,_Christchurch - Score: 0.4708261
+Heritage_New_Zealand - Score: 0.37909922
+Beehive_(New_Zealand) - Score: 0.3667443
+The_Scotsman_Hotel - Score: 0.32889757
+Hotel - Score: 0.30673766

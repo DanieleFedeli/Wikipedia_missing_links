@@ -1,0 +1,5 @@
+Linear_settlement - Score: 1.0
+Hatchlands_Park - Score: 0.6793596
+The_Undercroft,_Guildford - Score: 0.6793596
+Watts_Cemetery_Chapel - Score: 0.6793596
+Academy_of_Contemporary_Music - Score: 0.5738997

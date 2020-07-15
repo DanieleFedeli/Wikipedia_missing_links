@@ -1,0 +1,5 @@
+Australian_Academy_of_Science - Score: 1.0
+Kaunas_University_of_Technology - Score: 0.45399827
+Materials_physics - Score: 0.3794283
+Beamline - Score: 0.36664605
+University_House,_Australian_National_University - Score: 0.31122285

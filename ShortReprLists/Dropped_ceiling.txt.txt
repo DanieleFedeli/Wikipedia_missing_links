@@ -1,0 +1,6 @@
+Dropped_ceiling - Score: 1.0
+Centring - Score: 0.33821875
+Matthias_Gate - Score: 0.32204273
+Vault_(architecture) - Score: 0.31887665
+Blind_arcade - Score: 0.31181905
+Cultural_monument_(Czech_Republic) - Score: 0.30453607

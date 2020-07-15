@@ -1,0 +1,5 @@
+Vocal_learning - Score: 1.0
+Cynicism_(contemporary) - Score: 0.4492011
+Ecstasy_(emotion) - Score: 0.4492011
+Music_and_emotion - Score: 0.38006756
+Music_psychology - Score: 0.36086

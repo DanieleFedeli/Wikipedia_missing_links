@@ -1,0 +1,5 @@
+Walkway - Score: 1.0
+Tactile_paving - Score: 0.38099957
+Footbridge - Score: 0.31489393
+Kilometric_point - Score: 0.30392554
+Waiting_room - Score: 0.30392554

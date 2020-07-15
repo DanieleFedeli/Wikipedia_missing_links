@@ -1,0 +1,5 @@
+Houston_Music_Hall - Score: 1.0
+Hemmerleinhalle - Score: 0.39659464
+Riverside_Theater_(Milwaukee) - Score: 0.3263142
+Johnny_B._Goode - Score: 0.31111518
+Cal_Expo_Amphitheatre - Score: 0.30706128

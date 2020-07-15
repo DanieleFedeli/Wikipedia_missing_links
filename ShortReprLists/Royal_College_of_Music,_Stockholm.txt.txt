@@ -1,0 +1,7 @@
+Royal_College_of_Music,_Stockholm - Score: 1.0
+Royal_Danish_Academy_of_Music - Score: 0.52059263
+Nordic_Council_Music_Prize - Score: 0.44679472
+Royal_National_City_Park - Score: 0.4376774
+Djurgården - Score: 0.42386365
+Artistic_director_(music) - Score: 0.3289954
+International_Society_for_Contemporary_Music - Score: 0.30956814

@@ -1,0 +1,2 @@
+Airflow - Score: 1.0
+Degree_day - Score: 0.35804415

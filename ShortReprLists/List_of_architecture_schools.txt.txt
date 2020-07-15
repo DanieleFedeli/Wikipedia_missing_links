@@ -1,0 +1,7 @@
+List_of_architecture_schools - Score: 1.0
+List_of_Ramakrishna_Mission_institutions - Score: 0.90147346
+Council_of_Architecture - Score: 0.5828449
+Sri_Sri_University - Score: 0.49494302
+Maharishi_Vastu_Architecture - Score: 0.40305337
+Pakistan_Council_for_Architects_and_Town_Planners - Score: 0.40092456
+Chota_Imambara - Score: 0.39705712

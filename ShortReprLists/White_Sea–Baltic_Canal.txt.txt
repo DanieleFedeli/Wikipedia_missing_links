@@ -1,0 +1,5 @@
+White_Sea–Baltic_Canal - Score: 1.0
+Pantheon,_Moscow - Score: 0.59117264
+Forced_settlements_in_the_Soviet_Union - Score: 0.41301242
+Stalinist_architecture - Score: 0.33243722
+State_Anthem_of_the_Soviet_Union - Score: 0.321238

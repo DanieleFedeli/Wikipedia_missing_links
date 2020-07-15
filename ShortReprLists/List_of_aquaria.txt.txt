@@ -1,0 +1,4 @@
+List_of_aquaria - Score: 1.0
+List_of_zoos_by_country - Score: 0.6830982
+Bear_pit - Score: 0.5904607
+List_of_dolphinariums - Score: 0.5904607

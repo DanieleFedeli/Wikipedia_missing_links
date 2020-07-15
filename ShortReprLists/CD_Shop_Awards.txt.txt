@@ -1,0 +1,7 @@
+CD_Shop_Awards - Score: 1.0
+Space_Shower_TV - Score: 0.6810341
+Japan_Composer's_Association - Score: 0.58082485
+Japan_Music_Awards - Score: 0.58082485
+Japan_Record_Award_for_Best_New_Artist - Score: 0.58082485
+Space_Shower_Music_Awards - Score: 0.57754093
+Japanese_Society_for_Rights_of_Authors,_Composers_and_Publishers - Score: 0.32739544

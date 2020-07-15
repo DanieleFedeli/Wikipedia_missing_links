@@ -1,0 +1,7 @@
+Volkswagen_Type_3 - Score: 1.0
+Volkswagen_Karmann_Ghia - Score: 0.8282541
+Volkswagen_Type_4 - Score: 0.782256
+Volkswagen_K70 - Score: 0.4446698
+Volkswagen_air-cooled_engine - Score: 0.44243303
+Volkswagen_Pointer - Score: 0.3347288
+Volkswagen_Type_2 - Score: 0.3178807

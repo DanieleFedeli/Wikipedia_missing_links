@@ -1,0 +1,6 @@
+Big_brown_bat - Score: 1.0
+Common_vampire_bat - Score: 0.8484212
+Mexican_free-tailed_bat - Score: 0.6984908
+Lyle's_flying_fox - Score: 0.68675125
+Grey-headed_flying_fox - Score: 0.6819325
+Little_brown_bat - Score: 0.5184203

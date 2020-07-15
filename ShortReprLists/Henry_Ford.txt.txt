@@ -1,0 +1,7 @@
+Henry_Ford - Score: 1.0
+Edsel_Ford - Score: 0.8017632
+Ford_River_Rouge_Complex - Score: 0.615186
+Henry_M._Leland - Score: 0.5426496
+Ford_Piquette_Avenue_Plant - Score: 0.37377676
+Highland_Park_Ford_Plant - Score: 0.37377676
+Preston_Tucker - Score: 0.3717141

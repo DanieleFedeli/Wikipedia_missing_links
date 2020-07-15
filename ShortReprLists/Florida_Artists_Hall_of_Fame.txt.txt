@@ -1,0 +1,4 @@
+Florida_Artists_Hall_of_Fame - Score: 1.0
+American_Academy_in_Rome - Score: 0.46014798
+Milton_Glaser - Score: 0.3608677
+Black_Mountain_College - Score: 0.34363264

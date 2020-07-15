@@ -1,0 +1,7 @@
+2001_Japan_Series - Score: 1.0
+1995_Nippon_Professional_Baseball_season - Score: 0.5889946
+1978_Nippon_Professional_Baseball_season - Score: 0.5203757
+2001_Nippon_Professional_Baseball_season - Score: 0.38111946
+1992_Nippon_Professional_Baseball_season - Score: 0.37554723
+1993_Nippon_Professional_Baseball_season - Score: 0.37554723
+1997_Nippon_Professional_Baseball_season - Score: 0.37443453

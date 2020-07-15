@@ -1,0 +1,7 @@
+Nationality_Rooms - Score: 1.0
+Schenley_Plaza - Score: 0.5911919
+Mary_Schenley_Memorial_Fountain - Score: 0.55135965
+Schenley_Park - Score: 0.4978629
+University_of_Virginia_School_of_Architecture - Score: 0.38965955
+UPMC_Park - Score: 0.37696052
+The_Clemente_Museum - Score: 0.36535805

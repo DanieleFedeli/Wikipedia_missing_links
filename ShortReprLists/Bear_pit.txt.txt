@@ -1,0 +1,6 @@
+Bear_pit - Score: 1.0
+List_of_dolphinariums - Score: 0.81473446
+List_of_zoos_by_country - Score: 0.81473446
+List_of_aquaria - Score: 0.6059506
+Calderglen_Country_Park - Score: 0.38605645
+Roundhay_Park - Score: 0.31581783

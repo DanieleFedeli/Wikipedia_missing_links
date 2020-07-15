@@ -1,0 +1,4 @@
+Scion_tC - Score: 1.0
+Scion_xA - Score: 0.7980975
+Scion_xD - Score: 0.7980975
+Scion_xB - Score: 0.68824595

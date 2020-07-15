@@ -1,0 +1,6 @@
+Our_Lady_of_the_Angels_School_fire - Score: 1.0
+Berenice_Abbott - Score: 0.48954985
+Carlin_Glynn - Score: 0.36466888
+American_Academy_in_Rome - Score: 0.31264144
+Rome_Prize - Score: 0.31264144
+Rhode_Island_School_of_Design - Score: 0.30174196

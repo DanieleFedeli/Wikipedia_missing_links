@@ -1,0 +1,4 @@
+Onion_dome - Score: 1.0
+Squinch - Score: 0.4812964
+Semi-dome - Score: 0.46561086
+Tetraconch - Score: 0.4189344

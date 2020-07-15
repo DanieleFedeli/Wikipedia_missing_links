@@ -1,0 +1,6 @@
+Ancestral_houses_of_the_Philippines - Score: 1.0
+Laws_of_the_Indies - Score: 0.39878932
+Architecture_of_the_Philippines - Score: 0.37968403
+Adobe - Score: 0.31123197
+Bahay_Nakpil-Bautista - Score: 0.3077935
+Mission_San_Fernando_Rey_de_España - Score: 0.30074713

@@ -1,0 +1,7 @@
+Robert_Farah_(tennis) - Score: 1.0
+Dan_Evans_(tennis) - Score: 0.7960679
+Marcelo_Melo - Score: 0.62803525
+Marin_Čilić - Score: 0.4848145
+Milos_Raonic - Score: 0.4848145
+Richard_Gasquet - Score: 0.4848145
+Viktor_Troicki - Score: 0.4848145

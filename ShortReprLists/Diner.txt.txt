@@ -1,0 +1,2 @@
+Diner - Score: 1.0
+Drive-in_theater - Score: 0.43471342

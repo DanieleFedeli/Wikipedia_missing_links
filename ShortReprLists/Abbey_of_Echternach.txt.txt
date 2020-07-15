@@ -1,0 +1,6 @@
+Abbey_of_Echternach - Score: 1.0
+Ottonian_architecture - Score: 0.5485871
+List_of_Carolingian_monasteries - Score: 0.47461852
+Mosan_art - Score: 0.45738193
+Ulm_Minster - Score: 0.36264846
+Westwork - Score: 0.36264846

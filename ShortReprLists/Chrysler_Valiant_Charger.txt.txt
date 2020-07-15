@@ -1,0 +1,6 @@
+Chrysler_Valiant_Charger - Score: 1.0
+Chrysler_Valiant - Score: 0.6103971
+Rootes_Arrow - Score: 0.37650087
+Hillman_Avenger - Score: 0.3729806
+Mitsubishi_Galant_Lambda - Score: 0.36840308
+Mitsubishi_Starion - Score: 0.36840308

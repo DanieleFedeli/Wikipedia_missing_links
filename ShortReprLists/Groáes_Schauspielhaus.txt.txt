@@ -1,0 +1,4 @@
+Großes_Schauspielhaus - Score: 1.0
+Bruno_Taut - Score: 0.35672128
+Die_Aktion - Score: 0.34618315
+Arbeitsrat_für_Kunst - Score: 0.34470394

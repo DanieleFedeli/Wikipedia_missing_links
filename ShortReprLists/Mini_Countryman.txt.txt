@@ -1,0 +1,4 @@
+Mini_Countryman - Score: 1.0
+Olsbergs_MSE - Score: 0.661216
+Volkswagen_Polo_Mk5 - Score: 0.36401522
+Mini_Hatch - Score: 0.3403398

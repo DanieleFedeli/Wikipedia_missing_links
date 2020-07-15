@@ -1,0 +1,7 @@
+List_of_automobile_manufacturers - Score: 1.0
+List_of_horn_makers - Score: 0.48309043
+History_of_the_automobile - Score: 0.40354854
+List_of_revolving_restaurants - Score: 0.4005201
+Lists_of_record_labels - Score: 0.38655692
+List_of_dump_truck_manufacturers - Score: 0.38655692
+Automotive_industry_in_New_Zealand - Score: 0.37652966

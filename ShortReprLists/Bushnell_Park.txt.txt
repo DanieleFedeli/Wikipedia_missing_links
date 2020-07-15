@@ -1,0 +1,3 @@
+Bushnell_Park - Score: 1.0
+Xfinity_Theatre - Score: 0.3899244
+Dunkin'_Donuts_Park - Score: 0.342204

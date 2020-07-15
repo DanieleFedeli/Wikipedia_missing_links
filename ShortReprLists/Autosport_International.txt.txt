@@ -1,0 +1,4 @@
+Autosport_International - Score: 1.0
+Goodwood_Festival_of_Speed - Score: 0.4906014
+Aston_Martin - Score: 0.35310468
+Sports_car_racing - Score: 0.30039415

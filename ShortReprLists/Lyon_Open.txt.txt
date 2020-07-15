@@ -1,0 +1,6 @@
+Lyon_Open - Score: 1.0
+2020_Davis_Cup_Finals - Score: 0.63717973
+2020_ATP_Cup - Score: 0.50874704
+Laver_Cup - Score: 0.50874704
+2020_French_Open - Score: 0.39599204
+2020_Australian_Open - Score: 0.30538723

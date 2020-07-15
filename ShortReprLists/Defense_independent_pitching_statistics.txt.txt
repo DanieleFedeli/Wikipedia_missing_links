@@ -1,0 +1,7 @@
+Defense_independent_pitching_statistics - Score: 1.0
+Strikeout-to-walk_ratio - Score: 0.5643274
+Hold_(baseball) - Score: 0.5617585
+Adjusted_ERA+ - Score: 0.4696956
+Quality_start - Score: 0.40696564
+Range_factor - Score: 0.39012614
+Wins_Above_Replacement - Score: 0.38723344

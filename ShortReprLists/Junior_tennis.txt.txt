@@ -1,0 +1,5 @@
+Junior_tennis - Score: 1.0
+ATP_Rankings - Score: 0.4510047
+ATP_Tour - Score: 0.38031614
+Dead_rubber - Score: 0.3778451
+Paris_Masters - Score: 0.3591233

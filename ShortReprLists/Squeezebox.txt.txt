@@ -1,0 +1,6 @@
+Squeezebox - Score: 1.0
+Button_accordion - Score: 0.8313133
+Chromatic_button_accordion - Score: 0.8185213
+Digital_accordion - Score: 0.8185213
+Livenka_(music) - Score: 0.8185213
+Diatonic_button_accordion - Score: 0.36033922

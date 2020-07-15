@@ -1,0 +1,5 @@
+1997_Chennai_Open - Score: 1.0
+1997_Nottingham_Open - Score: 0.76785135
+1997_Romanian_Open - Score: 0.76785135
+1997_Estoril_Open - Score: 0.6739259
+1997_US_Open_(tennis) - Score: 0.31198567

@@ -1,0 +1,5 @@
+Dymaxion - Score: 1.0
+Fly's_Eye_Dome - Score: 0.9276544
+Geoscope - Score: 0.9276544
+Dymaxion_car - Score: 0.65093064
+Thin-shell_structure - Score: 0.32281762

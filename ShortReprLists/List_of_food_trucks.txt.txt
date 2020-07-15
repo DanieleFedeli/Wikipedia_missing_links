@@ -1,0 +1,7 @@
+List_of_food_trucks - Score: 1.0
+Tabun_oven - Score: 0.68025297
+Barbecue - Score: 0.5888824
+Tandoor - Score: 0.5857778
+Masonry_oven - Score: 0.50859296
+Barbecue_grill - Score: 0.48807144
+Wood-fired_oven - Score: 0.37672278

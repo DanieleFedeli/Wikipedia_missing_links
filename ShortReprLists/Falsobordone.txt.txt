@@ -1,0 +1,6 @@
+Falsobordone - Score: 1.0
+Meistersinger - Score: 0.9096687
+Reformation_Wall - Score: 0.9096687
+Verse_anthem - Score: 0.9096687
+Souterliedekens - Score: 0.90441597
+Luther_Monument - Score: 0.44815752

@@ -1,0 +1,7 @@
+Campeonato_Nacional_de_Velocidade - Score: 1.0
+List_of_TCR_Series_champions - Score: 1.0
+Super_Taikyu_Series - Score: 1.0
+SEAT_León - Score: 0.32127586
+Audi_A3 - Score: 0.30728626
+Volkswagen_Golf_Mk7 - Score: 0.30728626
+STCC_TCR_Scandinavia_Touring_Car_Championship - Score: 0.30263638

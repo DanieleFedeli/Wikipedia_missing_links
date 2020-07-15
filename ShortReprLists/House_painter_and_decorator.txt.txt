@@ -1,0 +1,3 @@
+House_painter_and_decorator - Score: 1.0
+Plasterer - Score: 0.43826845
+Drapery - Score: 0.3533105

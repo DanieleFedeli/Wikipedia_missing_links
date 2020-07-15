@@ -1,0 +1,3 @@
+Assar_Gabrielsson - Score: 1.0
+Royal_National_City_Park - Score: 0.34204724
+Djurgården - Score: 0.33125168

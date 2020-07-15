@@ -1,0 +1,6 @@
+Dunkin'_Donuts_Park - Score: 1.0
+Fiondella_Field - Score: 0.76968336
+Senator_Thomas_J._Dodd_Memorial_Stadium - Score: 0.5670773
+Muzzy_Field - Score: 0.37377518
+Joseph_L._Bruno_Stadium - Score: 0.36159378
+Edward_A._LeLacheur_Park - Score: 0.35978565

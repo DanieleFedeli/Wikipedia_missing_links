@@ -1,0 +1,3 @@
+Franklin_stove - Score: 1.0
+Lightning_rod - Score: 0.79541904
+United_States_Bicentennial_coinage - Score: 0.30435333

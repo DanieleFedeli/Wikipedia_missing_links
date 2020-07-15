@@ -1,0 +1,3 @@
+Lawrence_Hall,_London - Score: 1.0
+Beautification - Score: 0.30791995
+Veitch_Nurseries - Score: 0.30616572

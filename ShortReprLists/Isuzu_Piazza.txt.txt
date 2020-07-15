@@ -1,0 +1,3 @@
+Isuzu_Piazza - Score: 1.0
+Chevrolet_Corvette_(C4) - Score: 0.46254992
+Isuzu_Fargo - Score: 0.39026886

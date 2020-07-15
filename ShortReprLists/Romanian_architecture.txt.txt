@@ -1,0 +1,7 @@
+Romanian_architecture - Score: 1.0
+National_Register_of_Historic_Monuments_in_Romania - Score: 0.71612084
+Anghel_Saligny - Score: 0.69199604
+Brâncovenesc_style - Score: 0.5339406
+Nicolae_Iorga - Score: 0.5193998
+Eugen_Lovinescu - Score: 0.50247246
+Laslea - Score: 0.37448448

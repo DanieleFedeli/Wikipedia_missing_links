@@ -1,0 +1,4 @@
+Robb_Johnson - Score: 1.0
+Roy_Bailey_(folk_singer) - Score: 0.70309085
+Leon_Rosselson - Score: 0.6269228
+David_Rovics - Score: 0.44563806

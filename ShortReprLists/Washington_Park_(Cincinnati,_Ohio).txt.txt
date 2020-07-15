@@ -1,0 +1,4 @@
+Washington_Park_(Cincinnati,_Ohio) - Score: 1.0
+Lytle_Park_Historic_District - Score: 0.6775191
+Bellevue_Hill_Park - Score: 0.55845964
+Cincinnati_Union_Terminal - Score: 0.42526162

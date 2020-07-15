@@ -1,0 +1,3 @@
+Earthquake-resistant_structures - Score: 1.0
+Shear_wall - Score: 0.5567658
+Buckling - Score: 0.30621144

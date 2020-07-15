@@ -1,0 +1,4 @@
+Countertop - Score: 1.0
+Sink - Score: 0.48391902
+Bathtub - Score: 0.39431685
+Household_hardware - Score: 0.35783488

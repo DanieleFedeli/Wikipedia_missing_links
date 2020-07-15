@@ -1,0 +1,7 @@
+Albert_Fink - Score: 1.0
+James_P._Kirkwood - Score: 0.64120716
+Edward_G._Budd - Score: 0.3981324
+Charles_F._Kettering - Score: 0.38515723
+Willis_Carrier - Score: 0.37133253
+Conrad_L._Wirth - Score: 0.34582698
+Othmar_Ammann - Score: 0.30244216

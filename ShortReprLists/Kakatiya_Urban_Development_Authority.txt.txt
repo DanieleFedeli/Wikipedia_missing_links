@@ -1,0 +1,7 @@
+Kakatiya_Urban_Development_Authority - Score: 1.0
+Kakatiya_Kala_Thoranam - Score: 0.89412904
+Lumbini_Park - Score: 0.50927025
+NTR_Gardens - Score: 0.50927025
+Golconda_Fort - Score: 0.40127668
+Lala_Deen_Dayal - Score: 0.40127668
+Charminar - Score: 0.37424013
