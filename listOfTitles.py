@@ -1,5 +1,5 @@
 def returnTitles(filename):
-    blacklist = ['/', '&']
+    blacklist = ['/', '&', '"']
     fin = open(filename, "r", encoding = "utf-8")
     listOfTitles = []
     firstRow = fin.readline()
