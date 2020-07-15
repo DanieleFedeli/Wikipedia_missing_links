@@ -1,9 +1,20 @@
 Entity		Category		c-Similarity
 
+Official_(tennis)	Tennis terminology	0.06
+Maria_Pepe	Female baseball players	0.0
+SEAT_Arona	Seat vehicles	0.69
+Dodge_Coronet	Dodge vehicles	0.92
+Christmas_window	Christmas in the united kingdom	0.2
+Last.fm	Cbs radio stations	0.08
+Traditional_bluegrass	Bluegrass music	0.64
+OPTIMIZED ROUTINE
+
+Entity		Category		c-Similarity
+
 Official_(tennis)	Tennis	0.99
-Maria_Pepe	Baseball	1.0
-SEAT_Arona	Seat	1.0
+Maria_Pepe	League	1.0
+SEAT_Arona	Vehicles	1.0
 Dodge_Coronet	Dodge	1.0
 Christmas_window	Christmas	0.9
-Last.fm	Use	0.75
+Last.fm	Dates	0.75
 Traditional_bluegrass	Bluegrass	0.73

@@ -1,15 +1,15 @@
+from nltk.corpus import stopwords
 import requests
 import re
 import nltk
 nltk.download('stopwords')
 
-from nltk.corpus import stopwords
 
 WIKI_API_URL = "https://en.wikipedia.org/w/api.php"
 inputTitleRepr = './ShortReprLists'
 
 
-def retrieveCategoryFromJson(pages):
+def retrieveCategoryFromJson(pages, optimize=False):
     categories = []
     for k, v in pages.items():
 
@@ -25,14 +25,16 @@ def retrieveCategoryFromJson(pages):
                 continue
             if 'Wikidata' in titleCategory:
                 continue
-            splitted = re.findall(r"([A-Za-z]{3,})", titleCategory)
             categories.append(titleCategory)
-            categories.extend(x.capitalize() for x in splitted if x not in stopwords.words('english'))
-            
+            splitted = re.findall(r"([A-Za-z]{3,})", titleCategory)
+            if(optimize):
+                categories.extend(
+                    x.capitalize() for x in splitted if x not in stopwords.words('english'))
+
     return list(set(categories))
 
 
-def FindCategory(session, title):
+def FindCategory(session, title, optimize=False):
     category = []
     PARAMS = {
         "action": "query",
@@ -47,7 +49,7 @@ def FindCategory(session, title):
     data = response.json()
 
     pages = data['query']['pages']
-    category.extend(retrieveCategoryFromJson(pages))
+    category.extend(retrieveCategoryFromJson(pages, optimize))
 
     while "continue" in data:
 
@@ -56,7 +58,7 @@ def FindCategory(session, title):
         response = session.get(url=WIKI_API_URL, params=PARAMS)
         data = response.json()
         pages = data['query']['pages']
-        category.extend(retrieveCategoryFromJson(pages))
+        category.extend(retrieveCategoryFromJson(pages, optimize))
     return list(set(category))
 
 
@@ -72,27 +74,38 @@ def getAllBacklinksFromFile(filename):
     return (row_number, backlinks)
 
 
+def routine(session, title, optimize=False):
+    print('Processing {}...'.format(title))
+    categoryOfTitle = FindCategory(session, title, optimize)
+    dictOfCategories = {el.capitalize(): 0 for el in categoryOfTitle}
+    infoFromBacklinks = getAllBacklinksFromFile(title)
+    backlinksNumber = infoFromBacklinks[0]
+    backlinks = infoFromBacklinks[1]
+    for bl in backlinks:
+        blCategories = FindCategory(session, bl, optimize)
+        for cat in blCategories:
+
+            if cat.capitalize() in dictOfCategories:
+                #print('{} is in'.format(cat.capitalize()))
+
+                dictOfCategories[cat.capitalize()] += 1
+        # print('--------')
+    maxCat = max(dictOfCategories, key=dictOfCategories.get)
+    cSim = dictOfCategories[maxCat]/backlinksNumber
+    print('{}\t{}\t{}'.format(title, maxCat, round(cSim, 2)), file=f)
+
+
 session = requests.Session()
-titles = ['Official_(tennis)', 'Maria_Pepe', 'SEAT_Arona','Dodge_Coronet','Christmas_window', 'Last.fm','Traditional_bluegrass']
+titles = ['Official_(tennis)', 'Maria_Pepe', 'SEAT_Arona', 'Dodge_Coronet',
+          'Christmas_window', 'Last.fm', 'Traditional_bluegrass']
 
 with open('output.txt', 'w') as f:
     print('Entity\t\tCategory\t\tc-Similarity\n', file=f)
     for title in titles:
-        print('Processing {}...'.format(title))
-        categoryOfTitle = FindCategory(session, title)
-        dictOfCategories = {el.capitalize(): 0 for el in categoryOfTitle}
-        infoFromBacklinks = getAllBacklinksFromFile(title)
-        backlinksNumber = infoFromBacklinks[0]
-        backlinks = infoFromBacklinks[1]
-        for bl in backlinks:
-            blCategories = FindCategory(session, bl)
-            for cat in blCategories:
+        routine(session, title)
 
-                if cat.capitalize() in dictOfCategories:
-                    #print('{} is in'.format(cat.capitalize()))
-                    
-                    dictOfCategories[cat.capitalize()] += 1
-            #print('--------')
-        maxCat = max(dictOfCategories, key=dictOfCategories.get)
-        cSim = dictOfCategories[maxCat]/backlinksNumber
-        print('{}\t{}\t{}'.format(title, maxCat, round(cSim, 2)), file=f)
+    print('\nOPTIMIZED ROUTINE\n', file=f)
+
+    print('Entity\t\tCategory\t\tc-Similarity\n', file=f)
+    for title in titles:
+        routine(session, title, True)
