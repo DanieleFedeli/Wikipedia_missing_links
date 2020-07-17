@@ -9,7 +9,7 @@ WIKI_API_URL = "https://en.wikipedia.org/w/api.php"
 inputTitleRepr = './ShortReprLists'
 
 
-def retrieveCategoryFromJson(pages, optimize=False):
+def retrieveCategoryFromJson(pages):
     categories = []
     for k, v in pages.items():
 
@@ -26,15 +26,11 @@ def retrieveCategoryFromJson(pages, optimize=False):
             if 'Wikidata' in titleCategory:
                 continue
             categories.append(titleCategory)
-            splitted = re.findall(r"([A-Za-z]{3,})", titleCategory)
-            if(optimize):
-                categories.extend(
-                    x.capitalize() for x in splitted if x not in stopwords.words('english'))
 
     return list(set(categories))
 
 
-def FindCategory(session, title, optimize=False):
+def FindCategory(session, title):
     category = []
     PARAMS = {
         "action": "query",
@@ -49,7 +45,7 @@ def FindCategory(session, title, optimize=False):
     data = response.json()
 
     pages = data['query']['pages']
-    category.extend(retrieveCategoryFromJson(pages, optimize))
+    category.extend(retrieveCategoryFromJson(pages))
 
     while "continue" in data:
 
@@ -58,7 +54,7 @@ def FindCategory(session, title, optimize=False):
         response = session.get(url=WIKI_API_URL, params=PARAMS)
         data = response.json()
         pages = data['query']['pages']
-        category.extend(retrieveCategoryFromJson(pages, optimize))
+        category.extend(retrieveCategoryFromJson(pages))
     return list(set(category))
 
 
@@ -74,15 +70,15 @@ def getAllBacklinksFromFile(filename):
     return (row_number, backlinks)
 
 
-def routine(session, title, optimize=False):
+def routine(session, title):
     print('Processing {}...'.format(title))
-    categoryOfTitle = FindCategory(session, title, optimize)
+    categoryOfTitle = FindCategory(session, title)
     dictOfCategories = {el.capitalize(): 0 for el in categoryOfTitle}
     infoFromBacklinks = getAllBacklinksFromFile(title)
     backlinksNumber = infoFromBacklinks[0]
     backlinks = infoFromBacklinks[1]
     for bl in backlinks:
-        blCategories = FindCategory(session, bl, optimize)
+        blCategories = FindCategory(session, bl)
         for cat in blCategories:
 
             if cat.capitalize() in dictOfCategories:
@@ -103,9 +99,3 @@ with open('output.txt', 'w') as f:
     print('Entity\t\tCategory\t\tc-Similarity\n', file=f)
     for title in titles:
         routine(session, title)
-
-    print('\nOPTIMIZED ROUTINE\n', file=f)
-
-    print('Entity\t\tCategory\t\tc-Similarity\n', file=f)
-    for title in titles:
-        routine(session, title, True)
